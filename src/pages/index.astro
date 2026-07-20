@@ -6,6 +6,7 @@ import PropertyBlock from '../components/PropertyBlock.astro';
 import PropertyCarousel from '../components/PropertyCarousel.astro';
 import data from '../data/site-data.json';
 import feedNews from '../data/feed-news.json';
+import { withBase } from '../utils/paths';
 import propertyFeed from '../data/property-feed.json';
 
 const posts = data.posts;
@@ -65,24 +66,24 @@ const verifiedProperties = (propertyFeed.items || []).filter((p: any) => p.avail
     </div>
   </section>
 
-  <section class="section-wrap"><div class="section-head"><h2>Nejoblíbenější destinace</h2><a href="/category/nejoblibenejsi-destinace/">Prohlédnout →</a></div><div class="grid gap-8 md:grid-cols-3">{destinations.map((p) => <PostCard post={p} />)}</div></section>
+  <section class="section-wrap"><div class="section-head"><h2>Nejoblíbenější destinace</h2><a href={withBase('/category/nejoblibenejsi-destinace/')}>Prohlédnout →</a></div><div class="grid gap-8 md:grid-cols-3">{destinations.map((p) => <PostCard post={p} />)}</div></section>
 
-  <section class="section-wrap"><div class="section-head"><h2>Historie Bulharska</h2><a href="/category/historie-bulharska/">Dozvědět se více →</a></div><div class="grid gap-6 md:grid-cols-2">{history.map((p) => <PostCard post={p} overlay variant="hero" />)}</div></section>
+  <section class="section-wrap"><div class="section-head"><h2>Historie Bulharska</h2><a href={withBase('/category/historie-bulharska/')}>Dozvědět se více →</a></div><div class="grid gap-6 md:grid-cols-2">{history.map((p) => <PostCard post={p} overlay variant="hero" />)}</div></section>
 
   <section class="section-wrap"><AdSlot type="wide" label="ADS banner / prostor pro reklamu" /></section>
 
-  <section class="section-wrap"><div class="section-head"><h2>Cestovní průvodce</h2><a href="/category/cestovni-pruvodce/">Více článků →</a></div><div class="grid gap-8 md:grid-cols-3">{guide.map((p) => <PostCard post={p} variant="text" />)}</div></section>
+  <section class="section-wrap"><div class="section-head"><h2>Cestovní průvodce</h2><a href={withBase('/category/cestovni-pruvodce/')}>Více článků →</a></div><div class="grid gap-8 md:grid-cols-3">{guide.map((p) => <PostCard post={p} variant="text" />)}</div></section>
 
   <PropertyBlock />
 
   <section class="section-wrap grid gap-10 lg:grid-cols-2">
-    <div><div class="section-head"><h2>Tipy na výlety</h2><a href="/category/tipy-na-vylety/">Inspirovat se →</a></div><div class="grid gap-6">{trips.map((p) => <PostCard post={p} variant="text" />)}</div></div>
-    <div><div class="section-head"><h2>Praktické tipy</h2><a href="/category/prakticke-tipy/">Více článků →</a></div><div class="grid gap-6">{practical.map((p) => <PostCard post={p} variant="text" />)}</div></div>
+    <div><div class="section-head"><h2>Tipy na výlety</h2><a href={withBase('/category/tipy-na-vylety/')}>Inspirovat se →</a></div><div class="grid gap-6">{trips.map((p) => <PostCard post={p} variant="text" />)}</div></div>
+    <div><div class="section-head"><h2>Praktické tipy</h2><a href={withBase('/category/prakticke-tipy/')}>Více článků →</a></div><div class="grid gap-6">{practical.map((p) => <PostCard post={p} variant="text" />)}</div></div>
   </section>
 
-  <section class="section-wrap"><div class="border border-line bg-white p-7 shadow-soft md:flex md:items-center md:justify-between"><div><p class="text-sm font-black uppercase tracking-[.18em] text-rosebrand">Redakce</p><h2 class="mt-2 text-3xl font-black">Pošlete nám článek nebo cestopis</h2><p class="mt-2 text-plum/70">Máte zážitek z Bulharska? Podělte se s ostatními cestovateli.</p></div><a href="/kontakt/" class="btn-outline mt-6 inline-block md:mt-0">Poslat článek</a></div></section>
+  <section class="section-wrap"><div class="border border-line bg-white p-7 shadow-soft md:flex md:items-center md:justify-between"><div><p class="text-sm font-black uppercase tracking-[.18em] text-rosebrand">Redakce</p><h2 class="mt-2 text-3xl font-black">Pošlete nám článek nebo cestopis</h2><p class="mt-2 text-plum/70">Máte zážitek z Bulharska? Podělte se s ostatními cestovateli.</p></div><a href={withBase('/kontakt/')} class="btn-outline mt-6 inline-block md:mt-0">Poslat článek</a></div></section>
 
-  <section class="section-wrap"><div class="section-head"><h2>Kultura a tradice</h2><a href="/category/kultura-a-tradice/">Všechny články →</a></div><div class="grid gap-6 md:grid-cols-2">{culture.map((p) => <PostCard post={p} overlay variant="hero" />)}</div></section>
+  <section class="section-wrap"><div class="section-head"><h2>Kultura a tradice</h2><a href={withBase('/category/kultura-a-tradice/')}>Všechny články →</a></div><div class="grid gap-6 md:grid-cols-2">{culture.map((p) => <PostCard post={p} overlay variant="hero" />)}</div></section>
 
   <section class="section-wrap"><div class="newsletter-box md:flex md:items-center md:justify-between md:gap-8"><div><p class="text-4xl">✈</p><h2 class="mt-2 text-3xl font-black">Zaregistrujte se k odběru</h2><p class="mt-2 text-plum/70">Novinky, tipy a inspirace z Bulharska bez zbytečného spamu.</p></div><form class="mt-6 grid w-full gap-3 sm:flex md:mt-0 md:max-w-md"><input class="newsletter-input" placeholder="E-mail" type="email"/><button class="newsletter-btn">Odeslat</button></form></div></section>
 </BaseLayout>

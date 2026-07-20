@@ -2,6 +2,7 @@
 import '../styles/global.css';
 import data from '../data/site-data.json';
 import AdSlot from '../components/AdSlot.astro';
+import { canonicalUrl, withBase } from '../utils/paths';
 
 interface Props {
   title?: string;
@@ -22,6 +23,7 @@ const nav = [
 const footerPosts = data.posts.slice(0, 5);
 const today = new Date().toLocaleDateString('cs-CZ', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
 const cleanTitle = (value: string) => value.replace(/[\u{1F300}-\u{1FAFF}\u2600-\u27BF\uFE0F]+/gu, '').replace(/\s+/g, ' ').trim();
+const homeUrl = withBase('/');
 ---
 <!doctype html>
 <html lang="cs">
@@ -30,11 +32,11 @@ const cleanTitle = (value: string) => value.replace(/[\u{1F300}-\u{1FAFF}\u2600-
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
     <meta name="description" content={description} />
-    <link rel="canonical" href={`https://visitbulharsko.cz${canonical}`} />
+    <link rel="canonical" href={canonicalUrl(canonical)} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:image" content={image} />
-    <link rel="icon" href="/uploads/2023/07/cropped-Visit-Bulharsko-1-157x64.png" />
+    <meta property="og:image" content={withBase(image)} />
+    <link rel="icon" href={withBase('/uploads/2023/07/cropped-Visit-Bulharsko-1-157x64.png')} />
     <script is:inline async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5857769079063765" crossorigin="anonymous"></script>
   </head>
   <body class="bg-blush text-ink antialiased">
@@ -48,14 +50,14 @@ const cleanTitle = (value: string) => value.replace(/[\u{1F300}-\u{1FAFF}\u2600-
       </div>
       <div class="mx-auto max-w-7xl px-5 py-4">
         <div class="grid grid-cols-3 items-center gap-4">
-          <a href="/" aria-label="Vyhledávání" class="flex h-10 w-10 items-center justify-center border border-line bg-blush text-xl text-plum transition hover:border-rosebrand hover:text-rosebrand">⌕</a>
-          <a href="/" class="flex justify-center">
-            <img src="/uploads/2023/07/cropped-Visit-Bulharsko-1.png" alt="Visit Bulharsko" class="h-14 w-auto object-contain md:h-16" />
+          <a href={homeUrl} aria-label="Vyhledávání" class="flex h-10 w-10 items-center justify-center border border-line bg-blush text-xl text-plum transition hover:border-rosebrand hover:text-rosebrand">⌕</a>
+          <a href={homeUrl} class="flex justify-center">
+            <img src={withBase('/uploads/2023/07/cropped-Visit-Bulharsko-1.png')} alt="Visit Bulharsko" class="h-14 w-auto object-contain md:h-16" />
           </a>
           <div class="flex justify-end"><a href="#newsletter" class="btn-outline">Newsletter</a></div>
         </div>
         <nav class="mt-4 flex flex-wrap justify-center gap-x-6 gap-y-2 border-y border-line bg-white/45 py-3 text-[13px] font-black uppercase tracking-wide text-plum md:text-[13px]" aria-label="Hlavní navigace webu">
-          {nav.map((n) => <a class="hover:text-rosebrand" href={n.href}>{n.label}</a>)}
+          {nav.map((n) => <a class="hover:text-rosebrand" href={withBase(n.href)}>{n.label}</a>)}
         </nav>
       </div>
     </header>
@@ -65,18 +67,18 @@ const cleanTitle = (value: string) => value.replace(/[\u{1F300}-\u{1FAFF}\u2600-
     <footer class="mt-16 border-t border-line bg-blush">
       <div class="mx-auto max-w-7xl px-5 py-12">
         <div class="grid gap-8 lg:grid-cols-[260px_1fr] lg:items-center">
-          <a href="/"><img src="/uploads/2023/07/cropped-Visit-Bulharsko-1.png" alt="Visit Bulharsko" class="h-16 w-auto" /></a>
+          <a href={homeUrl}><img src={withBase('/uploads/2023/07/cropped-Visit-Bulharsko-1.png')} alt="Visit Bulharsko" class="h-16 w-auto" /></a>
           <div class="grid gap-4 md:grid-cols-5">
-            {footerPosts.map((p) => <a href={p.path} class="group border border-line bg-white p-3 hover:border-rosebrand"><span class="block text-xs font-bold uppercase text-rosebrand">Nově</span><strong class="line-clamp-2 text-sm group-hover:text-rosebrand">{cleanTitle(p.title)}</strong></a>)}
+            {footerPosts.map((p) => <a href={withBase(p.path)} class="group border border-line bg-white p-3 hover:border-rosebrand"><span class="block text-xs font-bold uppercase text-rosebrand">Nově</span><strong class="line-clamp-2 text-sm group-hover:text-rosebrand">{cleanTitle(p.title)}</strong></a>)}
           </div>
         </div>
         <nav class="mt-10 flex flex-wrap gap-5 border-y border-line py-5 text-sm font-semibold text-plum">
-          {nav.map((n) => <a href={n.href}>{n.label}</a>)}
+          {nav.map((n) => <a href={withBase(n.href)}>{n.label}</a>)}
         </nav>
         <div class="mt-9 grid gap-8 md:grid-cols-4">
           <div><h3>O nás</h3><p>Visit Bulharsko je český magazín o cestování, kultuře, zprávách a praktickém životě v Bulharsku.</p></div>
-          <div><h3>Kdo jsme</h3><a href="/o-nas/">Kdo jsme?</a><a href="/kontakt/">Kontakt</a><a href="/inzerce-na-webu/">Inzerce na webu</a></div>
-          <div><h3>Povinné odkazy</h3><a href="/ochrana-osobnich-udaju/">Ochrana osobních údajů</a><a href="/sitemap.xml">Sitemap</a></div>
+          <div><h3>Kdo jsme</h3><a href={withBase('/o-nas/')}>Kdo jsme?</a><a href={withBase('/kontakt/')}>Kontakt</a><a href={withBase('/inzerce-na-webu/')}>Inzerce na webu</a></div>
+          <div><h3>Povinné odkazy</h3><a href={withBase('/ochrana-osobnich-udaju/')}>Ochrana osobních údajů</a><a href={withBase('/sitemap.xml')}>Sitemap</a></div>
           <div><h3>Sleduj nás</h3><p>Facebook · Youtube · Instagram</p><div class="mt-4"><AdSlot type="box" label="ADS / reklamní prostor" /></div></div>
         </div>
         <p class="mt-10 text-xs text-plum/70">© {new Date().getFullYear()} Visit Bulharsko. Český magazín o cestování, životě a zajímavostech z Bulharska.</p>

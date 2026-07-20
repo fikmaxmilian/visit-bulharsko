@@ -2,6 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
 import AdSlot from '../../components/AdSlot.astro';
+import { withBase } from '../../utils/paths';
 import data from '../../data/site-data.json';
 
 export function getStaticPaths() {
@@ -23,11 +24,11 @@ const date = item.date ? new Date(item.date).toLocaleDateString('cs-CZ', { day: 
       {item.type === 'post' && <p class="mt-4 text-sm font-semibold uppercase tracking-wide text-plum/60">Luke Palm · {date} · {item.reading_minutes} min čtení</p>}
       {item.excerpt && <p class="mx-auto mt-6 max-w-2xl text-lg leading-8 text-plum/75">{item.excerpt}</p>}
     </div>
-    {item.featured_image && <img src={item.featured_image} alt={item.featured_alt || item.title} class="mt-10 max-h-[560px] w-full rounded-[2rem] object-cover shadow-soft" />}
+    {item.featured_image && <img src={withBase(item.featured_image)} alt={item.featured_alt || item.title} class="mt-10 max-h-[560px] w-full rounded-[2rem] object-cover shadow-soft" />}
     <div class="my-10"><AdSlot label="ADS / reklamní prostor v článku" /></div>
     <div class="article-content" set:html={item.content}></div>
   </article>
   {item.type === 'post' && (
-    <section class="section-wrap"><div class="section-head"><h2>Související články</h2><a href="/">Zpět na magazín →</a></div><div class="grid gap-8 md:grid-cols-3">{related.map((p) => <PostCard post={p} />)}</div></section>
+    <section class="section-wrap"><div class="section-head"><h2>Související články</h2><a href={withBase('/')}>Zpět na magazín →</a></div><div class="grid gap-8 md:grid-cols-3">{related.map((p) => <PostCard post={p} />)}</div></section>
   )}
 </BaseLayout>
