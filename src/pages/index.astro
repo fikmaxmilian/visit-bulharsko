@@ -1,0 +1,88 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import AdSlot from '../components/AdSlot.astro';
+import PropertyBlock from '../components/PropertyBlock.astro';
+import PropertyCarousel from '../components/PropertyCarousel.astro';
+import data from '../data/site-data.json';
+import feedNews from '../data/feed-news.json';
+import propertyFeed from '../data/property-feed.json';
+
+const posts = data.posts;
+const byCat = (slug: string) => posts.filter((p: any) => p.categories?.some((c: any) => c.slug === slug));
+const hero = [
+  posts.find((p) => p.slug === 'vtipna-slova-v-bulharstine'),
+  posts.find((p) => p.slug === 'bulharsky-jazyk'),
+  posts.find((p) => p.slug === 'bulharsko-primorsko'),
+  posts.find((p) => p.slug === 'plovdiv-nejstarsi-mesto-evropy'),
+].filter(Boolean);
+const news = byCat('zpravy-bulharsko').slice(0, 6);
+const feedItems = (feedNews.items || []).slice(0, 6);
+const tickerItems = (feedNews.items || [])
+  .filter((item: any) => !/[А-Яа-яЁё].*[A-Za-z]|[A-Za-z].*[А-Яа-яЁё]/.test(item.title || ''))
+  .slice(0, 3);
+const destinations = byCat('nejoblibenejsi-destinace').slice(0, 3);
+const history = byCat('historie-bulharska').slice(0, 2);
+const guide = byCat('cestovni-pruvodce').slice(0, 3);
+const trips = byCat('tipy-na-vylety').slice(0, 3);
+const practical = byCat('prakticke-tipy').slice(0, 3);
+const culture = byCat('kultura-a-tradice').slice(0, 2);
+const verifiedProperties = (propertyFeed.items || []).filter((p: any) => p.available === true);
+---
+<BaseLayout>
+  <section class="mx-auto max-w-7xl px-5 pt-6 md:pt-8">
+    <div class="mb-5 flex flex-wrap items-center gap-3 border-l-4 border-rosebrand bg-blush px-4 py-3 text-sm">
+      <strong class="uppercase tracking-wide text-rosebrand">Nejnovější</strong>
+      <span class="text-plum/80">
+        {(tickerItems.length ? tickerItems : feedItems.slice(0, 3)).map((item: any) => item.title).join(' · ') || news[0]?.title || 'Aktuální zprávy a praktické informace z Bulharska'}
+      </span>
+    </div>
+    <div class="grid gap-5 lg:grid-cols-[1.35fr_.9fr]">
+      <PostCard post={hero[0] || posts[0]} variant="hero" overlay />
+      <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-1">
+        {hero.slice(1,4).map((p) => <PostCard post={p} variant="mini" />)}
+      </div>
+    </div>
+    <div class="mt-6 border-y border-line py-4 md:py-5">
+      <div class="mb-3 flex items-center justify-between gap-4 text-xs font-bold uppercase tracking-[.18em] text-plum/55">
+        <span>Aktuální zprávy</span>
+        <span>Průběžně aktualizováno</span>
+      </div>
+      <div class="grid gap-px overflow-hidden border border-line bg-line md:grid-cols-3 lg:grid-cols-6">
+        {feedItems.length ? feedItems.map((item) => (
+          <a href={item.link} class="group flex h-full flex-col bg-white p-4 transition hover:bg-blush" rel="nofollow">
+            <span class="meta-chip">Zpravodajství</span>
+            <h3 class="mt-3 line-clamp-3 text-[17px] font-black leading-tight text-ink group-hover:text-rosebrand">{item.title}</h3>
+            <p class="mt-3 line-clamp-3 text-sm leading-6 text-plum/70">{item.excerpt}</p>
+            <span class="mt-auto inline-block pt-4 text-sm font-semibold text-plum">Číst →</span>
+          </a>
+        )) : news.map((p) => <PostCard post={p} variant="text" />)}
+      </div>
+    </div>
+    <div class="mt-6 grid gap-5 lg:grid-cols-[1fr_340px]">
+      <PropertyCarousel items={verifiedProperties} />
+      <div id="newsletter" class="newsletter-box"><h2 class="text-2xl font-black">Buďte v obraze</h2><p class="mt-2 text-plum/70">Zaregistrujte se k odběru našeho občasníku.</p><form class="mt-5 grid gap-3 sm:flex"><input class="newsletter-input" placeholder="E-mail" type="email"/><button class="newsletter-btn">Odeslat</button></form></div>
+    </div>
+  </section>
+
+  <section class="section-wrap"><div class="section-head"><h2>Nejoblíbenější destinace</h2><a href="/category/nejoblibenejsi-destinace/">Prohlédnout →</a></div><div class="grid gap-8 md:grid-cols-3">{destinations.map((p) => <PostCard post={p} />)}</div></section>
+
+  <section class="section-wrap"><div class="section-head"><h2>Historie Bulharska</h2><a href="/category/historie-bulharska/">Dozvědět se více →</a></div><div class="grid gap-6 md:grid-cols-2">{history.map((p) => <PostCard post={p} overlay variant="hero" />)}</div></section>
+
+  <section class="section-wrap"><AdSlot type="wide" label="ADS banner / prostor pro reklamu" /></section>
+
+  <section class="section-wrap"><div class="section-head"><h2>Cestovní průvodce</h2><a href="/category/cestovni-pruvodce/">Více článků →</a></div><div class="grid gap-8 md:grid-cols-3">{guide.map((p) => <PostCard post={p} variant="text" />)}</div></section>
+
+  <PropertyBlock />
+
+  <section class="section-wrap grid gap-10 lg:grid-cols-2">
+    <div><div class="section-head"><h2>Tipy na výlety</h2><a href="/category/tipy-na-vylety/">Inspirovat se →</a></div><div class="grid gap-6">{trips.map((p) => <PostCard post={p} variant="text" />)}</div></div>
+    <div><div class="section-head"><h2>Praktické tipy</h2><a href="/category/prakticke-tipy/">Více článků →</a></div><div class="grid gap-6">{practical.map((p) => <PostCard post={p} variant="text" />)}</div></div>
+  </section>
+
+  <section class="section-wrap"><div class="border border-line bg-white p-7 shadow-soft md:flex md:items-center md:justify-between"><div><p class="text-sm font-black uppercase tracking-[.18em] text-rosebrand">Redakce</p><h2 class="mt-2 text-3xl font-black">Pošlete nám článek nebo cestopis</h2><p class="mt-2 text-plum/70">Máte zážitek z Bulharska? Podělte se s ostatními cestovateli.</p></div><a href="/kontakt/" class="btn-outline mt-6 inline-block md:mt-0">Poslat článek</a></div></section>
+
+  <section class="section-wrap"><div class="section-head"><h2>Kultura a tradice</h2><a href="/category/kultura-a-tradice/">Všechny články →</a></div><div class="grid gap-6 md:grid-cols-2">{culture.map((p) => <PostCard post={p} overlay variant="hero" />)}</div></section>
+
+  <section class="section-wrap"><div class="newsletter-box md:flex md:items-center md:justify-between md:gap-8"><div><p class="text-4xl">✈</p><h2 class="mt-2 text-3xl font-black">Zaregistrujte se k odběru</h2><p class="mt-2 text-plum/70">Novinky, tipy a inspirace z Bulharska bez zbytečného spamu.</p></div><form class="mt-6 grid w-full gap-3 sm:flex md:mt-0 md:max-w-md"><input class="newsletter-input" placeholder="E-mail" type="email"/><button class="newsletter-btn">Odeslat</button></form></div></section>
+</BaseLayout>

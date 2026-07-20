@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PostCard from '../../../components/PostCard.astro';
+import AdSlot from '../../../components/AdSlot.astro';
+import data from '../../../data/site-data.json';
+
+export function getStaticPaths() {
+  return data.categories.map((c) => ({ params: { slug: c.slug }, props: { category: c } }));
+}
+const { category } = Astro.props;
+const posts = data.posts.filter((p) => p.categories?.some((c) => c.slug === category.slug));
+---
+<BaseLayout title={`${category.name} | Visit Bulharsko`} description={category.description || `Články v kategorii ${category.name}`} canonical={`/category/${category.slug}/`}>
+  <section class="mx-auto max-w-7xl px-5 pt-12">
+    <div class="section-head"><div><p class="text-sm font-black uppercase tracking-[.25em] text-rosebrand">Kategorie</p><h1 class="mt-2 font-display text-5xl font-black md:text-7xl">{category.name}</h1></div><a href="/">Domů →</a></div>
+    <AdSlot type="wide" label="ADS banner / reklamní prostor" />
+    <div class="mt-10 grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+      {posts.map((p) => <PostCard post={p} />)}
+    </div>
+  </section>
+</BaseLayout>
