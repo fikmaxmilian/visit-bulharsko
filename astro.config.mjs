@@ -2,7 +2,8 @@ import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
 
 const site = process.env.SITE_URL || 'https://visitbulharsko.cz';
-const base = process.env.BASE_PATH || '/';
+const rawBase = process.env.BASE_PATH || '/';
+const base = rawBase === '/' ? '/' : `/${rawBase.replace(/^\/+|\/+$/g, '')}`;
 
 export default defineConfig({
   site,
