@@ -7,3 +7,4 @@ dist/
 *.log
 data/property-feed-last.xml
 data/source/
+data/live-news-raw.json

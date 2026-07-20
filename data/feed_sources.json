@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Novinite / Sofia News Agency",
+    "url": "https://www.novinite.com/services/news_rdf.php",
+    "category": "zpravy-bulharsko",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "name": "The Sofia Globe",
+    "url": "https://sofiaglobe.com/feed/",
+    "category": "zpravy-bulharsko",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "name": "Visit Bulharsko - původní archiv zpráv",
+    "url": "https://visitbulharsko.cz/category/zpravy-bulharsko/feed/",
+    "category": "zpravy-bulharsko",
+    "language": "cs",
+    "enabled": false,
+    "note": "Pouze archiv. Pro aktuální zprávy používáme externí zdroje a vlastní český přepis."
+  }
+]
