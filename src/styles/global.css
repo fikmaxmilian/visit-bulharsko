@@ -19,6 +19,13 @@
   .section-head { @apply mb-5 flex items-end justify-between gap-5 border-b border-line pb-2; }
   .section-head h2 { @apply font-sans text-2xl font-black tracking-tight md:text-3xl; }
   .section-head a { @apply shrink-0 text-sm font-semibold text-plum hover:text-rosebrand; }
+  .latest-strip { @apply flex min-w-0 items-center gap-3; }
+  .latest-strip__label { @apply shrink-0; }
+  .latest-strip__title { @apply min-w-0 flex-1 truncate; }
+  .latest-strip__button { @apply shrink-0 bg-ink px-3 py-1.5 text-xs font-black uppercase tracking-wide text-white transition hover:bg-rosebrand; }
+  .home-news-grid { @apply gap-3 border-0 bg-transparent md:gap-px md:border md:bg-line; }
+  .home-news-grid > a { @apply bg-white px-4 py-4 md:px-0 md:py-0; }
+  .home-news-grid > a > div { @apply border border-line p-4 md:border-b md:border-x-0 md:border-t-0 md:p-0; }
   .overlay-card { @apply relative min-h-[380px] overflow-hidden bg-ink text-white shadow-soft md:min-h-[420px]; }
   .overlay-card > div:first-child { @apply absolute inset-0 h-full rounded-none; }
   .overlay-card img { @apply h-full w-full bg-blush object-cover brightness-[.72]; }

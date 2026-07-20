@@ -18,6 +18,7 @@ const hero = [
 ].filter(Boolean);
 const news = byCat('zpravy-bulharsko').slice(0, 6);
 const tickerItems = news.slice(0, 3);
+const tickerItem = tickerItems[0];
 const destinations = byCat('nejoblibenejsi-destinace').slice(0, 3);
 const history = byCat('historie-bulharska').slice(0, 2);
 const guide = byCat('cestovni-pruvodce').slice(0, 3);
@@ -28,11 +29,12 @@ const verifiedProperties = (propertyFeed.items || []).filter((p: any) => p.avail
 ---
 <BaseLayout>
   <section class="mx-auto max-w-7xl px-5 pt-6 md:pt-8">
-    <div class="mb-5 flex flex-wrap items-center gap-3 border-l-4 border-rosebrand bg-blush px-4 py-3 text-sm">
-      <strong class="uppercase tracking-wide text-rosebrand">Nejnovější</strong>
-      <span class="text-plum/80">
-        {tickerItems.map((item: any) => item.title).join(' · ') || 'Aktuální zprávy a praktické informace z Bulharska'}
+    <div class="latest-strip mb-5 border-l-4 border-rosebrand bg-blush px-4 py-3 text-sm">
+      <strong class="latest-strip__label uppercase tracking-wide text-rosebrand">Nejnovější</strong>
+      <span class="latest-strip__title text-plum/80">
+        {tickerItem?.title || 'Aktuální zprávy a praktické informace z Bulharska'}
       </span>
+      {tickerItem && <a href={withBase(tickerItem.path)} class="latest-strip__button">Číst</a>}
     </div>
     <div class="grid gap-5 lg:grid-cols-[1.35fr_.9fr]">
       <PostCard post={hero[0] || posts[0]} variant="hero" overlay />
@@ -45,7 +47,7 @@ const verifiedProperties = (propertyFeed.items || []).filter((p: any) => p.avail
         <span>Aktuální zprávy</span>
         <span>Průběžně aktualizováno</span>
       </div>
-      <div class="grid gap-px overflow-hidden border border-line bg-line md:grid-cols-3 lg:grid-cols-6">
+      <div class="home-news-grid grid gap-px overflow-hidden border border-line bg-line md:grid-cols-3 lg:grid-cols-6">
         {news.map((p) => <PostCard post={p} variant="text" />)}
       </div>
     </div>
