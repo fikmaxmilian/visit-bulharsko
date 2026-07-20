@@ -1,8 +1,10 @@
-# Publikování aktuálních zpráv z Bulharska
+# Publikování rychlých zpráv z Bulharska
 
 ## Cíl
 
-Zprávy na Visit Bulharsko nejsou automatický překlad cizích médií. RSS zdroje používáme jen jako podklad pro vlastní český obsah.
+Rychlé zprávy na Visit Bulharsko nejsou automatický překlad cizích médií. RSS zdroje používáme jen jako podklad pro vlastní českou aktualitu.
+
+Jde o obsah typu „právě se děje“, takže nemá smysl uměle vyrábět FAQ ani povinné obrázky.
 
 Publikujeme pouze zprávy s jasným dopadem na české čtenáře:
 
@@ -19,26 +21,32 @@ Nepublikujeme běžný politický šum, sport, burzu, obecné zahraniční zprá
 
 1. `scripts/fetch_rss_news.py` stáhne titulky a krátké podklady z ověřených RSS zdrojů.
 2. Skript vyfiltruje jen zprávy s cestovatelským dopadem.
-3. Každá položka je pouze `draft` a obsahuje prompt pro AI přepis vlastními slovy.
-4. AI z podkladu vytvoří vlastní český SEO článek.
-5. Člověk článek schválí před publikací.
-6. Až po schválení jde článek do webu a na GitHub.
+3. Každá položka obsahuje prompt pro AI přepis vlastními slovy.
+4. AI z podkladu vytvoří vlastní krátkou českou aktualitu.
+5. Publikace probíhá automaticky 3× denně.
+6. Po úspěšném buildu jde změna na GitHub.
 
-## Povinné náležitosti každého článku
+## Povinné náležitosti rychlé zprávy
 
-Článek není připravený k publikaci, pokud nemá:
+Rychlá zpráva není připravená k publikaci, pokud nemá:
 
 - SEO titulek do cca 60 znaků,
 - meta description do cca 155 znaků,
 - čistý URL slug,
-- H1,
+- H1/titulek,
 - krátký excerpt pro homepage/kategorie,
-- vlastní text článku, ideálně 500–800 slov,
+- vlastní text cca 180–350 slov,
 - jasný praktický dopad pro cestovatele,
-- minimálně 3 FAQ otázky a odpovědi,
-- návrh realistického obrázku bez textu,
-- SEO alt text obrázku,
 - zdrojovou citaci a odkaz na původní zdroj.
+
+## Co rychlá zpráva naopak nemá vyžadovat
+
+- FAQ,
+- povinný obrázek,
+- dlouhý SEO článek 500–800 slov,
+- umělé rozepisování kvůli délce.
+
+Pokud se z tématu později ukáže evergreen potenciál, může se z něj samostatně udělat větší SEO článek. Rychlá zpráva má ale zůstat rychlá zpráva.
 
 ## Pravidla přepisu
 
@@ -49,7 +57,7 @@ Nepublikujeme běžný politický šum, sport, burzu, obecné zahraniční zprá
 - Pokud zpráva nemá praktický dopad pro cestovatele, označit jako `skip`.
 - Zdroj vždy uvést jako podklad, ne jako převzatý text.
 
-## Doporučená struktura článku
+## Doporučená struktura rychlé zprávy
 
 ```html
 <p>Krátký úvod s hlavní informací a dopadem na českého čtenáře.</p>
@@ -57,13 +65,8 @@ Nepublikujeme běžný politický šum, sport, burzu, obecné zahraniční zprá
 <h2>Co se stalo</h2>
 <p>Vlastní shrnutí situace.</p>
 
-<h2>Koho se to týká</h2>
-<p>Dopad na turisty, cestovatele, majitele apartmánů nebo lidi plánující cestu.</p>
+<h2>Co to znamená pro cestovatele</h2>
+<p>Praktické doporučení nebo vysvětlení dopadu.</p>
 
-<h2>Na co si dát pozor</h2>
-<p>Praktické doporučení.</p>
-
-<h2>FAQ</h2>
-<h3>Otázka?</h3>
-<p>Odpověď.</p>
+<p class="source-credit">Zdroj: <a href="..." rel="nofollow noopener" target="_blank">Název zdroje</a></p>
 ```

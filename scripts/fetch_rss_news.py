@@ -146,38 +146,30 @@ def editorial_angle(matches):
 
 def rewrite_prompt(item):
     return (
-        'Vytvoř z podkladu vlastní český SEO článek pro Visit Bulharsko. '
-        'Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, prakticky a bez senzace. '
+        'Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. '
+        'Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. '
         'Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. '
-        'Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT.\n\n'
+        'Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\n'
         'Povinný výstup ve struktuře JSON:\n'
         '{\n'
         '  "decision": "publish|skip",\n'
-        '  "slug": "seo-url-slug",\n'
+        '  "slug": "kratky-url-slug",\n'
         '  "seoTitle": "max 60 znaků",\n'
         '  "metaDescription": "max 155 znaků",\n'
         '  "h1": "český titulek",\n'
-        '  "excerpt": "2 věty pro homepage",\n'
-        '  "imagePrompt": "návrh realistického obrázku bez textu",\n'
-        '  "imageAlt": "SEO alt text obrázku",\n'
-        '  "articleHtml": "úvod + H2 sekce + závěr, 500–800 slov",\n'
-        '  "faq": [\n'
-        '    {"question":"...", "answer":"..."},\n'
-        '    {"question":"...", "answer":"..."},\n'
-        '    {"question":"...", "answer":"..."}\n'
-        '  ],\n'
+        '  "excerpt": "1–2 věty pro homepage",\n'
+        '  "articleHtml": "rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele",\n'
         '  "sourceCredit": "Zdroj: název média",\n'
         '  "sourceUrl": "původní URL"\n'
         '}\n\n'
-        'Obsahová pravidla: žádné FAQ = nedokončený draft; bez návrhu obrázku = nedokončený draft; článek nesmí být jen telegrafický souhrn.\n\n'
+        'Obsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\n'
         f'Zdroj: {item["source"]}\n'
         f'Původní titulek: {item["originalTitle"]}\n'
         f'Podklad: {item["originalExcerpt"]}\n'
         f'Odkaz: {item["link"]}'
     )
 
-
-def empty_seo_draft(item):
+def empty_fast_news_draft(item):
     return {
         'decision': 'draft',
         'slug': '',
@@ -185,10 +177,7 @@ def empty_seo_draft(item):
         'metaDescription': '',
         'h1': '',
         'excerpt': '',
-        'imagePrompt': '',
-        'imageAlt': '',
         'articleHtml': '',
-        'faq': [],
         'sourceCredit': f'Zdroj: {item.get("source", "")}',
         'sourceUrl': item.get('link', ''),
     }
@@ -228,7 +217,7 @@ def fetch_source(src):
             'excludedSignals': excluded[:8],
             'editorialAngle': editorial_angle(matched),
         }
-        record['seoDraft'] = empty_seo_draft(record)
+        record['fastNewsDraft'] = empty_fast_news_draft(record)
         record['rewritePrompt'] = rewrite_prompt(record)
         items.append(record)
     return items
@@ -252,8 +241,8 @@ def main():
     all_items.sort(key=lambda x: (x.get('published') or '', x.get('relevanceScore') or 0), reverse=True)
     data = {
         'generatedAt': datetime.now(UTC).isoformat(),
-        'mode': 'editorial-drafts',
-        'policy': 'External RSS is used only as source material. Publish only Czech own-words SEO articles with FAQ, image brief and clear travel impact.',
+        'mode': 'fast-news-drafts',
+        'policy': 'External RSS is used only as source material. Publish short Czech own-words fast news with clear travel impact. No FAQ or mandatory image for fast updates.',
         'items': all_items[:24],
         'errors': errors,
     }
