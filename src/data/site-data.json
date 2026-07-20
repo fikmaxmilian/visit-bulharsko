@@ -1,6 +1,30 @@
 {
   "posts": [
     {
+      "id": 3499,
+      "type": "post",
+      "slug": "sofia-big-table-25-cervence-2026",
+      "path": "/sofia-big-table-25-cervence-2026/",
+      "title": "Sofie chystá Big Table: tip na lokální akci 25. července",
+      "excerpt": "Centrum Sofie ožije sousedskou akcí Big Table s jídlem, hudbou a dílnami. Pro turisty jde o příjemný tip mimo klasické památky.",
+      "date": "2026-07-20T00:00:00",
+      "modified": "2026-07-20T00:00:00",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Sofie chystá Big Table 25. července - Visit Bulharsko",
+        "description": "V Sofii proběhne 25. července Big Table. Lokální akce v Oborishte nabídne jídlo, hudbu, dílny a program pro návštěvníky města."
+      },
+      "content": "<p>Sofie chystá na sobotu 25. července druhou letošní akci Big Table. Část ulice Aleko Konstantinov v oblíbené čtvrti Oborishte se na jeden den promění v dlouhý společný stůl s hudbou, jídlem, dílnami a sousedskou atmosférou. Pro návštěvníky bulharské metropole je to příjemný tip mimo klasické památky – zvlášť pokud chtějí zažít civilnější, lokální tvář Sofie.</p>\n<h2>Co se bude dít</h2>\n<p>Šedesátimetrový stůl bude stát v úseku mezi ulicemi Oborishte a Sultan Tepe. Organizátoři lákají na hudební program, domácí jídlo, dětské aktivity, kreativní workshopy i ukázky upcyclingu. Součástí má být také soutěž o nejlepší banicu ve sladké a slané kategorii.</p>\n<h2>Co to znamená pro cestovatele</h2>\n<p>Pokud budete 25. července v Sofii, může být Big Table dobrým večerním nebo odpoledním programem po prohlídce centra. Čtvrť Oborishte leží nedaleko známých míst jako chrám Alexandra Něvského, takže se dá dobře spojit s běžnou procházkou po městě. Počítejte ale s tím, že v okolí akce může být rušněji a část ulice bude vyhrazená pro program.</p>\n<p>Akce má zároveň udržitelný rozměr: návštěvníci mají používat tříděný odpad a na místě se budou sbírat skleněné lahve, které dostanou druhý život jako vázy, sklenice nebo dekorace.</p>\n<p><strong>Zdroj:</strong> The Sofia Globe, 20. 7. 2026</p>",
+      "sourceUrl": "https://sofiaglobe.com/2026/07/20/sofia-to-see-second-big-table-of-2026-on-july-25/"
+    },
+    {
       "id": 3498,
       "type": "post",
       "slug": "%d0%bc%d0%b0%d0%b3%d0%b0%d1%82%d0%b0-%d1%84%d0%b5%d1%81%d1%82-sofie-recykluje",

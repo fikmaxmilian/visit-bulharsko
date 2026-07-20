@@ -41,22 +41,31 @@ const homeUrl = withBase('/');
   </head>
   <body class="bg-blush text-ink antialiased">
     <a class="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:bg-white focus:p-3" href="#content">Přeskočit na obsah</a>
-    <header class="site-header border-b border-line bg-blush">
-      <div class="bg-ink text-white">
+    <header class="site-header sticky top-0 z-40 border-b border-line bg-blush shadow-sm md:static md:shadow-none">
+      <div class="hidden bg-ink text-white md:block">
         <div class="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-3 px-5 py-2 text-xs font-semibold uppercase tracking-wide text-white/75">
           <span>Aktuální přehled z Bulharska</span>
           <span class="normal-case tracking-normal text-white/70">{today}</span>
         </div>
       </div>
-      <div class="mx-auto max-w-7xl px-5 py-4">
-        <div class="grid grid-cols-3 items-center gap-4">
-          <a href={homeUrl} aria-label="Vyhledávání" class="flex h-10 w-10 items-center justify-center border border-line bg-blush text-xl text-plum transition hover:border-rosebrand hover:text-rosebrand">⌕</a>
+      <div class="mx-auto max-w-7xl px-4 py-3 md:px-5 md:py-4">
+        <div class="grid grid-cols-3 items-center gap-3 md:gap-4">
+          <details class="mobile-nav relative md:hidden">
+            <summary aria-label="Otevřít menu" class="flex h-10 w-10 cursor-pointer list-none items-center justify-center border border-line bg-white text-xl text-plum transition hover:border-rosebrand hover:text-rosebrand">
+              <span aria-hidden="true">☰</span>
+            </summary>
+            <nav class="absolute left-0 top-12 w-[min(88vw,320px)] border border-line bg-white p-3 text-sm font-black uppercase tracking-wide text-plum shadow-soft" aria-label="Mobilní navigace webu">
+              {nav.map((n) => <a class="block border-b border-line/70 px-2 py-3 last:border-b-0 hover:text-rosebrand" href={withBase(n.href)}>{n.label}</a>)}
+            </nav>
+          </details>
+          <a href={homeUrl} aria-label="Vyhledávání" class="hidden h-10 w-10 items-center justify-center border border-line bg-blush text-xl text-plum transition hover:border-rosebrand hover:text-rosebrand md:flex">⌕</a>
           <a href={homeUrl} class="flex justify-center">
-            <img src={withBase('/uploads/2023/07/cropped-Visit-Bulharsko-1.png')} alt="Visit Bulharsko" class="h-14 w-auto object-contain md:h-16" />
+            <img src={withBase('/uploads/2023/07/cropped-Visit-Bulharsko-1.png')} alt="Visit Bulharsko" class="h-10 w-auto object-contain md:h-16" />
           </a>
-          <div class="flex justify-end"><a href="#newsletter" class="btn-outline">Newsletter</a></div>
+          <div class="hidden justify-end md:flex"><a href="#newsletter" class="btn-outline">Newsletter</a></div>
+          <a href={homeUrl} aria-label="Vyhledávání" class="ml-auto flex h-10 w-10 items-center justify-center border border-line bg-white text-xl text-plum transition hover:border-rosebrand hover:text-rosebrand md:hidden">⌕</a>
         </div>
-        <nav class="mt-4 flex flex-wrap justify-center gap-x-6 gap-y-2 border-y border-line bg-white/45 py-3 text-[13px] font-black uppercase tracking-wide text-plum md:text-[13px]" aria-label="Hlavní navigace webu">
+        <nav class="mt-4 hidden flex-wrap justify-center gap-x-6 gap-y-2 border-y border-line bg-white/45 py-3 text-[13px] font-black uppercase tracking-wide text-plum md:flex md:text-[13px]" aria-label="Hlavní navigace webu">
           {nav.map((n) => <a class="hover:text-rosebrand" href={withBase(n.href)}>{n.label}</a>)}
         </nav>
       </div>
