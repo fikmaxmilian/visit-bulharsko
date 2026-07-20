@@ -8,3 +8,5 @@ dist/
 data/property-feed-last.xml
 data/source/
 data/live-news-raw.json
+
+data/content/
