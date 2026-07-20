@@ -5,7 +5,6 @@ import AdSlot from '../components/AdSlot.astro';
 import PropertyBlock from '../components/PropertyBlock.astro';
 import PropertyCarousel from '../components/PropertyCarousel.astro';
 import data from '../data/site-data.json';
-import feedNews from '../data/feed-news.json';
 import { withBase } from '../utils/paths';
 import propertyFeed from '../data/property-feed.json';
 
@@ -18,10 +17,7 @@ const hero = [
   posts.find((p) => p.slug === 'plovdiv-nejstarsi-mesto-evropy'),
 ].filter(Boolean);
 const news = byCat('zpravy-bulharsko').slice(0, 6);
-const feedItems = (feedNews.items || []).slice(0, 6);
-const tickerItems = (feedNews.items || [])
-  .filter((item: any) => !/[А-Яа-яЁё].*[A-Za-z]|[A-Za-z].*[А-Яа-яЁё]/.test(item.title || ''))
-  .slice(0, 3);
+const tickerItems = news.slice(0, 3);
 const destinations = byCat('nejoblibenejsi-destinace').slice(0, 3);
 const history = byCat('historie-bulharska').slice(0, 2);
 const guide = byCat('cestovni-pruvodce').slice(0, 3);
@@ -35,7 +31,7 @@ const verifiedProperties = (propertyFeed.items || []).filter((p: any) => p.avail
     <div class="mb-5 flex flex-wrap items-center gap-3 border-l-4 border-rosebrand bg-blush px-4 py-3 text-sm">
       <strong class="uppercase tracking-wide text-rosebrand">Nejnovější</strong>
       <span class="text-plum/80">
-        {(tickerItems.length ? tickerItems : feedItems.slice(0, 3)).map((item: any) => item.title).join(' · ') || news[0]?.title || 'Aktuální zprávy a praktické informace z Bulharska'}
+        {tickerItems.map((item: any) => item.title).join(' · ') || 'Aktuální zprávy a praktické informace z Bulharska'}
       </span>
     </div>
     <div class="grid gap-5 lg:grid-cols-[1.35fr_.9fr]">
@@ -50,14 +46,7 @@ const verifiedProperties = (propertyFeed.items || []).filter((p: any) => p.avail
         <span>Průběžně aktualizováno</span>
       </div>
       <div class="grid gap-px overflow-hidden border border-line bg-line md:grid-cols-3 lg:grid-cols-6">
-        {feedItems.length ? feedItems.map((item) => (
-          <a href={item.link} class="group flex h-full flex-col bg-white p-4 transition hover:bg-blush" rel="nofollow">
-            <span class="meta-chip">Zpravodajství</span>
-            <h3 class="mt-3 line-clamp-3 text-[17px] font-black leading-tight text-ink group-hover:text-rosebrand">{item.title}</h3>
-            <p class="mt-3 line-clamp-3 text-sm leading-6 text-plum/70">{item.excerpt}</p>
-            <span class="mt-auto inline-block pt-4 text-sm font-semibold text-plum">Číst →</span>
-          </a>
-        )) : news.map((p) => <PostCard post={p} variant="text" />)}
+        {news.map((p) => <PostCard post={p} variant="text" />)}
       </div>
     </div>
     <div class="mt-6 grid gap-5 lg:grid-cols-[1fr_340px]">
