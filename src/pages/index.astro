@@ -16,7 +16,7 @@ const hero = [
   posts.find((p) => p.slug === 'bulharsko-primorsko'),
   posts.find((p) => p.slug === 'plovdiv-nejstarsi-mesto-evropy'),
 ].filter(Boolean);
-const news = byCat('zpravy-bulharsko').slice(0, 6);
+const news = byCat('zpravy-bulharsko').slice(0, 4);
 const tickerItems = news.slice(0, 3);
 const tickerItem = tickerItems[0];
 const destinations = byCat('nejoblibenejsi-destinace').slice(0, 3);
@@ -47,7 +47,7 @@ const verifiedProperties = (propertyFeed.items || []).filter((p: any) => p.avail
         <span>Zpravodajství</span>
         <span>Průběžně aktualizováno</span>
       </div>
-      <div class="home-news-grid grid gap-px overflow-hidden border border-line bg-line md:grid-cols-3 lg:grid-cols-6">
+      <div class="home-news-grid grid gap-px overflow-hidden border border-line bg-line md:grid-cols-2 lg:grid-cols-4">
         {news.map((p) => <PostCard post={p} variant="text" />)}
       </div>
     </div>
