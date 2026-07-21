@@ -12,8 +12,8 @@ export default {
         line: '#eadde0'
       },
       fontFamily: {
-        display: ['Georgia', 'Cambria', 'Times New Roman', 'serif'],
-        sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif']
+        display: ['Segoe UI', 'Arial', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+        sans: ['Segoe UI', 'Arial', 'ui-sans-serif', 'system-ui', 'sans-serif']
       },
       boxShadow: {
         soft: '0 10px 28px rgba(21,21,26,.07)'
