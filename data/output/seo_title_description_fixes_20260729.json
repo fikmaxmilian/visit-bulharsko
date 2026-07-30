@@ -1,0 +1,817 @@
+{
+  "changedCount": 116,
+  "changed": [
+    {
+      "slug": "bourky-v-bulharsku-21-cervence-2026",
+      "oldTitle": "Bouřky v Bulharsku 21. července - Visit Bulharsko",
+      "newTitle": "Bouřky v Bulharsku 21. července",
+      "oldDescLen": 120,
+      "newDescLen": 146
+    },
+    {
+      "slug": "sofia-big-table-25-cervence-2026",
+      "oldTitle": "Sofie chystá Big Table 25. července - Visit Bulharsko",
+      "newTitle": "Sofie chystá Big Table 25. července",
+      "oldDescLen": 126,
+      "newDescLen": 126
+    },
+    {
+      "slug": "%d0%bc%d0%b0%d0%b3%d0%b0%d1%82%d0%b0-%d1%84%d0%b5%d1%81%d1%82-sofie-recykluje",
+      "oldTitle": "„МаГаТа Фест“: Sofie recykluje! - Visit Bulharsko",
+      "newTitle": "„МаГаТа Фест“: Sofie recykluje!",
+      "oldDescLen": 89,
+      "newDescLen": 123
+    },
+    {
+      "slug": "skandal-na-plazi-butamjata",
+      "oldTitle": "**Skandál na pláži Butamjata!** - Visit Bulharsko",
+      "newTitle": "**Skandál na pláži Butamjata!**",
+      "oldDescLen": 89,
+      "newDescLen": 119
+    },
+    {
+      "slug": "nove-parkovaci-zony-v-sofii-%f0%9f%9a%97",
+      "oldTitle": "Nové parkovací zóny v Sofii! 🚗 - Visit Bulharsko",
+      "newTitle": "Nové parkovací zóny v Sofii! 🚗",
+      "oldDescLen": 71,
+      "newDescLen": 156
+    },
+    {
+      "slug": "west-mall-nakupy-zabava-relax",
+      "oldTitle": "**West Mall: Nákupy, zábava, relax!** - Visit Bulharsko",
+      "newTitle": "**West Mall: Nákupy, zábava, relax!**",
+      "oldDescLen": 69,
+      "newDescLen": 157
+    },
+    {
+      "slug": "pozar-ochromil-letiste-heathrow",
+      "oldTitle": "**Požár ochromil letiště Heathrow!** - Visit Bulharsko",
+      "newTitle": "**Požár ochromil letiště Heathrow!**",
+      "oldDescLen": 91,
+      "newDescLen": 126
+    },
+    {
+      "slug": "bulharska-unique-estates-miri-do-dubaje",
+      "oldTitle": "**Bulharská Unique Estates míří do Dubaje** - Visit Bulharsko",
+      "newTitle": "**Bulharská Unique Estates míří do Dubaje**",
+      "oldDescLen": 141,
+      "newDescLen": 141
+    },
+    {
+      "slug": "klubovna-unikatni-chut-sofie",
+      "oldTitle": "**Klubovna: Unikátní chuť Sofie** - Visit Bulharsko",
+      "newTitle": "**Klubovna: Unikátní chuť Sofie**",
+      "oldDescLen": 81,
+      "newDescLen": 155
+    },
+    {
+      "slug": "bulharsko-protestuje-za-zvirata",
+      "oldTitle": "**„Bulharsko protestuje za zvířata“** - Visit Bulharsko",
+      "newTitle": "**„Bulharsko protestuje za zvířata“**",
+      "oldDescLen": 75,
+      "newDescLen": 153
+    },
+    {
+      "slug": "protest-v-sofii-skody-za-180-tis-e",
+      "oldTitle": "**Protest v Sofii: škody za 180 tis. €** - Visit Bulharsko",
+      "newTitle": "**Protest v Sofii: škody za 180 tis. €**",
+      "oldDescLen": 64,
+      "newDescLen": 155
+    },
+    {
+      "slug": "parkovani-v-sofii-zdrazi-%f0%9f%9a%97%f0%9f%92%b0",
+      "oldTitle": "Parkování v Sofii zdraží! 🚗💰 - Visit Bulharsko",
+      "newTitle": "Parkování v Sofii zdraží! 🚗💰",
+      "oldDescLen": 67,
+      "newDescLen": 150
+    },
+    {
+      "slug": "skandal-na-plazi-butamyata-%f0%9f%8c%8a%f0%9f%8f%96%ef%b8%8f",
+      "oldTitle": "**Skandál na pláži Butamyata! 🌊🏖️** - Visit Bulharsko",
+      "newTitle": "**Skandál na pláži Butamyata! 🌊🏖️**",
+      "oldDescLen": 79,
+      "newDescLen": 155
+    },
+    {
+      "slug": "bulharsky-jazyk",
+      "oldTitle": "Bulharský jazyk: Historie, zvláštnosti a tipy pro cestovatele",
+      "newTitle": "Bulharský jazyk: Historie, zvláštnosti a tipy pro cestovatele",
+      "oldDescLen": 121,
+      "newDescLen": 153
+    },
+    {
+      "slug": "plovdiv-nejstarsi-mesto-evropy",
+      "oldTitle": "Plovdiv – Průvodce nejstarším městem Evropy | Visit Bulharsko",
+      "newTitle": "Plovdiv – Průvodce nejstarším městem Evropy",
+      "oldDescLen": 141,
+      "newDescLen": 141
+    },
+    {
+      "slug": "tajemny-projekt-meni-pobrezi-varny",
+      "oldTitle": "**Tajemný projekt mění pobřeží Varny** - Visit Bulharsko",
+      "newTitle": "**Tajemný projekt mění pobřeží Varny**",
+      "oldDescLen": 77,
+      "newDescLen": 156
+    },
+    {
+      "slug": "boj-proti-krutosti-na-zviratech",
+      "oldTitle": "**Boj proti krutosti na zvířatech** - Visit Bulharsko",
+      "newTitle": "**Boj proti krutosti na zvířatech**",
+      "oldDescLen": 74,
+      "newDescLen": 157
+    },
+    {
+      "slug": "gastronomicka-revoluce-v-sofii",
+      "oldTitle": "**Gastronomická revoluce v Sofii!** - Visit Bulharsko",
+      "newTitle": "**Gastronomická revoluce v Sofii!**",
+      "oldDescLen": 93,
+      "newDescLen": 127
+    },
+    {
+      "slug": "soud-ve-varne-spor-o-svobodu-slova",
+      "oldTitle": "\"Soud ve Varně: Spor o svobodu slova\" - Visit Bulharsko",
+      "newTitle": "\"Soud ve Varně: Spor o svobodu slova\"",
+      "oldDescLen": 78,
+      "newDescLen": 118
+    },
+    {
+      "slug": "ticha-krize-demokracie-v-evrope-jak-oslabeni-pravniho-statu-ovlivnuje-obcany-i-turisty",
+      "oldTitle": "**Tichá krize demokracie v Evropě: Jak oslabení právního státu ovlivňuje občany i turisty?** - Visit Bulharsko",
+      "newTitle": "**Tichá krize demokracie v Evropě: Jak oslabení právního státu",
+      "oldDescLen": 28,
+      "newDescLen": 119
+    },
+    {
+      "slug": "bulharsko-zprisni-tresty-za-tyrani-zvirat",
+      "oldTitle": "**Bulharsko zpřísní tresty za týrání zvířat** - Visit Bulharsko",
+      "newTitle": "**Bulharsko zpřísní tresty za týrání zvířat**",
+      "oldDescLen": 62,
+      "newDescLen": 158
+    },
+    {
+      "slug": "novy-sef-bezpecnejsi-doprava",
+      "oldTitle": "**Nový šéf, bezpečnější doprava?** - Visit Bulharsko",
+      "newTitle": "**Nový šéf, bezpečnější doprava?**",
+      "oldDescLen": 87,
+      "newDescLen": 120
+    },
+    {
+      "slug": "bulharsko-posiluje-energetickou-nezavislost",
+      "oldTitle": "**Bulharsko posiluje energetickou nezávislost** - Visit Bulharsko",
+      "newTitle": "**Bulharsko posiluje energetickou nezávislost**",
+      "oldDescLen": 82,
+      "newDescLen": 128
+    },
+    {
+      "slug": "vlna-solidarity-v-srdci-sofie",
+      "oldTitle": "**Vlna solidarity v srdci Sofie** - Visit Bulharsko",
+      "newTitle": "**Vlna solidarity v srdci Sofie**",
+      "oldDescLen": 77,
+      "newDescLen": 158
+    },
+    {
+      "slug": "evropsky-parlament-zprisnuje-bezpecnost-v-sofii",
+      "oldTitle": "**Evropský parlament zpřísňuje bezpečnost v Sofii** - Visit Bulharsko",
+      "newTitle": "**Evropský parlament zpřísňuje bezpečnost v Sofii**",
+      "oldDescLen": 80,
+      "newDescLen": 130
+    },
+    {
+      "slug": "bulharsko-pomaha-obetem-pozaru",
+      "oldTitle": "**Bulharsko pomáhá obětem požáru** - Visit Bulharsko",
+      "newTitle": "**Bulharsko pomáhá obětem požáru**",
+      "oldDescLen": 100,
+      "newDescLen": 100
+    },
+    {
+      "slug": "oboriste-nova-era-pod-kuzmovem",
+      "oldTitle": "**Obořiště: Nová éra pod Kuzmovem** - Visit Bulharsko",
+      "newTitle": "**Obořiště: Nová éra pod Kuzmovem**",
+      "oldDescLen": 90,
+      "newDescLen": 124
+    },
+    {
+      "slug": "jak-si-uzit-bulharsko-i-v-chladu",
+      "oldTitle": "**Jak si užít Bulharsko i v chladu?** - Visit Bulharsko",
+      "newTitle": "**Jak si užít Bulharsko i v chladu?**",
+      "oldDescLen": 68,
+      "newDescLen": 156
+    },
+    {
+      "slug": "stefan-dobrev-lider-inovaci-v-evrope",
+      "oldTitle": "**Stefan Dobrev: líder inovací v Evropě** - Visit Bulharsko",
+      "newTitle": "**Stefan Dobrev: líder inovací v Evropě**",
+      "oldDescLen": 70,
+      "newDescLen": 159
+    },
+    {
+      "slug": "burgas-vs-gabrovo-kdo-bude-kulturni-metropoli-2032",
+      "oldTitle": "**Burgas vs. Gabrovo: Kdo bude kulturní metropolí 2032?** - Visit Bulharsko",
+      "newTitle": "**Burgas vs. Gabrovo: Kdo bude kulturní metropolí 2032?**",
+      "oldDescLen": 81,
+      "newDescLen": 137
+    },
+    {
+      "slug": "bulharsko-zasahlo-chladne-pocasi",
+      "oldTitle": "Bulharsko zasáhlo chladné počasí! - Visit Bulharsko",
+      "newTitle": "Bulharsko zasáhlo chladné počasí!",
+      "oldDescLen": 64,
+      "newDescLen": 158
+    },
+    {
+      "slug": "lepsi-lety-do-bulharska-otazka-poplatku",
+      "oldTitle": "**Lepší lety do Bulharska? Otázka poplatků** - Visit Bulharsko",
+      "newTitle": "**Lepší lety do Bulharska? Otázka poplatků**",
+      "oldDescLen": 71,
+      "newDescLen": 159
+    },
+    {
+      "slug": "navrat-kuzmova-zmeny-v-sofii",
+      "oldTitle": "**Návrat Kuzmova: Změny v Sofii!** - Visit Bulharsko",
+      "newTitle": "**Návrat Kuzmova: Změny v Sofii!**",
+      "oldDescLen": 64,
+      "newDescLen": 155
+    },
+    {
+      "slug": "bulharsko-meni-dalnicni-priority",
+      "oldTitle": "**Bulharsko mění dálniční priority** - Visit Bulharsko",
+      "newTitle": "**Bulharsko mění dálniční priority**",
+      "oldDescLen": 75,
+      "newDescLen": 158
+    },
+    {
+      "slug": "tragicka-nehoda-otrasla-bulharskem",
+      "oldTitle": "Tragická nehoda otřásla Bulharskem - Visit Bulharsko",
+      "newTitle": "Tragická nehoda otřásla Bulharskem",
+      "oldDescLen": 80,
+      "newDescLen": 155
+    },
+    {
+      "slug": "bulharsko-celi-nedostatku-vody",
+      "oldTitle": "Bulharsko čelí nedostatku vody - Visit Bulharsko",
+      "newTitle": "Bulharsko čelí nedostatku vody",
+      "oldDescLen": 71,
+      "newDescLen": 152
+    },
+    {
+      "slug": "kaufland-expanduje-v-bulharsku",
+      "oldTitle": "**Kaufland expanduje v Bulharsku!** - Visit Bulharsko",
+      "newTitle": "**Kaufland expanduje v Bulharsku!**",
+      "oldDescLen": 88,
+      "newDescLen": 118
+    },
+    {
+      "slug": "levne-lety-do-bulharska-na-obzoru",
+      "oldTitle": "**Levné lety do Bulharska na obzoru!** - Visit Bulharsko",
+      "newTitle": "**Levné lety do Bulharska na obzoru!**",
+      "oldDescLen": 62,
+      "newDescLen": 157
+    },
+    {
+      "slug": "sok-v-boxu-koko-tyson-v-nemocnici",
+      "oldTitle": "**Šok v boxu: Koko Tyson v nemocnici** - Visit Bulharsko",
+      "newTitle": "**Šok v boxu: Koko Tyson v nemocnici**",
+      "oldDescLen": 71,
+      "newDescLen": 156
+    },
+    {
+      "slug": "architektonicka-boure-v-sofii",
+      "oldTitle": "**Architektonická bouře v Sofii** - Visit Bulharsko",
+      "newTitle": "**Architektonická bouře v Sofii**",
+      "oldDescLen": 89,
+      "newDescLen": 117
+    },
+    {
+      "slug": "sofia-dokumental-sila-pravdy-ve-filmu",
+      "oldTitle": "**Sofia DokuMental: Síla pravdy ve filmu** - Visit Bulharsko",
+      "newTitle": "**Sofia DokuMental: Síla pravdy ve filmu**",
+      "oldDescLen": 82,
+      "newDescLen": 119
+    },
+    {
+      "slug": "sofie-nove-centrum-ai-v-evrope",
+      "oldTitle": "**Sofie: Nové centrum AI v Evropě** - Visit Bulharsko",
+      "newTitle": "**Sofie: Nové centrum AI v Evropě**",
+      "oldDescLen": 85,
+      "newDescLen": 157
+    },
+    {
+      "slug": "ruska-ambasada-v-sofii-sila-a-napeti",
+      "oldTitle": "**Ruská ambasáda v Sofii: Síla a napětí** - Visit Bulharsko",
+      "newTitle": "**Ruská ambasáda v Sofii: Síla a napětí**",
+      "oldDescLen": 87,
+      "newDescLen": 123
+    },
+    {
+      "slug": "mozne-znovuotevreni-ruskeho-konzulatu-ve-varne",
+      "oldTitle": "Možné znovuotevření ruského konzulátu ve Varně - Visit Bulharsko",
+      "newTitle": "Možné znovuotevření ruského konzulátu ve Varně",
+      "oldDescLen": 81,
+      "newDescLen": 126
+    },
+    {
+      "slug": "bulharsko-trapi-nedostatek-vody",
+      "oldTitle": "**Bulharsko trápí nedostatek vody** - Visit Bulharsko",
+      "newTitle": "**Bulharsko trápí nedostatek vody**",
+      "oldDescLen": 62,
+      "newDescLen": 154
+    },
+    {
+      "slug": "ryanair-rozsiruje-lety-do-bulharska",
+      "oldTitle": "**Ryanair rozšiřuje lety do Bulharska!** - Visit Bulharsko",
+      "newTitle": "**Ryanair rozšiřuje lety do Bulharska!**",
+      "oldDescLen": 77,
+      "newDescLen": 154
+    },
+    {
+      "slug": "boxer-koko-tyson-mel-nehodu",
+      "oldTitle": "**Boxer Koko Tyson měl nehodu** - Visit Bulharsko",
+      "newTitle": "**Boxer Koko Tyson měl nehodu**",
+      "oldDescLen": 72,
+      "newDescLen": 150
+    },
+    {
+      "slug": "nocni-doprava-v-sofii-v-ohrozeni",
+      "oldTitle": "Noční doprava v Sofii v ohrožení - Visit Bulharsko",
+      "newTitle": "Noční doprava v Sofii v ohrožení",
+      "oldDescLen": 86,
+      "newDescLen": 121
+    },
+    {
+      "slug": "utoky-neustavaji-ropa-i-zivoty",
+      "oldTitle": "\"Útoky neustávají: Ropa i životy\" - Visit Bulharsko",
+      "newTitle": "\"Útoky neustávají: Ropa i životy\"",
+      "oldDescLen": 90,
+      "newDescLen": 126
+    },
+    {
+      "slug": "burgas-2025-novy-plaza-mall-laka",
+      "oldTitle": "\"Burgas 2025: Nový Plaza Mall láká!\" - Visit Bulharsko",
+      "newTitle": "\"Burgas 2025: Nový Plaza Mall láká!\"",
+      "oldDescLen": 92,
+      "newDescLen": 127
+    },
+    {
+      "slug": "diety-ktere-skodi-misto-pomahaji",
+      "oldTitle": "„Diety, které škodí místo pomáhají“ - Visit Bulharsko",
+      "newTitle": "„Diety, které škodí místo pomáhají“",
+      "oldDescLen": 87,
+      "newDescLen": 125
+    },
+    {
+      "slug": "sofie-energeticka-krize-na-vzestupu",
+      "oldTitle": "\"Sofie: Energetická krize na vzestupu\" - Visit Bulharsko",
+      "newTitle": "\"Sofie: Energetická krize na vzestupu\"",
+      "oldDescLen": 86,
+      "newDescLen": 127
+    },
+    {
+      "slug": "ekologicky-raj-v-sofii-levna-doprava-a-cistsi-vzduch",
+      "oldTitle": "„Ekologický ráj v Sofii: Levná doprava a čistší vzduch“ - Visit Bulharsko",
+      "newTitle": "Ekologický ráj v Sofii: Levná doprava a čistší vzduch“",
+      "oldDescLen": 87,
+      "newDescLen": 145
+    },
+    {
+      "slug": "kosovsky-fotbalista-celi-vyhruzkam",
+      "oldTitle": "Kosovský fotbalista čelí výhrůžkám! - Visit Bulharsko",
+      "newTitle": "Kosovský fotbalista čelí výhrůžkám!",
+      "oldDescLen": 95,
+      "newDescLen": 129
+    },
+    {
+      "slug": "kamenny-les-v-ohrozeni-proc",
+      "oldTitle": "\"Kamenný les v ohrožení: proč?\" - Visit Bulharsko",
+      "newTitle": "\"Kamenný les v ohrožení: proč?\"",
+      "oldDescLen": 84,
+      "newDescLen": 118
+    },
+    {
+      "slug": "burgas-klic-k-energeticke-budoucnosti",
+      "oldTitle": "\"Burgas: Klíč k energetické budoucnosti\" - Visit Bulharsko",
+      "newTitle": "\"Burgas: Klíč k energetické budoucnosti\"",
+      "oldDescLen": 101,
+      "newDescLen": 101
+    },
+    {
+      "slug": "oslavy-osvobozeni-sofie-historie-oziva",
+      "oldTitle": "Oslavy osvobození Sofie: Historie ožívá! - Visit Bulharsko",
+      "newTitle": "Oslavy osvobození Sofie: Historie ožívá!",
+      "oldDescLen": 94,
+      "newDescLen": 137
+    },
+    {
+      "slug": "chytre-zemedelstvi-v-bulharsku-tradice-a-inovace",
+      "oldTitle": "\"Chytré zemědělství v Bulharsku: Tradice a inovace!\" - Visit Bulharsko",
+      "newTitle": "Chytré zemědělství v Bulharsku: Tradice a inovace!",
+      "oldDescLen": 82,
+      "newDescLen": 137
+    },
+    {
+      "slug": "zona-objeti-na-letisti-sofie",
+      "oldTitle": "„Zóna objetí“ na letišti Sofie! - Visit Bulharsko",
+      "newTitle": "„Zóna objetí“ na letišti Sofie!",
+      "oldDescLen": 77,
+      "newDescLen": 153
+    },
+    {
+      "slug": "nepriznive-pocasi-komplikuje-lety",
+      "oldTitle": "Nepříznivé počasí komplikuje lety - Visit Bulharsko",
+      "newTitle": "Nepříznivé počasí komplikuje lety",
+      "oldDescLen": 101,
+      "newDescLen": 153
+    },
+    {
+      "slug": "tragedie-v-sofii-vybuch-v-lozeneci",
+      "oldTitle": "\"Tragédie v Sofii: Výbuch v Lozeneci\" - Visit Bulharsko",
+      "newTitle": "\"Tragédie v Sofii: Výbuch v Lozeneci\"",
+      "oldDescLen": 78,
+      "newDescLen": 118
+    },
+    {
+      "slug": "zimni-kouzlo-bulharska-slunce-a-scenerie",
+      "oldTitle": "\"Zimní kouzlo Bulharska: Slunce a scenérie\" - Visit Bulharsko",
+      "newTitle": "\"Zimní kouzlo Bulharska: Slunce a scenérie\"",
+      "oldDescLen": 96,
+      "newDescLen": 138
+    },
+    {
+      "slug": "bulharsko-poklad-pro-milovniky-vina",
+      "oldTitle": "\"Bulharsko: Poklad pro milovníky vína\" - Visit Bulharsko",
+      "newTitle": "\"Bulharsko: Poklad pro milovníky vína\"",
+      "oldDescLen": 77,
+      "newDescLen": 118
+    },
+    {
+      "slug": "action-aquapark-vodni-svet-plny-zabavy",
+      "oldTitle": "Action Aquapark – Vodní svět plný zábavy - Visit Bulharsko",
+      "newTitle": "Action Aquapark – Vodní svět plný zábavy",
+      "oldDescLen": 358,
+      "newDescLen": 158
+    },
+    {
+      "slug": "nesebar-muzeum-pod-sirym-nebem",
+      "oldTitle": "Nesebar - Visit Bulharsko",
+      "newTitle": "Nesebar: tip na výlet",
+      "oldDescLen": 137,
+      "newDescLen": 137
+    },
+    {
+      "slug": "rilsky-klaster-perla-bulharskych-hor",
+      "oldTitle": "Rilský klášter – perla bulharských hor - Visit Bulharsko",
+      "newTitle": "Rilský klášter – perla bulharských hor",
+      "oldDescLen": 384,
+      "newDescLen": 129
+    },
+    {
+      "slug": "kouzlo-tradicni-bulharske-hudby",
+      "oldTitle": "Kouzlo tradiční bulharské hudby - Visit Bulharsko",
+      "newTitle": "Kouzlo tradiční bulharské hudby",
+      "oldDescLen": 112,
+      "newDescLen": 157
+    },
+    {
+      "slug": "tri-poklady-bulharske-kuchyne-ktere-musite-ochutnat",
+      "oldTitle": "Tři poklady bulharské kuchyně - Visit Bulharsko",
+      "newTitle": "Tři poklady bulharské kuchyně",
+      "oldDescLen": 139,
+      "newDescLen": 139
+    },
+    {
+      "slug": "nessebar-cernomorska-perla",
+      "oldTitle": "Nessebar - Černomořská perla - Visit Bulharsko",
+      "newTitle": "Nessebar - Černomořská perla",
+      "oldDescLen": 132,
+      "newDescLen": 132
+    },
+    {
+      "slug": "sofia-slavi-147-let-svobody",
+      "oldTitle": "\"Sofia slaví 147 let svobody!\" - Visit Bulharsko",
+      "newTitle": "\"Sofia slaví 147 let svobody!\"",
+      "oldDescLen": 66,
+      "newDescLen": 151
+    },
+    {
+      "slug": "jak-technologie-meni-bulharske-farmy",
+      "oldTitle": "„Jak technologie mění bulharské farmy“ - Visit Bulharsko",
+      "newTitle": "„Jak technologie mění bulharské farmy“",
+      "oldDescLen": 98,
+      "newDescLen": 98
+    },
+    {
+      "slug": "zona-pro-objeti-na-letisti-sofie",
+      "oldTitle": "„Zóna pro objetí“ na letišti Sofie - Visit Bulharsko",
+      "newTitle": "„Zóna pro objetí“ na letišti Sofie",
+      "oldDescLen": 115,
+      "newDescLen": 115
+    },
+    {
+      "slug": "tragedie-na-silnicich-v-bulharsku-jak-cestovat-bezpecne",
+      "oldTitle": "Tragédie na silnicích v Bulharsku: Jak cestovat bezpečně? - Visit Bulharsko",
+      "newTitle": "Tragédie na silnicích v Bulharsku: Jak cestovat bezpečně?",
+      "oldDescLen": 121,
+      "newDescLen": 117
+    },
+    {
+      "slug": "uzavreni-letiste-pulkovo-proc",
+      "oldTitle": "\"Uzavření letiště Pulkovo: Proč?\" - Visit Bulharsko",
+      "newTitle": "\"Uzavření letiště Pulkovo: Proč?\"",
+      "oldDescLen": 92,
+      "newDescLen": 128
+    },
+    {
+      "slug": "nebezpecne-vapovani-v-sofii",
+      "oldTitle": "„Nebezpečné vapování v Sofii“ - Visit Bulharsko",
+      "newTitle": "„Nebezpečné vapování v Sofii“",
+      "oldDescLen": 82,
+      "newDescLen": 159
+    },
+    {
+      "slug": "letiste-v-damasku-opet-oziva-2",
+      "oldTitle": "\"Letiště v Damašku opět ožívá!\" - Visit Bulharsko",
+      "newTitle": "\"Letiště v Damašku opět ožívá!\"",
+      "oldDescLen": 81,
+      "newDescLen": 153
+    },
+    {
+      "slug": "pocasi-komplikuje-lety-z-frankfurtu",
+      "oldTitle": "\"Počasí komplikuje lety z Frankfurtu\" - Visit Bulharsko",
+      "newTitle": "\"Počasí komplikuje lety z Frankfurtu\"",
+      "oldDescLen": 94,
+      "newDescLen": 134
+    },
+    {
+      "slug": "sofia-slavi-navrat-do-roku-1878",
+      "oldTitle": "\"Sofia slaví: Návrat do roku 1878\" - Visit Bulharsko",
+      "newTitle": "\"Sofia slaví: Návrat do roku 1878\"",
+      "oldDescLen": 72,
+      "newDescLen": 158
+    },
+    {
+      "slug": "zona-pro-objeti-novinka-u-t2-sofie",
+      "oldTitle": "\"Zóna pro objetí: Novinka u T2 Sofie\" - Visit Bulharsko",
+      "newTitle": "\"Zóna pro objetí: Novinka u T2 Sofie\"",
+      "oldDescLen": 86,
+      "newDescLen": 126
+    },
+    {
+      "slug": "tragedie-na-silnicich-v-bulharsku",
+      "oldTitle": "Tragédie na silnicích v Bulharsku - Visit Bulharsko",
+      "newTitle": "Tragédie na silnicích v Bulharsku",
+      "oldDescLen": 103,
+      "newDescLen": 151
+    },
+    {
+      "slug": "petrohrad-nahle-uzavreni-letiste",
+      "oldTitle": "\"Petrohrad: Náhlé uzavření letiště\" - Visit Bulharsko",
+      "newTitle": "\"Petrohrad: Náhlé uzavření letiště\"",
+      "oldDescLen": 101,
+      "newDescLen": 159
+    },
+    {
+      "slug": "nelegalni-naplne-sokuji-bulharsko",
+      "oldTitle": "\"Nelegální náplně šokují Bulharsko\" - Visit Bulharsko",
+      "newTitle": "\"Nelegální náplně šokují Bulharsko\"",
+      "oldDescLen": 106,
+      "newDescLen": 154
+    },
+    {
+      "slug": "letiste-v-damasku-opet-oziva",
+      "oldTitle": "\"Letiště v Damašku opět ožívá!\" - Visit Bulharsko",
+      "newTitle": "\"Letiště v Damašku opět ožívá!\"",
+      "oldDescLen": 90,
+      "newDescLen": 124
+    },
+    {
+      "slug": "frankfurt-zima-komplikuje-lety",
+      "oldTitle": "„Frankfurt: Zima komplikuje lety“ - Visit Bulharsko",
+      "newTitle": "„Frankfurt: Zima komplikuje lety“",
+      "oldDescLen": 86,
+      "newDescLen": 122
+    },
+    {
+      "slug": "zlate-pisky-vase-vstupenka-do-raje-relaxace-a-dobrodruzstvi",
+      "oldTitle": "Zlaté písky: Vaše vstupenka do ráje relaxace a dobrodružství - Visit Bulharsko",
+      "newTitle": "Zlaté písky: pláže, tipy a zážitky: tipy pro cestu",
+      "oldDescLen": 367,
+      "newDescLen": 159
+    },
+    {
+      "slug": "slunecne-pobrezi-klenot-cerneho-more",
+      "oldTitle": "Slunečné pobřeží: Klenot Černého moře - Visit Bulharsko",
+      "newTitle": "Slunečné pobřeží: Klenot Černého moře",
+      "oldDescLen": 366,
+      "newDescLen": 137
+    },
+    {
+      "slug": "bulharsko-bez-starosti-co-potrebujete-vedet-o-celnich-a-devizovych-predpisech",
+      "oldTitle": "Bulharsko bez starostí: Co potřebujete vědět o celních a devizových předpisech - Visit Bulharsko",
+      "newTitle": "Bulharsko bez starostí: celní a devizové předpisy",
+      "oldDescLen": 361,
+      "newDescLen": 153
+    },
+    {
+      "slug": "pocasi-v-bulharsku-kdy-vyrazit-a-co-ocekavat",
+      "oldTitle": "Počasí v Bulharsku: Kdy vyrazit a co očekávat? - Visit Bulharsko",
+      "newTitle": "Počasí v Bulharsku: Kdy vyrazit a co očekávat?",
+      "oldDescLen": 353,
+      "newDescLen": 119
+    },
+    {
+      "slug": "ilyrove-a-thrakove-predchudci-bulharskeho-naroda",
+      "oldTitle": "Ilyrové a Thrákové: Předchůdci bulharského národa - Visit Bulharsko",
+      "newTitle": "Ilyrové a Thrákové: Předchůdci bulharského národa",
+      "oldDescLen": 359,
+      "newDescLen": 156
+    },
+    {
+      "slug": "nejstarsi-osidleni-bulharska-cesta-k-civilizaci",
+      "oldTitle": "Nejstarší osídlení Bulharska: Cesta k civilizaci - Visit Bulharsko",
+      "newTitle": "Nejstarší osídlení Bulharska: Cesta k civilizaci",
+      "oldDescLen": 366,
+      "newDescLen": 102
+    },
+    {
+      "slug": "strucny-prehled-dejin-bulharska-od-staroveku-po-moderni-dobu",
+      "oldTitle": "Stručný přehled dějin Bulharska: Od starověku po moderní dobu - Visit Bulharsko",
+      "newTitle": "Stručný přehled dějin Bulharska: od starověku po dnešek",
+      "oldDescLen": 367,
+      "newDescLen": 110
+    },
+    {
+      "slug": "brutalni-napadeni-v-srdci-sofie",
+      "oldTitle": "\"Brutální napadení v srdci Sofie\" - Visit Bulharsko",
+      "newTitle": "\"Brutální napadení v srdci Sofie\"",
+      "oldDescLen": 108,
+      "newDescLen": 104
+    },
+    {
+      "slug": "vypadek-tepla-v-sofii-co-dal",
+      "oldTitle": "Výpadek tepla v Sofii: Co dál? - Visit Bulharsko",
+      "newTitle": "Výpadek tepla v Sofii: Co dál?",
+      "oldDescLen": 105,
+      "newDescLen": 101
+    },
+    {
+      "slug": "sokujici-utok-v-centru-sofie",
+      "oldTitle": "\"Šokující útok v centru Sofie\" - Visit Bulharsko",
+      "newTitle": "\"Šokující útok v centru Sofie\"",
+      "oldDescLen": 85,
+      "newDescLen": 156
+    },
+    {
+      "slug": "bulharsko-tradice-vs-inovace",
+      "oldTitle": "\"Bulharsko: Tradice vs. inovace\" - Visit Bulharsko",
+      "newTitle": "\"Bulharsko: Tradice vs. inovace\"",
+      "oldDescLen": 87,
+      "newDescLen": 118
+    },
+    {
+      "slug": "opustene-lazne-sofie-pribeh-znovuzrozeni",
+      "oldTitle": "\"Opuštěné lázně Sofie: Příběh znovuzrození\" - Visit Bulharsko",
+      "newTitle": "\"Opuštěné lázně Sofie: Příběh znovuzrození\"",
+      "oldDescLen": 82,
+      "newDescLen": 124
+    },
+    {
+      "slug": "nova-pravidla-na-letisti-v-sofii",
+      "oldTitle": "\"Nová pravidla na letišti v Sofii\" - Visit Bulharsko",
+      "newTitle": "\"Nová pravidla na letišti v Sofii\"",
+      "oldDescLen": 69,
+      "newDescLen": 155
+    },
+    {
+      "slug": "bulharsko-revoluce-ve-zdravotni-peci",
+      "oldTitle": "\"Bulharsko: Revoluce ve zdravotní péči\" - Visit Bulharsko",
+      "newTitle": "\"Bulharsko: Revoluce ve zdravotní péči\"",
+      "oldDescLen": 85,
+      "newDescLen": 127
+    },
+    {
+      "slug": "sofie-ekologie-a-moderni-zivot",
+      "oldTitle": "\"Sofie: Ekologie a moderní život\" - Visit Bulharsko",
+      "newTitle": "\"Sofie: Ekologie a moderní život\"",
+      "oldDescLen": 81,
+      "newDescLen": 117
+    },
+    {
+      "slug": "husta-mlha-hali-sofii-zmena-uz-brzy",
+      "oldTitle": "Hustá mlha halí Sofii, změna už brzy! - Visit Bulharsko",
+      "newTitle": "Hustá mlha halí Sofii, změna už brzy!",
+      "oldDescLen": 97,
+      "newDescLen": 97
+    },
+    {
+      "slug": "drama-v-sofii-napadeni-strazneho",
+      "oldTitle": "\"Drama v Sofii: Napadení strážného\" - Visit Bulharsko",
+      "newTitle": "\"Drama v Sofii: Napadení strážného\"",
+      "oldDescLen": 86,
+      "newDescLen": 120
+    },
+    {
+      "slug": "sofie-bez-tepla-zima-klepe-na-dvere",
+      "oldTitle": "\"Sofie bez tepla: Zima klepe na dveře\" - Visit Bulharsko",
+      "newTitle": "\"Sofie bez tepla: Zima klepe na dveře\"",
+      "oldDescLen": 80,
+      "newDescLen": 121
+    },
+    {
+      "slug": "bulharsko-ocima-parizana-kouzlo-kultury-a-komunikace",
+      "oldTitle": "\"Bulharsko očima Pařížana: Kouzlo kultury a komunikace\" - Visit Bulharsko",
+      "newTitle": "Bulharsko očima Pařížana: Kouzlo kultury a komunikace",
+      "oldDescLen": 76,
+      "newDescLen": 134
+    },
+    {
+      "slug": "zapomenute-lazne-sofie-pribeh",
+      "oldTitle": "\"Zapomenuté lázně Sofie: Příběh\" - Visit Bulharsko",
+      "newTitle": "\"Zapomenuté lázně Sofie: Příběh\"",
+      "oldDescLen": 63,
+      "newDescLen": 156
+    },
+    {
+      "slug": "sofie-historie-kultura-i-vyzvy",
+      "oldTitle": "\"Sofie: Historie, kultura i výzvy\" - Visit Bulharsko",
+      "newTitle": "\"Sofie: Historie, kultura i výzvy\"",
+      "oldDescLen": 74,
+      "newDescLen": 159
+    },
+    {
+      "slug": "sofia-v-mlze-tajemna-atmosfera-mesta",
+      "oldTitle": "\"Sofia v mlze: Tajemná atmosféra města\" - Visit Bulharsko",
+      "newTitle": "\"Sofia v mlze: Tajemná atmosféra města\"",
+      "oldDescLen": 88,
+      "newDescLen": 130
+    },
+    {
+      "slug": "brutalni-utok-v-sofii-otrasl-zemi",
+      "oldTitle": "\"Brutální útok v Sofii otřásl zemí\" - Visit Bulharsko",
+      "newTitle": "\"Brutální útok v Sofii otřásl zemí\"",
+      "oldDescLen": 123,
+      "newDescLen": 119
+    },
+    {
+      "slug": "sofie-bez-tepla-nouzova-opatreni",
+      "oldTitle": "Sofie bez tepla: Nouzová opatření - Visit Bulharsko",
+      "newTitle": "Sofie bez tepla: Nouzová opatření",
+      "oldDescLen": 79,
+      "newDescLen": 153
+    },
+    {
+      "slug": "bulharsko-vs-francie-kouzlo-komunikace",
+      "oldTitle": "\"Bulharsko vs. Francie: kouzlo komunikace\" - Visit Bulharsko",
+      "newTitle": "\"Bulharsko vs. Francie: kouzlo komunikace\"",
+      "oldDescLen": 77,
+      "newDescLen": 118
+    },
+    {
+      "slug": "tajemstvi-zapomenutych-lazni-sofie",
+      "oldTitle": "\"Tajemství zapomenutých lázní Sofie\" - Visit Bulharsko",
+      "newTitle": "\"Tajemství zapomenutých lázní Sofie\"",
+      "oldDescLen": 65,
+      "newDescLen": 156
+    },
+    {
+      "slug": "tragedie-v-sofii-4-zivoty-zmareny",
+      "oldTitle": "\"Tragédie v Sofii: 4 životy zmařeny\" - Visit Bulharsko",
+      "newTitle": "\"Tragédie v Sofii: 4 životy zmařeny\"",
+      "oldDescLen": 120,
+      "newDescLen": 156
+    },
+    {
+      "slug": "prozijte-nezapomenutelny-silvestr-v-sofii-mesto-plne-zabavy-a-nocni-dopravy-az-do-rana",
+      "oldTitle": "Silvestr v Sofii - Visit Bulharsko",
+      "newTitle": "Silvestr v Sofii: aktuálně z Bulharska",
+      "oldDescLen": 32,
+      "newDescLen": 113
+    },
+    {
+      "slug": "husta-mlha-na-letisti-v-sofii-jak-pocasi-zamichalo-leteckymi-plany-a-prineslo-dobrodruzstvi-cestujicim",
+      "oldTitle": "Hustá mlha na letišti v Sofii - Visit Bulharsko",
+      "newTitle": "Hustá mlha na letišti v Sofii",
+      "oldDescLen": 31,
+      "newDescLen": 125
+    },
+    {
+      "slug": "nemovitosti-bulharsko",
+      "oldTitle": "Nemovitosti Bulharsko nabídka | Visit Bulharsko",
+      "newTitle": "Nemovitosti Bulharsko nabídka",
+      "oldDescLen": 335,
+      "newDescLen": 130
+    },
+    {
+      "slug": "kontakt",
+      "oldTitle": "Kontakt - Visit Bulharsko",
+      "newTitle": "Kontakt: Visit Bulharsko",
+      "oldDescLen": 395,
+      "newDescLen": 156
+    },
+    {
+      "slug": "o-nas",
+      "oldTitle": "O nás - Visit Bulharsko",
+      "newTitle": "O nás: Visit Bulharsko",
+      "oldDescLen": 392,
+      "newDescLen": 151
+    }
+  ]
+}

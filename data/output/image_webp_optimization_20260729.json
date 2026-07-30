@@ -1,0 +1,736 @@
+{
+  "maxKb": 300,
+  "convertedCount": 270,
+  "failed": [
+    {
+      "path": "uploads/2025/01/Objevte-skvele-ceny-optimized.webp",
+      "error": "EPERM, Permission denied: \\\\?\\C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\01\\Objevte-skvele-ceny.gif '\\\\?\\C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\01\\Objevte-skvele-ceny.gif'"
+    },
+    {
+      "path": "uploads/2025/03/bulharsko-primorsko-2048x1364-optimized.webp",
+      "error": "EPERM: operation not permitted, rename 'C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\bulharsko-primorsko-2048x1364.webp.tmp.webp' -> 'C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\bulharsko-primorsko-2048x1364.webp'"
+    },
+    {
+      "path": "uploads/2025/03/bulharsko-primorsko-scaled-optimized.webp",
+      "error": "EPERM: operation not permitted, rename 'C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\bulharsko-primorsko-scaled.webp.tmp.webp' -> 'C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\bulharsko-primorsko-scaled.webp'"
+    },
+    {
+      "path": "uploads/2025/03/dovolena-bulharsko-2048x1536-optimized.webp",
+      "error": "EPERM: operation not permitted, rename 'C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\dovolena-bulharsko-2048x1536.webp.tmp.webp' -> 'C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\dovolena-bulharsko-2048x1536.webp'"
+    },
+    {
+      "path": "uploads/2025/03/plovdiv-pohled-1-1536x1024-optimized.webp",
+      "error": "EPERM: operation not permitted, rename 'C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\plovdiv-pohled-1-1536x1024.webp.tmp.webp' -> 'C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\plovdiv-pohled-1-1536x1024.webp'"
+    },
+    {
+      "path": "uploads/2025/03/plovdiv-pohled-1-2048x1365-optimized.webp",
+      "error": "EPERM: operation not permitted, rename 'C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\plovdiv-pohled-1-2048x1365.webp.tmp.webp' -> 'C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\plovdiv-pohled-1-2048x1365.webp'"
+    },
+    {
+      "path": "uploads/2025/03/plovdiv-pohled-1-scaled-optimized.webp",
+      "error": "EPERM: operation not permitted, rename 'C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\plovdiv-pohled-1-scaled.webp.tmp.webp' -> 'C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\plovdiv-pohled-1-scaled.webp'"
+    },
+    {
+      "path": "uploads/2025/03/plovdiv-pohled-scaled-optimized.webp",
+      "error": "EPERM: operation not permitted, rename 'C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\plovdiv-pohled-scaled.webp.tmp.webp' -> 'C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\plovdiv-pohled-scaled.webp'"
+    },
+    {
+      "path": "uploads/2025/03/vidin-synagoga-scaled-optimized.webp",
+      "error": "EPERM: operation not permitted, rename 'C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\vidin-synagoga-scaled.webp.tmp.webp' -> 'C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\vidin-synagoga-scaled.webp'"
+    }
+  ],
+  "changedFiles": [
+    "data/content/media_errors.json",
+    "data/content/media_map.json",
+    "data/content/wp_export.json",
+    "data/output/visitbulharsko_prelaunch_audit_after_fixes_20260729.md",
+    "data/output/visitbulharsko_seo_audit_summary_20260729.md",
+    "data/source/audit_source.json",
+    "src/components/PostCard.astro",
+    "src/data/site-data.json",
+    "src/layouts/BaseLayout.astro",
+    "src/pages/index.astro",
+    "src/pages/[slug]/index.astro"
+  ],
+  "backupDir": "data/backups/original-images-before-webp-2026-07-29T19-40-58-048Z",
+  "remainingOversized": [
+    {
+      "path": "uploads/2025/01/Objevte-skvele-ceny-optimized.webp",
+      "kb": 6991.2
+    },
+    {
+      "path": "uploads/2025/03/plovdiv-pohled-1-scaled-optimized.webp",
+      "kb": 807.8
+    },
+    {
+      "path": "uploads/2025/03/plovdiv-pohled-scaled-optimized.webp",
+      "kb": 807.8
+    },
+    {
+      "path": "uploads/2025/03/vidin-synagoga-scaled-optimized.webp",
+      "kb": 785.9
+    },
+    {
+      "path": "uploads/2025/03/bulharsko-primorsko-scaled-optimized.webp",
+      "kb": 618
+    },
+    {
+      "path": "uploads/2025/03/plovdiv-pohled-1-2048x1365-optimized.webp",
+      "kb": 548.5
+    },
+    {
+      "path": "uploads/2025/03/bulharsko-primorsko-2048x1364-optimized.webp",
+      "kb": 446.9
+    },
+    {
+      "path": "uploads/2025/03/dovolena-bulharsko-2048x1536-optimized.webp",
+      "kb": 336.6
+    },
+    {
+      "path": "uploads/2025/03/plovdiv-pohled-1-1536x1024-optimized.webp",
+      "kb": 335.5
+    }
+  ],
+  "topConverted": [
+    {
+      "old": "uploads/2023/07/header-img-1-1-1.png",
+      "new": "uploads/2023/07/header-img-1-1-1.webp",
+      "oldKb": 2769.9,
+      "newKb": 181.9,
+      "quality": 84,
+      "width": 1800
+    },
+    {
+      "old": "uploads/2025/01/sonyx97140_A_collage-style_artwork_showing_Bulgarias_historic_0c76ae5e-e837-475d-8e3e-e1bc981ee910_3.png",
+      "new": "uploads/2025/01/sonyx97140_A_collage-style_artwork_showing_Bulgarias_historic_0c76ae5e-e837-475d-8e3e-e1bc981ee910_3.webp",
+      "oldKb": 2617.1,
+      "newKb": 294.9,
+      "quality": 72,
+      "width": 1344
+    },
+    {
+      "old": "uploads/hermes/strucny-prehled-dejin-bulharska-od-staroveku-po-moderni-dobu.png",
+      "new": "uploads/hermes/strucny-prehled-dejin-bulharska-od-staroveku-po-moderni-dobu.webp",
+      "oldKb": 2617.1,
+      "newKb": 294.9,
+      "quality": 72,
+      "width": 1344
+    },
+    {
+      "old": "uploads/2025/01/sonyx97140_A_vivid_oil_painting_of_prehistoric_humans_in_the__0f386349-90c6-4814-855c-dd3184248065_2-1.png",
+      "new": "uploads/2025/01/sonyx97140_A_vivid_oil_painting_of_prehistoric_humans_in_the__0f386349-90c6-4814-855c-dd3184248065_2-1.webp",
+      "oldKb": 2317,
+      "newKb": 290.4,
+      "quality": 84,
+      "width": 1456
+    },
+    {
+      "old": "uploads/hermes/nejstarsi-osidleni-bulharska-cesta-k-civilizaci.png",
+      "new": "uploads/hermes/nejstarsi-osidleni-bulharska-cesta-k-civilizaci.webp",
+      "oldKb": 2317,
+      "newKb": 290.4,
+      "quality": 84,
+      "width": 1456
+    },
+    {
+      "old": "uploads/2025/01/sonyx97140_A_serene_scene_of_a_Bulgarian_folk_ensemble_with_a_54b36ab0-0a0e-400f-902f-808ce413f332_3.png",
+      "new": "uploads/2025/01/sonyx97140_A_serene_scene_of_a_Bulgarian_folk_ensemble_with_a_54b36ab0-0a0e-400f-902f-808ce413f332_3.webp",
+      "oldKb": 2245.7,
+      "newKb": 278.6,
+      "quality": 84,
+      "width": 1232
+    },
+    {
+      "old": "uploads/hermes/kouzlo-tradicni-bulharske-hudby.png",
+      "new": "uploads/hermes/kouzlo-tradicni-bulharske-hudby.webp",
+      "oldKb": 2245.7,
+      "newKb": 278.6,
+      "quality": 84,
+      "width": 1232
+    },
+    {
+      "old": "uploads/2023/06/sonyx97140_create_me_a_plane_in_airoport._It_is_sunny_day_aro_ba127754-b88f-4377-b44d-0abfe2cb653c_1.png",
+      "new": "uploads/2023/06/sonyx97140_create_me_a_plane_in_airoport._It_is_sunny_day_aro_ba127754-b88f-4377-b44d-0abfe2cb653c_1.webp",
+      "oldKb": 2200.6,
+      "newKb": 268.6,
+      "quality": 80,
+      "width": 1024
+    },
+    {
+      "old": "uploads/hermes/bulharsko-se-neleti-z-dvojky.png",
+      "new": "uploads/hermes/bulharsko-se-neleti-z-dvojky.webp",
+      "oldKb": 2200.6,
+      "newKb": 268.6,
+      "quality": 80,
+      "width": 1024
+    },
+    {
+      "old": "uploads/2025/01/sonyx97140_A_realistic_photograph_of_a_serene_Bulgarian_Black_152d9576-135f-45a2-a367-7065b553dbde_2-1.png",
+      "new": "uploads/2025/01/sonyx97140_A_realistic_photograph_of_a_serene_Bulgarian_Black_152d9576-135f-45a2-a367-7065b553dbde_2-1.webp",
+      "oldKb": 1943.4,
+      "newKb": 213.9,
+      "quality": 84,
+      "width": 1456
+    },
+    {
+      "old": "uploads/hermes/pocasi-v-bulharsku-kdy-vyrazit-a-co-ocekavat.png",
+      "new": "uploads/hermes/pocasi-v-bulharsku-kdy-vyrazit-a-co-ocekavat.webp",
+      "oldKb": 1943.4,
+      "newKb": 213.9,
+      "quality": 84,
+      "width": 1456
+    },
+    {
+      "old": "uploads/2023/08/Firefly-travel-man-from-back-in-the-city-in-Sri-Lanka-66868.jpg",
+      "new": "uploads/2023/08/Firefly-travel-man-from-back-in-the-city-in-Sri-Lanka-66868.webp",
+      "oldKb": 1938.9,
+      "newKb": 291.7,
+      "quality": 84,
+      "width": 1792
+    },
+    {
+      "old": "uploads/2025/01/sonyx97140_An_Illyrian_tribal_leader_standing_on_a_rocky_outc_b75254a8-b60d-4e1f-9c38-d01d32b505e7_2.png",
+      "new": "uploads/2025/01/sonyx97140_An_Illyrian_tribal_leader_standing_on_a_rocky_outc_b75254a8-b60d-4e1f-9c38-d01d32b505e7_2.webp",
+      "oldKb": 1860.5,
+      "newKb": 129.6,
+      "quality": 84,
+      "width": 1344
+    },
+    {
+      "old": "uploads/hermes/ilyrove-a-thrakove-predchudci-bulharskeho-naroda.png",
+      "new": "uploads/hermes/ilyrove-a-thrakove-predchudci-bulharskeho-naroda.webp",
+      "oldKb": 1860.5,
+      "newKb": 129.6,
+      "quality": 84,
+      "width": 1344
+    },
+    {
+      "old": "uploads/2025/01/sonyx97140_A_cheerful_summer_family_scene_in_a_Bulgarian_airp_9284f09d-3941-4d13-bff3-2eb7e1124300_2.png",
+      "new": "uploads/2025/01/sonyx97140_A_cheerful_summer_family_scene_in_a_Bulgarian_airp_9284f09d-3941-4d13-bff3-2eb7e1124300_2.webp",
+      "oldKb": 1824.6,
+      "newKb": 110.7,
+      "quality": 84,
+      "width": 1344
+    },
+    {
+      "old": "uploads/hermes/bulharsko-bez-starosti-co-potrebujete-vedet-o-celnich-a-devizovych-predpisech.png",
+      "new": "uploads/hermes/bulharsko-bez-starosti-co-potrebujete-vedet-o-celnich-a-devizovych-predpisech.webp",
+      "oldKb": 1824.6,
+      "newKb": 110.7,
+      "quality": 84,
+      "width": 1344
+    },
+    {
+      "old": "uploads/2022/08/sonyx97140_the_old_man_is_wearing_only_a_swimsuit._man_in_bul_ed01477a-8856-427f-a129-098d533394bb_1.png",
+      "new": "uploads/2022/08/sonyx97140_the_old_man_is_wearing_only_a_swimsuit._man_in_bul_ed01477a-8856-427f-a129-098d533394bb_1.webp",
+      "oldKb": 1722.6,
+      "newKb": 117.1,
+      "quality": 84,
+      "width": 1024
+    },
+    {
+      "old": "uploads/hermes/zazitky-z-nuda-plaze.png",
+      "new": "uploads/hermes/zazitky-z-nuda-plaze.webp",
+      "oldKb": 1722.6,
+      "newKb": 117.1,
+      "quality": 84,
+      "width": 1024
+    },
+    {
+      "old": "uploads/2022/08/sonyx97140_man_at_home_in_modern_apartment._Expression_of_ind_39c91b41-9dfc-4558-9b03-ac64a5f13301_1.png",
+      "new": "uploads/2022/08/sonyx97140_man_at_home_in_modern_apartment._Expression_of_ind_39c91b41-9dfc-4558-9b03-ac64a5f13301_1.webp",
+      "oldKb": 1571.2,
+      "newKb": 102.5,
+      "quality": 84,
+      "width": 1024
+    },
+    {
+      "old": "uploads/hermes/do-bulharska-s-pasem-nebo-obcankou.png",
+      "new": "uploads/hermes/do-bulharska-s-pasem-nebo-obcankou.webp",
+      "oldKb": 1571.2,
+      "newKb": 102.5,
+      "quality": 84,
+      "width": 1024
+    },
+    {
+      "old": "uploads/2025/01/sonyx97140_A_serene_scene_of_a_Bulgarian_folk_ensemble_with_a_54b36ab0-0a0e-400f-902f-808ce413f332_3-1024x771.png",
+      "new": "uploads/2025/01/sonyx97140_A_serene_scene_of_a_Bulgarian_folk_ensemble_with_a_54b36ab0-0a0e-400f-902f-808ce413f332_3-1024x771.webp",
+      "oldKb": 1390.8,
+      "newKb": 162,
+      "quality": 84,
+      "width": 1024
+    },
+    {
+      "old": "uploads/2023/06/sonyx97140_create_me_a_plane_in_airoport._It_is_sunny_day_aro_ba127754-b88f-4377-b44d-0abfe2cb653c_1-768x768.png",
+      "new": "uploads/2023/06/sonyx97140_create_me_a_plane_in_airoport._It_is_sunny_day_aro_ba127754-b88f-4377-b44d-0abfe2cb653c_1-768x768.webp",
+      "oldKb": 1117.3,
+      "newKb": 154.8,
+      "quality": 84,
+      "width": 768
+    },
+    {
+      "old": "uploads/2022/08/Firefly-Beach-sea-good-weather-small-wave-surprise-man-66658.jpg",
+      "new": "uploads/2022/08/Firefly-Beach-sea-good-weather-small-wave-surprise-man-66658.webp",
+      "oldKb": 1093.2,
+      "newKb": 283.4,
+      "quality": 84,
+      "width": 1792
+    },
+    {
+      "old": "uploads/2025/01/sonyx97140_A_vivid_oil_painting_of_prehistoric_humans_in_the__0f386349-90c6-4814-855c-dd3184248065_2-1-1024x574.png",
+      "new": "uploads/2025/01/sonyx97140_A_vivid_oil_painting_of_prehistoric_humans_in_the__0f386349-90c6-4814-855c-dd3184248065_2-1-1024x574.webp",
+      "oldKb": 1056.3,
+      "newKb": 131.2,
+      "quality": 84,
+      "width": 1024
+    },
+    {
+      "old": "uploads/2022/08/AdobeStock_404184012-scaled.jpeg",
+      "new": "uploads/2022/08/AdobeStock_404184012-scaled.webp",
+      "oldKb": 972.5,
+      "newKb": 295.3,
+      "quality": 68,
+      "width": 1800
+    },
+    {
+      "old": "uploads/2025/01/Rila_Monastery-scaled.jpg",
+      "new": "uploads/2025/01/Rila_Monastery-scaled.webp",
+      "oldKb": 942.8,
+      "newKb": 287.9,
+      "quality": 80,
+      "width": 1800
+    },
+    {
+      "old": "uploads/2022/09/burgas-aktivity-katedrala.png",
+      "new": "uploads/2022/09/burgas-aktivity-katedrala.webp",
+      "oldKb": 931.4,
+      "newKb": 110,
+      "quality": 84,
+      "width": 1000
+    },
+    {
+      "old": "uploads/2025/01/sonyx97140_A_cheerful_summer_family_scene_in_a_Bulgarian_airp_9284f09d-3941-4d13-bff3-2eb7e1124300_2-1024x683.png",
+      "new": "uploads/2025/01/sonyx97140_A_cheerful_summer_family_scene_in_a_Bulgarian_airp_9284f09d-3941-4d13-bff3-2eb7e1124300_2-1024x683.webp",
+      "oldKb": 919.9,
+      "newKb": 65.6,
+      "quality": 84,
+      "width": 1024
+    },
+    {
+      "old": "uploads/2025/01/AdobeStock_255935471-scaled.jpeg",
+      "new": "uploads/2025/01/AdobeStock_255935471-scaled.webp",
+      "oldKb": 915.9,
+      "newKb": 287.2,
+      "quality": 72,
+      "width": 1800
+    },
+    {
+      "old": "uploads/2024/10/sunny-beach.jpeg",
+      "new": "uploads/2024/10/sunny-beach.webp",
+      "oldKb": 915.2,
+      "newKb": 251.9,
+      "quality": 80,
+      "width": 1800
+    },
+    {
+      "old": "uploads/2025/03/10843_5640060066.jpg",
+      "new": "uploads/2025/03/10843_5640060066.webp",
+      "oldKb": 895.4,
+      "newKb": 268,
+      "quality": 76,
+      "width": 1800
+    },
+    {
+      "old": "uploads/2025/01/sonyx97140_A_realistic_photograph_of_a_serene_Bulgarian_Black_152d9576-135f-45a2-a367-7065b553dbde_2-1-1024x574.png",
+      "new": "uploads/2025/01/sonyx97140_A_realistic_photograph_of_a_serene_Bulgarian_Black_152d9576-135f-45a2-a367-7065b553dbde_2-1-1024x574.webp",
+      "oldKb": 853.7,
+      "newKb": 99.3,
+      "quality": 84,
+      "width": 1024
+    },
+    {
+      "old": "uploads/2025/01/sonyx97140_A_serene_scene_of_a_Bulgarian_folk_ensemble_with_a_54b36ab0-0a0e-400f-902f-808ce413f332_3-768x578.png",
+      "new": "uploads/2025/01/sonyx97140_A_serene_scene_of_a_Bulgarian_folk_ensemble_with_a_54b36ab0-0a0e-400f-902f-808ce413f332_3-768x578.webp",
+      "oldKb": 802.3,
+      "newKb": 99.3,
+      "quality": 84,
+      "width": 768
+    },
+    {
+      "old": "uploads/2022/08/Firefly-Make-an-image-about-traveling-with-a-bus.-People-waiting-on-bus-station-on-bulgaria-96403.jpg",
+      "new": "uploads/2022/08/Firefly-Make-an-image-about-traveling-with-a-bus.-People-waiting-on-bus-station-on-bulgaria-96403.webp",
+      "oldKb": 715.8,
+      "newKb": 153.8,
+      "quality": 84,
+      "width": 1792
+    },
+    {
+      "old": "uploads/2022/08/Firefly-traveling-passport-suitcase-luggage-72318.jpg",
+      "new": "uploads/2022/08/Firefly-traveling-passport-suitcase-luggage-72318.webp",
+      "oldKb": 709.3,
+      "newKb": 180.8,
+      "quality": 84,
+      "width": 1792
+    },
+    {
+      "old": "uploads/2025/01/nessebar.jpeg",
+      "new": "uploads/2025/01/nessebar.webp",
+      "oldKb": 708.5,
+      "newKb": 257.3,
+      "quality": 84,
+      "width": 1800
+    },
+    {
+      "old": "uploads/2025/03/10882_4755610479.jpg",
+      "new": "uploads/2025/03/10882_4755610479.webp",
+      "oldKb": 693.1,
+      "newKb": 258.6,
+      "quality": 84,
+      "width": 1800
+    },
+    {
+      "old": "uploads/2022/08/Firefly-Make-an-image-about-traveling-with-a-airplane.-Man-in-Terminal-in-Airport-front-of-departure-1.jpg",
+      "new": "uploads/2022/08/Firefly-Make-an-image-about-traveling-with-a-airplane.-Man-in-Terminal-in-Airport-front-of-departure-1.webp",
+      "oldKb": 687.3,
+      "newKb": 135,
+      "quality": 84,
+      "width": 1792
+    },
+    {
+      "old": "uploads/2025/01/Rila_Monastery-2048x1365.jpg",
+      "new": "uploads/2025/01/Rila_Monastery-2048x1365.webp",
+      "oldKb": 658.4,
+      "newKb": 277.1,
+      "quality": 80,
+      "width": 1800
+    },
+    {
+      "old": "uploads/2025/01/AdobeStock_255935471-2048x1536.jpeg",
+      "new": "uploads/2025/01/AdobeStock_255935471-2048x1536.webp",
+      "oldKb": 628.5,
+      "newKb": 294.1,
+      "quality": 76,
+      "width": 1800
+    },
+    {
+      "old": "uploads/2025/01/AdobeStock_163952053-scaled.jpeg",
+      "new": "uploads/2025/01/AdobeStock_163952053-scaled.webp",
+      "oldKb": 610.1,
+      "newKb": 196.2,
+      "quality": 84,
+      "width": 1800
+    },
+    {
+      "old": "uploads/2025/01/sonyx97140_A_vivid_oil_painting_of_prehistoric_humans_in_the__0f386349-90c6-4814-855c-dd3184248065_2-1-768x430.png",
+      "new": "uploads/2025/01/sonyx97140_A_vivid_oil_painting_of_prehistoric_humans_in_the__0f386349-90c6-4814-855c-dd3184248065_2-1-768x430.webp",
+      "oldKb": 596.3,
+      "newKb": 74.7,
+      "quality": 84,
+      "width": 768
+    },
+    {
+      "old": "uploads/2023/07/header-image-2-1.jpg",
+      "new": "uploads/2023/07/header-image-2-1.webp",
+      "oldKb": 587.9,
+      "newKb": 91,
+      "quality": 84,
+      "width": 1800
+    },
+    {
+      "old": "uploads/2025/03/10781_0276382068.jpg",
+      "new": "uploads/2025/03/10781_0276382068.webp",
+      "oldKb": 575.5,
+      "newKb": 288.6,
+      "quality": 84,
+      "width": 1600
+    },
+    {
+      "old": "uploads/2023/07/AdobeStock_272338146-scaled.jpeg",
+      "new": "uploads/2023/07/AdobeStock_272338146-scaled.webp",
+      "oldKb": 566.6,
+      "newKb": 225,
+      "quality": 84,
+      "width": 1800
+    },
+    {
+      "old": "uploads/2025/01/AdobeStock_277513298-scaled.jpeg",
+      "new": "uploads/2025/01/AdobeStock_277513298-scaled.webp",
+      "oldKb": 561.3,
+      "newKb": 171.7,
+      "quality": 84,
+      "width": 1800
+    },
+    {
+      "old": "uploads/2025/01/sonyx97140_A_cheerful_summer_family_scene_in_a_Bulgarian_airp_9284f09d-3941-4d13-bff3-2eb7e1124300_2-768x512.png",
+      "new": "uploads/2025/01/sonyx97140_A_cheerful_summer_family_scene_in_a_Bulgarian_airp_9284f09d-3941-4d13-bff3-2eb7e1124300_2-768x512.webp",
+      "oldKb": 518.9,
+      "newKb": 44,
+      "quality": 84,
+      "width": 768
+    },
+    {
+      "old": "uploads/2022/09/burgas-aktivity-katedrala-768x512.png",
+      "new": "uploads/2022/09/burgas-aktivity-katedrala-768x512.webp",
+      "oldKb": 498.6,
+      "newKb": 57.9,
+      "quality": 84,
+      "width": 768
+    },
+    {
+      "old": "uploads/2025/01/nessebar-2048x1229.jpeg",
+      "new": "uploads/2025/01/nessebar-2048x1229.webp",
+      "oldKb": 497,
+      "newKb": 213.4,
+      "quality": 84,
+      "width": 1800
+    },
+    {
+      "old": "uploads/2025/03/10728_1812432827.jpg",
+      "new": "uploads/2025/03/10728_1812432827.webp",
+      "oldKb": 487.4,
+      "newKb": 267.6,
+      "quality": 80,
+      "width": 1600
+    },
+    {
+      "old": "uploads/2025/01/sonyx97140_A_realistic_photograph_of_a_serene_Bulgarian_Black_152d9576-135f-45a2-a367-7065b553dbde_2-1-768x430.png",
+      "new": "uploads/2025/01/sonyx97140_A_realistic_photograph_of_a_serene_Bulgarian_Black_152d9576-135f-45a2-a367-7065b553dbde_2-1-768x430.webp",
+      "oldKb": 483.1,
+      "newKb": 60.3,
+      "quality": 84,
+      "width": 768
+    },
+    {
+      "old": "uploads/2023/07/header-image-3-1.jpg",
+      "new": "uploads/2023/07/header-image-3-1.webp",
+      "oldKb": 440.1,
+      "newKb": 79.1,
+      "quality": 84,
+      "width": 1800
+    },
+    {
+      "old": "uploads/2025/01/AdobeStock_163952053-2048x1151.jpeg",
+      "new": "uploads/2025/01/AdobeStock_163952053-2048x1151.webp",
+      "oldKb": 433.2,
+      "newKb": 187.3,
+      "quality": 84,
+      "width": 1800
+    },
+    {
+      "old": "uploads/2025/03/10478_4883234616.jpg",
+      "new": "uploads/2025/03/10478_4883234616.webp",
+      "oldKb": 432.8,
+      "newKb": 200.9,
+      "quality": 84,
+      "width": 1600
+    },
+    {
+      "old": "uploads/2025/01/Rila_Monastery-1536x1024.jpg",
+      "new": "uploads/2025/01/Rila_Monastery-1536x1024.webp",
+      "oldKb": 410.8,
+      "newKb": 264.1,
+      "quality": 84,
+      "width": 1536
+    },
+    {
+      "old": "uploads/2025/03/107802_1702025568.jpg",
+      "new": "uploads/2025/03/107802_1702025568.webp",
+      "oldKb": 409.8,
+      "newKb": 205.6,
+      "quality": 84,
+      "width": 1170
+    },
+    {
+      "old": "uploads/2025/01/AdobeStock_277513298-2048x1365.jpeg",
+      "new": "uploads/2025/01/AdobeStock_277513298-2048x1365.webp",
+      "oldKb": 392.7,
+      "newKb": 166.4,
+      "quality": 84,
+      "width": 1800
+    },
+    {
+      "old": "uploads/2022/08/AdobeStock_319746238-scaled.jpeg",
+      "new": "uploads/2022/08/AdobeStock_319746238-scaled.webp",
+      "oldKb": 391.3,
+      "newKb": 168.4,
+      "quality": 84,
+      "width": 1800
+    },
+    {
+      "old": "uploads/2025/03/10843_5640060066-1536x1152.jpg",
+      "new": "uploads/2025/03/10843_5640060066-1536x1152.webp",
+      "oldKb": 387.6,
+      "newKb": 262.7,
+      "quality": 84,
+      "width": 1536
+    },
+    {
+      "old": "uploads/2025/01/AdobeStock_255935471-1536x1152.jpeg",
+      "new": "uploads/2025/01/AdobeStock_255935471-1536x1152.webp",
+      "oldKb": 382.3,
+      "newKb": 269.2,
+      "quality": 80,
+      "width": 1536
+    },
+    {
+      "old": "uploads/2025/03/109070_1702643595.jpg",
+      "new": "uploads/2025/03/109070_1702643595.webp",
+      "oldKb": 373.8,
+      "newKb": 196.6,
+      "quality": 84,
+      "width": 1280
+    },
+    {
+      "old": "uploads/2023/07/AdobeStock_414864060-scaled.jpeg",
+      "new": "uploads/2023/07/AdobeStock_414864060-scaled.webp",
+      "oldKb": 372.2,
+      "newKb": 163.3,
+      "quality": 84,
+      "width": 1800
+    },
+    {
+      "old": "uploads/2023/06/sonyx97140_create_me_a_plane_in_airoport._It_is_sunny_day_aro_ba127754-b88f-4377-b44d-0abfe2cb653c_1-440x440.png",
+      "new": "uploads/2023/06/sonyx97140_create_me_a_plane_in_airoport._It_is_sunny_day_aro_ba127754-b88f-4377-b44d-0abfe2cb653c_1-440x440.webp",
+      "oldKb": 370.2,
+      "newKb": 54,
+      "quality": 84,
+      "width": 440
+    },
+    {
+      "old": "uploads/2025/03/1068127_1701433447.jpg",
+      "new": "uploads/2025/03/1068127_1701433447.webp",
+      "oldKb": 367.1,
+      "newKb": 178,
+      "quality": 84,
+      "width": 1435
+    },
+    {
+      "old": "uploads/2023/06/AdobeStock_389309044-scaled.jpeg",
+      "new": "uploads/2023/06/AdobeStock_389309044-scaled.webp",
+      "oldKb": 361.8,
+      "newKb": 140.6,
+      "quality": 84,
+      "width": 1800
+    },
+    {
+      "old": "uploads/2025/03/10728_1812432827-1536x1152.jpg",
+      "new": "uploads/2025/03/10728_1812432827-1536x1152.webp",
+      "oldKb": 354.4,
+      "newKb": 259,
+      "quality": 84,
+      "width": 1536
+    },
+    {
+      "old": "uploads/2025/03/109058_1702641660.jpg",
+      "new": "uploads/2025/03/109058_1702641660.webp",
+      "oldKb": 348.7,
+      "newKb": 193.4,
+      "quality": 84,
+      "width": 1280
+    },
+    {
+      "old": "uploads/2023/07/AdobeStock_377760833-scaled.jpeg",
+      "new": "uploads/2023/07/AdobeStock_377760833-scaled.webp",
+      "oldKb": 342.7,
+      "newKb": 136.5,
+      "quality": 84,
+      "width": 1800
+    },
+    {
+      "old": "uploads/2025/03/109121_1702651758.jpg",
+      "new": "uploads/2025/03/109121_1702651758.webp",
+      "oldKb": 334.5,
+      "newKb": 194.1,
+      "quality": 84,
+      "width": 1024
+    },
+    {
+      "old": "uploads/2025/01/Bulharsko-2.png",
+      "new": "uploads/2025/01/Bulharsko-2.webp",
+      "oldKb": 332.6,
+      "newKb": 26.4,
+      "quality": 84,
+      "width": 384
+    },
+    {
+      "old": "uploads/2025/03/109062_1702642909.jpg",
+      "new": "uploads/2025/03/109062_1702642909.webp",
+      "oldKb": 329.3,
+      "newKb": 161.3,
+      "quality": 84,
+      "width": 1280
+    },
+    {
+      "old": "uploads/2025/03/10781_0276382068-1536x1152.jpg",
+      "new": "uploads/2025/03/10781_0276382068-1536x1152.webp",
+      "oldKb": 314.6,
+      "newKb": 224.3,
+      "quality": 84,
+      "width": 1536
+    },
+    {
+      "old": "uploads/2025/01/nessebar-1536x921.jpeg",
+      "new": "uploads/2025/01/nessebar-1536x921.webp",
+      "oldKb": 299.7,
+      "newKb": 172.3,
+      "quality": 84,
+      "width": 1536
+    },
+    {
+      "old": "uploads/2025/03/10478_4883234616-1536x1025.jpg",
+      "new": "uploads/2025/03/10478_4883234616-1536x1025.webp",
+      "oldKb": 299.2,
+      "newKb": 175.8,
+      "quality": 84,
+      "width": 1536
+    },
+    {
+      "old": "uploads/2025/03/10882_4755610479-1536x1152.jpg",
+      "new": "uploads/2025/03/10882_4755610479-1536x1152.webp",
+      "oldKb": 298.3,
+      "newKb": 185.4,
+      "quality": 84,
+      "width": 1536
+    },
+    {
+      "old": "uploads/2025/03/10779_0248128105.jpg",
+      "new": "uploads/2025/03/10779_0248128105.webp",
+      "oldKb": 294.7,
+      "newKb": 169,
+      "quality": 84,
+      "width": 1280
+    },
+    {
+      "old": "uploads/2023/07/Snimek-obrazovky-2024-11-02-230205.png",
+      "new": "uploads/2023/07/Snimek-obrazovky-2024-11-02-230205.webp",
+      "oldKb": 290.4,
+      "newKb": 35.5,
+      "quality": 84,
+      "width": 371
+    },
+    {
+      "old": "uploads/2025/01/AdobeStock_163952053-1536x863.jpeg",
+      "new": "uploads/2025/01/AdobeStock_163952053-1536x863.webp",
+      "oldKb": 281,
+      "newKb": 146.7,
+      "quality": 84,
+      "width": 1536
+    },
+    {
+      "old": "uploads/2025/01/AdobeStock_277513298-1536x1024.jpeg",
+      "new": "uploads/2025/01/AdobeStock_277513298-1536x1024.webp",
+      "oldKb": 247.8,
+      "newKb": 134.8,
+      "quality": 84,
+      "width": 1536
+    },
+    {
+      "old": "uploads/2025/03/108663_1702463787.jpg",
+      "new": "uploads/2025/03/108663_1702463787.webp",
+      "oldKb": 233.2,
+      "newKb": 120.5,
+      "quality": 84,
+      "width": 1024
+    }
+  ]
+}

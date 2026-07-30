@@ -1,0 +1,356 @@
+{
+  "changedCount": 104,
+  "remainingIssues": [],
+  "sample": [
+    {
+      "slug": "bourky-v-bulharsku-21-cervence-2026",
+      "titleLen": 52,
+      "descLen": 146,
+      "title": "Bouřky v Bulharsku 21. července: Bulharsko prakticky",
+      "desc": "Bulharsko má žluté varování před bouřkami v 14 regionech: Cestovatelé mají počítat hlavně s rizikem přeháněk ve východních oblastech a na horách.."
+    },
+    {
+      "slug": "%d0%bc%d0%b0%d0%b3%d0%b0%d1%82%d0%b0-%d1%84%d0%b5%d1%81%d1%82-sofie-recykluje",
+      "titleLen": 51,
+      "descLen": 154,
+      "title": "МаГаТа Фест“: Sofie recykluje!: Bulharsko prakticky",
+      "desc": "Ekologický festival v bulharské metropoli: Obyvatelé společně recyklovali šest tun odpadu Zjistěte, co zpráva znamená pro cestování, dopravu, počasí nebo…"
+    },
+    {
+      "slug": "skandal-na-plazi-butamjata",
+      "titleLen": 48,
+      "descLen": 154,
+      "title": "Skandál na pláži Butamjata!: Bulharsko prakticky",
+      "desc": "Skandál na pláži Butamjata: nelegální úpravy ohrožují přírodní krásu a turistickou sezónu Zjistěte, co zpráva znamená pro cestování, dopravu, počasí nebo…"
+    },
+    {
+      "slug": "nove-parkovaci-zony-v-sofii-%f0%9f%9a%97",
+      "titleLen": 49,
+      "descLen": 154,
+      "title": "Nové parkovací zóny v Sofii!: Bulharsko prakticky",
+      "desc": "Nová pravidla parkování v bulharské metropoli: Co čeká řidiče v centru? Zjistěte, co zpráva znamená pro cestování, dopravu, počasí nebo pobyt v Bulharsku."
+    },
+    {
+      "slug": "west-mall-nakupy-zabava-relax",
+      "titleLen": 54,
+      "descLen": 157,
+      "title": "West Mall: Nákupy, zábava, relax!: Bulharsko prakticky",
+      "desc": "West Mall: Nákupy, zábava, relax!: Objevte moderní nákupní ráj v srdci Bulharska – West Mall čeká na vás. Aktuální cestovatelský přehled pro čechy mířící do…"
+    },
+    {
+      "slug": "pozar-ochromil-letiste-heathrow",
+      "titleLen": 53,
+      "descLen": 126,
+      "title": "Požár ochromil letiště Heathrow!: Bulharsko prakticky",
+      "desc": "Požár ochromil letiště Heathrow!: Chaos na letišti Heathrow: Požár způsobil kolaps letového provozu a zmatek mezi cestujícími."
+    },
+    {
+      "slug": "bulharska-unique-estates-miri-do-dubaje",
+      "titleLen": 39,
+      "descLen": 141,
+      "title": "Bulharská Unique Estates míří do Dubaje",
+      "desc": "Bulharská realitní společnost Unique Estates vstupuje na globální trh: Partnerství s dubajskou agenturou přináší nové investiční příležitosti"
+    },
+    {
+      "slug": "klubovna-unikatni-chut-sofie",
+      "titleLen": 50,
+      "descLen": 155,
+      "title": "Klubovna: Unikátní chuť Sofie: Bulharsko prakticky",
+      "desc": "Klubovna: Unikátní chuť Sofie: Klubovna Božany Kacarové: Nezapomenutelný gastronomický zážitek v srdci Bulharska. Aktuální cestovatelský přehled pro čechy…"
+    },
+    {
+      "slug": "bulharsko-protestuje-za-zvirata",
+      "titleLen": 53,
+      "descLen": 152,
+      "title": "Bulharsko protestuje za zvířata“: Bulharsko prakticky",
+      "desc": "Bulharsko protestuje za zvířata“: Protest proti týrání zvířat: Bulhaři žádají spravedlnost a přísnější tresty. Aktuální cestovatelský přehled pro čechy…"
+    },
+    {
+      "slug": "protest-v-sofii-skody-za-180-tis-e",
+      "titleLen": 36,
+      "descLen": 155,
+      "title": "Protest v Sofii: škody za 180 tis. €",
+      "desc": "Protest v Sofii: škody za 180 tis. €: Protesty v bulharské metropoli: střet euroskepticismu s realitou. Aktuální cestovatelský přehled pro čechy mířící do…"
+    },
+    {
+      "slug": "parkovani-v-sofii-zdrazi-%f0%9f%9a%97%f0%9f%92%b0",
+      "titleLen": 46,
+      "descLen": 150,
+      "title": "Parkování v Sofii zdraží!: Bulharsko prakticky",
+      "desc": "Dražší parkování v bulharské metropoli? Připravte se na možné změny Zjistěte, co zpráva znamená pro cestování, dopravu, počasí nebo pobyt v Bulharsku."
+    },
+    {
+      "slug": "skandal-na-plazi-butamyata-%f0%9f%8c%8a%f0%9f%8f%96%ef%b8%8f",
+      "titleLen": 50,
+      "descLen": 152,
+      "title": "Skandál na pláži Butamyata! ️: Bulharsko prakticky",
+      "desc": "Ohrožený ráj: Nelegální zásahy na oblíbené bulharské pláži vyvolaly vyšetřování Zjistěte, co zpráva znamená pro cestování, dopravu, počasí nebo pobyt v…"
+    },
+    {
+      "slug": "tajemny-projekt-meni-pobrezi-varny",
+      "titleLen": 55,
+      "descLen": 156,
+      "title": "Tajemný projekt mění pobřeží Varny: Bulharsko prakticky",
+      "desc": "Tajemný projekt mění pobřeží Varny: Tajemný projekt na pobřeží Varny: Co se skutečně děje s oblíbeným letoviskem?. Aktuální cestovatelský přehled pro čechy…"
+    },
+    {
+      "slug": "boj-proti-krutosti-na-zviratech",
+      "titleLen": 52,
+      "descLen": 157,
+      "title": "Boj proti krutosti na zvířatech: Bulharsko prakticky",
+      "desc": "Boj proti krutosti na zvířatech: Temná stránka Bulharska: Jak nový zákon bojuje proti krutosti na zvířatech. Aktuální cestovatelský přehled pro čechy mířící…"
+    },
+    {
+      "slug": "gastronomicka-revoluce-v-sofii",
+      "titleLen": 52,
+      "descLen": 127,
+      "title": "Gastronomická revoluce v Sofii!: Bulharsko prakticky",
+      "desc": "Gastronomická revoluce v Sofii!: Bulharsko jako nová gastronomická destinace: Tři šéfkuchaři změní váš pohled na haute cuisine."
+    },
+    {
+      "slug": "soud-ve-varne-spor-o-svobodu-slova",
+      "titleLen": 35,
+      "descLen": 151,
+      "title": "Soud ve Varně: Spor o svobodu slova",
+      "desc": "Bulharsko na rozcestí: Soud ve Varně přikázal odstranit antisemitské příspěvky Zjistěte, co zpráva znamená pro cestování, dopravu, počasí nebo pobyt v…"
+    },
+    {
+      "slug": "ticha-krize-demokracie-v-evrope-jak-oslabeni-pravniho-statu-ovlivnuje-obcany-i-turisty",
+      "titleLen": 60,
+      "descLen": 153,
+      "title": "Tichá krize demokracie v Evropě: Jak oslabení právního státu",
+      "desc": "Demokracie v Evropě slábne“ Zjistěte, co zpráva znamená pro cestování, dopravu, počasí nebo pobyt v Bulharsku. Zjistěte, co zpráva znamená pro cestování…"
+    },
+    {
+      "slug": "bulharsko-zprisni-tresty-za-tyrani-zvirat",
+      "titleLen": 41,
+      "descLen": 158,
+      "title": "Bulharsko zpřísní tresty za týrání zvířat",
+      "desc": "Bulharsko zpřísní tresty za týrání zvířat: Bulharsko zpřísní tresty za týrání zvířat po šokujícím případu. Aktuální cestovatelský přehled pro čechy mířící do…"
+    },
+    {
+      "slug": "novy-sef-bezpecnejsi-doprava",
+      "titleLen": 51,
+      "descLen": 158,
+      "title": "Nový šéf, bezpečnější doprava?: Bulharsko prakticky",
+      "desc": "Nový ředitel dopravní agentury v Bulharsku: Co přinese jeho zkušenost z hlavního města? Zjistěte, co zpráva znamená pro cestování, dopravu, počasí nebo pobyt…"
+    },
+    {
+      "slug": "bulharsko-posiluje-energetickou-nezavislost",
+      "titleLen": 43,
+      "descLen": 128,
+      "title": "Bulharsko posiluje energetickou nezávislost",
+      "desc": "Bulharsko posiluje energetickou nezávislost: Bulharsko na cestě k energetické nezávislosti: Plánuje průzkum plynu v Černém moři."
+    },
+    {
+      "slug": "vlna-solidarity-v-srdci-sofie",
+      "titleLen": 50,
+      "descLen": 158,
+      "title": "Vlna solidarity v srdci Sofie: Bulharsko prakticky",
+      "desc": "Vlna solidarity v srdci Sofie: Srdce Bulharska bije pro Severní Makedonii: Vlna solidarity po ničivém požáru. Aktuální cestovatelský přehled pro čechy mířící…"
+    },
+    {
+      "slug": "evropsky-parlament-zprisnuje-bezpecnost-v-sofii",
+      "titleLen": 47,
+      "descLen": 130,
+      "title": "Evropský parlament zpřísňuje bezpečnost v Sofii",
+      "desc": "Evropský parlament zpřísňuje bezpečnost v Sofii: Evropský parlament zpřísňuje bezpečnostní opatření pro svůj personál v Bulharsku."
+    },
+    {
+      "slug": "bulharsko-pomaha-obetem-pozaru",
+      "titleLen": 51,
+      "descLen": 152,
+      "title": "Bulharsko pomáhá obětem požáru: Bulharsko prakticky",
+      "desc": "Bulharsko podává pomocnou ruku: Zranění z tragického požáru v Kičevu přepraveni do předních nemocnic Zjistěte, co zpráva znamená pro cestování, dopravu…"
+    },
+    {
+      "slug": "oboriste-nova-era-pod-kuzmovem",
+      "titleLen": 52,
+      "descLen": 155,
+      "title": "Obořiště: Nová éra pod Kuzmovem: Bulharsko prakticky",
+      "desc": "Proměna hlavního města: Jak vítězství Georgiho Kuzmova ovlivní budoucnost centrální čtvrti Zjistěte, co zpráva znamená pro cestování, dopravu, počasí nebo…"
+    },
+    {
+      "slug": "jak-si-uzit-bulharsko-i-v-chladu",
+      "titleLen": 54,
+      "descLen": 156,
+      "title": "Jak si užít Bulharsko i v chladu?: Bulharsko prakticky",
+      "desc": "Jak si užít Bulharsko i v chladu?: Co dělat v Bulharsku, když počasí nepřeje: Tipy na zajímavé aktivity. Aktuální cestovatelský přehled pro čechy mířící do…"
+    },
+    {
+      "slug": "stefan-dobrev-lider-inovaci-v-evrope",
+      "titleLen": 37,
+      "descLen": 159,
+      "title": "Stefan Dobrev: líder inovací v Evropě",
+      "desc": "Stefan Dobrev: líder inovací v Evropě: Bulharský vizionář Stefan Dobrev: Jak propojuje vědu a byznys v Evropě. Aktuální cestovatelský přehled pro čechy mířící…"
+    },
+    {
+      "slug": "burgas-vs-gabrovo-kdo-bude-kulturni-metropoli-2032",
+      "titleLen": 53,
+      "descLen": 137,
+      "title": "Burgas vs. Gabrovo: Kdo bude kulturní metropolí 2032?",
+      "desc": "Burgas vs. Gabrovo: Kdo bude kulturní metropolí 2032?: Burgas nebo Gabrovo? Bulharsko opět usiluje o titul Evropské hlavní město kultury."
+    },
+    {
+      "slug": "bulharsko-zasahlo-chladne-pocasi",
+      "titleLen": 54,
+      "descLen": 158,
+      "title": "Bulharsko zasáhlo chladné počasí!: Bulharsko prakticky",
+      "desc": "Bulharsko zasáhlo chladné počasí!: Bulharsko zasáhlo chladné počasí: Déšť, vítr a sníh v horách. Aktuální cestovatelský přehled pro čechy mířící do bulharska."
+    },
+    {
+      "slug": "lepsi-lety-do-bulharska-otazka-poplatku",
+      "titleLen": 40,
+      "descLen": 159,
+      "title": "Lepší lety do Bulharska? Otázka poplatků",
+      "desc": "Lepší lety do Bulharska? Otázka poplatků: Budoucnost letů do Bulharska: Méně turistů kvůli vysokým poplatkům?. Aktuální cestovatelský přehled pro čechy mířící…"
+    },
+    {
+      "slug": "navrat-kuzmova-zmeny-v-sofii",
+      "titleLen": 51,
+      "descLen": 155,
+      "title": "Návrat Kuzmova: Změny v Sofii!: Bulharsko prakticky",
+      "desc": "Návrat Kuzmova: Změny v Sofii!: Návrat starosty: Politické drama v srdci bulharské metropole. Aktuální cestovatelský přehled pro čechy mířící do bulharska."
+    },
+    {
+      "slug": "bulharsko-meni-dalnicni-priority",
+      "titleLen": 53,
+      "descLen": 158,
+      "title": "Bulharsko mění dálniční priority: Bulharsko prakticky",
+      "desc": "Bulharsko mění dálniční priority: Bulharsko mění plány: Klíčová dálnice k srbské hranici dostává přednost. Aktuální cestovatelský přehled pro čechy mířící do…"
+    },
+    {
+      "slug": "tragicka-nehoda-otrasla-bulharskem",
+      "titleLen": 55,
+      "descLen": 155,
+      "title": "Tragická nehoda otřásla Bulharskem: Bulharsko prakticky",
+      "desc": "Tragická nehoda otřásla Bulharskem: Tragédie na cestě k Varně: Smrt fotbalového trenéra a mírný trest pro viníka. Aktuální cestovatelský přehled pro čechy…"
+    },
+    {
+      "slug": "bulharsko-celi-nedostatku-vody",
+      "titleLen": 51,
+      "descLen": 152,
+      "title": "Bulharsko čelí nedostatku vody: Bulharsko prakticky",
+      "desc": "Bulharsko čelí nedostatku vody: Bulharsko čelí nedostatku vody: Co to znamená pro turisty i místní?. Aktuální cestovatelský přehled pro čechy mířící do…"
+    },
+    {
+      "slug": "kaufland-expanduje-v-bulharsku",
+      "titleLen": 52,
+      "descLen": 157,
+      "title": "Kaufland expanduje v Bulharsku!: Bulharsko prakticky",
+      "desc": "Kaufland expanduje v Bulharsku: Nové moderní hypermarkety přinášejí lepší nakupování Zjistěte, co zpráva znamená pro cestování, dopravu, počasí nebo pobyt v…"
+    },
+    {
+      "slug": "levne-lety-do-bulharska-na-obzoru",
+      "titleLen": 55,
+      "descLen": 157,
+      "title": "Levné lety do Bulharska na obzoru!: Bulharsko prakticky",
+      "desc": "Levné lety do Bulharska na obzoru!: Levné letenky do Bulharska? Ryanair chystá velkou expanzi!. Aktuální cestovatelský přehled pro čechy mířící do bulharska."
+    },
+    {
+      "slug": "sok-v-boxu-koko-tyson-v-nemocnici",
+      "titleLen": 55,
+      "descLen": 156,
+      "title": "Šok v boxu: Koko Tyson v nemocnici: Bulharsko prakticky",
+      "desc": "Šok v boxu: Koko Tyson v nemocnici: Šok v bulharském boxu: Koko Tyson bojuje o zotavení po vážné nehodě. Aktuální cestovatelský přehled pro čechy mířící do…"
+    },
+    {
+      "slug": "architektonicka-boure-v-sofii",
+      "titleLen": 50,
+      "descLen": 158,
+      "title": "Architektonická bouře v Sofii: Bulharsko prakticky",
+      "desc": "Architektonická bouře v bulharské metropoli: Spor o hlavního plánovače města eskaluje Zjistěte, co zpráva znamená pro cestování, dopravu, počasí nebo pobyt v…"
+    },
+    {
+      "slug": "sofia-dokumental-sila-pravdy-ve-filmu",
+      "titleLen": 38,
+      "descLen": 151,
+      "title": "Sofia DokuMental: Síla pravdy ve filmu",
+      "desc": "Dokumentární festival opět v centru dění: Speciální edice odhalí dopad cenzury Zjistěte, co zpráva znamená pro cestování, dopravu, počasí nebo pobyt v…"
+    },
+    {
+      "slug": "sofie-nove-centrum-ai-v-evrope",
+      "titleLen": 52,
+      "descLen": 157,
+      "title": "Sofie: Nové centrum AI v Evropě: Bulharsko prakticky",
+      "desc": "Sofie: Nové centrum AI v Evropě: Bulharsko na prahu revoluce: Technologické centrum budoucnosti roste v srdci země. Aktuální cestovatelský přehled pro čechy…"
+    },
+    {
+      "slug": "ruska-ambasada-v-sofii-sila-a-napeti",
+      "titleLen": 37,
+      "descLen": 156,
+      "title": "Ruská ambasáda v Sofii: Síla a napětí",
+      "desc": "Ruská diplomacie v Bulharsku: Jak velvyslanectví Moskvy ovlivňuje vztahy obou zemí? Zjistěte, co zpráva znamená pro cestování, dopravu, počasí nebo pobyt v…"
+    },
+    {
+      "slug": "bulharsko-trapi-nedostatek-vody",
+      "titleLen": 52,
+      "descLen": 154,
+      "title": "Bulharsko trápí nedostatek vody: Bulharsko prakticky",
+      "desc": "Bulharsko trápí nedostatek vody: Bulharsko čelí nedostatku vody: Co to znamená pro turisty?. Aktuální cestovatelský přehled pro čechy mířící do bulharska."
+    },
+    {
+      "slug": "ryanair-rozsiruje-lety-do-bulharska",
+      "titleLen": 36,
+      "descLen": 154,
+      "title": "Ryanair rozšiřuje lety do Bulharska!",
+      "desc": "Ryanair rozšiřuje lety do Bulharska!: Ryanair rozšiřuje lety do Bulharska: Levnější cestování k moři na obzoru!. Aktuální cestovatelský přehled pro čechy…"
+    },
+    {
+      "slug": "boxer-koko-tyson-mel-nehodu",
+      "titleLen": 48,
+      "descLen": 150,
+      "title": "Boxer Koko Tyson měl nehodu: Bulharsko prakticky",
+      "desc": "Boxer Koko Tyson měl nehodu: Boxer Koko Tyson bojuje po vážné nehodě: Fanoušci věří v jeho návrat. Aktuální cestovatelský přehled pro čechy mířící do…"
+    },
+    {
+      "slug": "nocni-doprava-v-sofii-v-ohrozeni",
+      "titleLen": 53,
+      "descLen": 158,
+      "title": "Noční doprava v Sofii v ohrožení: Bulharsko prakticky",
+      "desc": "Hlavní město Bulharska na křižovatce: Zůstane noční doprava součástí nočního života?“ Zjistěte, co zpráva znamená pro cestování, dopravu, počasí nebo pobyt v…"
+    },
+    {
+      "slug": "utoky-neustavaji-ropa-i-zivoty",
+      "titleLen": 52,
+      "descLen": 125,
+      "title": "Útoky neustávají: Ropa i životy: Bulharsko prakticky",
+      "desc": "Útoky neustávají: Ropa i životy“: „Hořící obloha a tragédie na obou stranách: Klíčové údery mění dynamiku války na Ukrajině“."
+    },
+    {
+      "slug": "burgas-2025-novy-plaza-mall-laka",
+      "titleLen": 55,
+      "descLen": 126,
+      "title": "Burgas 2025: Nový Plaza Mall láká!: Bulharsko prakticky",
+      "desc": "Burgas 2025: Nový Plaza Mall láká!“: Burgas na vzestupu: Modernizace a rozšíření Burgas Plaza Mall lákají turisty i investory."
+    },
+    {
+      "slug": "diety-ktere-skodi-misto-pomahaji",
+      "titleLen": 55,
+      "descLen": 159,
+      "title": "Diety, které škodí místo pomáhají“: Bulharsko prakticky",
+      "desc": "Je vaše dieta opravdu zdravá? Tipy bulharských lékařů a inspirace z balkánské kuchyně“ Zjistěte, co zpráva znamená pro cestování, dopravu, počasí nebo pobyt v…"
+    },
+    {
+      "slug": "sofie-energeticka-krize-na-vzestupu",
+      "titleLen": 36,
+      "descLen": 126,
+      "title": "Sofie: Energetická krize na vzestupu",
+      "desc": "Sofie: Energetická krize na vzestupu“: „Teplo na hraně: Hlavní město Bulharska čelí energetické krizi se závratnými ztrátami“."
+    },
+    {
+      "slug": "ekologicky-raj-v-sofii-levna-doprava-a-cistsi-vzduch",
+      "titleLen": 54,
+      "descLen": 144,
+      "title": "Ekologický ráj v Sofii: Levná doprava a čistší vzduch“",
+      "desc": "Ekologický ráj v Sofii: Levná doprava a čistší vzduch“: „Bulharská metropole překvapuje: Levné cestování a ekologická revoluce v srdci Balkánu“."
+    },
+    {
+      "slug": "kamenny-les-v-ohrozeni-proc",
+      "titleLen": 50,
+      "descLen": 156,
+      "title": "Kamenný les v ohrožení: proč?: Bulharsko prakticky",
+      "desc": "Kamenný les v ohrožení: Jak motokros a bagry ničí unikátní přírodní klenot u Varny“ Zjistěte, co zpráva znamená pro cestování, dopravu, počasí nebo pobyt v…"
+    }
+  ]
+}

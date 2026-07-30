@@ -2,7 +2,7 @@
 import { withBase } from '../utils/paths';
 
 const { post, variant = 'card', overlay = false } = Astro.props;
-const img = post.featured_image || '/uploads/2023/07/header-image-2-1.jpg';
+const img = post.featured_image || '/uploads/2023/07/header-image-2-1.webp';
 const cat = post.categories?.[0];
 const date = post.date ? new Date(post.date).toLocaleDateString('cs-CZ', { day: 'numeric', month: 'numeric', year: 'numeric' }) : '';
 ---

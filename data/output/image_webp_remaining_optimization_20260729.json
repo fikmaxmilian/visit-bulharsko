@@ -1,0 +1,173 @@
+{
+  "done": [
+    {
+      "old": "uploads/2025/01/Objevte-skvele-ceny.gif",
+      "new": "uploads/2025/01/Objevte-skvele-ceny-optimized.webp",
+      "oldKb": 6991.2,
+      "newKb": 22,
+      "quality": 80,
+      "width": 300
+    },
+    {
+      "old": "uploads/2025/03/bulharsko-primorsko-2048x1364.webp",
+      "new": "uploads/2025/03/bulharsko-primorsko-2048x1364-optimized.webp",
+      "oldKb": 446.9,
+      "newKb": 152.6,
+      "quality": 80,
+      "width": 1400
+    },
+    {
+      "old": "uploads/2025/03/bulharsko-primorsko-scaled.webp",
+      "new": "uploads/2025/03/bulharsko-primorsko-scaled-optimized.webp",
+      "oldKb": 618,
+      "newKb": 161.7,
+      "quality": 80,
+      "width": 1400
+    },
+    {
+      "old": "uploads/2025/03/dovolena-bulharsko-2048x1536.webp",
+      "new": "uploads/2025/03/dovolena-bulharsko-2048x1536-optimized.webp",
+      "oldKb": 336.6,
+      "newKb": 119.3,
+      "quality": 80,
+      "width": 1400
+    },
+    {
+      "old": "uploads/2025/03/plovdiv-pohled-1-1536x1024.webp",
+      "new": "uploads/2025/03/plovdiv-pohled-1-1536x1024-optimized.webp",
+      "oldKb": 335.5,
+      "newKb": 175,
+      "quality": 80,
+      "width": 1400
+    },
+    {
+      "old": "uploads/2025/03/plovdiv-pohled-1-2048x1365.webp",
+      "new": "uploads/2025/03/plovdiv-pohled-1-2048x1365-optimized.webp",
+      "oldKb": 548.5,
+      "newKb": 195.6,
+      "quality": 80,
+      "width": 1400
+    },
+    {
+      "old": "uploads/2025/03/plovdiv-pohled-1-scaled.webp",
+      "new": "uploads/2025/03/plovdiv-pohled-1-scaled-optimized.webp",
+      "oldKb": 807.8,
+      "newKb": 207.6,
+      "quality": 80,
+      "width": 1400
+    },
+    {
+      "old": "uploads/2025/03/plovdiv-pohled-scaled.webp",
+      "new": "uploads/2025/03/plovdiv-pohled-scaled-optimized.webp",
+      "oldKb": 807.8,
+      "newKb": 207.6,
+      "quality": 80,
+      "width": 1400
+    },
+    {
+      "old": "uploads/2025/03/vidin-synagoga-scaled.webp",
+      "new": "uploads/2025/03/vidin-synagoga-scaled-optimized.webp",
+      "oldKb": 785.9,
+      "newKb": 200,
+      "quality": 80,
+      "width": 1400
+    }
+  ],
+  "failed": [
+    {
+      "path": "uploads/2025/01/Objevte-skvele-ceny.gif",
+      "reason": "optimized_but_could_not_remove_original",
+      "error": "EPERM, Permission denied: \\\\?\\C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\01\\Objevte-skvele-ceny.gif '\\\\?\\C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\01\\Objevte-skvele-ceny.gif'"
+    },
+    {
+      "path": "uploads/2025/03/bulharsko-primorsko-2048x1364.webp",
+      "reason": "optimized_but_could_not_remove_original",
+      "error": "EPERM, Permission denied: \\\\?\\C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\bulharsko-primorsko-2048x1364.webp '\\\\?\\C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\bulharsko-primorsko-2048x1364.webp'"
+    },
+    {
+      "path": "uploads/2025/03/bulharsko-primorsko-scaled.webp",
+      "reason": "optimized_but_could_not_remove_original",
+      "error": "EPERM, Permission denied: \\\\?\\C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\bulharsko-primorsko-scaled.webp '\\\\?\\C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\bulharsko-primorsko-scaled.webp'"
+    },
+    {
+      "path": "uploads/2025/03/dovolena-bulharsko-2048x1536.webp",
+      "reason": "optimized_but_could_not_remove_original",
+      "error": "EPERM, Permission denied: \\\\?\\C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\dovolena-bulharsko-2048x1536.webp '\\\\?\\C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\dovolena-bulharsko-2048x1536.webp'"
+    },
+    {
+      "path": "uploads/2025/03/plovdiv-pohled-1-1536x1024.webp",
+      "reason": "optimized_but_could_not_remove_original",
+      "error": "EPERM, Permission denied: \\\\?\\C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\plovdiv-pohled-1-1536x1024.webp '\\\\?\\C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\plovdiv-pohled-1-1536x1024.webp'"
+    },
+    {
+      "path": "uploads/2025/03/plovdiv-pohled-1-2048x1365.webp",
+      "reason": "optimized_but_could_not_remove_original",
+      "error": "EPERM, Permission denied: \\\\?\\C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\plovdiv-pohled-1-2048x1365.webp '\\\\?\\C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\plovdiv-pohled-1-2048x1365.webp'"
+    },
+    {
+      "path": "uploads/2025/03/plovdiv-pohled-1-scaled.webp",
+      "reason": "optimized_but_could_not_remove_original",
+      "error": "EPERM, Permission denied: \\\\?\\C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\plovdiv-pohled-1-scaled.webp '\\\\?\\C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\plovdiv-pohled-1-scaled.webp'"
+    },
+    {
+      "path": "uploads/2025/03/plovdiv-pohled-scaled.webp",
+      "reason": "optimized_but_could_not_remove_original",
+      "error": "EPERM, Permission denied: \\\\?\\C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\plovdiv-pohled-scaled.webp '\\\\?\\C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\plovdiv-pohled-scaled.webp'"
+    },
+    {
+      "path": "uploads/2025/03/vidin-synagoga-scaled.webp",
+      "reason": "optimized_but_could_not_remove_original",
+      "error": "EPERM, Permission denied: \\\\?\\C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\vidin-synagoga-scaled.webp '\\\\?\\C:\\Users\\lukas\\Desktop\\Hermes\\visitbulharsko-astro\\public\\uploads\\2025\\03\\vidin-synagoga-scaled.webp'"
+    }
+  ],
+  "changed": [
+    "data/content/media_errors.json",
+    "data/content/media_map.json",
+    "data/content/wp_export.json",
+    "data/output/image_webp_optimization_20260729.json",
+    "data/output/visitbulharsko_prelaunch_audit_20260729.md",
+    "data/output/visitbulharsko_prelaunch_audit_after_fixes_20260729.md",
+    "data/output/visitbulharsko_seo_audit_summary_20260729.md",
+    "data/source/audit_source.json",
+    "src/data/site-data.json"
+  ],
+  "backupDir": "data/backups/remaining-oversized-images-2026-07-29T19-43-07-953Z",
+  "remainingOversized": [
+    {
+      "path": "uploads/2025/01/Objevte-skvele-ceny.gif",
+      "kb": 6991.2
+    },
+    {
+      "path": "uploads/2025/03/plovdiv-pohled-1-scaled.webp",
+      "kb": 807.8
+    },
+    {
+      "path": "uploads/2025/03/plovdiv-pohled-scaled.webp",
+      "kb": 807.8
+    },
+    {
+      "path": "uploads/2025/03/vidin-synagoga-scaled.webp",
+      "kb": 785.9
+    },
+    {
+      "path": "uploads/2025/03/bulharsko-primorsko-scaled.webp",
+      "kb": 618
+    },
+    {
+      "path": "uploads/2025/03/plovdiv-pohled-1-2048x1365.webp",
+      "kb": 548.5
+    },
+    {
+      "path": "uploads/2025/03/bulharsko-primorsko-2048x1364.webp",
+      "kb": 446.9
+    },
+    {
+      "path": "uploads/2025/03/dovolena-bulharsko-2048x1536.webp",
+      "kb": 336.6
+    },
+    {
+      "path": "uploads/2025/03/plovdiv-pohled-1-1536x1024.webp",
+      "kb": 335.5
+    }
+  ]
+}

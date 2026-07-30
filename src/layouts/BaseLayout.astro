@@ -2,15 +2,27 @@
 import '../styles/global.css';
 import data from '../data/site-data.json';
 import AdSlot from '../components/AdSlot.astro';
-import { canonicalUrl, withBase } from '../utils/paths';
+import { absoluteUrl, canonicalUrl, withBase } from '../utils/paths';
 
 interface Props {
   title?: string;
   description?: string;
   image?: string;
   canonical?: string;
+  type?: string;
+  schema?: Record<string, any> | Record<string, any>[];
 }
-const { title = 'Visit Bulharsko | Aktuální zprávy z Bulharska', description = 'Cestovatelský magazín, praktické tipy a aktuální zprávy z Bulharska.', image = '/uploads/2023/07/cropped-Visit-Bulharsko-1.png', canonical = Astro.url.pathname } = Astro.props;
+const {
+  title = 'Visit Bulharsko | Aktuální zprávy z Bulharska',
+  description = 'Cestovatelský magazín, praktické tipy a aktuální zprávy z Bulharska.',
+  image = '/uploads/2023/07/cropped-Visit-Bulharsko-1.webp',
+  canonical = Astro.url.pathname,
+  type = 'website',
+  schema = [],
+} = Astro.props;
+const canonicalHref = canonicalUrl(canonical);
+const absoluteImage = absoluteUrl(image);
+const schemaItems = Array.isArray(schema) ? schema.filter(Boolean) : [schema].filter(Boolean);
 const nav = [
   { label: 'Zpravodajství', href: '/category/zpravy-bulharsko/' },
   { label: 'Historie Bulharska', href: '/category/historie-bulharska/' },
@@ -32,11 +44,19 @@ const homeUrl = withBase('/');
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
     <meta name="description" content={description} />
-    <link rel="canonical" href={canonicalUrl(canonical)} />
+    <link rel="canonical" href={canonicalHref} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:image" content={withBase(image)} />
-    <link rel="icon" href={withBase('/uploads/2023/07/cropped-Visit-Bulharsko-1-157x64.png')} />
+    <meta property="og:url" content={canonicalHref} />
+    <meta property="og:type" content={type} />
+    <meta property="og:site_name" content="Visit Bulharsko" />
+    <meta property="og:image" content={absoluteImage} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={absoluteImage} />
+    <link rel="icon" href={withBase('/uploads/2023/07/cropped-Visit-Bulharsko-1-157x64.webp')} />
+    {schemaItems.map((item) => <script is:inline type="application/ld+json" set:html={JSON.stringify(item)} />)}
     <script is:inline async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5857769079063765" crossorigin="anonymous"></script>
   </head>
   <body class="bg-blush text-ink antialiased">
@@ -60,7 +80,7 @@ const homeUrl = withBase('/');
           </details>
           <a href={homeUrl} aria-label="Vyhledávání" class="hidden h-10 w-10 items-center justify-center border border-line bg-blush text-xl text-plum transition hover:border-rosebrand hover:text-rosebrand md:flex">⌕</a>
           <a href={homeUrl} class="flex justify-center">
-            <img src={withBase('/uploads/2023/07/cropped-Visit-Bulharsko-1.png')} alt="Visit Bulharsko" class="h-10 w-auto object-contain md:h-16" />
+            <img src={withBase('/uploads/2023/07/cropped-Visit-Bulharsko-1.webp')} alt="Visit Bulharsko" class="h-10 w-auto object-contain md:h-16" />
           </a>
           <div class="hidden justify-end md:flex"><a href="#newsletter" class="btn-outline">Newsletter</a></div>
           <a href={homeUrl} aria-label="Vyhledávání" class="ml-auto flex h-10 w-10 items-center justify-center border border-line bg-white text-xl text-plum transition hover:border-rosebrand hover:text-rosebrand md:hidden">⌕</a>
@@ -76,7 +96,7 @@ const homeUrl = withBase('/');
     <footer class="mt-16 border-t border-line bg-blush">
       <div class="mx-auto max-w-7xl px-5 py-12">
         <div class="grid gap-8 lg:grid-cols-[260px_1fr] lg:items-center">
-          <a href={homeUrl}><img src={withBase('/uploads/2023/07/cropped-Visit-Bulharsko-1.png')} alt="Visit Bulharsko" class="h-16 w-auto" /></a>
+          <a href={homeUrl}><img src={withBase('/uploads/2023/07/cropped-Visit-Bulharsko-1.webp')} alt="Visit Bulharsko" class="h-16 w-auto" /></a>
           <div class="grid gap-4 md:grid-cols-5">
             {footerPosts.map((p) => <a href={withBase(p.path)} class="group border border-line bg-white p-3 hover:border-rosebrand"><span class="block text-xs font-bold uppercase text-rosebrand">Nově</span><strong class="line-clamp-2 text-sm group-hover:text-rosebrand">{cleanTitle(p.title)}</strong></a>)}
           </div>
