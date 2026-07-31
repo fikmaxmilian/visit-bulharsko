@@ -11,7 +11,25 @@ export function getStaticPaths() {
     .map((p) => ({ params: { slug: p.slug }, props: { item: p } }));
 }
 const { item } = Astro.props;
-const related = data.posts.filter((p: any) => p.slug !== item.slug && p.categories?.some((c: any) => item.categories?.some((ic: any) => ic.slug === c.slug))).slice(0,3);
+const newsCategorySlugs = new Set(['zpravy-bulharsko']);
+const isQuickNewsPost = (post: any) => {
+  const hasNewsCategory = post.categories?.some((category: any) => newsCategorySlugs.has(category.slug));
+  const usesDefaultNewsImage = /header-image-2-1\.webp$/.test(post.featured_image || '');
+  const isShortGeneratedUpdate = Number(post.reading_minutes || 0) <= 2 && usesDefaultNewsImage;
+  return hasNewsCategory || isShortGeneratedUpdate;
+};
+const itemCategorySlugs = new Set((item.categories || []).map((category: any) => category.slug).filter((slug: string) => !newsCategorySlugs.has(slug)));
+const sameCategoryRelated = data.posts.filter((post: any) =>
+  post.slug !== item.slug &&
+  !isQuickNewsPost(post) &&
+  post.categories?.some((category: any) => itemCategorySlugs.has(category.slug))
+);
+const fallbackRelated = data.posts.filter((post: any) =>
+  post.slug !== item.slug &&
+  !isQuickNewsPost(post) &&
+  !sameCategoryRelated.some((relatedPost: any) => relatedPost.slug === post.slug)
+);
+const related = [...sameCategoryRelated, ...fallbackRelated].slice(0, 3);
 const title = item.seo?.title || item.title;
 const description = item.seo?.description || item.excerpt || 'Visit Bulharsko';
 const date = item.date ? new Date(item.date).toLocaleDateString('cs-CZ', { day: 'numeric', month: 'long', year: 'numeric' }) : '';
