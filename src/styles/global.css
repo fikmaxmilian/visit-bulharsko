@@ -25,9 +25,9 @@
   .latest-strip__button { @apply shrink-0 bg-ink px-3 py-1.5 text-xs font-black uppercase tracking-wide text-white transition hover:bg-rosebrand; }
   .home-news-grid { @apply gap-3 border-0 bg-transparent md:gap-px md:border md:bg-line; }
   .home-news-grid > a { @apply bg-white px-0 py-0; }
-  .home-news-grid > a > div { @apply border border-line p-5 md:border-b md:border-x-0 md:border-t-0 md:p-5 lg:p-6; }
+  .home-news-grid > a > div { @apply min-h-full border border-line p-5 md:border-b md:border-x-0 md:border-t-0 md:p-5 lg:p-6; }
   .home-news-grid h3 { @apply mt-0 text-base leading-snug md:text-lg; }
-  .home-news-grid > a span:last-child { @apply mt-4 w-fit bg-ink px-3 py-2 text-xs font-black uppercase tracking-wide text-white no-underline transition group-hover:bg-rosebrand; }
+  .home-news-grid > a span:last-child { @apply mt-auto w-fit bg-ink px-3 py-2 text-xs font-black uppercase tracking-wide text-white no-underline transition group-hover:bg-rosebrand; }
   .overlay-card { @apply relative min-h-[380px] overflow-hidden bg-ink text-white shadow-soft md:min-h-[420px]; }
   .overlay-card > div:first-child { @apply absolute inset-0 h-full rounded-none; }
   .overlay-card img { @apply h-full w-full bg-blush object-cover brightness-[.72]; }
@@ -35,12 +35,27 @@
   .overlay-body { @apply absolute inset-x-0 bottom-0 z-10 p-5 text-white md:p-6; }
   .overlay-body h3, .overlay-body p { @apply text-white; }
   .overlay-card:hover .overlay-body h3 { @apply text-white underline decoration-white/45 underline-offset-4; }
-  .ad-slot { @apply flex min-h-24 items-center justify-center border border-dashed border-line bg-white p-5 text-center text-xs font-semibold uppercase tracking-[.2em] text-plum/45; }
+  .ad-slot { @apply relative flex min-h-24 items-center justify-center overflow-hidden border border-dashed border-line bg-white p-5 text-center text-xs font-semibold uppercase tracking-[.2em] text-plum/45; }
+  .ad-slot__placeholder { @apply pointer-events-none absolute inset-0 flex items-center justify-center px-4; }
+  .ad-slot .adsbygoogle { @apply relative z-10 w-full; }
   .ad-wide { @apply min-h-32 bg-white text-plum/50; }
   .ad-box { @apply min-h-64; }
+  .ad-square { @apply aspect-square min-h-0 w-full max-w-[340px] self-start justify-self-start bg-white text-plum/50; }
+  .ad-feed { @apply min-h-40 bg-white text-plum/50; }
+  .ad-article { @apply min-h-48 bg-white text-plum/50; }
+  .ad-multiplex { @apply min-h-72 bg-white text-plum/50; }
+  .promo-banner { @apply block overflow-hidden border border-line bg-white shadow-soft transition hover:-translate-y-0.5 hover:shadow-lg; }
+  .promo-banner img { @apply block h-auto w-full; }
   .newsletter-box { @apply border border-line bg-white p-5 shadow-soft md:p-6; }
   .newsletter-input { @apply w-full border border-line bg-blush px-4 py-3 outline-none focus:border-rosebrand; }
   .newsletter-btn { @apply bg-ink px-5 py-3 font-semibold text-white hover:bg-rosebrand; }
+  .mono-icon { @apply inline-flex h-11 w-11 items-center justify-center rounded-full border border-rosebrand/25 bg-white text-rosebrand shadow-sm; }
+  .mono-icon svg { @apply h-6 w-6; }
+  .newsletter-box .mono-icon { @apply mb-3 h-12 w-12 border-white/40 bg-white/15 text-white shadow-none; }
+  .menu-icon { @apply flex h-4 w-5 flex-col justify-between; }
+  .menu-icon span { @apply block h-0.5 w-full bg-current; }
+  .search-icon { @apply relative block h-4 w-4 rounded-full border-2 border-current; }
+  .search-icon::after { content: ''; @apply absolute -bottom-1 -right-1 h-2 w-0.5 rotate-[-45deg] bg-current; }
   .property-card { @apply flex h-full flex-col overflow-hidden border border-line bg-white shadow-soft transition hover:-translate-y-0.5 hover:shadow-xl; }
   .property-card__image { @apply relative overflow-hidden border-b border-line bg-blush p-0; }
   .property-card__image::after { content: 'OVĚŘENO'; @apply absolute left-3 top-3 max-w-[calc(100%-1.5rem)] whitespace-normal bg-white/90 px-3 py-1 text-[10px] font-black uppercase tracking-normal text-plum; }
@@ -52,7 +67,7 @@
   .property-card h3 { @apply mt-2 text-xl font-black leading-tight md:text-2xl; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
   .property-card__body > small { @apply mt-3 block text-sm font-semibold text-plum/60; }
   .property-card__body > span { @apply mt-auto inline-block pt-5 text-xs font-black text-plum underline decoration-rosebrand/30 underline-offset-4; }
-  .property-carousel { @apply relative min-h-[560px] overflow-hidden border border-line bg-white shadow-soft md:min-h-[360px]; }
+  .property-carousel { @apply relative min-h-[560px] self-start overflow-hidden border border-line bg-white shadow-soft md:min-h-[360px]; }
   .property-carousel__track { @apply relative min-h-[560px] md:min-h-[360px]; }
   .property-carousel__slide { @apply absolute inset-0 grid grid-rows-[190px_1fr] opacity-0 transition duration-700 md:grid-cols-[1.15fr_.85fr] md:grid-rows-1; }
   .property-carousel__slide.is-active { @apply opacity-100; }
