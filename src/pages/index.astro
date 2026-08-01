@@ -10,15 +10,21 @@ import { absoluteUrl, canonicalUrl, withBase } from '../utils/paths';
 import propertyFeed from '../data/property-feed.json';
 
 const posts = data.posts;
-const byCat = (slug: string) => posts.filter((p: any) => p.categories?.some((c: any) => c.slug === slug));
-const hero = [
-  posts.find((p) => p.slug === 'vtipna-slova-v-bulharstine'),
-  posts.find((p) => p.slug === 'bulharsky-jazyk'),
-  posts.find((p) => p.slug === 'bulharsko-primorsko'),
-  posts.find((p) => p.slug === 'plovdiv-nejstarsi-mesto-evropy'),
-].filter(Boolean);
+const postsByDate = posts
+  .map((post: any, index: number) => ({ post, index }))
+  .sort((a: any, b: any) => {
+    const dateDiff = new Date(b.post.date || 0).getTime() - new Date(a.post.date || 0).getTime();
+    return dateDiff || a.index - b.index;
+  })
+  .map(({ post }: any) => post);
+const byCat = (slug: string) => postsByDate.filter((p: any) => p.categories?.some((c: any) => c.slug === slug));
+const isQuickNews = (post: any) =>
+  post.postFormat === 'quick-news' ||
+  post.noImage === true ||
+  post.categories?.some((c: any) => c.slug === 'zpravy-bulharsko');
+const hero = postsByDate.filter((post: any) => !isQuickNews(post)).slice(0, 4);
 const news = byCat('zpravy-bulharsko').slice(0, 4);
-const tickerItems = news.slice(0, 3);
+const tickerItems = postsByDate.slice(0, 3);
 const tickerItem = tickerItems[0];
 const destinations = byCat('nejoblibenejsi-destinace').slice(0, 3);
 const history = byCat('historie-bulharska').slice(0, 2);
