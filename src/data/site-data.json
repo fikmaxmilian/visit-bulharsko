@@ -1,6 +1,33 @@
 {
   "posts": [
     {
+      "id": 3509,
+      "type": "post",
+      "slug": "bourky-krupobiti-bulharsko-10-srpna-2026",
+      "path": "/bourky-krupobiti-bulharsko-10-srpna-2026/",
+      "title": "V Bulharsku hrozí v pondělí bouřky a krupobití, sledujte místní předpověď",
+      "excerpt": "Po slunečném začátku dne se má v Bulharsku v pondělí zvyšovat riziko bouřek a krupobití. Cestovatelé by měli plánovat výlety s rezervou a hlídat výstrahy.",
+      "date": "2026-08-10T00:00:00",
+      "modified": "2026-08-10T08:29:12+02:00",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Bouřky a krupobití v Bulharsku 10. srpna",
+        "description": "Bulharsko čeká po slunečném ránu proměnlivé počasí s bouřkami a rizikem krupobití. Praktické upozornění pro cestovatele."
+      },
+      "content": "<p>Bulharsko má v pondělí 10. srpna čekat proměnlivý letní den: začátek bude na většině území slunečný, během dne se ale podle agentury Novinite zvýší nestabilita v atmosféře a v některých oblastech se mohou tvořit bouřky. Meteorologové zároveň upozorňují i na riziko krupobití. Teploty mají po předchozích horkých dnech mírně polevit, přesto se v mnoha místech budou držet vysoko, přibližně kolem 30 až 35 °C.</p>\n<h2>Co se stalo</h2>\n<p>Podle aktuální předpovědi se už v noci a ráno může dočasně zvětšit oblačnost nad severozápadním a středním severním Bulharskem. Přes den má zpočátku převažovat slunce, odpoledne ale poroste pravděpodobnost lokálních přeháněk, bouřek a místy i krup. Typické letní bouřky mohou být krátké, ale intenzivní: během malé chvíle zhorší viditelnost, zaplaví ulice, zkomplikují horské túry nebo zpomalí silniční dopravu.</p>\n<h2>Co to znamená pro cestovatele</h2>\n<p>Pro české turisty nejde o důvod rušit dovolenou, ale o praktické upozornění k plánování dne. Pokud jste u moře ve Varně, Burgasu, Nesebaru, Sozopolu nebo na Slunečném pobřeží, sledujte hlavně odpolední vývoj oblačnosti a pokyny plavčíků. Při bouřce nečekejte na otevřené pláži, v moři ani pod osamělými stromy; bezpečnější je přesun do budovy, restaurace nebo auta. Výlety lodí a delší procházky po pobřeží je lepší směřovat na dopoledne.</p>\n<p>Ještě opatrnější buďte při cestách do hor a do vnitrozemí. V Rile, Pirinu, Rodopách nebo Staré planině se počasí mění rychleji než v letoviscích a bouřka může přijít dřív, než ukazuje pohled z údolí. Vyrazte brzy, mějte nabitý telefon, offline mapu a nepromokavou vrstvu. Řidiči by měli počítat s krátkodobě horšími podmínkami na silnicích: prudký déšť, kroupy a voda v kolejích mohou prodloužit cestu z letiště i výlet mezi městy.</p>\n<p>Nejlepší postup je jednoduchý: ráno zkontrolovat místní předpověď, nechat si v programu rezervu a u dražších aktivit ověřit možnost přesunu termínu. Bulharské letní počasí umí být krásné, ale odpolední bouřka dokáže změnit plán rychleji než fronta na zmrzlinu v Nesebaru.</p>\n<p><em>Zdroj: Novinite / Sofia News Agency.</em></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240040",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 2
+    },
+    {
       "id": 3508,
       "type": "post",
       "slug": "bulharsko-euro-2026-mena-kurz-platby",
