@@ -1,6 +1,33 @@
 {
   "posts": [
     {
+      "id": 3514,
+      "type": "post",
+      "slug": "plovdiv-tenisova-destinace-atp-challenger-2026",
+      "path": "/plovdiv-tenisova-destinace-atp-challenger-2026/",
+      "title": "Plovdiv posiluje jako tenisová destinace: město hostí další mezinárodní turnaj",
+      "excerpt": "Plovdiv hostí další turnaj ATP Challenger 50 a ukazuje, že Bulharsko chce být vidět i přes sportovní akce. Pro cestovatele je to tip na město mimo klasická přímořská letoviska.",
+      "date": "2026-08-09T00:00:00",
+      "modified": "2026-08-10T17:00:00+02:00",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Plovdiv roste jako tenisová destinace",
+        "description": "Plovdiv hostí turnaj ATP Challenger 50 a posiluje sportovní turistiku. Co to znamená pro české cestovatele do Bulharska?"
+      },
+      "content": "<p>Plovdiv se dál profiluje jako jedno z bulharských měst, které stojí za pozornost nejen kvůli historii a gastronomii, ale i díky sportovním akcím. Podle agentury Novinite město hostí další turnaj ATP Challenger 50 s prize money téměř 57 tisíc eur. Na turnaji dostává prostor i dvanáct bulharských hráčů ve dvouhře a čtyřhře.</p>\n<h2>Co se stalo</h2>\n<p>Novinite popisuje Plovdiv jako rostoucí tenisové centrum Bulharska. Aktuální turnaj má domácím hráčům nabídnout cennou mezinárodní zkušenost a zároveň ukázat, že země umí organizovat sportovní akce s dobrým zázemím pro hráče i diváky. V pavouku se představili také mladí bulharští tenisté včetně Petra Nesterova a Adriana Andreeva, což podle pořadatelů zaručuje domácí zastoupení v závěrečných kolech.</p>\n<p>Předseda Bulharské tenisové federace Ivan Tichov podle zdroje zdůraznil, že cílem není jednorázový výsledek, ale dlouhodobé budování turnajů, klubů a hráčské základny. Zástupci federace zároveň mluví o ambici posouvat podobné akce na vyšší úroveň. Pro Plovdiv to znamená další způsob, jak se prezentovat jako město s programem i mimo hlavní turistické památky.</p>\n<h2>Co to znamená pro cestovatele</h2>\n<p>Pro české návštěvníky je zpráva praktická hlavně jako připomínka, že Plovdiv nemusí být jen jednodenní výlet ze Sofie nebo zastávka na cestě k moři. Sportovní turnaje, festivaly a kulturní akce mohou být dobrým důvodem naplánovat si ve městě noc navíc. Plovdiv má historické centrum, čtvrť Kapana, římský amfiteátr i dobré vlakové a autobusové spojení, takže se dá snadno zařadit do delší cesty po Bulharsku.</p>\n<p>Pokud se chystáte do Plovdivu v době větší akce, vyplatí se ověřit dostupnost ubytování předem a počítat s živější dopravou v okolí sportovišť. Pro fanoušky tenisu může být výhodou, že turnaje nižších kategorií často nabízejí bližší kontakt s hráči a příjemnější ceny než velké podniky ATP. I pro necestující sportovní fanoušky je to signál, že Bulharsko rozšiřuje nabídku městské turistiky za hranici klasické kombinace Sofie a pobřeží.</p>\n<p><a href=\"https://www.novinite.com/view_news.php?id=240025\" rel=\"nofollow noopener\" target=\"_blank\">Zdroj: Novinite / Sofia News Agency</a></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240025",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 2
+    },
+    {
       "id": 3513,
       "type": "post",
       "slug": "bulharsko-vyzkum-vyvoj-rozpocet-rust-eu-2026",
