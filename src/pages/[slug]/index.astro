@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
 import AdSlot from '../../components/AdSlot.astro';
 import PromoBanner from '../../components/PromoBanner.astro';
+import PropertyListingPage from '../../components/PropertyListingPage.astro';
 import { absoluteUrl, canonicalUrl, withBase } from '../../utils/paths';
 import data from '../../data/site-data.json';
 
@@ -92,9 +93,10 @@ function splitArticleContent(html = '') {
 }
 
 const articleContentParts = splitArticleContent(item.content || '');
+const isPropertyPage = item.slug === 'nemovitosti-bulharsko';
 ---
 <BaseLayout title={title} description={description} image={visibleFeaturedImage || undefined} canonical={item.path} type={item.type === 'post' ? 'article' : 'website'} schema={[articleSchema, pageSchema, breadcrumbs]} noindex={item.noindex === true}>
-  <article class="mx-auto max-w-4xl px-5 pt-12">
+  <article class:list={['mx-auto px-5 pt-12', isPropertyPage ? 'max-w-7xl' : 'max-w-4xl']}>
     <div class="text-center">
       {item.categories?.[0] && <a href={`/category/${item.categories[0].slug}/`} class="meta-chip">{item.categories[0].name}</a>}
       <h1 class="mt-5 font-display text-4xl font-black leading-tight md:text-6xl">{item.title}</h1>
@@ -103,8 +105,8 @@ const articleContentParts = splitArticleContent(item.content || '');
     </div>
     {visibleFeaturedImage && <img src={withBase(visibleFeaturedImage)} alt={item.featured_alt || item.title} class="mt-10 max-h-[560px] w-full rounded-[2rem] object-cover shadow-soft" />}
     {item.type === 'post' && !isCurrentQuickNews && <div class="my-10"><PromoBanner /></div>}
-    <div class="my-10"><AdSlot type="article" label="ADS / in-article reklama" /></div>
-    <div class="article-content" set:html={articleContentParts[0]}></div>
+    {!isPropertyPage && <div class="my-10"><AdSlot type="article" label="ADS / in-article reklama" /></div>}
+    {isPropertyPage ? <PropertyListingPage /> : <div class="article-content" set:html={articleContentParts[0]}></div>}
     {item.type === 'post' && articleContentParts[1] && <div class="my-10"><AdSlot type="article" label="ADS / in-article reklama uvnitř článku" /></div>}
     {articleContentParts[1] && <div class="article-content" set:html={articleContentParts[1]}></div>}
     {item.type === 'post' && articleContentParts[2] && !isCurrentQuickNews && <div class="my-10"><PromoBanner /></div>}

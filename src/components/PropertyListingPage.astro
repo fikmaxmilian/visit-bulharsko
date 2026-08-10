@@ -1,0 +1,40 @@
+---
+import propertyFeed from '../data/property-feed.json';
+
+const AFFILIATE_LIST_URL = 'https://www.mojenemovitostumore.cz/nemovitosti?country_id=146&relation_type=1&do=advertList-searchForm-submit&aff=l4todz91fb';
+const properties = ((propertyFeed.items || []) as any[]).filter((p: any) => p.available === true);
+const EUR_CZK_RATE = 25;
+const formatCzk = (priceNum?: number) => {
+  if (!priceNum) return '';
+  return `cca ${Math.round(priceNum * EUR_CZK_RATE).toLocaleString('cs-CZ')} Kč`;
+};
+---
+<section class="property-listing-page">
+  <div class="property-listing-page__intro">
+    <p class="property-eyebrow">Ověřená affiliate nabídka</p>
+    <h2>Apartmány a domy v Bulharsku</h2>
+    <p>Vybrané nemovitosti u moře a v oblíbených lokalitách. Kliknutím na kartu přejdete na detail nabídky u partnera.</p>
+  </div>
+
+  {properties.length > 0 && (
+    <div class="property-listing-grid">
+      {properties.map((p: any) => (
+        <a href={p.href} class="property-card" rel="sponsored nofollow">
+          <div class="property-card__image"><img src={p.img} alt={p.title} loading="lazy" decoding="async" width="420" height="280" /></div>
+          <div class="property-card__body">
+            <p><span>{p.price}</span>{formatCzk(p.priceNum) && <small>{formatCzk(p.priceNum)}</small>}</p>
+            <h3>{p.title}</h3>
+            {p.location && <small>{p.location}</small>}
+            <span>PROHLÉDNOUT NEMOVITOST</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  )}
+
+  <div class="property-listing-page__more">
+    <h2>Chcete projít další nemovitosti?</h2>
+    <p>Kompletní aktuální nabídku najdete přímo u partnera. Odkaz vede na affiliate výpis nemovitostí v Bulharsku.</p>
+    <a href={AFFILIATE_LIST_URL} rel="sponsored nofollow" class="property-listing-page__more-link">DALŠÍ NEMOVITOSTI →</a>
+  </div>
+</section>

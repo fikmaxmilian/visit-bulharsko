@@ -67,6 +67,17 @@
   .property-card h3 { @apply mt-2 text-xl font-black leading-tight md:text-2xl; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
   .property-card__body > small { @apply mt-3 block text-sm font-semibold text-plum/60; }
   .property-card__body > span { @apply mt-auto inline-block pt-5 text-xs font-black text-plum underline decoration-rosebrand/30 underline-offset-4; }
+  .property-listing-page { @apply mt-10; }
+  .property-listing-page__intro { @apply mx-auto mb-8 max-w-3xl text-center; }
+  .property-listing-page__intro h2 { @apply mt-2 font-display text-3xl font-black leading-tight md:text-5xl; }
+  .property-listing-page__intro p:not(.property-eyebrow) { @apply mt-4 text-lg leading-8 text-plum/75; }
+  .property-listing-grid { @apply grid items-stretch gap-6 md:grid-cols-2 lg:grid-cols-3; }
+  .property-listing-grid .property-card { @apply min-h-full; }
+  .property-listing-grid .property-card h3 { @apply md:text-xl; }
+  .property-listing-page__more { @apply mx-auto mt-10 max-w-3xl border border-line bg-white p-6 text-center shadow-soft md:p-8; }
+  .property-listing-page__more h2 { @apply font-display text-2xl font-black md:text-3xl; }
+  .property-listing-page__more p { @apply mx-auto mt-3 max-w-2xl text-plum/70; }
+  .property-listing-page__more-link { @apply mt-5 inline-block bg-ink px-6 py-3 text-xs font-black uppercase tracking-wide text-white no-underline transition hover:bg-rosebrand; }
   .property-carousel { @apply relative min-h-[560px] self-start overflow-hidden border border-line bg-white shadow-soft md:min-h-[360px]; }
   .property-carousel__track { @apply relative min-h-[560px] md:min-h-[360px]; }
   .property-carousel__slide { @apply absolute inset-0 grid grid-rows-[190px_1fr] opacity-0 transition duration-700 md:grid-cols-[1.15fr_.85fr] md:grid-rows-1; }
