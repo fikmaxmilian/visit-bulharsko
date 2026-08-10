@@ -15,7 +15,7 @@ const formatCzk = (priceNum?: number) => {
           <a href={p.href} rel="sponsored nofollow" class:list={['property-carousel__slide', index === 0 && 'is-active']} data-property-slide>
             <div class="property-carousel__content">
               <p class="property-eyebrow">Ověřená nabídka</p>
-              <h2>{p.title}</h2>
+              <h3>{p.title}</h3>
               <div class="property-meta-row">
                 <strong><span>{p.price}</span>{formatCzk(p.priceNum) && <small>{formatCzk(p.priceNum)}</small>}</strong>
                 {p.location && <span>{p.location}</span>}

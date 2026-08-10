@@ -91,7 +91,7 @@ const homeSchema = [
     )}
 
     <div class="grid gap-5 lg:grid-cols-[1.35fr_.9fr]">
-      <PostCard post={hero[0] || posts[0]} variant="hero" overlay priority />
+      <PostCard post={hero[0] || posts[0]} variant="hero" overlay priority headingLevel={2} />
       <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-1">
         {hero.slice(1,4).map((p) => <PostCard post={p} variant="mini" />)}
       </div>
@@ -134,7 +134,7 @@ const homeSchema = [
     </div>
 
     <div class="mt-8 border-y border-line py-4 md:py-5">
-      <div class="mb-3 flex items-center justify-between gap-4 text-xs font-bold uppercase tracking-[.18em] text-plum/55">
+      <div class="mb-3 flex items-center justify-between gap-4 text-xs font-bold uppercase tracking-[.18em] text-plum/75">
         <span>Zpravodajství</span>
         <span>Průběžně aktualizováno</span>
       </div>

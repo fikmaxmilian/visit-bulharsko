@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import data from '../data/site-data.json';
+import imageResponsive from '../data/image-responsive.json';
 import { absoluteUrl, canonicalUrl, withBase } from '../utils/paths';
 
 interface Props {
@@ -39,7 +40,13 @@ const footerPosts = data.posts.filter((p: any) => p.noindex !== true).slice(0, 5
 const today = new Date().toLocaleDateString('cs-CZ', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
 const cleanTitle = (value: string) => value.replace(/[\u{1F300}-\u{1FAFF}\u2600-\u27BF\uFE0F]+/gu, '').replace(/\s+/g, ' ').trim();
 const homeUrl = withBase('/');
-const preloadImageHref = preloadImage ? withBase(preloadImage) : '';
+const preloadResponsive = preloadImage ? (imageResponsive as Record<string, { src?: string; srcset?: string }>)[preloadImage] : undefined;
+const preloadImageHref = preloadImage ? withBase(preloadResponsive?.src || preloadImage) : '';
+const preloadImageSrcSet = preloadResponsive?.srcset?.split(', ').map((item) => {
+  const [src, width] = item.split(' ');
+  return `${withBase(src)} ${width}`;
+}).join(', ');
+const preloadImageSizes = '(min-width: 1024px) 60vw, 100vw';
 ---
 <!doctype html>
 <html lang="cs">
@@ -61,7 +68,7 @@ const preloadImageHref = preloadImage ? withBase(preloadImage) : '';
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={absoluteImage} />
     <link rel="icon" href={withBase('/uploads/2023/07/cropped-Visit-Bulharsko-1-157x64.webp')} />
-    {preloadImageHref && <link rel="preload" as="image" href={preloadImageHref} fetchpriority="high" />}
+    {preloadImageHref && <link rel="preload" as="image" href={preloadImageHref} imagesrcset={preloadImageSrcSet} imagesizes={preloadImageSrcSet ? preloadImageSizes : undefined} fetchpriority="high" />}
     {schemaItems.map((item) => <script is:inline type="application/ld+json" set:html={JSON.stringify(item)} />)}
     <script is:inline src="https://analytics.ahrefs.com/analytics.js" data-key="Y3mbQ3CudqPC6n0olZXfNw" async></script>
   </head>

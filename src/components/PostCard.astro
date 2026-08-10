@@ -1,20 +1,35 @@
 ---
 import { withBase } from '../utils/paths';
 import imageDimensions from '../data/image-dimensions.json';
+import imageResponsive from '../data/image-responsive.json';
 
-const { post, variant = 'card', overlay = false, hideImage = false, priority = false } = Astro.props;
+const { post, variant = 'card', overlay = false, hideImage = false, priority = false, headingLevel = 3 } = Astro.props;
+const HeadingTag = headingLevel === 2 ? 'h2' : 'h3';
 const img = post.featured_image || '/uploads/2023/07/header-image-2-1.webp';
 const cat = post.categories?.[0];
 const showImage = variant !== 'text' && !hideImage;
 const date = post.date ? new Date(post.date).toLocaleDateString('cs-CZ', { day: 'numeric', month: 'numeric', year: 'numeric' }) : '';
 
 const imageMeta = typeof img === 'string' ? (imageDimensions as Record<string, { width?: number; height?: number }>)[img] || {} : {};
+const responsiveMeta = typeof img === 'string' ? (imageResponsive as Record<string, { src?: string; srcset?: string }>)[img] || {} : {};
+const imageSrc = responsiveMeta.src || img;
+const imageSrcSet = responsiveMeta.srcset?.split(', ').map((item) => {
+  const [src, width] = item.split(' ');
+  return `${withBase(src)} ${width}`;
+}).join(', ');
+const imageSizes = variant === 'hero'
+  ? '(min-width: 1024px) 60vw, 100vw'
+  : variant === 'mini'
+    ? '(min-width: 1024px) 35vw, (min-width: 640px) 50vw, 100vw'
+    : '(min-width: 768px) 33vw, 100vw';
 ---
 <a href={withBase(post.path)} class:list={['group flex h-full flex-col', !overlay && variant !== 'text' && 'border border-line bg-white', variant === 'compact' && 'compact-card', overlay && 'overlay-card']}>
   {showImage && (
     <div class="overflow-hidden bg-[#d8d0d2]">
       <img
-        src={withBase(img)}
+        src={withBase(imageSrc)}
+        srcset={imageSrcSet}
+        sizes={imageSrcSet ? imageSizes : undefined}
         alt={post.featured_alt || post.title}
         class:list={['h-52 w-full object-cover transition duration-500 group-hover:scale-105 md:h-56', variant === 'hero' && 'h-[300px] md:h-[330px]', variant === 'mini' && 'h-28']}
         loading={priority ? 'eager' : 'lazy'}
@@ -27,8 +42,8 @@ const imageMeta = typeof img === 'string' ? (imageDimensions as Record<string, {
   )}
   <div class:list={[overlay ? 'overlay-body' : variant === 'text' ? 'flex flex-1 flex-col border-b border-line pb-4' : 'flex flex-1 flex-col p-4']}>
     {cat && variant !== 'text' && <span class="meta-chip">{cat.name}</span>}
-    <h3 class:list={['font-black leading-tight text-ink group-hover:text-rosebrand', variant === 'hero' ? 'mt-3 text-3xl md:text-4xl' : variant === 'mini' ? 'mt-2 text-lg' : 'mt-3 text-xl md:text-2xl']}>{post.title}</h3>
-    <p class="mt-2 text-xs font-semibold uppercase tracking-wide text-plum/60">Luke Palm · {date}</p>
+    <HeadingTag class:list={['font-black leading-tight text-ink group-hover:text-rosebrand', variant === 'hero' ? 'mt-3 text-3xl md:text-4xl' : variant === 'mini' ? 'mt-2 text-lg' : 'mt-3 text-xl md:text-2xl']}>{post.title}</HeadingTag>
+    <p class="mt-2 text-xs font-semibold uppercase tracking-wide text-plum/75">Luke Palm · {date}</p>
     {variant === 'hero' && <p class="mt-3 line-clamp-2 text-sm leading-6 text-white/85">{post.excerpt}</p>}
     {variant !== 'mini' && variant !== 'hero' && <p class="mt-3 line-clamp-3 text-sm leading-6 text-plum/75">{post.excerpt}</p>}
     {variant !== 'mini' && <span class:list={[variant === 'text' ? 'mt-auto inline-block text-sm font-bold' : 'mt-auto inline-block pt-4 text-sm font-bold', overlay ? 'text-white underline decoration-white/45 underline-offset-4' : 'text-plum']}>Číst →</span>}

@@ -87,7 +87,7 @@ const adLabel = label || config.label;
 const adClass = ['ad-slot', config.className, className].filter(Boolean).join(' ');
 const loaderId = 'adsense-lazy-loader';
 ---
-<div class={adClass} aria-label={adLabel} data-ad-unit={resolvedType} data-ad-slot-root>
+<aside class={adClass} aria-label={adLabel} data-ad-unit={resolvedType} data-ad-slot-root>
   <span class="ad-slot__placeholder" aria-hidden="true">{adLabel}</span>
   <ins
     class="adsbygoogle"
@@ -125,4 +125,4 @@ const loaderId = 'adsense-lazy-loader';
     })();
   </script>
   <noscript><span>{adLabel}</span></noscript>
-</div>
+</aside>
