@@ -9,7 +9,7 @@ import data from '../data/site-data.json';
 import { absoluteUrl, canonicalUrl, withBase } from '../utils/paths';
 import propertyFeed from '../data/property-feed.json';
 
-const posts = data.posts;
+const posts = data.posts.filter((p: any) => p.noindex !== true);
 const postsByDate = posts
   .map((post: any, index: number) => ({ post, index }))
   .sort((a: any, b: any) => {
@@ -135,7 +135,13 @@ const homeSchema = [
     <div><div class="section-head"><h2>Praktické tipy</h2><a href={withBase('/category/prakticke-tipy/')}>Více článků →</a></div><div class="grid gap-6">{practical.map((p) => <PostCard post={p} variant="text" />)}</div></div>
   </section>
 
-  <section class="section-wrap"><div class="border border-line bg-white p-7 shadow-soft md:flex md:items-center md:justify-between"><div><p class="text-sm font-black uppercase tracking-[.18em] text-rosebrand">Redakce</p><h2 class="mt-2 text-3xl font-black">Pošlete nám článek nebo cestopis</h2><p class="mt-2 text-plum/70">Máte zážitek z Bulharska? Podělte se s ostatními cestovateli.</p></div><a href={withBase('/kontakt/')} class="btn-outline mt-6 inline-block md:mt-0">Poslat článek</a></div></section>
+  <section class="section-wrap"><div class="grid gap-5 md:grid-cols-3">
+    <div class="rounded-[1.5rem] border border-line bg-white p-6 shadow-soft"><p class="text-xs font-black uppercase tracking-[.2em] text-rosebrand">Proč web existuje</p><h2 class="mt-3 text-2xl font-black">Bulharsko pro české cestovatele</h2><p class="mt-3 text-plum/70">Píšeme prakticky: doprava, ceny, počasí, letoviska, výlety a aktuální události s dopadem na cestu. Méně katalogových frází, více použitelných detailů.</p></div>
+    <div class="rounded-[1.5rem] border border-line bg-white p-6 shadow-soft"><p class="text-xs font-black uppercase tracking-[.2em] text-rosebrand">Kontrola obsahu</p><h2 class="mt-3 text-2xl font-black">Aktuality s kontextem</h2><p class="mt-3 text-plum/70">Krátké zprávy vybíráme podle toho, jestli mohou zajímat člověka z Česka: bezpečnost, doprava, počasí, ceny nebo turistická sezóna.</p></div>
+    <div class="rounded-[1.5rem] border border-line bg-white p-6 shadow-soft"><p class="text-xs font-black uppercase tracking-[.2em] text-rosebrand">Transparentně</p><h2 class="mt-3 text-2xl font-black">Reklama odděleně</h2><p class="mt-3 text-plum/70">Partnerské odkazy a nabídky nemovitostí jsou komerční části webu. Redakční články mají pomáhat s orientací před cestou i během pobytu.</p></div>
+  </div></section>
+
+  <section class="section-wrap"><div class="border border-line bg-white p-7 shadow-soft md:flex md:items-center md:justify-between"><div><p class="text-sm font-black uppercase tracking-[.18em] text-rosebrand">Redakce</p><h2 class="mt-2 text-3xl font-black">Pošlete nám článek nebo cestopis</h2><p class="mt-2 text-plum/70">Máte zážitek z Bulharska, tip na opravu nebo aktuální informaci z místa? Podělte se s ostatními cestovateli.</p></div><a href={withBase('/kontakt/')} class="btn-outline mt-6 inline-block md:mt-0">Kontaktovat redakci</a></div></section>
 
   <section class="section-wrap"><div class="section-head"><h2>Kultura a tradice</h2><a href={withBase('/category/kultura-a-tradice/')}>Všechny články →</a></div><div class="grid gap-6 md:grid-cols-2">{culture.map((p) => <PostCard post={p} overlay variant="hero" />)}</div></section>
 

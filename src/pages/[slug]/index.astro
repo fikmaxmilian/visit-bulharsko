@@ -11,7 +11,7 @@ export function getStaticPaths() {
     .filter((p) => p.path !== '/')
     .map((p) => ({ params: { slug: p.slug }, props: { item: p } }));
 }
-const { item } = Astro.props;
+const { item } = Astro.props as { item: any };
 const newsCategorySlugs = new Set(['zpravy-bulharsko']);
 const isQuickNewsPost = (post: any) => {
   const hasNewsCategory = post.categories?.some((category: any) => newsCategorySlugs.has(category.slug));
@@ -22,11 +22,13 @@ const isQuickNewsPost = (post: any) => {
 const itemCategorySlugs = new Set((item.categories || []).map((category: any) => category.slug).filter((slug: string) => !newsCategorySlugs.has(slug)));
 const sameCategoryRelated = data.posts.filter((post: any) =>
   post.slug !== item.slug &&
+  post.noindex !== true &&
   !isQuickNewsPost(post) &&
   post.categories?.some((category: any) => itemCategorySlugs.has(category.slug))
 );
 const fallbackRelated = data.posts.filter((post: any) =>
   post.slug !== item.slug &&
+  post.noindex !== true &&
   !isQuickNewsPost(post) &&
   !sameCategoryRelated.some((relatedPost: any) => relatedPost.slug === post.slug)
 );
@@ -91,7 +93,7 @@ function splitArticleContent(html = '') {
 
 const articleContentParts = splitArticleContent(item.content || '');
 ---
-<BaseLayout title={title} description={description} image={visibleFeaturedImage || undefined} canonical={item.path} type={item.type === 'post' ? 'article' : 'website'} schema={[articleSchema, pageSchema, breadcrumbs]}>
+<BaseLayout title={title} description={description} image={visibleFeaturedImage || undefined} canonical={item.path} type={item.type === 'post' ? 'article' : 'website'} schema={[articleSchema, pageSchema, breadcrumbs]} noindex={item.noindex === true}>
   <article class="mx-auto max-w-4xl px-5 pt-12">
     <div class="text-center">
       {item.categories?.[0] && <a href={`/category/${item.categories[0].slug}/`} class="meta-chip">{item.categories[0].name}</a>}

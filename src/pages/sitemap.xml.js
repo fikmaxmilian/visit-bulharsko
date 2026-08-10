@@ -5,7 +5,7 @@ export async function GET() {
     '/',
     '/page/2/',
     ...data.categories.map((c) => `/category/${c.slug}/`),
-    ...data.posts.map((p) => p.path),
+    ...data.posts.filter((p) => p.noindex !== true).map((p) => p.path),
     ...data.pages.filter((p) => p.path !== '/').map((p) => p.path),
   ];
   const unique = [...new Set(urls)].filter(Boolean);
