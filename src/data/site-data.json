@@ -1,6 +1,33 @@
 {
   "posts": [
     {
+      "id": 3513,
+      "type": "post",
+      "slug": "bulharsko-vyzkum-vyvoj-rozpocet-rust-eu-2026",
+      "path": "/bulharsko-vyzkum-vyvoj-rozpocet-rust-eu-2026/",
+      "title": "Bulharsko patří k lídrům EU v růstu veřejných výdajů na výzkum",
+      "excerpt": "Bulharsko podle Novinite patří mezi země EU s nejrychleji rostoucím veřejným rozpočtem na výzkum a vývoj. Pro české čtenáře jde hlavně o signál modernizace ekonomiky a služeb.",
+      "date": "2026-08-10T00:00:00",
+      "modified": "2026-08-10T13:00:00+02:00",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Bulharsko zrychluje financování výzkumu",
+        "description": "Bulharsko patří v EU k zemím s rychlým růstem veřejných výdajů na výzkum. Co to může znamenat pro české cestovatele a firmy?"
+      },
+      "content": "<p>Bulharsko v posledních letech výrazně navyšuje veřejné peníze určené na výzkum a vývoj. Podle agentury Novinite patří země v rámci Evropské unie mezi státy s nejrychlejším růstem těchto výdajů za poslední dekádu. Zároveň ale zůstává pod průměrem EU v absolutní částce, kterou stát na vědu, inovace a výzkumné kapacity vyčleňuje.</p>\n<h2>Co se stalo</h2>\n<p>Zpráva upozorňuje na dvojí obraz bulharské ekonomiky: tempo růstu je silné, výchozí základna ale byla nízká. Vyšší rozpočet na výzkum a vývoj může posilovat univerzity, technologické firmy, digitalizaci i modernizaci veřejných služeb. Pro zemi, která dlouhodobě dohání bohatší část EU, jde o důležitý signál, že se část investic přesouvá od levné pracovní síly také k vyšší přidané hodnotě.</p>\n<p>Pro českého čtenáře je podstatné, že nejde o izolovanou akademickou statistiku. Inovace a lepší veřejné služby se časem promítají do dopravních systémů, plateb, bezpečnostních aplikací, zdravotnictví, energetiky i kvality městské infrastruktury. Právě tyto oblasti si cestovatel všimne nejrychleji, i když samotné rozpočtové rozhodnutí není turistickou zprávou v úzkém slova smyslu.</p>\n<h2>Proč je to důležité pro cestovatele / Čechy mířící do Bulharska</h2>\n<p>Pokud Bulharsko dokáže vyšší financování dobře využít, může to v příštích letech znamenat praktičtější digitální služby, spolehlivější informace pro veřejnost a modernější zázemí ve městech i dopravě. Češi, kteří do Bulharska jezdí na dovolenou, za prací nebo kvůli nemovitostem, by měli sledovat hlavně oblasti dopravy, elektronických plateb, zdravotní dostupnosti a bezpečnostních systémů.</p>\n<p>Krátkodobě se pro turistu nic nemění: stále platí, že při cestě je důležité řešit ubytování, pojištění, dopravu a místní podmínky podle aktuálních informací. Dlouhodobě ale může rychlejší modernizace ekonomiky zlepšit komfort pobytu a snížit část drobných nepříjemností, které návštěvníci v méně digitalizovaných službách občas zažívají. Vedle klasických letovisek u moře se to může projevit i v Sofii, Plovdivu nebo Burgasu, kde se koncentrují univerzity, technologické firmy a veřejné investice. Pro cestovatele je proto dobré vnímat Bulharsko nejen jako levnější dovolenkovou destinaci, ale i jako zemi, která se postupně snaží posunout k modernějším službám a infrastruktuře.</p>\n<p class=\"source-credit\">Zdroj: <a href=\"https://www.novinite.com/view_news.php?id=240027\" rel=\"nofollow noopener\" target=\"_blank\">Novinite / Sofia News Agency</a></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240027",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 2
+    },
+    {
       "id": 3510,
       "type": "post",
       "slug": "sofia-nejvice-podcenovane-evropske-hlavni-mesto-2026",
