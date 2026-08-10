@@ -25,6 +25,10 @@
   .latest-strip__item { @apply absolute inset-x-0 top-1/2 block -translate-y-1/2 pr-2 font-semibold leading-snug opacity-0 transition-opacity duration-500; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; pointer-events: none; }
   .latest-strip__item.is-active { @apply opacity-100; pointer-events: auto; }
   .latest-strip__button { @apply shrink-0 bg-ink px-3 py-1.5 text-xs font-black uppercase tracking-wide text-white transition hover:bg-rosebrand; }
+  .top-weather { @apply flex flex-wrap items-center justify-center gap-2 normal-case tracking-normal text-white/85; }
+  .top-weather__city { @apply inline-flex items-center gap-1 rounded-full bg-white/10 px-2.5 py-1 text-[11px] font-bold text-white/85; }
+  .top-weather__city strong { @apply text-white; }
+  .top-weather__icon { @apply text-sm leading-none; }
   .home-news-grid { @apply gap-3 border-0 bg-transparent md:gap-px md:border md:bg-line; }
   .home-news-grid > a { @apply bg-white px-0 py-0; }
   .home-news-grid > a > div { @apply min-h-full border border-line p-5 md:border-b md:border-x-0 md:border-t-0 md:p-5 lg:p-6; }
