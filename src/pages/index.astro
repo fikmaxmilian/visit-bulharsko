@@ -24,8 +24,7 @@ const isQuickNews = (post: any) =>
   post.categories?.some((c: any) => c.slug === 'zpravy-bulharsko');
 const hero = postsByDate.filter((post: any) => !isQuickNews(post)).slice(0, 4);
 const news = byCat('zpravy-bulharsko').slice(0, 4);
-const tickerItems = postsByDate.slice(0, 3);
-const tickerItem = tickerItems[0];
+const tickerItems = byCat('zpravy-bulharsko').slice(0, 3);
 const destinations = byCat('nejoblibenejsi-destinace').slice(0, 3);
 const history = byCat('historie-bulharska').slice(0, 2);
 const guide = byCat('cestovni-pruvodce').slice(0, 3);
@@ -54,13 +53,41 @@ const homeSchema = [
 <BaseLayout description="Visit Bulharsko nabízí aktuální zprávy, cestovní průvodce, tipy na dovolenou, výlety, kulturu i praktické rady pro cestu do Bulharska." schema={homeSchema}>
   <section class="mx-auto max-w-7xl px-5 pt-6 md:pt-8">
     <h1 class="sr-only">Visit Bulharsko: aktuální zprávy, cestování a praktické tipy z Bulharska</h1>
-    <div class="latest-strip mb-5 border-l-4 border-rosebrand bg-blush px-4 py-3 text-sm">
+    <div class="latest-strip mb-5 border-l-4 border-rosebrand bg-white px-4 py-3 text-sm shadow-soft" data-latest-strip>
       <strong class="latest-strip__label uppercase tracking-wide text-rosebrand">Nejnovější</strong>
-      <span class="latest-strip__title text-plum/80">
-        {tickerItem?.title || 'Aktuální zprávy a praktické informace z Bulharska'}
-      </span>
-      {tickerItem && <a href={withBase(tickerItem.path)} class="latest-strip__button">Číst</a>}
+      <div class="latest-strip__items">
+        {tickerItems.length > 0 ? tickerItems.map((item, index) => (
+          <a
+            href={withBase(item.path)}
+            class:list={['latest-strip__item text-plum/80 hover:text-rosebrand', index === 0 && 'is-active']}
+            data-latest-item
+          >
+            {item.title}
+          </a>
+        )) : (
+          <span class="latest-strip__item is-active text-plum/80">Aktuální zprávy a praktické informace z Bulharska</span>
+        )}
+      </div>
+      {tickerItems[0] && <a href={withBase('/category/zpravy-bulharsko/')} class="latest-strip__button">Všechny zprávy</a>}
     </div>
+    {tickerItems.length > 1 && (
+      <script is:inline>
+        (() => {
+          const strips = document.querySelectorAll('[data-latest-strip]');
+          strips.forEach((strip) => {
+            const items = Array.from(strip.querySelectorAll('[data-latest-item]'));
+            if (items.length < 2) return;
+            let activeIndex = items.findIndex((item) => item.classList.contains('is-active'));
+            if (activeIndex < 0) activeIndex = 0;
+            window.setInterval(() => {
+              items[activeIndex].classList.remove('is-active');
+              activeIndex = (activeIndex + 1) % items.length;
+              items[activeIndex].classList.add('is-active');
+            }, 5000);
+          });
+        })();
+      </script>
+    )}
 
     <div class="grid gap-5 lg:grid-cols-[1.35fr_.9fr]">
       <PostCard post={hero[0] || posts[0]} variant="hero" overlay />
