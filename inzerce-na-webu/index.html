@@ -70,10 +70,11 @@
         document.head.appendChild(script);
       };
 
-      if ('requestIdleCallback' in window) {
-        window.requestIdleCallback(loadAds, { timeout: 3500 });
+      const scheduleAfterFirstPaint = () => window.setTimeout(loadAds, 6000);
+      if (document.readyState === 'complete') {
+        scheduleAfterFirstPaint();
       } else {
-        window.addEventListener('load', () => window.setTimeout(loadAds, 1200), { once: true });
+        window.addEventListener('load', scheduleAfterFirstPaint, { once: true });
       }
     })();
   })();</script> <noscript><span>ADS / in-article reklama</span></noscript> </div></div> <div class="article-content"><h2>Inzerce na Visit Bulharsko</h2>
