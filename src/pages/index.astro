@@ -25,6 +25,7 @@ const isQuickNews = (post: any) =>
 const hero = postsByDate.filter((post: any) => !isQuickNews(post)).slice(0, 4);
 const news = byCat('zpravy-bulharsko').slice(0, 4);
 const tickerItems = byCat('zpravy-bulharsko').slice(0, 3);
+const heroImage = hero[0]?.featured_image || posts[0]?.featured_image;
 const destinations = byCat('nejoblibenejsi-destinace').slice(0, 3);
 const history = byCat('historie-bulharska').slice(0, 2);
 const guide = byCat('cestovni-pruvodce').slice(0, 3);
@@ -50,7 +51,7 @@ const homeSchema = [
   },
 ];
 ---
-<BaseLayout description="Visit Bulharsko nabízí aktuální zprávy, cestovní průvodce, tipy na dovolenou, výlety, kulturu i praktické rady pro cestu do Bulharska." schema={homeSchema}>
+<BaseLayout description="Visit Bulharsko nabízí aktuální zprávy, cestovní průvodce, tipy na dovolenou, výlety, kulturu i praktické rady pro cestu do Bulharska." schema={homeSchema} preloadImage={heroImage}>
   <section class="mx-auto max-w-7xl px-5 pt-6 md:pt-8">
     <h1 class="sr-only">Visit Bulharsko: aktuální zprávy, cestování a praktické tipy z Bulharska</h1>
     <div class="latest-strip mb-5 border-l-4 border-rosebrand bg-white px-4 py-3 text-sm shadow-soft" data-latest-strip>
@@ -90,7 +91,7 @@ const homeSchema = [
     )}
 
     <div class="grid gap-5 lg:grid-cols-[1.35fr_.9fr]">
-      <PostCard post={hero[0] || posts[0]} variant="hero" overlay />
+      <PostCard post={hero[0] || posts[0]} variant="hero" overlay priority />
       <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-1">
         {hero.slice(1,4).map((p) => <PostCard post={p} variant="mini" />)}
       </div>

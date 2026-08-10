@@ -22,7 +22,7 @@ const formatCzk = (priceNum?: number) => {
               </div>
               <span class="property-cta">PROHLÉDNOUT NEMOVITOST</span>
             </div>
-            <div class="property-carousel__image"><img src={p.img} alt={p.title} loading={index === 0 ? 'eager' : 'lazy'} decoding="async" /></div>
+            <div class="property-carousel__image"><img src={p.img} alt={p.title} loading="lazy" decoding="async" width="640" height="426" /></div>
           </a>
         ))}
       </div>

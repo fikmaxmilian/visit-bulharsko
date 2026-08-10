@@ -85,8 +85,9 @@ const resolvedType: AdType = aliases[requestedType] || (requestedType in adTypes
 const config = adTypes[resolvedType];
 const adLabel = label || config.label;
 const adClass = ['ad-slot', config.className, className].filter(Boolean).join(' ');
+const loaderId = 'adsense-lazy-loader';
 ---
-<div class={adClass} aria-label={adLabel} data-ad-unit={resolvedType}>
+<div class={adClass} aria-label={adLabel} data-ad-unit={resolvedType} data-ad-slot-root>
   <span class="ad-slot__placeholder" aria-hidden="true">{adLabel}</span>
   <ins
     class="adsbygoogle"
@@ -95,8 +96,32 @@ const adClass = ['ad-slot', config.className, className].filter(Boolean).join(' 
     data-ad-slot={config.slot}
     {...config.attrs}
   ></ins>
-  <script is:inline>
-    (window.adsbygoogle = window.adsbygoogle || []).push({});
+  <script is:inline define:vars={{ loaderId }}>
+    (() => {
+      if (window.__adsenseLazyLoaderScheduled || document.getElementById(loaderId)) return;
+      window.__adsenseLazyLoaderScheduled = true;
+
+      const loadAds = () => {
+        if (document.getElementById(loaderId)) return;
+        const script = document.createElement('script');
+        script.id = loaderId;
+        script.async = true;
+        script.crossOrigin = 'anonymous';
+        script.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5857769079063765';
+        script.onload = () => {
+          document.querySelectorAll('[data-ad-slot-root] .adsbygoogle').forEach(() => {
+            try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch (_) {}
+          });
+        };
+        document.head.appendChild(script);
+      };
+
+      if ('requestIdleCallback' in window) {
+        window.requestIdleCallback(loadAds, { timeout: 3500 });
+      } else {
+        window.addEventListener('load', () => window.setTimeout(loadAds, 1200), { once: true });
+      }
+    })();
   </script>
   <noscript><span>{adLabel}</span></noscript>
 </div>

@@ -11,6 +11,7 @@ interface Props {
   type?: string;
   schema?: Record<string, any> | Record<string, any>[];
   noindex?: boolean;
+  preloadImage?: string;
 }
 const {
   title = 'Visit Bulharsko | Aktuální zprávy z Bulharska',
@@ -20,6 +21,7 @@ const {
   type = 'website',
   schema = [],
   noindex = false,
+  preloadImage,
 } = Astro.props;
 const canonicalHref = canonicalUrl(canonical);
 const absoluteImage = absoluteUrl(image);
@@ -37,6 +39,7 @@ const footerPosts = data.posts.filter((p: any) => p.noindex !== true).slice(0, 5
 const today = new Date().toLocaleDateString('cs-CZ', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
 const cleanTitle = (value: string) => value.replace(/[\u{1F300}-\u{1FAFF}\u2600-\u27BF\uFE0F]+/gu, '').replace(/\s+/g, ' ').trim();
 const homeUrl = withBase('/');
+const preloadImageHref = preloadImage ? withBase(preloadImage) : '';
 ---
 <!doctype html>
 <html lang="cs">
@@ -58,9 +61,9 @@ const homeUrl = withBase('/');
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={absoluteImage} />
     <link rel="icon" href={withBase('/uploads/2023/07/cropped-Visit-Bulharsko-1-157x64.webp')} />
+    {preloadImageHref && <link rel="preload" as="image" href={preloadImageHref} fetchpriority="high" />}
     {schemaItems.map((item) => <script is:inline type="application/ld+json" set:html={JSON.stringify(item)} />)}
     <script is:inline src="https://analytics.ahrefs.com/analytics.js" data-key="Y3mbQ3CudqPC6n0olZXfNw" async></script>
-    <script is:inline async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5857769079063765" crossorigin="anonymous"></script>
   </head>
   <body class="bg-blush text-ink antialiased">
     <a class="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:bg-white focus:p-3" href="#content">Přeskočit na obsah</a>
@@ -141,7 +144,7 @@ const homeUrl = withBase('/');
           </details>
           <a href={homeUrl} aria-label="Vyhledávání" class="hidden h-10 w-10 items-center justify-center border border-line bg-blush text-plum transition hover:border-rosebrand hover:text-rosebrand md:flex"><span class="search-icon" aria-hidden="true"></span></a>
           <a href={homeUrl} class="flex justify-center">
-            <img src={withBase('/uploads/2023/07/cropped-Visit-Bulharsko-1.webp')} alt="Visit Bulharsko" class="h-10 w-auto object-contain md:h-16" />
+            <img src={withBase('/uploads/2023/07/cropped-Visit-Bulharsko-1.webp')} alt="Visit Bulharsko" class="h-10 w-auto object-contain md:h-16" width="499" height="202" decoding="async" />
           </a>
           <div class="hidden justify-end md:flex"><a href={withBase('/nemovitosti-bulharsko/')} class="btn-outline">Nabídka nemovitostí</a></div>
           <a href={homeUrl} aria-label="Vyhledávání" class="ml-auto flex h-10 w-10 items-center justify-center border border-line bg-white text-plum transition hover:border-rosebrand hover:text-rosebrand md:hidden"><span class="search-icon" aria-hidden="true"></span></a>
@@ -157,7 +160,7 @@ const homeUrl = withBase('/');
     <footer class="mt-16 border-t border-line bg-blush">
       <div class="mx-auto max-w-7xl px-5 py-12">
         <div class="grid gap-8 lg:grid-cols-[260px_1fr] lg:items-center">
-          <a href={homeUrl}><img src={withBase('/uploads/2023/07/cropped-Visit-Bulharsko-1.webp')} alt="Visit Bulharsko" class="h-16 w-auto" /></a>
+          <a href={homeUrl}><img src={withBase('/uploads/2023/07/cropped-Visit-Bulharsko-1.webp')} alt="Visit Bulharsko" class="h-16 w-auto" width="499" height="202" loading="lazy" decoding="async" /></a>
           <div class="grid gap-4 md:grid-cols-5">
             {footerPosts.map((p) => <a href={withBase(p.path)} class="group border border-line bg-white p-3 hover:border-rosebrand"><span class="block text-xs font-bold uppercase text-rosebrand">Nově</span><strong class="line-clamp-2 text-sm group-hover:text-rosebrand">{cleanTitle(p.title)}</strong></a>)}
           </div>
