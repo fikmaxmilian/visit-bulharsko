@@ -116,10 +116,11 @@ const loaderId = 'adsense-lazy-loader';
         document.head.appendChild(script);
       };
 
-      if ('requestIdleCallback' in window) {
-        window.requestIdleCallback(loadAds, { timeout: 3500 });
+      const scheduleAfterFirstPaint = () => window.setTimeout(loadAds, 6000);
+      if (document.readyState === 'complete') {
+        scheduleAfterFirstPaint();
       } else {
-        window.addEventListener('load', () => window.setTimeout(loadAds, 1200), { once: true });
+        window.addEventListener('load', scheduleAfterFirstPaint, { once: true });
       }
     })();
   </script>
