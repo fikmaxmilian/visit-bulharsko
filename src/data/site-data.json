@@ -1,6 +1,33 @@
 {
   "posts": [
     {
+      "id": 3517,
+      "type": "post",
+      "slug": "bulharsko-spankova-apnoe-ridici-autobusu-kamionu-2026",
+      "path": "/bulharsko-spankova-apnoe-ridici-autobusu-kamionu-2026/",
+      "title": "Bulharsko řeší únavu profesionálních řidičů: lékař volá po screeningu spánkové apnoe",
+      "excerpt": "Bulharský lékař upozorňuje, že neléčená spánková apnoe může zvyšovat riziko vážných nehod u řidičů autobusů a kamionů. Pro cestovatele je to další připomínka bezpečnosti na silnicích.",
+      "date": "2026-08-11T00:00:00",
+      "modified": "2026-08-11T17:05:00+02:00",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Bulharsko: únava řidičů autobusů a kamionů",
+        "description": "Bulharský lékař volá po screeningu spánkové apnoe u řidičů autobusů a kamionů. Praktický kontext pro bezpečné cestování."
+      },
+      "content": "<p>Bulharská debata o bezpečnosti silniční dopravy se rozšiřuje o téma, které cestující často nevidí: zdravotní stav profesionálních řidičů. Podle agentury Novinite upozornil lékař Petar Kalajdžiev z kardiologické kliniky nemocnice Carica Joanna v Sofii, že neléčená obstrukční spánková apnoe může být jedním z preventabilních rizik za částí vážných dopravních nehod, zejména u řidičů autobusů a kamionů.</p>\n<h2>Co se stalo</h2>\n<p>Spánková apnoe je porucha, při které se během spánku opakovaně přerušuje dýchání. Člověk se může budit nevyspalý, přes den hůře reaguje a snadněji usíná. U běžného cestujícího je to zdravotní problém; u člověka, který denně řídí těžké vozidlo nebo autobus s pasažéry, jde zároveň o otázku veřejné bezpečnosti. Lékař proto podle zdroje mluví o potřebě cíleného screeningu u profesionálních řidičů.</p>\n<p>Nejde o okamžitou změnu pravidel pro turisty ani o zprávu, která by znamenala omezení autobusových linek. Důležité je spíš to, že se v Bulharsku dál diskutuje o příčinách nehod a o prevenci, nejen o pokutách po incidentu. Téma navazuje na širší obavy z bezpečnosti na silnicích v letní sezoně, kdy přibývá dálkových přesunů, horka i únavy za volantem.</p>\n<h2>Co to znamená pro české cestovatele</h2>\n<p>Pokud v Bulharsku využíváte meziměstský autobus, transfer z letiště, organizovaný výlet nebo cestujete půjčeným autem vedle kamionové dopravy, je dobré počítat s rezervou a nepodceňovat únavu. U delších tras si vybírejte dopravce podle recenzí a rozumných časů odjezdů, ne pouze podle nejnižší ceny. Při cestě vlastním autem plánujte pauzy, střídejte řidiče a v horku se nesnažte dojet za každou cenu.</p>\n<p>Pro českého čtenáře je zpráva praktická hlavně jako signál, že bezpečnost na bulharských silnicích není jen otázkou stavu vozovek. Záleží i na kondici řidičů, pracovním režimu dopravců a na tom, zda se rizikové zdravotní potíže řeší včas.</p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240019",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 2
+    },
+    {
       "id": 3516,
       "type": "post",
       "slug": "bulharsko-antidronove-systemy-kardam-2026",
