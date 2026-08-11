@@ -1,6 +1,33 @@
 {
   "posts": [
     {
+      "id": 3516,
+      "type": "post",
+      "slug": "bulharsko-antidronove-systemy-kardam-2026",
+      "path": "/bulharsko-antidronove-systemy-kardam-2026/",
+      "title": "Bulharsko posiluje ochranu proti dronům po incidentu u Kardamu",
+      "excerpt": "Bulharsko jedná o nových systémech proti dronům po incidentu u hranice s Rumunskem. Pro cestovatele nejde o plošné omezení, ale o připomínku sledovat místní bezpečnostní pokyny.",
+      "date": "2026-08-11T00:00:00",
+      "modified": "2026-08-11T13:02:00+02:00",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Bulharsko posiluje ochranu proti dronům",
+        "description": "Bulharsko jedná o nových antidronových systémech po incidentu u Kardamu. Praktický bezpečnostní kontext pro české cestovatele."
+      },
+      "content": "<p>Bulharsko chce po nedávném incidentu u hranice s Rumunskem posílit schopnost odhalovat a případně neutralizovat malé bezpilotní prostředky. Podle agentury Novinite země jedná o pořízení nových antidronových systémů poté, co se v oblasti Kardamu řešil případ dronu, jehož původ a trasa letu jsou předmětem vyšetřování.</p>\n<h2>Co se stalo</h2>\n<p>Bulharský ministr obrany Dimitar Stojanov podle zdroje uvedl, že incident ukázal potřebu specializovaných technologií pro detekci a ničení menších bezpilotních letadel. Úřady dál prověřují, odkud dron přiletěl a jakou trasu absolvoval. Kardam leží v severovýchodní části Bulharska blízko rumunské hranice, tedy mimo hlavní přímořská letoviska, ale v širším regionu, kterým někteří cestující projíždějí při cestě autem přes Rumunsko směrem k Černému moři.</p>\n<p>Z dostupných informací nevyplývá, že by opatření znamenala plošné omezení pro turisty nebo běžný provoz v letoviscích. Jde především o bezpečnostní reakci státu a armády na riziko, které se týká ochrany vzdušného prostoru a hraničních oblastí. Pro návštěvníky Bulharska je důležité rozlišovat mezi vyšetřovaným incidentem a reálným dopadem na každodenní cestování: běžná dovolená u moře, pobyt ve městech ani přesuny z letišť nejsou v oznámených informacích popisovány jako omezené.</p>\n<h2>Proč je to důležité pro cestovatele / Čechy mířící do Bulharska</h2>\n<p>Českým cestovatelům zpráva připomíná hlavně dvě praktické věci. Zaprvé, při cestě autem přes Rumunsko a severovýchod Bulharska se vyplatí sledovat místní značení, pokyny policie a aktuální dopravní informace, zejména pokud by se v okolí hranice objevila dočasná bezpečnostní opatření. Zadruhé, u podobných incidentů je lepší spoléhat na oficiální zdroje a ověřené zpravodajství, ne na poplašné příspěvky na sociálních sítích.</p>\n<p>Pokud míříte do Varny, Albenu, Balčiku, Nesebaru nebo na Slunečné pobřeží, není z této zprávy důvod měnit plán dovolené. Má ale smysl mít při delší cestě uložené kontakty na pojišťovnu, sledovat navigaci s dopravními upozorněními a počítat s tím, že v blízkosti hranic mohou být kontroly nebo bezpečnostní opatření přísnější než v turistických centrech.</p>\n<p><strong>Zdroj:</strong> <a href=\"https://www.novinite.com/view_news.php?id=240048\" target=\"_blank\" rel=\"nofollow noopener\">Novinite / Sofia News Agency</a></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240048",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 2
+    },
+    {
       "id": 3515,
       "type": "post",
       "slug": "bulharsko-vedra-38-stupnu-varovani-11-srpna-2026",
