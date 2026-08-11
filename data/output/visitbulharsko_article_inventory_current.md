@@ -1,0 +1,191 @@
+# Visit Bulharsko – aktuální inventář článků
+
+Aktualizováno: 2026-08-11 13:27, zdroj: `src/data/site-data.json`
+Počet článků: **138**
+
+## Poslední publikované články
+- 2026-08-11 – **Bulharsko posiluje ochranu proti dronům po incidentu u Kardamu** (`bulharsko-antidronove-systemy-kardam-2026`)
+- 2026-08-11 – **Bulharsko čeká další horký den: teploty mohou vystoupat až k 38 °C** (`bulharsko-vedra-38-stupnu-varovani-11-srpna-2026`)
+- 2026-08-09 – **Plovdiv posiluje jako tenisová destinace: město hostí další mezinárodní turnaj** (`plovdiv-tenisova-destinace-atp-challenger-2026`)
+- 2026-08-10 – **Bulharsko patří k lídrům EU v růstu veřejných výdajů na výzkum** (`bulharsko-vyzkum-vyvoj-rozpocet-rust-eu-2026`)
+- 2026-08-09 – **Sofie boduje jako podceňovaný city break: levnější alternativa k přeplněným metropolím** (`sofia-nejvice-podcenovane-evropske-hlavni-mesto-2026`)
+- 2026-08-10 – **V Bulharsku už nemusí být na cenovkách lev: pro turisty je hlavní cena v eurech** (`bulharsko-euro-cenovky-lev-uz-neni-povinny-2026`)
+- 2026-08-10 – **Bulharsko hlásí více obětí na silnicích: opatrnost se vyplatí hlavně při přesunech autem** (`bulharsko-dopravni-nehody-prvni-polovina-2026`)
+- 2026-08-10 – **V Bulharsku hrozí v pondělí bouřky a krupobití, sledujte místní předpověď** (`bourky-krupobiti-bulharsko-10-srpna-2026`)
+- 2026-08-09 – **Bulharsko a euro 2026: měna, kurz, platby kartou a co čekat na dovolené** (`bulharsko-euro-2026-mena-kurz-platby`)
+- 2026-08-07 – **Incident v autobusu u Plevenu upozorňuje na cestování v horku a kontrolu dokladů** (`incident-autobus-pleven-cestovani-v-horku-2026`)
+- 2026-08-07 – **Incident v hotelu v Bansku připomíná, že i organizované pobyty potřebují jasná pravidla** (`bansko-hotelovy-incident-mladeznicky-program-2026`)
+- 2026-08-01 – **Bulharsko čeká horký víkend, pobřeží bude o něco snesitelnější** (`horky-vikend-v-bulharsku-pobrezi-srpen-2026`)
+- 2026-08-01 – **Bulharsko last minute: kdy se vyplatí, kam jet a na co si dát pozor** (`bulharsko-last-minute-kdy-se-vyplati`)
+- 2026-07-31 – **Bulharsko dovolená: kam jet, kdy vyrazit a co čekat u moře** (`bulharsko-dovolena-kam-jet-kdy-vyrazit`)
+- 2026-07-30 – **Nehoda autobusu krátce omezila dopravu na hlavním tahu v Sofii** (`nehoda-autobusu-sofie-tsarigradsko-shose-2026`)
+- 2026-07-21 – **Bulharsko má žluté varování před bouřkami v 14 regionech** (`bourky-v-bulharsku-21-cervence-2026`)
+- 2026-07-21 – **Bulharsko čeká na konci července první vlna čtyřicítek** (`bulharsko-vlna-veder-konec-cervence-2026`)
+- 2026-07-20 – **Sofie chystá Big Table: tip na lokální akci 25. července** (`sofia-big-table-25-cervence-2026`)
+- 2025-03-23 – **„МаГаТа Фест“: Sofie recykluje!** (`%d0%bc%d0%b0%d0%b3%d0%b0%d1%82%d0%b0-%d1%84%d0%b5%d1%81%d1%82-sofie-recykluje`)
+- 2025-03-23 – **Skandál na pláži Butamjata!** (`skandal-na-plazi-butamjata`)
+- 2025-03-23 – **Nové parkovací zóny v Sofii!** (`nove-parkovaci-zony-v-sofii-%f0%9f%9a%97`)
+- 2025-03-23 – **West Mall: Nákupy, zábava, relax!** (`west-mall-nakupy-zabava-relax`)
+- 2025-03-23 – **Požár ochromil letiště Heathrow!** (`pozar-ochromil-letiste-heathrow`)
+- 2025-03-23 – **Bulharská Unique Estates míří do Dubaje** (`bulharska-unique-estates-miri-do-dubaje`)
+- 2025-03-23 – **Klubovna: Unikátní chuť Sofie** (`klubovna-unikatni-chut-sofie`)
+
+## Kategorie
+- Zpravodajství: 104
+- Cestovní průvodce: 12
+- Nejoblíbenější destinace: 5
+- Historie Bulharska: 5
+- Kultura a tradice: 4
+- Praktické tipy: 3
+- Tipy na výlety: 3
+- Cestopisy: 2
+
+## Všechna existující témata / slugs
+- 2026-08-11 – Bulharsko posiluje ochranu proti dronům po incidentu u Kardamu – `bulharsko-antidronove-systemy-kardam-2026`
+- 2026-08-11 – Bulharsko čeká další horký den: teploty mohou vystoupat až k 38 °C – `bulharsko-vedra-38-stupnu-varovani-11-srpna-2026`
+- 2026-08-09 – Plovdiv posiluje jako tenisová destinace: město hostí další mezinárodní turnaj – `plovdiv-tenisova-destinace-atp-challenger-2026`
+- 2026-08-10 – Bulharsko patří k lídrům EU v růstu veřejných výdajů na výzkum – `bulharsko-vyzkum-vyvoj-rozpocet-rust-eu-2026`
+- 2026-08-09 – Sofie boduje jako podceňovaný city break: levnější alternativa k přeplněným metropolím – `sofia-nejvice-podcenovane-evropske-hlavni-mesto-2026`
+- 2026-08-10 – V Bulharsku už nemusí být na cenovkách lev: pro turisty je hlavní cena v eurech – `bulharsko-euro-cenovky-lev-uz-neni-povinny-2026`
+- 2026-08-10 – Bulharsko hlásí více obětí na silnicích: opatrnost se vyplatí hlavně při přesunech autem – `bulharsko-dopravni-nehody-prvni-polovina-2026`
+- 2026-08-10 – V Bulharsku hrozí v pondělí bouřky a krupobití, sledujte místní předpověď – `bourky-krupobiti-bulharsko-10-srpna-2026`
+- 2026-08-09 – Bulharsko a euro 2026: měna, kurz, platby kartou a co čekat na dovolené – `bulharsko-euro-2026-mena-kurz-platby`
+- 2026-08-07 – Incident v autobusu u Plevenu upozorňuje na cestování v horku a kontrolu dokladů – `incident-autobus-pleven-cestovani-v-horku-2026`
+- 2026-08-07 – Incident v hotelu v Bansku připomíná, že i organizované pobyty potřebují jasná pravidla – `bansko-hotelovy-incident-mladeznicky-program-2026`
+- 2026-08-01 – Bulharsko čeká horký víkend, pobřeží bude o něco snesitelnější – `horky-vikend-v-bulharsku-pobrezi-srpen-2026`
+- 2026-08-01 – Bulharsko last minute: kdy se vyplatí, kam jet a na co si dát pozor – `bulharsko-last-minute-kdy-se-vyplati`
+- 2026-07-31 – Bulharsko dovolená: kam jet, kdy vyrazit a co čekat u moře – `bulharsko-dovolena-kam-jet-kdy-vyrazit`
+- 2026-07-30 – Nehoda autobusu krátce omezila dopravu na hlavním tahu v Sofii – `nehoda-autobusu-sofie-tsarigradsko-shose-2026`
+- 2026-07-21 – Bulharsko má žluté varování před bouřkami v 14 regionech – `bourky-v-bulharsku-21-cervence-2026`
+- 2026-07-21 – Bulharsko čeká na konci července první vlna čtyřicítek – `bulharsko-vlna-veder-konec-cervence-2026`
+- 2026-07-20 – Sofie chystá Big Table: tip na lokální akci 25. července – `sofia-big-table-25-cervence-2026`
+- 2025-03-23 – „МаГаТа Фест“: Sofie recykluje! – `%d0%bc%d0%b0%d0%b3%d0%b0%d1%82%d0%b0-%d1%84%d0%b5%d1%81%d1%82-sofie-recykluje`
+- 2025-03-23 – Skandál na pláži Butamjata! – `skandal-na-plazi-butamjata`
+- 2025-03-23 – Nové parkovací zóny v Sofii! – `nove-parkovaci-zony-v-sofii-%f0%9f%9a%97`
+- 2025-03-23 – West Mall: Nákupy, zábava, relax! – `west-mall-nakupy-zabava-relax`
+- 2025-03-23 – Požár ochromil letiště Heathrow! – `pozar-ochromil-letiste-heathrow`
+- 2025-03-23 – Bulharská Unique Estates míří do Dubaje – `bulharska-unique-estates-miri-do-dubaje`
+- 2025-03-23 – Klubovna: Unikátní chuť Sofie – `klubovna-unikatni-chut-sofie`
+- 2025-03-23 – „Bulharsko protestuje za zvířata“ – `bulharsko-protestuje-za-zvirata`
+- 2025-03-23 – Protest v Sofii: škody za 180 tis. € – `protest-v-sofii-skody-za-180-tis-e`
+- 2025-03-23 – Parkování v Sofii zdraží! – `parkovani-v-sofii-zdrazi-%f0%9f%9a%97%f0%9f%92%b0`
+- 2025-03-23 – Skandál na pláži Butamyata! – `skandal-na-plazi-butamyata-%f0%9f%8c%8a%f0%9f%8f%96%ef%b8%8f`
+- 2025-03-21 – Magazin není magazín a jiná vtipná slova v Bulharštině – `vtipna-slova-v-bulharstine`
+- 2025-03-21 – Bulharština: Příběh jazyka, který spojuje minulost s přítomností – `bulharsky-jazyk`
+- 2025-03-19 – Primorsko: Slunečný ráj pro každého cestovatele – `bulharsko-primorsko`
+- 2025-03-18 – Plovdiv: Nejstarší město Evropy – `plovdiv-nejstarsi-mesto-evropy`
+- 2025-03-18 – Vidin: Město, kde historie dýchá na každém rohu – `vidin-bulharsko-tajemne-mesto-na-dunaji`
+- 2025-03-18 – Tajemný projekt mění pobřeží Varny – `tajemny-projekt-meni-pobrezi-varny`
+- 2025-03-18 – Boj proti krutosti na zvířatech – `boj-proti-krutosti-na-zviratech`
+- 2025-03-18 – Gastronomická revoluce v Sofii! – `gastronomicka-revoluce-v-sofii`
+- 2025-03-18 – „Soud ve Varně: Spor o svobodu slova“ – `soud-ve-varne-spor-o-svobodu-slova`
+- 2025-03-17 – Tichá krize demokracie v Evropě: Jak oslabení právního státu ovlivňuje občany i turisty? – `ticha-krize-demokracie-v-evrope-jak-oslabeni-pravniho-statu-ovlivnuje-obcany-i-turisty`
+- 2025-03-17 – Dovolená v Bulharsku 2025: Nejlepší tipy, ceny a praktické rady – `dovolena-bulharsko-2025`
+- 2025-03-17 – Bulharsko zpřísní tresty za týrání zvířat – `bulharsko-zprisni-tresty-za-tyrani-zvirat`
+- 2025-03-17 – Nový šéf, bezpečnější doprava? – `novy-sef-bezpecnejsi-doprava`
+- 2025-03-17 – Bulharsko posiluje energetickou nezávislost – `bulharsko-posiluje-energetickou-nezavislost`
+- 2025-03-17 – Vlna solidarity v srdci Sofie – `vlna-solidarity-v-srdci-sofie`
+- 2025-03-17 – Evropský parlament zpřísňuje bezpečnost v Sofii – `evropsky-parlament-zprisnuje-bezpecnost-v-sofii`
+- 2025-03-17 – Bulharsko pomáhá obětem požáru – `bulharsko-pomaha-obetem-pozaru`
+- 2025-03-17 – Obořiště: Nová éra pod Kuzmovem – `oboriste-nova-era-pod-kuzmovem`
+- 2025-03-17 – Jak si užít Bulharsko i v chladu? – `jak-si-uzit-bulharsko-i-v-chladu`
+- 2025-03-17 – Stefan Dobrev: líder inovací v Evropě – `stefan-dobrev-lider-inovaci-v-evrope`
+- 2025-03-17 – Burgas vs. Gabrovo: Kdo bude kulturní metropolí 2032? – `burgas-vs-gabrovo-kdo-bude-kulturni-metropoli-2032`
+- 2025-03-17 – Bulharsko zasáhlo chladné počasí! – `bulharsko-zasahlo-chladne-pocasi`
+- 2025-03-17 – Lepší lety do Bulharska? Otázka poplatků – `lepsi-lety-do-bulharska-otazka-poplatku`
+- 2025-03-17 – Návrat Kuzmova: Změny v Sofii! – `navrat-kuzmova-zmeny-v-sofii`
+- 2025-03-12 – Bulharsko mění dálniční priority – `bulharsko-meni-dalnicni-priority`
+- 2025-03-12 – Tragická nehoda otřásla Bulharskem – `tragicka-nehoda-otrasla-bulharskem`
+- 2025-03-12 – Bulharsko čelí nedostatku vody – `bulharsko-celi-nedostatku-vody`
+- 2025-03-12 – Kaufland expanduje v Bulharsku! – `kaufland-expanduje-v-bulharsku`
+- 2025-03-12 – Levné lety do Bulharska na obzoru! – `levne-lety-do-bulharska-na-obzoru`
+- 2025-03-12 – Šok v boxu: Koko Tyson v nemocnici – `sok-v-boxu-koko-tyson-v-nemocnici`
+- 2025-03-12 – Architektonická bouře v Sofii – `architektonicka-boure-v-sofii`
+- 2025-03-12 – Sofia DokuMental: Síla pravdy ve filmu – `sofia-dokumental-sila-pravdy-ve-filmu`
+- 2025-03-12 – Sofie: Nové centrum AI v Evropě – `sofie-nove-centrum-ai-v-evrope`
+- 2025-03-12 – Ruská ambasáda v Sofii: Síla a napětí – `ruska-ambasada-v-sofii-sila-a-napeti`
+- 2025-03-12 – Možné znovuotevření ruského konzulátu ve Varně – `mozne-znovuotevreni-ruskeho-konzulatu-ve-varne`
+- 2025-03-12 – Bulharsko trápí nedostatek vody – `bulharsko-trapi-nedostatek-vody`
+- 2025-03-12 – Ryanair rozšiřuje lety do Bulharska! – `ryanair-rozsiruje-lety-do-bulharska`
+- 2025-03-12 – Boxer Koko Tyson měl nehodu – `boxer-koko-tyson-mel-nehodu`
+- 2025-01-08 – Noční doprava v Sofii v ohrožení – `nocni-doprava-v-sofii-v-ohrozeni`
+- 2025-01-08 – „Útoky neustávají: Ropa i životy“ – `utoky-neustavaji-ropa-i-zivoty`
+- 2025-01-08 – „Burgas 2025: Nový Plaza Mall láká!“ – `burgas-2025-novy-plaza-mall-laka`
+- 2025-01-08 – „Diety, které škodí místo pomáhají“ – `diety-ktere-skodi-misto-pomahaji`
+- 2025-01-08 – „Sofie: Energetická krize na vzestupu“ – `sofie-energeticka-krize-na-vzestupu`
+- 2025-01-08 – „Ekologický ráj v Sofii: Levná doprava a čistší vzduch“ – `ekologicky-raj-v-sofii-levna-doprava-a-cistsi-vzduch`
+- 2025-01-08 – Kosovský fotbalista čelí výhrůžkám! – `kosovsky-fotbalista-celi-vyhruzkam`
+- 2025-01-08 – „Kamenný les v ohrožení: proč?“ – `kamenny-les-v-ohrozeni-proc`
+- 2025-01-08 – „Burgas: Klíč k energetické budoucnosti“ – `burgas-klic-k-energeticke-budoucnosti`
+- 2025-01-05 – Oslavy osvobození Sofie: Historie ožívá! – `oslavy-osvobozeni-sofie-historie-oziva`
+- 2025-01-05 – „Chytré zemědělství v Bulharsku: Tradice a inovace!“ – `chytre-zemedelstvi-v-bulharsku-tradice-a-inovace`
+- 2025-01-05 – „Zóna objetí“ na letišti Sofie! – `zona-objeti-na-letisti-sofie`
+- 2025-01-05 – Nepříznivé počasí komplikuje lety – `nepriznive-pocasi-komplikuje-lety`
+- 2025-01-05 – „Tragédie v Sofii: Výbuch v Lozeneci“ – `tragedie-v-sofii-vybuch-v-lozeneci`
+- 2025-01-05 – „Zimní kouzlo Bulharska: Slunce a scenérie“ – `zimni-kouzlo-bulharska-slunce-a-scenerie`
+- 2025-01-05 – „Bulharsko: Poklad pro milovníky vína“ – `bulharsko-poklad-pro-milovniky-vina`
+- 2025-01-04 – Action Aquapark – Vodní svět plný zábavy – `action-aquapark-vodni-svet-plny-zabavy`
+- 2025-01-04 – Nesebar – muzeum pod širým nebem – `nesebar-muzeum-pod-sirym-nebem`
+- 2025-01-04 – Rilský klášter – perla bulharských hor – `rilsky-klaster-perla-bulharskych-hor`
+- 2025-01-04 – Kouzlo tradiční bulharské hudby – `kouzlo-tradicni-bulharske-hudby`
+- 2025-01-04 – Tři poklady bulharské kuchyně, které musíte ochutnat – `tri-poklady-bulharske-kuchyne-ktere-musite-ochutnat`
+- 2025-01-04 – Nessebar: Černomořská perla – `nessebar-cernomorska-perla`
+- 2025-01-04 – „Sofia slaví 147 let svobody!“ – `sofia-slavi-147-let-svobody`
+- 2025-01-04 – „Jak technologie mění bulharské farmy“ – `jak-technologie-meni-bulharske-farmy`
+- 2025-01-04 – „Zóna pro objetí“ na letišti Sofie – `zona-pro-objeti-na-letisti-sofie`
+- 2025-01-04 – Tragédie na silnicích v Bulharsku: Jak cestovat bezpečně? – `tragedie-na-silnicich-v-bulharsku-jak-cestovat-bezpecne`
+- 2025-01-04 – „Uzavření letiště Pulkovo: Proč?“ – `uzavreni-letiste-pulkovo-proc`
+- 2025-01-04 – „Nebezpečné vapování v Sofii“ – `nebezpecne-vapovani-v-sofii`
+- 2025-01-04 – „Počasí komplikuje lety z Frankfurtu“ – `pocasi-komplikuje-lety-z-frankfurtu`
+- 2025-01-04 – „Sofia slaví: Návrat do roku 1878“ – `sofia-slavi-navrat-do-roku-1878`
+- 2025-01-04 – „Zóna pro objetí: Novinka u T2 Sofie“ – `zona-pro-objeti-novinka-u-t2-sofie`
+- 2025-01-04 – Tragédie na silnicích v Bulharsku – `tragedie-na-silnicich-v-bulharsku`
+- 2025-01-04 – „Petrohrad: Náhlé uzavření letiště“ – `petrohrad-nahle-uzavreni-letiste`
+- 2025-01-04 – „Nelegální náplně šokují Bulharsko“ – `nelegalni-naplne-sokuji-bulharsko`
+- 2025-01-04 – „Letiště v Damašku opět ožívá!“ – `letiste-v-damasku-opet-oziva`
+- 2025-01-04 – „Frankfurt: Zima komplikuje lety“ – `frankfurt-zima-komplikuje-lety`
+- 2025-01-03 – Zlaté písky: Vaše vstupenka do ráje relaxace a dobrodružství – `zlate-pisky-vase-vstupenka-do-raje-relaxace-a-dobrodruzstvi`
+- 2025-01-03 – Slunečné pobřeží: praktický průvodce pro dovolenou u Černého moře – `slunecne-pobrezi-klenot-cerneho-more`
+- 2025-01-03 – Bulharsko bez starostí: Co potřebujete vědět o celních a devizových předpisech – `bulharsko-bez-starosti-co-potrebujete-vedet-o-celnich-a-devizovych-predpisech`
+- 2025-01-03 – Počasí v Bulharsku: Kdy vyrazit a co očekávat? – `pocasi-v-bulharsku-kdy-vyrazit-a-co-ocekavat`
+- 2025-01-03 – Ilyrové a Thrákové: Předchůdci bulharského národa – `ilyrove-a-thrakove-predchudci-bulharskeho-naroda`
+- 2025-01-03 – Nejstarší osídlení Bulharska: Cesta k civilizaci – `nejstarsi-osidleni-bulharska-cesta-k-civilizaci`
+- 2025-01-03 – Stručný přehled dějin Bulharska: Od starověku po moderní dobu – `strucny-prehled-dejin-bulharska-od-staroveku-po-moderni-dobu`
+- 2025-01-03 – „Brutální napadení v srdci Sofie“ – `brutalni-napadeni-v-srdci-sofie`
+- 2025-01-03 – Výpadek tepla v Sofii: Co dál? – `vypadek-tepla-v-sofii-co-dal`
+- 2025-01-03 – „Šokující útok v centru Sofie“ – `sokujici-utok-v-centru-sofie`
+- 2025-01-03 – „Bulharsko: Tradice vs. inovace“ – `bulharsko-tradice-vs-inovace`
+- 2025-01-03 – „Opuštěné lázně Sofie: Příběh znovuzrození“ – `opustene-lazne-sofie-pribeh-znovuzrozeni`
+- 2025-01-03 – „Nová pravidla na letišti v Sofii“ – `nova-pravidla-na-letisti-v-sofii`
+- 2025-01-03 – „Bulharsko: Revoluce ve zdravotní péči“ – `bulharsko-revoluce-ve-zdravotni-peci`
+- 2025-01-03 – „Sofie: Ekologie a moderní život“ – `sofie-ekologie-a-moderni-zivot`
+- 2025-01-03 – Hustá mlha halí Sofii, změna už brzy! – `husta-mlha-hali-sofii-zmena-uz-brzy`
+- 2025-01-03 – „Drama v Sofii: Napadení strážného“ – `drama-v-sofii-napadeni-strazneho`
+- 2025-01-03 – „Sofie bez tepla: Zima klepe na dveře“ – `sofie-bez-tepla-zima-klepe-na-dvere`
+- 2025-01-03 – „Bulharsko očima Pařížana: Kouzlo kultury a komunikace“ – `bulharsko-ocima-parizana-kouzlo-kultury-a-komunikace`
+- 2025-01-03 – „Zapomenuté lázně Sofie: Příběh“ – `zapomenute-lazne-sofie-pribeh`
+- 2025-01-03 – „Sofie: Historie, kultura i výzvy“ – `sofie-historie-kultura-i-vyzvy`
+- 2025-01-03 – „Sofia v mlze: Tajemná atmosféra města“ – `sofia-v-mlze-tajemna-atmosfera-mesta`
+- 2025-01-03 – „Brutální útok v Sofii otřásl zemí“ – `brutalni-utok-v-sofii-otrasl-zemi`
+- 2025-01-03 – Sofie bez tepla: Nouzová opatření – `sofie-bez-tepla-nouzova-opatreni`
+- 2025-01-03 – „Bulharsko vs. Francie: kouzlo komunikace“ – `bulharsko-vs-francie-kouzlo-komunikace`
+- 2025-01-03 – „Tajemství zapomenutých lázní Sofie“ – `tajemstvi-zapomenutych-lazni-sofie`
+- 2025-01-01 – Nejstarší osídlení Bulharska: Od paleolitu po neolit – `nejstarsi-osidleni-bulharska-od-paleolitu-po-neolit`
+- 2024-12-31 – „Tragédie v Sofii: 4 životy zmařeny“ – `tragedie-v-sofii-4-zivoty-zmareny`
+- 2024-12-31 – Silvestr v Sofii – `prozijte-nezapomenutelny-silvestr-v-sofii-mesto-plne-zabavy-a-nocni-dopravy-az-do-rana`
+- 2024-12-31 – Hustá mlha na letišti v Sofii – `husta-mlha-na-letisti-v-sofii-jak-pocasi-zamichalo-leteckymi-plany-a-prineslo-dobrodruzstvi-cestujicim`
+- 2023-07-26 – Jak do Nessebaru ze Sunny Beach? – `jak-do-nessebaru`
+- 2023-06-22 – Bulharsko se jako neletí z dvojky? – `bulharsko-se-neleti-z-dvojky`
+- 2022-09-24 – Katedrála svatého Cyrila a Metoděje v Burgasu – `katedrala-svateho-cyrila-a-metodeje-v-burgasu`
+- 2022-08-18 – Do Bulharska s pasem nebo občankou? – `do-bulharska-s-pasem-nebo-obcankou`
+- 2022-08-09 – Zážitky z nuda pláže ze Sunny Beach – `zazitky-z-nuda-plaze`
+
+## Viditelné mezery pro nové evergreen/praktické články
+- **Letiště Burgas: doprava do Slunečného pobřeží, Nesebaru a Primorska** – Chybí samostatný praktický landing pro přílet k moři; máme letiště Sofie/letenky, ale ne Burgas transfery. Duplicitní signál: 4/7 klíčových slov.
+- **Letiště Varna: doprava do Zlatých písků, Albena a centra Varny** – Silné praktické téma pro cestující na severní pobřeží. Duplicitní signál: 3/8 klíčových slov.
+- **Bulharsko autem: dálniční známka, trasa, hranice a parkování** – Máme dopravní zprávy/nehody, ale ne ucelený evergreen průvodce autem. Duplicitní signál: 4/7 klíčových slov.
+- **Ceny v Bulharsku 2026: jídlo, doprava, pláže a platby po zavedení eura** – Máme euro článek, ale ne široký ceník pro dovolenou. Duplicitní signál: 4/6 klíčových slov.
+- **Pláže v Bulharsku: kam jet s dětmi, za klidem a za nočním životem** – Destinační hub; existují jednotlivé destinace, ne srovnávací praktický článek. Duplicitní signál: 2/6 klíčových slov.
+- **Co si dát v Bulharsku k jídlu: praktický průvodce restauracemi** – Máme kuchyni obecně, ale ne praktické objednávání/jídla v restauraci. Duplicitní signál: 3/5 klíčových slov.
+- **Bulharsko s dětmi: letoviska, pláže, aquaparky a praktické tipy** – Velké dovolenkové téma, zatím není jako samostatný hub. Duplicitní signál: 3/6 klíčových slov.
+- **Kolik peněz si vzít do Bulharska na týden** – Výborné long-tail téma; navazuje na ceny/euro/platby. Duplicitní signál: 1/4 klíčových slov.
