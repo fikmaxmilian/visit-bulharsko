@@ -115,6 +115,17 @@
   .article-content li { @apply mb-2; }
   .article-content img { @apply my-8 shadow-soft; }
   .article-content blockquote { @apply my-8 border-l-4 border-rosebrand bg-white/70 p-5 italic; }
+  .article-faq { @apply mt-12 border-t border-line pt-10; }
+  .article-faq h2 { @apply mb-5 font-display text-3xl font-black text-ink; }
+  .article-faq__items { @apply space-y-3; }
+  .article-faq__item { @apply overflow-hidden border border-line bg-white shadow-sm; }
+  .article-faq__item summary { @apply flex cursor-pointer list-none items-center justify-between gap-4 px-5 py-4 font-display text-xl font-black text-ink transition hover:bg-blush; }
+  .article-faq__item summary::-webkit-details-marker { display: none; }
+  .article-faq__item summary::after { content: '+'; @apply flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-blush text-2xl leading-none text-rosebrand transition; }
+  .article-faq__item[open] summary { @apply border-b border-line bg-blush; }
+  .article-faq__item[open] summary::after { content: '−'; @apply bg-rosebrand text-white; }
+  .article-faq__answer { @apply px-5 pb-5 pt-1 text-lg leading-8 text-plum/85; }
+  .article-faq__answer p { @apply my-4 leading-8; }
   .line-clamp-2 { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
   .line-clamp-3 { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 }

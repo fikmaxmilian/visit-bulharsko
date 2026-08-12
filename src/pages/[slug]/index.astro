@@ -67,20 +67,23 @@ const articleSchema = item.type === 'post' ? {
   articleSection: item.categories?.[0]?.name,
   wordCount: strippedContent.split(/\s+/).filter(Boolean).length,
 } : null;
+const htmlToText = (value = '') => value.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
 const faqPairs = item.type === 'post'
   ? [...(item.content || '').matchAll(/<h3[^>]*>(.*?)<\/h3>\s*<p[^>]*>(.*?)<\/p>/gis)].map((match) => ({
+    questionHtml: match[1].trim(),
+    answerHtml: match[2].trim(),
     '@type': 'Question',
-    name: match[1].replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim(),
+    name: htmlToText(match[1]),
     acceptedAnswer: {
       '@type': 'Answer',
-      text: match[2].replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim(),
+      text: htmlToText(match[2]),
     },
   })).filter((entry) => entry.name && entry.acceptedAnswer.text)
   : [];
 const faqSchema = faqPairs.length ? {
   '@context': 'https://schema.org',
   '@type': 'FAQPage',
-  mainEntity: faqPairs,
+  mainEntity: faqPairs.map(({ questionHtml, answerHtml, ...entry }) => entry),
 } : null;
 const pageSchema = item.type !== 'post' ? {
   '@context': 'https://schema.org',
@@ -94,20 +97,27 @@ const pageSchema = item.type !== 'post' ? {
 
 function splitArticleContent(html = '') {
   if (item.type !== 'post') return [html, '', ''];
-  const matches = [...html.matchAll(/<\/p>/gi)];
-  if (matches.length < 5) return [html, '', ''];
+  const faqHeadingMatch = html.match(/<h2[^>]*>\s*FAQ[:\s][\s\S]*?<\/h2>/i);
+  const faqHeadingIndex = faqHeadingMatch?.index ?? -1;
+  const contentForAdSplits = faqHeadingIndex >= 0 ? html.slice(0, faqHeadingIndex) : html;
+  const faqContent = faqHeadingIndex >= 0 && faqHeadingMatch ? html.slice(faqHeadingIndex + faqHeadingMatch[0].length) : '';
+  const matches = [...contentForAdSplits.matchAll(/<\/p>/gi)];
+  if (matches.length < 5) return [contentForAdSplits, '', '', faqContent];
   const firstIndex = Math.min(3, matches.length - 1);
   const secondIndex = Math.min(9, matches.length - 1);
   const firstBreak = matches[firstIndex].index + matches[firstIndex][0].length;
   const secondBreak = secondIndex > firstIndex ? matches[secondIndex].index + matches[secondIndex][0].length : 0;
   return [
-    html.slice(0, firstBreak),
-    secondBreak ? html.slice(firstBreak, secondBreak) : html.slice(firstBreak),
-    secondBreak ? html.slice(secondBreak) : '',
+    contentForAdSplits.slice(0, firstBreak),
+    secondBreak ? contentForAdSplits.slice(firstBreak, secondBreak) : contentForAdSplits.slice(firstBreak),
+    secondBreak ? contentForAdSplits.slice(secondBreak) : '',
+    faqContent,
   ];
 }
 
 const articleContentParts = splitArticleContent(item.content || '');
+const articleBodyParts = articleContentParts.slice(0, 3);
+const hasFaqSection = item.type === 'post' && faqPairs.length > 0;
 const isPropertyPage = item.slug === 'nemovitosti-bulharsko';
 ---
 <BaseLayout title={title} description={description} image={visibleFeaturedImage || undefined} canonical={item.path} type={item.type === 'post' ? 'article' : 'website'} schema={[articleSchema, pageSchema, faqSchema, breadcrumbs]} noindex={item.noindex === true}>
@@ -121,11 +131,24 @@ const isPropertyPage = item.slug === 'nemovitosti-bulharsko';
     {visibleFeaturedImage && <img src={withBase(visibleFeaturedImage)} alt={item.featured_alt || item.title} class="mt-10 max-h-[560px] w-full rounded-[2rem] object-cover shadow-soft" />}
     {item.type === 'post' && !isCurrentQuickNews && <div class="my-10"><PromoBanner /></div>}
     {!isPropertyPage && <div class="my-10"><AdSlot type="article" label="ADS / in-article reklama" /></div>}
-    {isPropertyPage ? <PropertyListingPage /> : <div class="article-content" set:html={articleContentParts[0]}></div>}
-    {item.type === 'post' && articleContentParts[1] && <div class="my-10"><AdSlot type="article" label="ADS / in-article reklama uvnitř článku" /></div>}
-    {articleContentParts[1] && <div class="article-content" set:html={articleContentParts[1]}></div>}
-    {item.type === 'post' && articleContentParts[2] && !isCurrentQuickNews && <div class="my-10"><PromoBanner /></div>}
-    {articleContentParts[2] && <div class="article-content" set:html={articleContentParts[2]}></div>}
+    {isPropertyPage ? <PropertyListingPage /> : <div class="article-content" set:html={articleBodyParts[0]}></div>}
+    {item.type === 'post' && articleBodyParts[1] && <div class="my-10"><AdSlot type="article" label="ADS / in-article reklama uvnitř článku" /></div>}
+    {articleBodyParts[1] && <div class="article-content" set:html={articleBodyParts[1]}></div>}
+    {item.type === 'post' && articleBodyParts[2] && !isCurrentQuickNews && <div class="my-10"><PromoBanner /></div>}
+    {articleBodyParts[2] && <div class="article-content" set:html={articleBodyParts[2]}></div>}
+    {hasFaqSection && (
+      <section class="article-faq" aria-labelledby="article-faq-title">
+        <h2 id="article-faq-title">FAQ: Letiště Varna a doprava do letovisek</h2>
+        <div class="article-faq__items">
+          {faqPairs.map((faq, index) => (
+            <details class="article-faq__item" open={index === 0}>
+              <summary><span set:html={faq.questionHtml}></span></summary>
+              <div class="article-faq__answer" set:html={faq.answerHtml}></div>
+            </details>
+          ))}
+        </div>
+      </section>
+    )}
   </article>
   {item.type === 'post' && (
     <section class="section-wrap"><div class="section-head"><h2>Související články</h2><a href={withBase('/')}>Zpět na magazín →</a></div><div class="grid gap-8 md:grid-cols-3">{related.map((p) => <PostCard post={p} hideImage={isCurrentQuickNews} />)}</div><div class="mt-10"><AdSlot type="multiplex" label="ADS / doporučené odkazy" /></div></section>
