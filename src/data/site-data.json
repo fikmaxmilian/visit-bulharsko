@@ -1,6 +1,33 @@
 {
   "posts": [
     {
+      "id": 3522,
+      "type": "post",
+      "slug": "bezmer-americke-tankery-lety-klid-2026",
+      "path": "/bezmer-americke-tankery-lety-klid-2026/",
+      "title": "Bulharský ministr obrany uklidňuje situaci u letecké základny Bezmer",
+      "excerpt": "Bulharské ministerstvo obrany uvedlo, že v nejbližší době nečeká další americká tankerová letadla na základně Bezmer. Podle ministra je provoz klidný a bez incidentů v okolí letiště.",
+      "date": "2026-08-12T00:00:00",
+      "modified": "2026-08-12T17:02:00+02:00",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Bezmer: Bulharsko nečeká další americká letadla",
+        "description": "Bulharský ministr obrany uvedl, že kolem základny Bezmer je klid a další americká tankerová letadla se brzy nečekají. Kontext pro cestovatele."
+      },
+      "content": "<p>Bulharské ministerstvo obrany se vyjádřilo k provozu na letecké základně Bezmer v jihovýchodní části země. Podle agentury Novinite ministr obrany Dimitar Stojanov uvedl, že v nejbližší době neočekává přílet dalších amerických tankerových letadel. Na základně jsou nyní dvě americká letadla, která se podle jeho vyjádření účastní výcvikových letů.</p>\n<h2>Co se stalo</h2>\n<p>Ministr mluvil při návštěvě Jambolské oblasti, tedy regionu, kde letecká základna Bezmer leží. Zdůraznil, že situace v okolí letiště zůstává klidná. Letadla mají podle něj operovat směrem na sever a severozápad a úřady neevidují narušení ani incidenty v bezprostředním okolí základny. Z dostupných informací tedy nevyplývá žádné omezení pro běžnou civilní dopravu, turistické trasy ani pobyt v letoviscích.</p>\n<p>Zpráva je důležitá hlavně proto, že slovo „letiště“ nebo vojenský provoz může u cestujících vyvolat otázky, zda nejde o širší bezpečnostní problém. V tomto případě jde podle vyjádření ministra o běžící vojenskou aktivitu a výcvik, nikoli o mimořádnou situaci pro veřejnost. Bezmer se nachází ve vnitrozemí, mimo hlavní dovolenková centra na pobřeží Černého moře, jako jsou Burgas, Slunečné pobřeží, Nesebar nebo Sozopol.</p>\n<h2>Co to znamená pro české cestovatele</h2>\n<p>Pro turisty mířící do Bulharska zpráva v tuto chvíli nepřináší praktickou změnu plánů. Pokud letíte na letiště Burgas, Varna nebo Sofie, nejde o informaci o zpožděních či omezení civilních linek. Při cestě autem přes jihovýchod Bulharska je však rozumné držet se běžných pravidel: nevstupovat do vojenských areálů, nefotografovat zabezpečené objekty a respektovat místní pokyny policie nebo armády.</p>\n<p>Českým cestovatelům se vyplatí podobné bezpečnostní aktuality sledovat zejména v letní sezoně, kdy se trasy přes vnitrozemí kombinují s pobytem u moře. Aktuální sdělení bulharského ministra ale vyznívá uklidňujícím způsobem: další posilování americké přítomnosti na Bezmeru se bezprostředně nečeká a v okolí základny nebyly hlášeny incidenty.</p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240081",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 2
+    },
+    {
       "id": 3521,
       "type": "post",
       "slug": "bulharsko-vedra-zlute-varovani-12-srpna-2026",
