@@ -1,6 +1,33 @@
 {
   "posts": [
     {
+      "id": 3519,
+      "type": "post",
+      "slug": "sofia-metro-tri-nove-stanice-2026",
+      "path": "/sofia-metro-tri-nove-stanice-2026/",
+      "title": "Sofie otevře tři nové stanice metra: linka 3 se prodlužuje už v pátek",
+      "excerpt": "Sofie v pátek 14. srpna otevře nový tříkilometrový úsek linky metra 3 se třemi stanicemi. Pro návštěvníky hlavního města to znamená další rychlejší spojení mimo centrum.",
+      "date": "2026-08-12T00:00:00",
+      "modified": "2026-08-12T09:02:00+02:00",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Sofie otevírá tři nové stanice metra",
+        "description": "Sofie 14. srpna otevře tři nové stanice linky metra 3. Praktický kontext pro české cestovatele a pohyb po bulharské metropoli."
+      },
+      "content": "<p>Sofie rozšiřuje metro o další část linky 3. Podle agentury Novinite se v pátek 14. srpna po poledni otevře nový zhruba tříkilometrový úsek podél bulváru Vladimir Vazov. Přibudou tři stanice: Georgi Asparuhov Stadium, Bessarabia a Gen. Vladimir Vazov. Pro návštěvníky bulharské metropole nejde o změnu, která by zásadně ovlivnila cesty z letiště nebo mezi hlavními památkami v centru, ale je to další krok k jednoduššímu pohybu po městě.</p>\n<h2>Co se stalo</h2>\n<p>Nový úsek má podle provozovatele metra zlepšit spojení severovýchodních čtvrtí Levski, Levski B a Hadži Dimitar se zbytkem Sofie. Očekává se, že díky prodloužení bude metro denně využívat o více než 45 tisíc cestujících navíc. Součástí změny je také nasazení čtyř dalších souprav Siemens, které mají zvládnout vyšší provoz na prodloužené lince.</p>\n<p>Sofijské metro je pro turisty jedním z nejpřehlednějších způsobů dopravy po městě. Linky spojují letiště, centrum i několik velkých přestupních bodů a obvykle jsou jednodušší než kombinace autobusů a trolejbusů, zvlášť pokud v Sofii trávíte jen krátký čas. Nové stanice leží mimo hlavní turistické jádro, ale mohou se hodit při ubytování nebo návštěvě v severovýchodní části města.</p>\n<h2>Co to znamená pro české cestovatele</h2>\n<p>Pokud plánujete city break v Sofii, vyplatí se před cestou zkontrolovat aktuální mapu metra a spojení k ubytování. Nově otevřený úsek může zkrátit cestu lidem, kteří bydlí dál od centra, nebo těm, kteří míří k městským částem kolem bulváru Vladimir Vazov. Zároveň jde o signál, že Sofie dál investuje do veřejné dopravy, což je dobrá zpráva pro cestovatele bez půjčeného auta.</p>\n<p>Prakticky platí: na přesuny po Sofii počítejte s metrem jako s první volbou pro letiště, centrum a delší trasy přes město. U nových stanic mohou být v prvních dnech po otevření změny v orientaci nebo větší zájem místních, proto je rozumné nechat si menší časovou rezervu, pokud navazujete na vlak, autobus nebo odlet.</p>\n<p><strong>Zdroj:</strong> <a href=\"https://www.novinite.com/view_news.php?id=240071\" rel=\"nofollow noopener\" target=\"_blank\">Novinite / Sofia News Agency</a></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240071",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 2
+    },
+    {
       "id": 3518,
       "type": "post",
       "slug": "letiste-burgas-doprava-do-letovisek",
