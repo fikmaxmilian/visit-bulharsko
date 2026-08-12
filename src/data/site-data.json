@@ -1,6 +1,33 @@
 {
   "posts": [
     {
+      "id": 3521,
+      "type": "post",
+      "slug": "bulharsko-vedra-zlute-varovani-12-srpna-2026",
+      "path": "/bulharsko-vedra-zlute-varovani-12-srpna-2026/",
+      "title": "Bulharsko má další žluté varování před vedrem: horko zasáhne celou zemi",
+      "excerpt": "Na středu 12. srpna vydali meteorologové žluté varování před vysokými teplotami pro celé Bulharsko. Cestovatelé by měli přesunout výlety mimo poledne a hlídat pitný režim.",
+      "date": "2026-08-12T00:00:00",
+      "modified": "2026-08-12T13:05:00+02:00",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Bulharsko: žluté varování před vedrem",
+        "description": "Bulharsko má 12. srpna žluté varování před vysokými teplotami v celé zemi. Praktický kontext pro české cestovatele."
+      },
+      "content": "<p>Bulharsko čeká ve středu 12. srpna další den s vysokou teplotní zátěží. Podle agentury Novinite vydal Národní institut meteorologie a hydrologie žluté varování před horkem pro celé území země. Počasí má být převážně slunečné a horké, v západních oblastech se odpoledne mohou tvořit kupovité mraky, výraznější srážky se ale neočekávají.</p>\n<h2>Co se stalo</h2>\n<p>Žluté varování znamená, že počasí může být při delším pobytu venku nepříjemné nebo rizikové, zejména pro děti, seniory, chronicky nemocné cestující a lidi, kteří plánují fyzicky náročnější program. Zpráva navazuje na předchozí horké dny, tentokrát je však varování vyhlášeno celostátně. To je důležité nejen pro pobřeží Černého moře, ale také pro vnitrozemské trasy, výlety do měst a delší přejezdy autem nebo autobusem.</p>\n<p>Pro turisty v letoviscích u moře nejde o důvod rušit dovolenou. Spíš je potřeba počítat s klasickým srpnovým režimem: největší zátěž přichází v poledne a během odpoledne, rozpálené ulice i silnice mohou prodlužovat únavu a klimatizace v dopravě se stává prakticky nutností. Ve městech, jako je Sofie, Plovdiv, Varna nebo Burgas, se horko může výrazně projevit při pěších prohlídkách a čekání na zastávkách.</p>\n<h2>Co to znamená pro české cestovatele</h2>\n<p>Pokud jste nyní v Bulharsku, plánujte výlety na ráno nebo podvečer a polední část dne nechte na stín, odpočinek nebo klimatizované vnitřní prostory. Na pláži používejte ochranu proti slunci, doplňujte vodu průběžně a nepodceňujte ani krátké přesuny s dětmi. Při cestě autem dělejte častější přestávky, nenechávejte nikoho čekat ve voze a ověřte si, zda ubytování opravdu nabízí funkční klimatizaci. U poznávacích výletů do vnitrozemí je rozumné zkrátit trasu, přibalit vodu navíc a sledovat aktuální místní předpověď.</p>\n<p>Žlutý stupeň neznamená mimořádnou krizovou situaci, ale upozorňuje, že běžný dovolenkový program může být při horku náročnější. Praktická opatrnost je v tomto případě důležitější než změna cestovních plánů.</p>\n<p><strong>Zdroj:</strong> <a href=\"https://www.novinite.com/view_news.php?id=240086\" rel=\"nofollow noopener\" target=\"_blank\">Novinite / Sofia News Agency</a>.</p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240086",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 2
+    },
+    {
       "id": 3519,
       "type": "post",
       "slug": "sofia-metro-tri-nove-stanice-2026",
