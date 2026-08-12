@@ -67,6 +67,21 @@ const articleSchema = item.type === 'post' ? {
   articleSection: item.categories?.[0]?.name,
   wordCount: strippedContent.split(/\s+/).filter(Boolean).length,
 } : null;
+const faqPairs = item.type === 'post'
+  ? [...(item.content || '').matchAll(/<h3[^>]*>(.*?)<\/h3>\s*<p[^>]*>(.*?)<\/p>/gis)].map((match) => ({
+    '@type': 'Question',
+    name: match[1].replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim(),
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: match[2].replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim(),
+    },
+  })).filter((entry) => entry.name && entry.acceptedAnswer.text)
+  : [];
+const faqSchema = faqPairs.length ? {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqPairs,
+} : null;
 const pageSchema = item.type !== 'post' ? {
   '@context': 'https://schema.org',
   '@type': 'WebPage',
@@ -95,7 +110,7 @@ function splitArticleContent(html = '') {
 const articleContentParts = splitArticleContent(item.content || '');
 const isPropertyPage = item.slug === 'nemovitosti-bulharsko';
 ---
-<BaseLayout title={title} description={description} image={visibleFeaturedImage || undefined} canonical={item.path} type={item.type === 'post' ? 'article' : 'website'} schema={[articleSchema, pageSchema, breadcrumbs]} noindex={item.noindex === true}>
+<BaseLayout title={title} description={description} image={visibleFeaturedImage || undefined} canonical={item.path} type={item.type === 'post' ? 'article' : 'website'} schema={[articleSchema, pageSchema, faqSchema, breadcrumbs]} noindex={item.noindex === true}>
   <article class:list={['mx-auto px-5 pt-12', isPropertyPage ? 'max-w-7xl' : 'max-w-4xl']}>
     <div class="text-center">
       {item.categories?.[0] && <a href={`/category/${item.categories[0].slug}/`} class="meta-chip">{item.categories[0].name}</a>}
