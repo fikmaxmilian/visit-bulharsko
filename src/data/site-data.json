@@ -1,6 +1,33 @@
 {
   "posts": [
     {
+        "id": 2026081501,
+        "type": "post",
+        "slug": "burgas-eurovision-2027-hotely-ubytovani",
+        "path": "/burgas-eurovision-2027-hotely-ubytovani/",
+        "title": "Burgas chystá Eurovision 2027: hotely už řeší čekací listiny",
+        "excerpt": "Burgas se připravuje na pořádání Eurovision 2027 a místní hotely už podle Novinite evidují zájem a čekací listiny. Pro cestovatele to znamená hlavně včasné plánování ubytování a dopravy v okolí pobřeží.",
+        "date": "2026-08-15T00:00:00",
+        "modified": "2026-08-15T13:00:54+02:00",
+        "categories": [
+            {
+                "id": 22,
+                "name": "Zpravodajství",
+                "slug": "zpravy-bulharsko",
+                "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+            }
+        ],
+        "seo": {
+            "title": "Burgas a Eurovision 2027: hotely řeší zájem",
+            "description": "Burgas se připravuje na Eurovision 2027 a hotely už evidují zájem. Praktický kontext pro cestovatele mířící k Černému moři."
+        },
+        "content": "<p>Burgas se začíná připravovat na Eurovision 2027 a téma už se netýká jen kulturní scény. Podle agentury Novinite místní hotely evidují rostoucí zájem a vytvářejí čekací listiny pro období soutěže. Přímořské město očekává příjezd fanoušků, delegací, médií i dalších hostů, a proto se dopředu řeší kapacity ubytování, doprava, parkování a organizace pohybu ve městě.</p>\n<h2>Co se stalo</h2>\n<p>Eurovision 2027 se má konat v Burgasu, který uspěl ve výběru před Sofií. Místní radnice a podnikatelé proto začali připravovat širší zázemí pro velkou mezinárodní akci. Nejde jen o samotnou arénu, ale také o hotely, restaurace, dopravu a veřejný prostor v okolí pobřeží. Podle citované zástupkyně burgaské radnice si město uvědomuje rozsah úkolu a očekává, že soutěž přivede do regionu výrazně více návštěvníků než běžný květnový termín.</p>\n<p>Pro běžné dovolenkáře je důležité hlavně načasování. Akce plánovaná na květen může ovlivnit ceny a dostupnost ubytování v Burgasu i v blízkých letoviscích na jižním pobřeží. Pokud někdo cestuje mimo hlavní letní sezonu kvůli nižším cenám, klidnějším plážím nebo kratším frontám, právě termín velké akce může běžný předsezonní režim výrazně změnit.</p>\n<h2>Co to znamená pro české cestovatele</h2>\n<p>Češi mířící do Burgasu, Pomorie, Nesebaru, Slunečného pobřeží nebo Sozopolu by měli v roce 2027 počítat s tím, že květen nemusí být automaticky levný a volný měsíc. Pokud budete chtít letět přes letiště Burgas v době soutěže nebo těsně kolem ní, vyplatí se sledovat letenky, ubytování a transfery dřív než obvykle. U krátkého city breaku v Burgasu může být atmosféra zajímavým bonusem, u klidné dovolené u moře naopak důvodem zvolit jiné datum nebo vzdálenější letovisko.</p>\n<p>Zpráva zatím neznamená žádné dopravní omezení pro aktuální sezonu. Je to spíš včasné upozornění, že významná kulturní událost může v konkrétním týdnu změnit dostupnost služeb v celém okolí Burgasu. Praktické bude sledovat oficiální informace města, letiště a hotelů, jakmile se bude termín soutěže blížit.</p>",
+        "sourceUrl": "https://www.novinite.com/view_news.php?id=240143",
+        "noImage": true,
+        "postFormat": "quick-news",
+        "reading_minutes": 3
+    },
+    {
       "id": 2026081201,
       "slug": "nejlevneji-do-bulharska-sofie-vlak-burgas",
       "path": "/nejlevneji-do-bulharska-sofie-vlak-burgas/",
