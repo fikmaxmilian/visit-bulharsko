@@ -1,5 +1,33 @@
 {
   "posts": [
+{
+      "id": 2026081503,
+      "type": "post",
+      "slug": "dron-primorsko-lozenec-plaze-bezpecnost",
+      "path": "/dron-primorsko-lozenec-plaze-bezpecnost/",
+      "title": "U Primorska a Lozence našli části dronu: námořnictvo je odvezlo z pláží",
+      "excerpt": "Na bulharském jižním pobřeží byly u Primorska a Lozence nalezeny objekty spojené s dronem. Námořnictvo je kvůli bezpečnosti turistů a lodní dopravy odvezlo k prověření.",
+      "date": "2026-08-15T00:00:00",
+      "modified": "2026-08-15T17:02:26+02:00",
+      "status": "publish",
+      "categories": [
+            {
+                  "id": 22,
+                  "name": "Zpravodajství",
+                  "slug": "zpravy-bulharsko",
+                  "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+            }
+      ],
+      "seo": {
+            "title": "Primorsko a Lozenec: nález dronu u pláží",
+            "description": "U Primorska a Lozence se našly objekty spojené s dronem. Námořnictvo je odvezlo kvůli bezpečnosti turistů a lodní dopravy."
+      },
+      "content": "<p>Na jižním pobřeží Bulharska se objevila zpráva, kterou by měli zaregistrovat hlavně cestovatelé mířící do oblasti Primorska, Kiten, Lozence a dalších letovisek kolem Burgasu. Podle agentury Novinite byl na pláži u Primorska nalezen bezpilotní prostředek a další části související s dronem se objevily také v prostoru pláže u vesnice Lozenec. Případ následně řešily specializované týmy bulharského námořnictva.</p>\n<h2>Co se stalo</h2>\n<p>Bulharská veřejnoprávní televize podle Novinite informovala, že specialisté z námořní základny v Burgasu prověřovali bezpilotní prostředek, který moře vyplavilo na pláž v Primorsku. Po kontrole armáda uvedla, že šlo o průzkumný dron. Námořníci zároveň vyjížděli i k samostatnému hlášení o částech dronu nalezených na pláži poblíž Lozence.</p>\n<p>Novinite uvádí, že kvůli bezpečnosti turistů a námořní dopravy byly nalezené objekty převezeny specializovanými týmy na námořní základny ve Varně a Burgasu. Zásah proběhl podle předepsaných bezpečnostních postupů a na základě pokynů velení armády. V době zveřejnění zprávy nebylo podle zdroje k oběma nálezům vydáno podrobné oficiální stanovisko ministerstva obrany.</p>\n<h2>Co to znamená pro cestovatele</h2>\n<p>Ze zveřejněných informací nevyplývá plošné omezení pro dovolenou na jižním pobřeží ani uzavření letovisek. Pro turisty je ale důležité jednoduché pravidlo: pokud se na pláži nebo ve vodě objeví neznámý kovový, plastový či elektronický předmět, nemanipulovat s ním, nefotit ho zblízka a upozornit plavčíka, policii nebo místní úřady. Podobné nálezy mají řešit odborné složky, ne návštěvníci pláže.</p>\n<p>Primorsko i Lozenec patří mezi místa, kam jezdí i čeští turisté, často autem nebo přes letiště v Burgasu. Prakticky tedy nejde o důvod rušit cestu, ale o připomínku sledovat místní pokyny na plážích a respektovat případné dočasné uzávěry konkrétního úseku, pokud by je úřady při podobném nálezu vyhlásily.</p>\n<p><strong>Zdroj:</strong> Novinite / Sofia News Agency</p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240159",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+},
     {
         "id": 2026081501,
         "type": "post",
