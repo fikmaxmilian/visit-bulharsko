@@ -138,7 +138,7 @@ const isPropertyPage = item.slug === 'nemovitosti-bulharsko';
     {articleBodyParts[2] && <div class="article-content" set:html={articleBodyParts[2]}></div>}
     {hasFaqSection && (
       <section class="article-faq" aria-labelledby="article-faq-title">
-        <h2 id="article-faq-title">FAQ: Letiště Varna a doprava do letovisek</h2>
+        <h2 id="article-faq-title">FAQ: {item.title}</h2>
         <div class="article-faq__items">
           {faqPairs.map((faq, index) => (
             <details class="article-faq__item" open={index === 0}>
