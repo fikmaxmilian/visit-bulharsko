@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026081902,
+      "type": "post",
+      "slug": "silny-vitr-bourky-bulharsko-varovani-srpen-2026",
+      "path": "/silny-vitr-bourky-bulharsko-varovani-srpen-2026/",
+      "title": "Silný vítr a bouřky v Bulharsku: varování platí pro šest oblastí",
+      "excerpt": "Bulharští meteorologové vydali žluté varování před silným větrem pro šest oblastí. Cestovatelé by měli sledovat lokální předpověď hlavně při přejezdech vnitrozemím a výletech mimo pobřeží.",
+      "date": "2026-08-19T00:00:00",
+      "modified": "2026-08-19T17:05:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Bulharsko: silný vítr a bouřky v šesti regionech",
+        "description": "V Bulharsku platí žluté varování před silným větrem pro šest oblastí. Praktické upozornění pro řidiče a výlety do vnitrozemí."
+      },
+      "content": "<p>Bulharsko má za sebou další letní výstrahu počasí. Podle agentury Novinite vydal Národní institut meteorologie a hydrologie žluté varování před silným větrem pro šest oblastí země. Upozornění se týká regionů Pazardžik, Pleven, Vraca, Montana, Vidin a Veliko Tarnovo. Meteorologové zároveň připouštějí přeháňky, bouřky a místy i kroupy.</p>\n<h2>Co se stalo</h2>\n<p>Žlutý stupeň varování neznamená automaticky extrémní nebezpečí ani důvod rušit cestu. Je to ale signál, že počasí může lokálně komplikovat běžný program. Silnější vítr bývá nepříjemný hlavně na otevřených úsecích silnic, v horských a podhorských oblastech nebo při zastávkách na vyhlídkách, u památek a ve městech s mnoha stromy. Pokud se k větru přidá bouřka, může se situace změnit velmi rychle.</p>\n<p>Pro české turisty je podstatné hlavně to, že uvedené oblasti neleží přímo v hlavním pásu černomořských letovisek. Nejde tedy o výstrahu, která by sama o sobě měnila běžnou dovolenou ve Varně, Burgasu, Nesebaru nebo na Slunečném pobřeží. Důležitá ale je pro ty, kdo z pobřeží vyrážejí půjčeným autem do vnitrozemí, plánují přesuny přes severní Bulharsko, návštěvu Veliko Tarnova nebo delší roadtrip po zemi.</p>\n<h2>Co to znamená pro cestovatele</h2>\n<p>Nejpraktičtější rada je jednoduchá: před delším přejezdem zkontrolovat aktuální lokální předpověď, nejen obecnou informaci pro celé Bulharsko. Počasí se v létě často liší mezi pobřežím, nížinami a vnitrozemskými regiony. Při řízení počítejte s bočním větrem, s možností krátkých lijáků a s tím, že po bouřce mohou být silnice kluzké nebo znečištěné větvemi.</p>\n<p>Pokud máte na programu výlet k pevnosti Carevec ve Veliko Tarnovu, do severozápadního Bulharska nebo delší trasu směrem k Dunaji, vyplatí se nechat si časovou rezervu. U venkovních aktivit je rozumné sledovat oblohu a při bouřce se neschovávat pod osamělé stromy ani u kovových konstrukcí. Na plážovou dovolenou u Černého moře zpráva dopadá spíše nepřímo, ale je užitečnou připomínkou, že výlety mimo letovisko je lepší plánovat podle aktuální situace, ne jen podle itineráře z domova.</p>\n<p><a href=\"https://www.novinite.com/view_news.php?id=240178\" target=\"_blank\" rel=\"noopener noreferrer\">Zdroj: Novinite / Sofia News Agency</a></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240178",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026081901,
       "type": "post",
       "slug": "kapitan-andreevo-rekonstrukce-hranice-turecko-2026",
