@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T15:00:49.116852+00:00",
+  "generatedAt": "2026-08-19T12:07:59.977075+00:00",
   "mode": "fast-news-drafts",
   "policy": "External RSS is used only as source material. Publish short Czech own-words fast news with clear travel impact. No FAQ or mandatory image for fast updates.",
   "items": [
@@ -10,20 +10,20 @@
       "language": "en",
       "status": "draft",
       "copyPolicy": "own-words-summary-only",
-      "title": "BOTAS Deal Freeze Linked to Black Sea Highway Construction in Bulgaria? Turkey Makes a Move",
-      "excerpt": "For months, Prime Minister Rumen Radev has insisted that Bulgaria's decision to freeze its controversial contract with Turkish state energy company Botas had no connection to the proposed Black Sea Highway, electricity t",
-      "originalTitle": "BOTAS Deal Freeze Linked to Black Sea Highway Construction in Bulgaria? Turkey Makes a Move",
-      "originalExcerpt": "For months, Prime Minister Rumen Radev has insisted that Bulgaria's decision to freeze its controversial contract with Turkish state energy company Botas had no connection to the proposed Black Sea Highway, electricity transmission, water resources or the Khan Tervel gas field. Radev has also maintained that the suspension of the unfavorable agreement was based solely on mutual trust and friendship between Bulgaria and Turkey, with no other commitments involved. Recent comments by Turkey's transport minister, however, have raised fresh questions about whether the highway project was discussed ",
-      "link": "https://www.novinite.com/view_news.php?id=240157",
-      "published": "2026-08-16T09:28:00+02:00",
-      "guid": "240157",
+      "title": "Bulgaria to Boost Kapitan Andreevo Border Capacity by More Than 25%",
+      "excerpt": "A major reconstruction project has begun at Bulgaria’s Kapitan Andreevo border crossing, with completion expected within a year. Authorities hope to finish the work ahead of schedule while keeping traffic moving througho",
+      "originalTitle": "Bulgaria to Boost Kapitan Andreevo Border Capacity by More Than 25%",
+      "originalExcerpt": "A major reconstruction project has begun at Bulgaria’s Kapitan Andreevo border crossing, with completion expected within a year. Authorities hope to finish the work ahead of schedule while keeping traffic moving throughout the construction period. The project aims to fully modernize the busy border checkpoint and increase its overall processing capacity by more than 25%. ...",
+      "link": "https://www.novinite.com/view_news.php?id=240181",
+      "published": "2026-08-18T11:37:50+02:00",
+      "guid": "240181",
       "relevanceScore": 9,
       "relevanceKeywords": [
-        "black sea",
-        "highway"
+        "border",
+        "traffic"
       ],
       "excludedSignals": [],
-      "editorialAngle": "turismus / pobřeží",
+      "editorialAngle": "hranice / pravidla cestování",
       "fastNewsDraft": {
         "decision": "draft",
         "slug": "",
@@ -33,9 +33,9 @@
         "excerpt": "",
         "articleHtml": "",
         "sourceCredit": "Zdroj: Novinite / Sofia News Agency",
-        "sourceUrl": "https://www.novinite.com/view_news.php?id=240157"
+        "sourceUrl": "https://www.novinite.com/view_news.php?id=240181"
       },
-      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: BOTAS Deal Freeze Linked to Black Sea Highway Construction in Bulgaria? Turkey Makes a Move\nPodklad: For months, Prime Minister Rumen Radev has insisted that Bulgaria's decision to freeze its controversial contract with Turkish state energy company Botas had no connection to the proposed Black Sea Highway, electricity transmission, water resources or the Khan Tervel gas field. Radev has also maintained that the suspension of the unfavorable agreement was based solely on mutual trust and friendship between Bulgaria and Turkey, with no other commitments involved. Recent comments by Turkey's transport minister, however, have raised fresh questions about whether the highway project was discussed \nOdkaz: https://www.novinite.com/view_news.php?id=240157"
+      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Bulgaria to Boost Kapitan Andreevo Border Capacity by More Than 25%\nPodklad: A major reconstruction project has begun at Bulgaria’s Kapitan Andreevo border crossing, with completion expected within a year. Authorities hope to finish the work ahead of schedule while keeping traffic moving throughout the construction period. The project aims to fully modernize the busy border checkpoint and increase its overall processing capacity by more than 25%. ...\nOdkaz: https://www.novinite.com/view_news.php?id=240181"
     },
     {
       "source": "Novinite / Sofia News Agency",
@@ -44,17 +44,17 @@
       "language": "en",
       "status": "draft",
       "copyPolicy": "own-words-summary-only",
-      "title": "Teens Murder a Man in Plovdiv: The Known Facts, Claims and Allegations",
-      "excerpt": "The death of 37-year-old Georgi Kuzev after an attack involving a group of teenagers in Plovdiv has triggered widespread public reaction and a flood of conflicting information. Established facts, the prosecution’s allega",
-      "originalTitle": "Teens Murder a Man in Plovdiv: The Known Facts, Claims and Allegations",
-      "originalExcerpt": "The death of 37-year-old Georgi Kuzev after an attack involving a group of teenagers in Plovdiv has triggered widespread public reaction and a flood of conflicting information. Established facts, the prosecution’s allegations, defense arguments, witness accounts and unverified claims have increasingly become mixed together, making it difficult to distinguish what is known from what remains speculation. Kuzev, from the town of Krichim, was found in critical condition on August 4 at the foot of Youth Hill in Plovdiv....",
-      "link": "https://www.novinite.com/view_news.php?id=240155",
-      "published": "2026-08-16T09:00:00+02:00",
-      "guid": "240155",
-      "relevanceScore": 9,
+      "title": "Strong Winds and Storms Expected in Six Bulgarian Regions",
+      "excerpt": "Bulgaria’s National Institute of Meteorology and Hydrology (NIMH) has issued a yellow weather warning for strong winds covering six regions of the country on Tuesday. The warning is in effect for Pazardzhik, Pleven, Vrat",
+      "originalTitle": "Strong Winds and Storms Expected in Six Bulgarian Regions",
+      "originalExcerpt": "Bulgaria’s National Institute of Meteorology and Hydrology (NIMH) has issued a yellow weather warning for strong winds covering six regions of the country on Tuesday. The warning is in effect for Pazardzhik, Pleven, Vratsa, Montana, Vidin and Veliko Tarnovo. Showers, thunderstorms and hail possible ...",
+      "link": "https://www.novinite.com/view_news.php?id=240178",
+      "published": "2026-08-18T08:18:30+02:00",
+      "guid": "240178",
+      "relevanceScore": 10,
       "relevanceKeywords": [
-        "plovdiv",
-        "flood"
+        "weather",
+        "warning"
       ],
       "excludedSignals": [],
       "editorialAngle": "počasí / bezpečnost",
@@ -67,9 +67,9 @@
         "excerpt": "",
         "articleHtml": "",
         "sourceCredit": "Zdroj: Novinite / Sofia News Agency",
-        "sourceUrl": "https://www.novinite.com/view_news.php?id=240155"
+        "sourceUrl": "https://www.novinite.com/view_news.php?id=240178"
       },
-      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Teens Murder a Man in Plovdiv: The Known Facts, Claims and Allegations\nPodklad: The death of 37-year-old Georgi Kuzev after an attack involving a group of teenagers in Plovdiv has triggered widespread public reaction and a flood of conflicting information. Established facts, the prosecution’s allegations, defense arguments, witness accounts and unverified claims have increasingly become mixed together, making it difficult to distinguish what is known from what remains speculation. Kuzev, from the town of Krichim, was found in critical condition on August 4 at the foot of Youth Hill in Plovdiv....\nOdkaz: https://www.novinite.com/view_news.php?id=240155"
+      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Strong Winds and Storms Expected in Six Bulgarian Regions\nPodklad: Bulgaria’s National Institute of Meteorology and Hydrology (NIMH) has issued a yellow weather warning for strong winds covering six regions of the country on Tuesday. The warning is in effect for Pazardzhik, Pleven, Vratsa, Montana, Vidin and Veliko Tarnovo. Showers, thunderstorms and hail possible ...\nOdkaz: https://www.novinite.com/view_news.php?id=240178"
     },
     {
       "source": "Novinite / Sofia News Agency",
@@ -78,19 +78,18 @@
       "language": "en",
       "status": "draft",
       "copyPolicy": "own-words-summary-only",
-      "title": "How Much Does It Cost to Live in Bulgaria’s Four Largest Cities?",
-      "excerpt": "An analysis of Numbeo data reveals significant differences in the cost of groceries, housing and salaries across Sofia, Plovdiv, Varna and Burgas. If you ask someone living in Sofia how much it costs to live in the capit",
-      "originalTitle": "How Much Does It Cost to Live in Bulgaria’s Four Largest Cities?",
-      "originalExcerpt": "An analysis of Numbeo data reveals significant differences in the cost of groceries, housing and salaries across Sofia, Plovdiv, Varna and Burgas. If you ask someone living in Sofia how much it costs to live in the capital, you are likely to hear stories about rising rents, household bills and increasingly expensive coffee. But the cost-of-living squeeze is not limited to Sofia....",
-      "link": "https://www.novinite.com/view_news.php?id=240168",
-      "published": "2026-08-15T12:54:30+02:00",
-      "guid": "240168",
-      "relevanceScore": 14,
+      "title": "31 Injured in 28 Serious Road Accidents Across Bulgaria in 24 Hours",
+      "excerpt": "Thirty-one people were injured in 28 serious road accidents across Bulgaria over the past 24 hours, according to data released by the country’s Ministry of Interior. In Sofia, police recorded three serious and 19 minor t",
+      "originalTitle": "31 Injured in 28 Serious Road Accidents Across Bulgaria in 24 Hours",
+      "originalExcerpt": "Thirty-one people were injured in 28 serious road accidents across Bulgaria over the past 24 hours, according to data released by the country’s Ministry of Interior. In Sofia, police recorded three serious and 19 minor traffic accidents during the same period. Three people were injured. ...",
+      "link": "https://www.novinite.com/view_news.php?id=240176",
+      "published": "2026-08-18T08:04:06+02:00",
+      "guid": "240176",
+      "relevanceScore": 8,
       "relevanceKeywords": [
         "sofia",
-        "varna",
-        "burgas",
-        "plovdiv"
+        "traffic",
+        "road"
       ],
       "excludedSignals": [],
       "editorialAngle": "praktická aktualita",
@@ -103,43 +102,9 @@
         "excerpt": "",
         "articleHtml": "",
         "sourceCredit": "Zdroj: Novinite / Sofia News Agency",
-        "sourceUrl": "https://www.novinite.com/view_news.php?id=240168"
+        "sourceUrl": "https://www.novinite.com/view_news.php?id=240176"
       },
-      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: How Much Does It Cost to Live in Bulgaria’s Four Largest Cities?\nPodklad: An analysis of Numbeo data reveals significant differences in the cost of groceries, housing and salaries across Sofia, Plovdiv, Varna and Burgas. If you ask someone living in Sofia how much it costs to live in the capital, you are likely to hear stories about rising rents, household bills and increasingly expensive coffee. But the cost-of-living squeeze is not limited to Sofia....\nOdkaz: https://www.novinite.com/view_news.php?id=240168"
-    },
-    {
-      "source": "Novinite / Sofia News Agency",
-      "sourceUrl": "https://www.novinite.com/services/news_rdf.php",
-      "category": "zpravy-bulharsko",
-      "language": "en",
-      "status": "draft",
-      "copyPolicy": "own-words-summary-only",
-      "title": "Sofia Marathon 2026 to Draw 11,000 Runners",
-      "excerpt": "Sofia is preparing to welcome up to 11,000 runners for the Wizz Air Sofia Marathon 2026, which will turn the capital into a major sporting venue on October 10 and 11. The event, Bulgaria's largest running competition, wi",
-      "originalTitle": "Sofia Marathon 2026 to Draw 11,000 Runners",
-      "originalExcerpt": "Sofia is preparing to welcome up to 11,000 runners for the Wizz Air Sofia Marathon 2026, which will turn the capital into a major sporting venue on October 10 and 11. The event, Bulgaria's largest running competition, will feature five disciplines over two days, including a new 2 x 21 km relay race. The organizers are expanding capacity following the record 2025 edition, which attracted more than 8,000 participants from 66 countries....",
-      "link": "https://www.novinite.com/view_news.php?id=240167",
-      "published": "2026-08-15T09:50:00+02:00",
-      "guid": "240167",
-      "relevanceScore": 9,
-      "relevanceKeywords": [
-        "sofia",
-        "wizz air"
-      ],
-      "excludedSignals": [],
-      "editorialAngle": "doprava / lety",
-      "fastNewsDraft": {
-        "decision": "draft",
-        "slug": "",
-        "seoTitle": "",
-        "metaDescription": "",
-        "h1": "",
-        "excerpt": "",
-        "articleHtml": "",
-        "sourceCredit": "Zdroj: Novinite / Sofia News Agency",
-        "sourceUrl": "https://www.novinite.com/view_news.php?id=240167"
-      },
-      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Sofia Marathon 2026 to Draw 11,000 Runners\nPodklad: Sofia is preparing to welcome up to 11,000 runners for the Wizz Air Sofia Marathon 2026, which will turn the capital into a major sporting venue on October 10 and 11. The event, Bulgaria's largest running competition, will feature five disciplines over two days, including a new 2 x 21 km relay race. The organizers are expanding capacity following the record 2025 edition, which attracted more than 8,000 participants from 66 countries....\nOdkaz: https://www.novinite.com/view_news.php?id=240167"
+      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: 31 Injured in 28 Serious Road Accidents Across Bulgaria in 24 Hours\nPodklad: Thirty-one people were injured in 28 serious road accidents across Bulgaria over the past 24 hours, according to data released by the country’s Ministry of Interior. In Sofia, police recorded three serious and 19 minor traffic accidents during the same period. Three people were injured. ...\nOdkaz: https://www.novinite.com/view_news.php?id=240176"
     },
     {
       "source": "The Sofia Globe",
