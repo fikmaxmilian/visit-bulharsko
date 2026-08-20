@@ -27,6 +27,34 @@
       "reading_minutes": 7
     },
     {
+      "id": 2026082003,
+      "type": "post",
+      "slug": "kour-nad-sofii-srbske-pozary-srpen-2026",
+      "path": "/kour-nad-sofii-srbske-pozary-srpen-2026/",
+      "title": "Kouř nad Sofií: město řešilo desítky hlášení kvůli požáru v Srbsku",
+      "excerpt": "Nad Sofií se objevil kouř a zápach, které podle města souvisely s lesním požárem v Srbsku. Pro turisty jde hlavně o praktickou připomínku sledovat kvalitu ovzduší a místní pokyny.",
+      "date": "2026-08-20T00:00:00",
+      "modified": "2026-08-20T17:00:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Sofie hlásila kouř kvůli požáru v Srbsku",
+        "description": "Sofie řešila kouř a zápach přenesený z lesního požáru v Srbsku. Praktický kontext pro turisty v bulharské metropoli."
+      },
+      "content": "<p>Návštěvníci Sofie mohli v těchto dnech zaznamenat kouř, smog nebo nepříjemný zápach v různých částech bulharské metropole. Podle agentury Novinite přijala sofijská radnice během jedné hodiny více než čtyřicet hlášení od obyvatel. Město uvedlo, že v Sofii v tu chvíli nebyly hlášeny velké lokální požáry a že kouř podle dostupných informací souvisel s lesním požárem v Srbsku, odkud se oblak přenesl nad město.</p>\n<h2>Co se stalo</h2>\n<p>Sofijská samospráva oznámila, že situaci prověřuje ve spolupráci s příslušnými službami. Zpráva je důležitá hlavně proto, že kouř může ve městě působit znepokojivě i tehdy, když nejde o požár přímo v jeho ulicích nebo v bezprostředním okolí. Přenos kouře na větší vzdálenost není během suchého a horkého léta v jihovýchodní Evropě neobvyklý, zvlášť pokud se spojí silnější proudění vzduchu a rozsáhlejší lesní požár.</p>\n<p>Pro běžný turistický program v Sofii z toho zatím nevyplývá plošné omezení. Nejde o informaci, která by sama o sobě znamenala rušit cestu do města nebo měnit letenky. Prakticky ale dává smysl počítat s tím, že kvalita ovzduší se může v podobných situacích krátkodobě zhoršit a že zápach kouře může být citelný i v centru nebo u hlavních památek.</p>\n<h2>Co to znamená pro cestovatele</h2>\n<p>Češi, kteří jsou právě v Sofii nebo se do ní chystají na přestup, víkendový pobyt či začátek cesty po Bulharsku, by měli sledovat lokální zprávy, aplikace kvality ovzduší a případná doporučení města. Opatrnější režim je vhodný hlavně pro děti, seniory, astmatiky a lidi s dýchacími potížemi. Pokud je venku cítit kouř, je lepší zkrátit delší sportovní aktivitu, přesunout část programu do interiéru a při cestování po městě využít metro nebo kratší pěší přesuny.</p>\n<p>Dobrá zpráva je, že podle dostupných informací nešlo o požár přímo v Sofii. Událost je ale další připomínkou, že letní požáry v regionu mohou ovlivnit i místa vzdálená desítky až stovky kilometrů. Při srpnové cestě po Balkáně se proto vyplatí brát počasí, vítr a kvalitu ovzduší stejně vážně jako teploty nebo dopravní situaci.</p>\n<p><small>Zdroj: <a href=\"https://www.novinite.com/view_news.php?id=240182\" rel=\"nofollow noopener\" target=\"_blank\">Novinite / Sofia News Agency</a>.</small></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240182",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026082002,
       "type": "post",
       "slug": "bulharsko-vrtulniky-pozary-srpen-2026",
