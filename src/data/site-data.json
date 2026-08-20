@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026082002,
+      "type": "post",
+      "slug": "bulharsko-vrtulniky-pozary-srpen-2026",
+      "path": "/bulharsko-vrtulniky-pozary-srpen-2026/",
+      "title": "Bulharsko má pro boj s požáry připravených pět vrtulníků",
+      "excerpt": "Bulharská vláda hlásí posílenou připravenost na lesní požáry: k dispozici má být pět vrtulníků s posádkami a v záloze letoun Spartan. Pro turisty je to dobrá zpráva, ale v horku dál platí opatrnost v přírodě.",
+      "date": "2026-08-20T00:00:00",
+      "modified": "2026-08-20T13:00:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Bulharsko: připravenost na požáry v létě 2026",
+        "description": "Bulharsko má pro boj s požáry připravených pět vrtulníků a záložní letoun Spartan. Praktický kontext pro turisty v horku."
+      },
+      "content": "<p>Bulharsko vstupuje do další části horké sezony s výrazně posílenou připraveností na lesní a polní požáry. Podle agentury Novinite premiér Rumen Radev oznámil, že země má aktuálně k dispozici pět vrtulníků s posádkami pro hašení požárů a v případě potřeby také letoun Spartan. V době, kdy jih Evropy opakovaně řeší požáry a dlouhé období sucha, je to pro cestovatele důležitá bezpečnostní informace.</p>\n<h2>Co se stalo</h2>\n<p>Radev při jednání vlády uvedl, že Bulharsko je podle něj připravené lépe než v předchozích letech. Zmínil rekordní teploty, dlouhotrvající sucho a požáry v okolních zemích, zároveň ale zdůraznil, že Bulharsko se zatím vyhnulo rozsáhlým ničivým požárům. Za důvod označil preventivní opatření úřadů, práci hasičů a civilní ochrany i větší opatrnost veřejnosti.</p>\n<p>Podle premiéra se letos snížil počet požárů způsobených nedbalostí nebo úmyslně. Vláda chce současnou úroveň pohotovosti udržet i po zbytek horkého období. Pro české návštěvníky to neznamená žádné nové omezení cestování ani důvod rušit dovolenou. Je to spíš signál, že úřady berou letní rizika vážně a mají připravené letecké kapacity pro případ rychlého zásahu.</p>\n<h2>Co to znamená pro cestovatele</h2>\n<p>Největší praktický dopad má zpráva pro turisty, kteří v Bulharsku vyrážejí mimo pláže: do pohoří Stará planina, Rila, Pirin, Rodopy nebo na delší cesty autem v suchých oblastech. V horkých dnech je rozumné sledovat místní varování, nevjíždět na uzavřené lesní cesty, nerozdělávat oheň mimo povolená místa a neodhazovat nedopalky. Pokud se v okolí objeví kouř nebo zásah hasičů, je lepší trasu změnit a neblokovat příjezdové cesty.</p>\n<p>Pro běžnou dovolenou u Černého moře zpráva nepřináší přímou komplikaci. I na pobřeží ale platí, že vítr a sucho mohou z malého požáru udělat rychlý problém. Při výletech z letovisek se proto vyplatí mít nabitý telefon, vodu, offline mapu a respektovat pokyny policie, hasičů nebo správy chráněných území.</p>\n<p><strong>Zdroj:</strong> <a href=\"https://www.novinite.com/view_news.php?id=240190\" rel=\"nofollow noopener\" target=\"_blank\">Novinite / Sofia News Agency</a></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240190",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026082001,
       "type": "post",
       "slug": "nove-vlaky-bulharsko-skoda-alstom-zari-2026",
