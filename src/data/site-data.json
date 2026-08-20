@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026082001,
+      "type": "post",
+      "slug": "nove-vlaky-bulharsko-skoda-alstom-zari-2026",
+      "path": "/nove-vlaky-bulharsko-skoda-alstom-zari-2026/",
+      "title": "Bulharské železnice nasadí do září téměř 60 nových vlaků",
+      "excerpt": "Bulharsko má do začátku září zařadit do provozu téměř 60 nových vlaků od Škody a Alstomu. Pro turisty to zatím neznamená plošně nový jízdní řád, ale je to dobrá zpráva pro cestování po zemi mimo pobřežní resorty.",
+      "date": "2026-08-20T00:00:00",
+      "modified": "2026-08-20T09:01:22+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Bulharsko: nové vlaky Škoda a Alstom do září",
+        "description": "Bulharské železnice čeká nasazení téměř 60 nových vlaků od Škody a Alstomu. Praktický kontext pro cestování po zemi."
+      },
+      "content": "<p>Bulharská železnice má v nejbližších týdnech dostat výraznou modernizační injekci. Podle agentury Novinite se do začátku září očekává nasazení téměř 60 nových vlaků od výrobců Škoda a Alstom. Pro české cestovatele to není zpráva, kvůli které by bylo nutné okamžitě měnit plán dovolené, ale je to důležitý signál pro každého, kdo v Bulharsku nechce zůstat jen u hotelu a pláže.</p>\n<h2>Co se stalo</h2>\n<p>Prvních 20 elektrických jednotek od české společnosti Škoda má být podle Novinite plně v provozu kolem 20. srpna. Nasazeny mají být hlavně na kratších trasách v rámci Bulharska. Krátce poté mají následovat soupravy od francouzského Alstomu, které se mají více uplatnit na delších vnitrostátních linkách.</p>\n<p>Bulharské úřady současně upozorňují, že nová vozidla sama o sobě nevyřeší všechny problémy železnice. Země podle odhadů potřebuje zhruba 280 až 300 moderních železničních vozů a zvlášť citelný zůstává nedostatek lůžkových vozů. Ministerstvo dopravy proto připravuje analýzu osobní dopravy, která má pomoci naplánovat další kroky modernizace.</p>\n<h2>Co to znamená pro cestovatele</h2>\n<p>Pro turisty mířící letecky přímo do Varny nebo Burgasu se změna nemusí projevit hned. Důležitější je pro návštěvníky, kteří kombinují Sofii, Plovdiv, horské oblasti nebo přejezd z vnitrozemí k moři. Novější soupravy mohou postupně znamenat pohodlnější přesuny, spolehlivější klimatizaci a příjemnější cestu s batohem nebo kufrem.</p>\n<p>Z českého pohledu je zajímavé i zapojení Škody. Neznamená to automaticky český standard na celé síti, ale ukazuje to, že modernizace bulharské železnice není jen vzdálený plán na papíře. Pokud plánujete delší cestu po Bulharsku vlakem, vyplatí se před odjezdem ověřit aktuální jízdní řády a konkrétní nasazení souprav. U nočních a delších tras zatím stále počítejte s tím, že kvalita spojů může být nerovnoměrná.</p>\n<p><strong>Zdroj:</strong> Novinite / Sofia News Agency</p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240192",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026081902,
       "type": "post",
       "slug": "silny-vitr-bourky-bulharsko-varovani-srpen-2026",
