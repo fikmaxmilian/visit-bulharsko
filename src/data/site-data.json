@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026082102,
+      "type": "post",
+      "slug": "letiste-burgas-eurovision-2027-provoz",
+      "path": "/letiste-burgas-eurovision-2027-provoz/",
+      "title": "Letiště Burgas se chystá na větší nápor kvůli Eurovision 2027",
+      "excerpt": "Letiště Burgas se připravuje na vyšší provoz kolem Eurovision 2027. Pro cestovatele mířící na jižní pobřeží to znamená hlavně včasnější plánování letů, transferů a ubytování.",
+      "date": "2026-08-21T00:00:00",
+      "modified": "2026-08-21T13:01:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Letiště Burgas čeká vyšší provoz kvůli Eurovision",
+        "description": "Letiště Burgas se připravuje na vyšší provoz kolem Eurovision 2027. Praktický kontext pro cesty na jižní bulharské pobřeží."
+      },
+      "content": "<p>Letiště Burgas podle agentury Novinite hlásí, že se připravuje na zvýšený provoz související s plánovanou soutěží Eurovision 2027. Pro české cestovatele nejde o zprávu, která by měnila letošní dovolenou, ale je dobré ji sledovat při plánování cest na černomořské pobřeží v příští letní sezoně. Burgas je hlavní vstupní letiště pro Slunečné pobřeží, Nesebar, Svatý Vlas, Sozopol, Primorsko a další oblíbená letoviska na jihu bulharského pobřeží.</p>\n<h2>Co se stalo</h2>\n<p>Vedení letiště uvedlo, že očekává vyšší počet cestujících v období kolem Eurovision 2027. Podle dostupných informací už probíhají rozhovory s leteckými společnostmi o letových řádech na příští léto. Zatím ale není možné přesně říct, kolik dalších pasažérů soutěž do Burgasu přivede. Ředitel letiště Vasil Atanasov zároveň připomněl, že terminál v posledních letech prošel infrastrukturními úpravami a má zkušenost se silným sezonním provozem.</p>\n<p>Burgas každoročně odbavuje velkou část turistů mířících k jižnímu Černému moři. Pokud se k běžné letní špičce přidá velká mezinárodní akce, může se tlak projevit hlavně na kapacitách letů, transferů, taxi služeb, parkování a ubytování. Pro město i letiště proto bude důležité sladit dovolenkovou sezonu s příjezdy fanoušků, delegací, novinářů a dalších návštěvníků.</p>\n<h2>Co to znamená pro cestovatele</h2>\n<p>Češi, kteří chtějí v roce 2027 letět do Burgasu individuálně nebo přes cestovní kancelář, by měli sledovat nabídku spojů dříve než obvykle. V běžné sezoně bývá Burgas praktickou volbou pro pobyt na Slunečném pobřeží, v Nesebaru, Pomorie, Sozopolu nebo Primorsku. V období velké akce ale mohou být některé termíny citlivější na cenu a obsazenost, zvlášť pokud se budou překrývat s hlavními prázdninami.</p>\n<p>Praktická rada je jednoduchá: pokud plánujete cestu do jižního Bulharska kolem termínu Eurovision 2027, nenechávejte letenky, transfer ani ubytování na poslední chvíli. U balíčků od cestovek se vyplatí kontrolovat nejen cenu zájezdu, ale také odletové letiště, časy příletu do Burgasu a délku transferu do resortu. Pro letošní cesty se z této zprávy žádné nové omezení neodvozuje.</p>\n<p><em>Zdroj: Novinite / Sofia News Agency</em></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240207",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 1
+    },
+    {
       "id": 2026082101,
       "type": "post",
       "slug": "bulharsko-vedra-zlute-varovani-21-srpna-2026",
