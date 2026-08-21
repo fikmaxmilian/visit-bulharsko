@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T15:00:43.075933+00:00",
+  "generatedAt": "2026-08-21T07:08:39.696178+00:00",
   "mode": "fast-news-drafts",
   "policy": "External RSS is used only as source material. Publish short Czech own-words fast news with clear travel impact. No FAQ or mandatory image for fast updates.",
   "items": [
@@ -10,49 +10,17 @@
       "language": "en",
       "status": "draft",
       "copyPolicy": "own-words-summary-only",
-      "title": "Bulgaria to Boost Kapitan Andreevo Border Capacity by More Than 25%",
-      "excerpt": "A major reconstruction project has begun at Bulgaria’s Kapitan Andreevo border crossing, with completion expected within a year. Authorities hope to finish the work ahead of schedule while keeping traffic moving througho",
-      "originalTitle": "Bulgaria to Boost Kapitan Andreevo Border Capacity by More Than 25%",
-      "originalExcerpt": "A major reconstruction project has begun at Bulgaria’s Kapitan Andreevo border crossing, with completion expected within a year. Authorities hope to finish the work ahead of schedule while keeping traffic moving throughout the construction period. The project aims to fully modernize the busy border checkpoint and increase its overall processing capacity by more than 25%. ...",
-      "link": "https://www.novinite.com/view_news.php?id=240181",
-      "published": "2026-08-18T11:37:50+02:00",
-      "guid": "240181",
-      "relevanceScore": 9,
+      "title": "Dangerous Heat to Sweep Bulgaria on Friday",
+      "excerpt": "A yellow weather warning for dangerously high temperatures has been issued across most of Bulgaria for Friday, August 21, with temperatures expected to reach 39 degrees Celsius. The warning does not apply to the district",
+      "originalTitle": "Dangerous Heat to Sweep Bulgaria on Friday",
+      "originalExcerpt": "A yellow weather warning for dangerously high temperatures has been issued across most of Bulgaria for Friday, August 21, with temperatures expected to reach 39 degrees Celsius. The warning does not apply to the districts of Dobrich, Varna and Burgas, or to a small part of Shumen District. The weather will remain clear and mostly calm overnight....",
+      "link": "https://www.novinite.com/view_news.php?id=240217",
+      "published": "2026-08-20T17:00:00+02:00",
+      "guid": "240217",
+      "relevanceScore": 18,
       "relevanceKeywords": [
-        "border",
-        "traffic"
-      ],
-      "excludedSignals": [],
-      "editorialAngle": "hranice / pravidla cestování",
-      "fastNewsDraft": {
-        "decision": "draft",
-        "slug": "",
-        "seoTitle": "",
-        "metaDescription": "",
-        "h1": "",
-        "excerpt": "",
-        "articleHtml": "",
-        "sourceCredit": "Zdroj: Novinite / Sofia News Agency",
-        "sourceUrl": "https://www.novinite.com/view_news.php?id=240181"
-      },
-      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Bulgaria to Boost Kapitan Andreevo Border Capacity by More Than 25%\nPodklad: A major reconstruction project has begun at Bulgaria’s Kapitan Andreevo border crossing, with completion expected within a year. Authorities hope to finish the work ahead of schedule while keeping traffic moving throughout the construction period. The project aims to fully modernize the busy border checkpoint and increase its overall processing capacity by more than 25%. ...\nOdkaz: https://www.novinite.com/view_news.php?id=240181"
-    },
-    {
-      "source": "Novinite / Sofia News Agency",
-      "sourceUrl": "https://www.novinite.com/services/news_rdf.php",
-      "category": "zpravy-bulharsko",
-      "language": "en",
-      "status": "draft",
-      "copyPolicy": "own-words-summary-only",
-      "title": "Strong Winds and Storms Expected in Six Bulgarian Regions",
-      "excerpt": "Bulgaria’s National Institute of Meteorology and Hydrology (NIMH) has issued a yellow weather warning for strong winds covering six regions of the country on Tuesday. The warning is in effect for Pazardzhik, Pleven, Vrat",
-      "originalTitle": "Strong Winds and Storms Expected in Six Bulgarian Regions",
-      "originalExcerpt": "Bulgaria’s National Institute of Meteorology and Hydrology (NIMH) has issued a yellow weather warning for strong winds covering six regions of the country on Tuesday. The warning is in effect for Pazardzhik, Pleven, Vratsa, Montana, Vidin and Veliko Tarnovo. Showers, thunderstorms and hail possible ...",
-      "link": "https://www.novinite.com/view_news.php?id=240178",
-      "published": "2026-08-18T08:18:30+02:00",
-      "guid": "240178",
-      "relevanceScore": 10,
-      "relevanceKeywords": [
+        "varna",
+        "burgas",
         "weather",
         "warning"
       ],
@@ -67,9 +35,9 @@
         "excerpt": "",
         "articleHtml": "",
         "sourceCredit": "Zdroj: Novinite / Sofia News Agency",
-        "sourceUrl": "https://www.novinite.com/view_news.php?id=240178"
+        "sourceUrl": "https://www.novinite.com/view_news.php?id=240217"
       },
-      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Strong Winds and Storms Expected in Six Bulgarian Regions\nPodklad: Bulgaria’s National Institute of Meteorology and Hydrology (NIMH) has issued a yellow weather warning for strong winds covering six regions of the country on Tuesday. The warning is in effect for Pazardzhik, Pleven, Vratsa, Montana, Vidin and Veliko Tarnovo. Showers, thunderstorms and hail possible ...\nOdkaz: https://www.novinite.com/view_news.php?id=240178"
+      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Dangerous Heat to Sweep Bulgaria on Friday\nPodklad: A yellow weather warning for dangerously high temperatures has been issued across most of Bulgaria for Friday, August 21, with temperatures expected to reach 39 degrees Celsius. The warning does not apply to the districts of Dobrich, Varna and Burgas, or to a small part of Shumen District. The weather will remain clear and mostly calm overnight....\nOdkaz: https://www.novinite.com/view_news.php?id=240217"
     },
     {
       "source": "Novinite / Sofia News Agency",
@@ -78,21 +46,23 @@
       "language": "en",
       "status": "draft",
       "copyPolicy": "own-words-summary-only",
-      "title": "31 Injured in 28 Serious Road Accidents Across Bulgaria in 24 Hours",
-      "excerpt": "Thirty-one people were injured in 28 serious road accidents across Bulgaria over the past 24 hours, according to data released by the country’s Ministry of Interior. In Sofia, police recorded three serious and 19 minor t",
-      "originalTitle": "31 Injured in 28 Serious Road Accidents Across Bulgaria in 24 Hours",
-      "originalExcerpt": "Thirty-one people were injured in 28 serious road accidents across Bulgaria over the past 24 hours, according to data released by the country’s Ministry of Interior. In Sofia, police recorded three serious and 19 minor traffic accidents during the same period. Three people were injured. ...",
-      "link": "https://www.novinite.com/view_news.php?id=240176",
-      "published": "2026-08-18T08:04:06+02:00",
-      "guid": "240176",
-      "relevanceScore": 8,
+      "title": "Burgas Airport Ready for Eurovision 2027 Passenger Surge",
+      "excerpt": "Burgas Airport says it is ready to handle increased passenger traffic expected around Eurovision 2027, with thousands of visitors from Bulgaria and abroad anticipated to travel to the city for the competition. The airpor",
+      "originalTitle": "Burgas Airport Ready for Eurovision 2027 Passenger Surge",
+      "originalExcerpt": "Burgas Airport says it is ready to handle increased passenger traffic expected around Eurovision 2027, with thousands of visitors from Bulgaria and abroad anticipated to travel to the city for the competition. The airport has already begun discussions with airlines about next summer's flight schedules, although it is still too early to estimate how many additional passengers Eurovision will bring. Burgas Airport Director Vasil Atanasov said the facility has undergone infrastructure upgrades in recent years and has extensive experience handling heavy seasonal traffic....",
+      "link": "https://www.novinite.com/view_news.php?id=240207",
+      "published": "2026-08-20T15:04:00+02:00",
+      "guid": "240207",
+      "relevanceScore": 26,
       "relevanceKeywords": [
-        "sofia",
+        "burgas",
+        "airport",
+        "flight",
         "traffic",
-        "road"
+        "travel"
       ],
       "excludedSignals": [],
-      "editorialAngle": "praktická aktualita",
+      "editorialAngle": "doprava / lety",
       "fastNewsDraft": {
         "decision": "draft",
         "slug": "",
@@ -102,9 +72,43 @@
         "excerpt": "",
         "articleHtml": "",
         "sourceCredit": "Zdroj: Novinite / Sofia News Agency",
-        "sourceUrl": "https://www.novinite.com/view_news.php?id=240176"
+        "sourceUrl": "https://www.novinite.com/view_news.php?id=240207"
       },
-      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: 31 Injured in 28 Serious Road Accidents Across Bulgaria in 24 Hours\nPodklad: Thirty-one people were injured in 28 serious road accidents across Bulgaria over the past 24 hours, according to data released by the country’s Ministry of Interior. In Sofia, police recorded three serious and 19 minor traffic accidents during the same period. Three people were injured. ...\nOdkaz: https://www.novinite.com/view_news.php?id=240176"
+      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Burgas Airport Ready for Eurovision 2027 Passenger Surge\nPodklad: Burgas Airport says it is ready to handle increased passenger traffic expected around Eurovision 2027, with thousands of visitors from Bulgaria and abroad anticipated to travel to the city for the competition. The airport has already begun discussions with airlines about next summer's flight schedules, although it is still too early to estimate how many additional passengers Eurovision will bring. Burgas Airport Director Vasil Atanasov said the facility has undergone infrastructure upgrades in recent years and has extensive experience handling heavy seasonal traffic....\nOdkaz: https://www.novinite.com/view_news.php?id=240207"
+    },
+    {
+      "source": "Novinite / Sofia News Agency",
+      "sourceUrl": "https://www.novinite.com/services/news_rdf.php",
+      "category": "zpravy-bulharsko",
+      "language": "en",
+      "status": "draft",
+      "copyPolicy": "own-words-summary-only",
+      "title": "Greece Ready to Deploy Patriot Missiles to Protect Bulgaria From Iran",
+      "excerpt": "Greece is prepared to help defend Bulgarian airspace if Iran carries out an attack on US military facilities in Southeast Europe, according to Greek media reports citing sources from the Greek Defense Ministry. Athens is",
+      "originalTitle": "Greece Ready to Deploy Patriot Missiles to Protect Bulgaria From Iran",
+      "originalExcerpt": "Greece is prepared to help defend Bulgarian airspace if Iran carries out an attack on US military facilities in Southeast Europe, according to Greek media reports citing sources from the Greek Defense Ministry. Athens is considering deploying a Patriot air defense system near the Bulgarian border if Sofia requests assistance. The possible location is Didymoticho in northeastern Greece, close to Bulgaria....",
+      "link": "https://www.novinite.com/view_news.php?id=240210",
+      "published": "2026-08-20T13:22:00+02:00",
+      "guid": "240210",
+      "relevanceScore": 8,
+      "relevanceKeywords": [
+        "sofia",
+        "border"
+      ],
+      "excludedSignals": [],
+      "editorialAngle": "hranice / pravidla cestování",
+      "fastNewsDraft": {
+        "decision": "draft",
+        "slug": "",
+        "seoTitle": "",
+        "metaDescription": "",
+        "h1": "",
+        "excerpt": "",
+        "articleHtml": "",
+        "sourceCredit": "Zdroj: Novinite / Sofia News Agency",
+        "sourceUrl": "https://www.novinite.com/view_news.php?id=240210"
+      },
+      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Greece Ready to Deploy Patriot Missiles to Protect Bulgaria From Iran\nPodklad: Greece is prepared to help defend Bulgarian airspace if Iran carries out an attack on US military facilities in Southeast Europe, according to Greek media reports citing sources from the Greek Defense Ministry. Athens is considering deploying a Patriot air defense system near the Bulgarian border if Sofia requests assistance. The possible location is Didymoticho in northeastern Greece, close to Bulgaria....\nOdkaz: https://www.novinite.com/view_news.php?id=240210"
     },
     {
       "source": "The Sofia Globe",

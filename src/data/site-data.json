@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026082101,
+      "type": "post",
+      "slug": "bulharsko-vedra-zlute-varovani-21-srpna-2026",
+      "path": "/bulharsko-vedra-zlute-varovani-21-srpna-2026/",
+      "title": "Bulharsko má žluté varování před vedrem: teploty mohou dosáhnout 39 °C",
+      "excerpt": "Na pátek 21. srpna platí ve většině Bulharska žluté varování před vedrem. Pobřeží Varny a Burgasu má být mírnější, ale při výletech do vnitrozemí je dobré počítat s horkem.",
+      "date": "2026-08-21T00:00:00",
+      "modified": "2026-08-21T09:08:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Bulharsko: žluté varování před vedrem 21. srpna",
+        "description": "Většinu Bulharska čeká žluté varování před vedrem a teploty až 39 °C. Pobřeží Varny a Burgasu má být mírnější."
+      },
+      "content": "<p>Bulharsko čeká v pátek 21. srpna další výrazně horký den. Podle agentury Novinite vydali bulharští meteorologové žluté varování před nebezpečně vysokými teplotami pro většinu země. Denní maxima se mohou dostat až ke 39 °C. Výstraha se podle uvedených informací netýká okresů Dobrič, Varna a Burgas ani malé části oblasti Šumen, což je pro dovolenkáře u Černého moře důležitý praktický rozdíl.</p>\n<h2>Co se stalo</h2>\n<p>Národní meteorologové očekávají převážně jasné a klidné počasí. Přes den má být slunečno, odpoledne s kupovitou oblačností nad horskými oblastmi, ale bez výraznějších srážek. Vítr má být slabý až mírný, na pobřeží Černého moře odpoledne spíše od východu až jihovýchodu. Ve vnitrozemí se počítá s nejvyššími teplotami přibližně mezi 34 a 39 °C, v Sofii kolem 34 °C.</p>\n<p>Na pobřeží má být podle předpovědi o něco snesitelněji: nejvyšší teploty kolem 27 až 29 °C, moře zhruba 25 až 26 °C a vlnění okolo 2. stupně Beaufortovy škály. Pro pobyt u moře tedy nejde o plošné varování pro hlavní letoviska, ale spíš o připomínku, že i při nižší teplotě u vody může být slunce velmi silné a odpolední výlety mimo pobřeží mohou být náročné.</p>\n<h2>Co to znamená pro cestovatele</h2>\n<p>Češi, kteří tráví dovolenou ve Varně, Burgasu, Nesebaru, Pomorii nebo na Slunečném pobřeží, nemusí kvůli samotné výstraze měnit cestu. Dává ale smysl plánovat delší přesuny, výlety do vnitrozemí, návštěvu měst nebo pěší program mimo poledne a časné odpoledne. V autě je dobré mít dost vody, nenechávat děti ani zvířata ve voze a při cestách přes vnitrozemí počítat s únavou řidiče.</p>\n<p>Praktické minimum je jednoduché: pít průběžně, používat pokrývku hlavy a opalovací krém, dělat pauzy ve stínu a sledovat lokální pokyny na plážích. U seniorů, malých dětí a lidí se zdravotními potížemi je vhodné přesunout náročnější program na ráno nebo večer. Pokud vyrážíte z pobřeží do Plovdivu, Sofie nebo horských oblastí, zkontrolujte si aktuální lokální předpověď ještě v den odjezdu.</p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240217",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "type": "post",
       "slug": "svaty-vlas-bulharsko",
       "path": "/svaty-vlas-bulharsko/",
