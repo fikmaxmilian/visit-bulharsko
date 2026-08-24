@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026082402,
+      "type": "post",
+      "slug": "bulharsko-rusky-il-76-vzdusny-prostor-srbsko-pozary",
+      "path": "/bulharsko-rusky-il-76-vzdusny-prostor-srbsko-pozary/",
+      "title": "Ruský Il-76 přeletěl Bulharsko kvůli pomoci Srbsku s požáry, uvedl ministr dopravy",
+      "excerpt": "Bulharský ministr dopravy podle Novinite uvedl, že ruský Il-76 měl povolení k humanitárnímu přeletu do Srbska kvůli hašení požárů. Pro cestující nejde o běžné omezení letů, ale o připomínku sledovat oficiální informace k leteckému provozu.",
+      "date": "2026-08-24T00:00:00",
+      "modified": "2026-08-24T17:02:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Bulharsko povolilo přelet Il-76 kvůli požárům v Srbsku",
+        "description": "Ruský Il-76 podle bulharského ministra dopravy přeletěl Bulharsko s povolením kvůli hašení požárů v Srbsku. Kontext pro cestující."
+      },
+      "content": "<p>Bulharský ministr dopravy Georgi Peev podle agentury Novinite uvedl, že ruský letoun Il-76, který prošel bulharským vzdušným prostorem, měl potřebná povolení a podle bulharských úřadů letěl na humanitární misi do Srbska. Důvodem měla být pomoc při hašení lesních požárů.</p>\n<h2>Co se stalo</h2>\n<p>Let ruského stroje vyvolal politickou debatu, protože v době napjatých vztahů mezi EU a Ruskem je pohyb ruských letadel nad členskými státy citlivé téma. Ministr dopravy podle Novinite řekl, že bulharské instituce nemají důvod se domnívat, že šlo o jiný než deklarovaný humanitární účel. Letoun měl podle zveřejněných informací směřovat do Srbska na základě žádosti související s požáry.</p>\n<p>Zpráva zároveň ukazuje, že i mimo běžnou dovolenkovou dopravu může být vzdušný prostor nad Bulharskem součástí mimořádných přesunů, které řeší státní instituce, řízení letového provozu a diplomacie. Pro běžné cestující ale ze zveřejněných informací nevyplývá žádné plošné omezení letů do Sofie, Varny nebo Burgasu.</p>\n<h2>Co to znamená pro české cestovatele</h2>\n<p>Pokud míříte do Bulharska letecky, praktický závěr je jednoduchý: sledujte především informace své aerolinky a odletového letiště. Jednotlivé mimořádné přelety nebo státní povolení samy o sobě neznamenají, že se mění pravidla pro turisty nebo že by bylo nutné cestu rušit.</p>\n<p>Smysl má mít zapnuté notifikace dopravce, kontrolovat stav letu před odjezdem na letiště a u navazujících cest počítat s běžnou časovou rezervou. To platí zvlášť u letů přes Sofii, kde se v posledních dnech objevilo víc zpráv spojených s leteckým provozem a bezpečností. U dovolené u moře přes Varnu nebo Burgas zůstává hlavní praktickou starostí spíš včasný transfer do letoviska než samotná politická debata kolem jednoho přeletu.</p>\n<h2>Proč je to důležité pro cestovatele / Čechy mířící do Bulharska</h2>\n<p>Bulharsko je pro Čechy letecky dostupná destinace a část turistů zároveň sleduje bezpečnostní zprávy z regionu. Podobné informace je dobré číst věcně: rozlišovat mezi politickou diskusí, mimořádným povolením pro konkrétní let a reálným dopadem na civilní cestování. Před odletem se proto vyplatí držet oficiálních zdrojů, ne jednotlivých komentářů na sociálních sítích.</p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240248",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026082401,
       "type": "post",
       "slug": "gps-rusicka-sofia-letiste-lety-bezpecnost",
