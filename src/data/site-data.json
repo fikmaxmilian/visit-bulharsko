@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026082502,
+      "type": "post",
+      "slug": "sofia-prudka-bourka-kroupy-srpen-2026",
+      "path": "/sofia-prudka-bourka-kroupy-srpen-2026/",
+      "title": "Sofii zasáhla prudká bouřka a kroupy: co sledovat při cestě přes hlavní město",
+      "excerpt": "Sofii podle Novinite zasáhla silná bouřka s intenzivním deštěm a kroupami. Pro české cestovatele je to připomínka sledovat lokální výstrahy, stav dopravy a plánovat přesuny po městě s rezervou.",
+      "date": "2026-08-25T00:00:00",
+      "modified": "2026-08-25T17:01:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Sofie: bouřka a kroupy, praktické upozornění",
+        "description": "Sofii zasáhla silná bouřka s deštěm a kroupami. Praktický kontext pro cestovatele: doprava, výstrahy a rezerva při přesunech."
+      },
+      "content": "<p>Bulharské hlavní město <strong>Sofie</strong> zasáhla podle agentury Novinite v pondělí odpoledne silná letní bouřka. Přinesla intenzivní déšť a kroupy, které měly v některých částech města dosahovat velikosti vlašských ořechů. Hlášení se týkala centrálních částí i čtvrtí Ovcha Kupel, Ljulin, Družba a Lozenec; bouřky se objevily také v okolí Bankji, Božuriště a Kostinbrodu.</p>\n<h2>Co se stalo</h2>\n<p>Podle zprávy se bouřkový systém přesouval přes Sofii a meteorologové očekávali jeho další pohyb směrem k oblastem Obelja a Naděžda. U podobných letních bouřek bývá hlavním rizikem rychlá změna podmínek: během krátké doby se může zhoršit viditelnost, objevit se lokální zatopení ulic, popadané větve nebo zpoždění v městské dopravě. Samotná zpráva neznamená plošné omezení cest do Bulharska, je ale praktickou připomínkou, že počasí ve vnitrozemí může být jiné než u moře.</p>\n<p>Sofie je pro české cestovatele důležitá nejen jako cíl městské turistiky, ale také jako přestupní bod. Část návštěvníků přes ni pokračuje vlakem, autobusem nebo autem do hor, Plovdivu či dál k pobřeží. Prudký déšť a kroupy proto mohou ovlivnit hlavně lokální přesuny po městě, cestu na letiště, půjčení auta nebo plán výletů v okolí.</p>\n<h2>Co to znamená pro české cestovatele</h2>\n<p>Pokud jste v Sofii nebo přes ni v nejbližších dnech cestujete, vyplatí se před přesunem zkontrolovat krátkodobou předpověď a případné výstrahy bulharských meteorologů. U odletů a příletů sledujte oznámení aerolinky a letiště, u autobusů a vlaků počítejte s časovou rezervou. Při řízení po bouřce je dobré dát pozor na vodu na silnici, horší viditelnost a možné zbytky krup nebo větví.</p>\n<p>Pro návštěvníky pobřežních letovisek je zpráva důležitá hlavně při plánování výletu do vnitrozemí. Počasí ve Varně, Burgasu nebo Nesebaru se může od Sofie výrazně lišit. Praktický postup je jednoduchý: kontrolovat konkrétní lokalitu, ne jen obecnou předpověď pro celé Bulharsko, a mít záložní plán pro venkovní program.</p>\n<p><em>Zdroj: Novinite / Sofia News Agency</em></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240269",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026082501,
       "type": "post",
       "slug": "utopeni-turisty-slunecne-pobrezi-bezpecnost-more",
