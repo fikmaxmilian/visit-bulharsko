@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026082501,
+      "type": "post",
+      "slug": "utopeni-turisty-slunecne-pobrezi-bezpecnost-more",
+      "path": "/utopeni-turisty-slunecne-pobrezi-bezpecnost-more/",
+      "title": "Na Slunečném pobřeží se utopil zahraniční turista: připomínka bezpečnosti u moře",
+      "excerpt": "Na Slunečném pobřeží se podle Novinite utopil zahraniční turista. Pro české návštěvníky bulharských letovisek je to aktuální připomínka, že i hlídaná pláž vyžaduje respekt k moři, vlajkám a pokynům plavčíků.",
+      "date": "2026-08-25T00:00:00",
+      "modified": "2026-08-25T09:00:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Slunečné pobřeží: turista se utopil v moři",
+        "description": "Na Slunečném pobřeží se podle Novinite utopil zahraniční turista. Praktická připomínka bezpečnosti u moře pro české cestovatele."
+      },
+      "content": "<p>Na bulharském <strong>Slunečném pobřeží</strong> se podle agentury Novinite utopil čtyřiačtyřicetiletý zahraniční turista z Polska. Neštěstí se stalo 23. srpna odpoledne a policie měla být podle zprávy informována kolem 18. hodiny. Jde o smutnou aktualitu z hlavní letní sezony, která je praktickou připomínkou i pro české cestovatele: pobyt u Černého moře je většinou bezproblémový, ale bezpečnost ve vodě se nevyplatí brát jako samozřejmost.</p>\n<h2>Co se stalo</h2>\n<p>Novinite uvádí, že incident se odehrál v oblasti známého letoviska Sunny Beach, tedy v místě, kam míří velká část turistů přes letiště Burgas. Podle dostupného shrnutí se turista dostal do potíží v moři i přesto, že šlo o pláž s dohledem plavčíků. Zpráva neznamená, že by bylo Slunečné pobřeží obecně nebezpečné nebo že by cestovatelé měli rušit pobyty. Ukazuje ale, že ani přítomnost plavčíků nedokáže nahradit opatrnost každého návštěvníka.</p>\n<p>U Černého moře se podmínky mohou během dne měnit. Vítr, proudy, větší vlny, únava po cestě, alkohol, přehřátí nebo přecenění sil mohou rychle vytvořit situaci, která je pro plavce náročná. Zvlášť v rušných letoviscích je důležité sledovat nejen vlastní komfort, ale také plážové vlajky a pokyny personálu.</p>\n<h2>Co to znamená pro české cestovatele</h2>\n<p>Pokud míříte na Slunečné pobřeží, do Nesebaru, Svatého Vlasu, Pomorie nebo jiných letovisek u Burgasu, berte tuto zprávu hlavně jako praktické varování. Do vody nevstupujte při červené vlajce, nepřeceňujte síly při vlnách a u dětí nebo slabších plavců nespoléhejte jen na nafukovací pomůcky. Po alkoholu, těžkém jídle nebo delším pobytu na slunci je bezpečnější zůstat v mělké vodě.</p>\n<p>Dobré je mít také domluvené jednoduché pravidlo pro skupinu: kde se sejít, komu dát vědět při odchodu z pláže a jak rychle zavolat pomoc. V Bulharsku platí evropská tísňová linka 112. Cestovní pojištění a uložený kontakt na asistenční službu sice neřeší prevenci, ale v krizové situaci výrazně zjednoduší komunikaci.</p>\n<p>Pro plánování pobytu u moře se hodí i praktické informace k příletu přes <a href=\"/letiste-burgas-doprava-do-letovisek/\">letiště Burgas</a> a přehled letovisek v okolí Slunečného pobřeží. Aktuální zprávy o počasí a bezpečnosti je rozumné sledovat zejména v hlavní sezoně, kdy jsou pláže nejplnější.</p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240257",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026082402,
       "type": "post",
       "slug": "bulharsko-rusky-il-76-vzdusny-prostor-srbsko-pozary",

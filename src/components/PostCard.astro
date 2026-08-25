@@ -7,7 +7,7 @@ const { post, variant = 'card', overlay = false, hideImage = false, priority = f
 const HeadingTag = headingLevel === 2 ? 'h2' : 'h3';
 const img = post.featured_image || '/uploads/2023/07/header-image-2-1.webp';
 const cat = post.categories?.[0];
-const showImage = variant !== 'text' && !hideImage;
+const showImage = variant !== 'text' && !hideImage && post.noImage !== true;
 const date = post.date ? new Date(post.date).toLocaleDateString('cs-CZ', { day: 'numeric', month: 'numeric', year: 'numeric' }) : '';
 
 const imageMeta = typeof img === 'string' ? (imageDimensions as Record<string, { width?: number; height?: number }>)[img] || {} : {};
