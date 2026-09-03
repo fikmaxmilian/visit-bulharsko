@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T15:00:47.186059+00:00",
+  "generatedAt": "2026-09-03T20:28:45.843492+00:00",
   "mode": "fast-news-drafts",
   "policy": "External RSS is used only as source material. Publish short Czech own-words fast news with clear travel impact. No FAQ or mandatory image for fast updates.",
   "items": [
@@ -10,18 +10,19 @@
       "language": "en",
       "status": "draft",
       "copyPolicy": "own-words-summary-only",
-      "title": "Sofia Hit by Heavy Rain and Walnut-Sized Hail",
-      "excerpt": "A strong summer thunderstorm brought heavy rain and hail to Sofia late Monday afternoon, with large pieces of ice, some reportedly the size of walnuts, falling across much of the capital, including central areas. Hail wa",
-      "originalTitle": "Sofia Hit by Heavy Rain and Walnut-Sized Hail",
-      "originalExcerpt": "A strong summer thunderstorm brought heavy rain and hail to Sofia late Monday afternoon, with large pieces of ice, some reportedly the size of walnuts, falling across much of the capital, including central areas. Hail was reported in several parts of the city, including Ovcha Kupel, Lyulin, Druzhba and Lozenets, while storms also affected the areas around Bankya, Bozhurishte and Kostinbrod. Forecasters expected the storm to move toward Obelya and Nadezhda. ...",
-      "link": "https://www.novinite.com/view_news.php?id=240269",
-      "published": "2026-08-24T16:48:58+02:00",
-      "guid": "240269",
-      "relevanceScore": 9,
+      "title": "Huge Fire Engulfs Restaurant Near Sozopol",
+      "excerpt": "A large fire broke out at a well-known restaurant on Kavatsite beach near Sozopol, sending thick smoke over the area, according to the Burgas Regional Directorate of the Ministry of Interior. Two fire trucks and six fire",
+      "originalTitle": "Huge Fire Engulfs Restaurant Near Sozopol",
+      "originalExcerpt": "A large fire broke out at a well-known restaurant on Kavatsite beach near Sozopol, sending thick smoke over the area, according to the Burgas Regional Directorate of the Ministry of Interior. Two fire trucks and six firefighters were dispatched to the scene at Resto del Verono as the blaze spread through the establishment. Footage posted by eyewitnesses on social media showed a dense column of smoke rising from the restaurant. ...",
+      "link": "https://www.novinite.com/view_news.php?id=240426",
+      "published": "2026-09-02T14:22:09+02:00",
+      "guid": "240426",
+      "relevanceScore": 15,
       "relevanceKeywords": [
-        "sofia",
-        "storm",
-        "rain"
+        "burgas",
+        "sozopol",
+        "beach",
+        "fire"
       ],
       "excludedSignals": [],
       "editorialAngle": "počasí / bezpečnost",
@@ -34,9 +35,9 @@
         "excerpt": "",
         "articleHtml": "",
         "sourceCredit": "Zdroj: Novinite / Sofia News Agency",
-        "sourceUrl": "https://www.novinite.com/view_news.php?id=240269"
+        "sourceUrl": "https://www.novinite.com/view_news.php?id=240426"
       },
-      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Sofia Hit by Heavy Rain and Walnut-Sized Hail\nPodklad: A strong summer thunderstorm brought heavy rain and hail to Sofia late Monday afternoon, with large pieces of ice, some reportedly the size of walnuts, falling across much of the capital, including central areas. Hail was reported in several parts of the city, including Ovcha Kupel, Lyulin, Druzhba and Lozenets, while storms also affected the areas around Bankya, Bozhurishte and Kostinbrod. Forecasters expected the storm to move toward Obelya and Nadezhda. ...\nOdkaz: https://www.novinite.com/view_news.php?id=240269"
+      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Huge Fire Engulfs Restaurant Near Sozopol\nPodklad: A large fire broke out at a well-known restaurant on Kavatsite beach near Sozopol, sending thick smoke over the area, according to the Burgas Regional Directorate of the Ministry of Interior. Two fire trucks and six firefighters were dispatched to the scene at Resto del Verono as the blaze spread through the establishment. Footage posted by eyewitnesses on social media showed a dense column of smoke rising from the restaurant. ...\nOdkaz: https://www.novinite.com/view_news.php?id=240426"
     },
     {
       "source": "Novinite / Sofia News Agency",
@@ -45,20 +46,20 @@
       "language": "en",
       "status": "draft",
       "copyPolicy": "own-words-summary-only",
-      "title": "At Least 14 Russian Shadow Fleet Tankers Have Passed Through Bulgarian Waters, Raising Security Threat",
-      "excerpt": "At least 14 tankers linked to Russia's so-called \"shadow fleet\" sailed through Bulgarian and Romanian waters during the first seven months of 2026, spending a combined 418 hours in the territorial waters of the two count",
-      "originalTitle": "At Least 14 Russian Shadow Fleet Tankers Have Passed Through Bulgarian Waters, Raising Security Threat",
-      "originalExcerpt": "At least 14 tankers linked to Russia's so-called \"shadow fleet\" sailed through Bulgarian and Romanian waters during the first seven months of 2026, spending a combined 418 hours in the territorial waters of the two countries, according to an analysis by Greenpeace Bulgaria. The findings come days after Greenpeace reported oil slicks near the sanctioned tanker Kairos, which has been anchored off Burgas since December 2025 after being struck by Ukraine in the Black Sea. The vessel is part of Russia's shadow fleet and is sanctioned by both the European Union and the United Kingdom. ...",
-      "link": "https://www.novinite.com/view_news.php?id=240264",
-      "published": "2026-08-24T16:03:00+02:00",
-      "guid": "240264",
+      "title": "Defense Chief: No Danger From US Military Planes in Sofia",
+      "excerpt": "The landing of two American military transport aircraft at Sofia Airport poses no danger to Bulgaria, Defense Committee Chairman Ivan Lalov said, describing the attention surrounding the incident as excessive. Speaking o",
+      "originalTitle": "Defense Chief: No Danger From US Military Planes in Sofia",
+      "originalExcerpt": "The landing of two American military transport aircraft at Sofia Airport poses no danger to Bulgaria, Defense Committee Chairman Ivan Lalov said, describing the attention surrounding the incident as excessive. Speaking on national television, Lalov said the arrival of the aircraft had been overinterpreted because of concerns that emerged when similar American military planes were previously stationed at Sofia Airport. He stressed that military aircraft from NATO member states can use airports in other alliance countries under existing agreements. ...",
+      "link": "https://www.novinite.com/view_news.php?id=240417",
+      "published": "2026-09-02T13:00:00+02:00",
+      "guid": "240417",
       "relevanceScore": 9,
       "relevanceKeywords": [
-        "burgas",
-        "black sea"
+        "sofia",
+        "airport"
       ],
       "excludedSignals": [],
-      "editorialAngle": "turismus / pobřeží",
+      "editorialAngle": "doprava / lety",
       "fastNewsDraft": {
         "decision": "draft",
         "slug": "",
@@ -68,9 +69,9 @@
         "excerpt": "",
         "articleHtml": "",
         "sourceCredit": "Zdroj: Novinite / Sofia News Agency",
-        "sourceUrl": "https://www.novinite.com/view_news.php?id=240264"
+        "sourceUrl": "https://www.novinite.com/view_news.php?id=240417"
       },
-      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: At Least 14 Russian Shadow Fleet Tankers Have Passed Through Bulgarian Waters, Raising Security Threat\nPodklad: At least 14 tankers linked to Russia's so-called \"shadow fleet\" sailed through Bulgarian and Romanian waters during the first seven months of 2026, spending a combined 418 hours in the territorial waters of the two countries, according to an analysis by Greenpeace Bulgaria. The findings come days after Greenpeace reported oil slicks near the sanctioned tanker Kairos, which has been anchored off Burgas since December 2025 after being struck by Ukraine in the Black Sea. The vessel is part of Russia's shadow fleet and is sanctioned by both the European Union and the United Kingdom. ...\nOdkaz: https://www.novinite.com/view_news.php?id=240264"
+      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Defense Chief: No Danger From US Military Planes in Sofia\nPodklad: The landing of two American military transport aircraft at Sofia Airport poses no danger to Bulgaria, Defense Committee Chairman Ivan Lalov said, describing the attention surrounding the incident as excessive. Speaking on national television, Lalov said the arrival of the aircraft had been overinterpreted because of concerns that emerged when similar American military planes were previously stationed at Sofia Airport. He stressed that military aircraft from NATO member states can use airports in other alliance countries under existing agreements. ...\nOdkaz: https://www.novinite.com/view_news.php?id=240417"
     },
     {
       "source": "Novinite / Sofia News Agency",
@@ -79,20 +80,24 @@
       "language": "en",
       "status": "draft",
       "copyPolicy": "own-words-summary-only",
-      "title": "Bulgaria Eyes Bearded Vulture as Eurovision 2027 Symbol",
-      "excerpt": "The bearded vulture could become Bulgaria's symbol for Eurovision 2027, with the Green Balkans association proposing the endangered species as a distinctive emblem for the contest, which will be held in Burgas next year.",
-      "originalTitle": "Bulgaria Eyes Bearded Vulture as Eurovision 2027 Symbol",
-      "originalExcerpt": "The bearded vulture could become Bulgaria's symbol for Eurovision 2027, with the Green Balkans association proposing the endangered species as a distinctive emblem for the contest, which will be held in Burgas next year. The proposal is linked to efforts to restore the bearded vulture in Bulgaria and the remarkable story of Boev, a bird that left the country, traveled across Europe and eventually returned after covering more than 14,000 kilometers. Green Balkans says the species could represent several messages associated with Eurovision and Bulgaria, including freedom, courage, travel, homeco",
-      "link": "https://www.novinite.com/view_news.php?id=240262",
-      "published": "2026-08-24T15:18:00+02:00",
-      "guid": "240262",
-      "relevanceScore": 10,
+      "title": "Burgas, Varna Airports Top 3M Passengers in 2026",
+      "excerpt": "Burgas and Varna airports have handled more than 3 million passengers combined since the beginning of 2026, marking a positive development for air travel along Bulgaria's Black Sea coast. The milestone is particularly no",
+      "originalTitle": "Burgas, Varna Airports Top 3M Passengers in 2026",
+      "originalExcerpt": "Burgas and Varna airports have handled more than 3 million passengers combined since the beginning of 2026, marking a positive development for air travel along Bulgaria's Black Sea coast. The milestone is particularly notable for Burgas Airport, which resumed operations only on May 1 after a major runway rehabilitation project costing more than 60 million euros. The extensive works kept the airport closed during the early part of the year. ...",
+      "link": "https://www.novinite.com/view_news.php?id=240406",
+      "published": "2026-09-02T11:07:00+02:00",
+      "guid": "240406",
+      "relevanceScore": 29,
       "relevanceKeywords": [
+        "varna",
         "burgas",
+        "black sea",
+        "coast",
+        "airport",
         "travel"
       ],
       "excludedSignals": [],
-      "editorialAngle": "turismus / pobřeží",
+      "editorialAngle": "doprava / lety",
       "fastNewsDraft": {
         "decision": "draft",
         "slug": "",
@@ -102,9 +107,9 @@
         "excerpt": "",
         "articleHtml": "",
         "sourceCredit": "Zdroj: Novinite / Sofia News Agency",
-        "sourceUrl": "https://www.novinite.com/view_news.php?id=240262"
+        "sourceUrl": "https://www.novinite.com/view_news.php?id=240406"
       },
-      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Bulgaria Eyes Bearded Vulture as Eurovision 2027 Symbol\nPodklad: The bearded vulture could become Bulgaria's symbol for Eurovision 2027, with the Green Balkans association proposing the endangered species as a distinctive emblem for the contest, which will be held in Burgas next year. The proposal is linked to efforts to restore the bearded vulture in Bulgaria and the remarkable story of Boev, a bird that left the country, traveled across Europe and eventually returned after covering more than 14,000 kilometers. Green Balkans says the species could represent several messages associated with Eurovision and Bulgaria, including freedom, courage, travel, homeco\nOdkaz: https://www.novinite.com/view_news.php?id=240262"
+      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Burgas, Varna Airports Top 3M Passengers in 2026\nPodklad: Burgas and Varna airports have handled more than 3 million passengers combined since the beginning of 2026, marking a positive development for air travel along Bulgaria's Black Sea coast. The milestone is particularly notable for Burgas Airport, which resumed operations only on May 1 after a major runway rehabilitation project costing more than 60 million euros. The extensive works kept the airport closed during the early part of the year. ...\nOdkaz: https://www.novinite.com/view_news.php?id=240406"
     },
     {
       "source": "Novinite / Sofia News Agency",
@@ -113,22 +118,26 @@
       "language": "en",
       "status": "draft",
       "copyPolicy": "own-words-summary-only",
-      "title": "Foreign Tourist Drowns Despite Lifeguard Supervision at Sunny Beach",
-      "excerpt": "A 44-year-old tourist from Poland drowned in the sea at Bulgaria’s Sunny Beach resort on August 23, police said. The incident happened in the afternoon and was reported to authorities at around 6 p.m....",
-      "originalTitle": "Foreign Tourist Drowns Despite Lifeguard Supervision at Sunny Beach",
-      "originalExcerpt": "A 44-year-old tourist from Poland drowned in the sea at Bulgaria’s Sunny Beach resort on August 23, police said. The incident happened in the afternoon and was reported to authorities at around 6 p.m....",
-      "link": "https://www.novinite.com/view_news.php?id=240257",
-      "published": "2026-08-24T12:36:23+02:00",
-      "guid": "240257",
-      "relevanceScore": 21,
+      "title": "Bulgarian Hotelier: Eurovision to Boost Tourism, Not Prices",
+      "excerpt": "September remains one of the most popular months for a vacation on Bulgaria's southern Black Sea coast, with favorable weather and a more relaxed atmosphere continuing to attract visitors after the peak of the summer sea",
+      "originalTitle": "Bulgarian Hotelier: Eurovision to Boost Tourism, Not Prices",
+      "originalExcerpt": "September remains one of the most popular months for a vacation on Bulgaria's southern Black Sea coast, with favorable weather and a more relaxed atmosphere continuing to attract visitors after the peak of the summer season. Veselin Nalbantov, deputy chairman of the Bulgarian Hotel and Restaurant Association and a hotelier, told Radio Varna that the tourism season does not end with August. He said September offers good conditions for a seaside vacation, with calm waters, suitable temperatures and fewer tourists. ...",
+      "link": "https://www.novinite.com/view_news.php?id=240405",
+      "published": "2026-09-02T10:01:00+02:00",
+      "guid": "240405",
+      "relevanceScore": 40,
       "relevanceKeywords": [
-        "sunny beach",
-        "beach",
-        "resort",
-        "tourist"
+        "varna",
+        "black sea",
+        "coast",
+        "seaside",
+        "tourists",
+        "tourism",
+        "vacation",
+        "weather"
       ],
       "excludedSignals": [],
-      "editorialAngle": "turismus / pobřeží",
+      "editorialAngle": "počasí / bezpečnost",
       "fastNewsDraft": {
         "decision": "draft",
         "slug": "",
@@ -138,44 +147,9 @@
         "excerpt": "",
         "articleHtml": "",
         "sourceCredit": "Zdroj: Novinite / Sofia News Agency",
-        "sourceUrl": "https://www.novinite.com/view_news.php?id=240257"
+        "sourceUrl": "https://www.novinite.com/view_news.php?id=240405"
       },
-      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Foreign Tourist Drowns Despite Lifeguard Supervision at Sunny Beach\nPodklad: A 44-year-old tourist from Poland drowned in the sea at Bulgaria’s Sunny Beach resort on August 23, police said. The incident happened in the afternoon and was reported to authorities at around 6 p.m....\nOdkaz: https://www.novinite.com/view_news.php?id=240257"
-    },
-    {
-      "source": "Novinite / Sofia News Agency",
-      "sourceUrl": "https://www.novinite.com/services/news_rdf.php",
-      "category": "zpravy-bulharsko",
-      "language": "en",
-      "status": "draft",
-      "copyPolicy": "own-words-summary-only",
-      "title": "Sliven Peach Growers Block Road Over Prices, Demand State Aid",
-      "excerpt": "Around 100 fruit producers from Bulgaria's Sliven region blocked a key road near the Rechitsa market in protest against low purchase prices, rising production costs and a lack of markets for their peaches and plums. The ",
-      "originalTitle": "Sliven Peach Growers Block Road Over Prices, Demand State Aid",
-      "originalExcerpt": "Around 100 fruit producers from Bulgaria's Sliven region blocked a key road near the Rechitsa market in protest against low purchase prices, rising production costs and a lack of markets for their peaches and plums. The farmers briefly halted traffic on the old road linking Sliven with Nova Zagora and Stara Zagora, calling for urgent state intervention to prevent the sector from collapsing. The producers said this year's peach harvest is good, but the strong production has become a problem because there are not enough buyers....",
-      "link": "https://www.novinite.com/view_news.php?id=240253",
-      "published": "2026-08-24T11:00:00+02:00",
-      "guid": "240253",
-      "relevanceScore": 8,
-      "relevanceKeywords": [
-        "traffic",
-        "road",
-        "protest"
-      ],
-      "excludedSignals": [],
-      "editorialAngle": "praktická aktualita",
-      "fastNewsDraft": {
-        "decision": "draft",
-        "slug": "",
-        "seoTitle": "",
-        "metaDescription": "",
-        "h1": "",
-        "excerpt": "",
-        "articleHtml": "",
-        "sourceCredit": "Zdroj: Novinite / Sofia News Agency",
-        "sourceUrl": "https://www.novinite.com/view_news.php?id=240253"
-      },
-      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Sliven Peach Growers Block Road Over Prices, Demand State Aid\nPodklad: Around 100 fruit producers from Bulgaria's Sliven region blocked a key road near the Rechitsa market in protest against low purchase prices, rising production costs and a lack of markets for their peaches and plums. The farmers briefly halted traffic on the old road linking Sliven with Nova Zagora and Stara Zagora, calling for urgent state intervention to prevent the sector from collapsing. The producers said this year's peach harvest is good, but the strong production has become a problem because there are not enough buyers....\nOdkaz: https://www.novinite.com/view_news.php?id=240253"
+      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Bulgarian Hotelier: Eurovision to Boost Tourism, Not Prices\nPodklad: September remains one of the most popular months for a vacation on Bulgaria's southern Black Sea coast, with favorable weather and a more relaxed atmosphere continuing to attract visitors after the peak of the summer season. Veselin Nalbantov, deputy chairman of the Bulgarian Hotel and Restaurant Association and a hotelier, told Radio Varna that the tourism season does not end with August. He said September offers good conditions for a seaside vacation, with calm waters, suitable temperatures and fewer tourists. ...\nOdkaz: https://www.novinite.com/view_news.php?id=240405"
     },
     {
       "source": "The Sofia Globe",
