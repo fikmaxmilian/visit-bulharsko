@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026090401,
+      "type": "post",
+      "slug": "strumjani-povodne-obnova-zeleznice-sofia-kulata-2026",
+      "path": "/strumjani-povodne-obnova-zeleznice-sofia-kulata-2026/",
+      "title": "Po povodních u Strumjani se obnovil provoz vlaků mezi Sofií a Kulatou",
+      "excerpt": "Po silných povodních v jihozápadním Bulharsku pokračuje úklid v obci Strumjani. Podle Novinite už znovu jezdí vlaky na trase Kulata–Sofie, pitná voda ale zůstává omezená.",
+      "date": "2026-09-04T00:00:00",
+      "modified": "2026-09-04T08:05:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Strumjani po povodních: vlaky na trase Sofie–Kulata jedou",
+        "description": "V jihozápadním Bulharsku pokračuje úklid po povodních. Vlaky mezi Sofií a Kulatou už jezdí, v oblasti Strumjani trvá omezení vody."
+      },
+      "content": "<p>V jihozápadním Bulharsku pokračuje podle agentury Novinite obnova po silných povodních, které zasáhly obec <strong>Strumjani</strong> a okolí. Pro cestovatele je nejdůležitější praktická informace: železniční spojení v úseku, kterým projíždějí vlaky mezi <strong>Sofií a Kulatou</strong> na hranici s Řeckem, bylo po opravách znovu zprovozněno. V samotné oblasti ale dál probíhá úklid a pitná voda zůstává omezená kvůli hygienickým opatřením.</p>\n<h2>Co se stalo</h2>\n<p>Novinite uvádí, že deset dní po záplavách se v obci Strumjani stále odstraňuje bahno, naplaveniny, popadané stromy a škody na domech, silnicích i veřejné infrastruktuře. Regionální zdravotní inspekce ponechala v platnosti omezení pro pitnou vodu, což je důležité hlavně pro lidi, kteří by v oblasti plánovali zastávku, ubytování nebo delší přesun autem.</p>\n<p>Technici Národní společnosti železniční infrastruktury podle zprávy obnovili železniční spojení přibližně během týdne. Díky tomu mohou vlaky jedoucí mezi Kulatou a Sofií znovu projíždět přes Strumjani. Tato trať je významná nejen pro místní dopravu, ale i pro část cestujících, kteří kombinují Bulharsko s cestou směrem na Řecko nebo využívají vlaky při přesunu přes jihozápad země.</p>\n<h2>Co to znamená pro cestovatele</h2>\n<p>Pro české cestovatele nejde o pobřežní letovisko, ale o dopravně důležitý koridor. Pokud míříte přes Sofii dále na jih, případně plánujete cestu k řecké hranici u Kulaty, je obnovení provozu vlaků pozitivní zpráva. Přesto je rozumné před odjezdem zkontrolovat aktuální jízdní řád a počítat s rezervou, protože po povodních mohou následovat lokální opravy, pomalejší průjezd nebo náhradní organizace dopravy.</p>\n<p>Řidiči by měli být obezřetní hlavně na vedlejších silnicích v zasaženém regionu. Po záplavách mohou zůstávat nánosy, výmoly, poškozené krajnice nebo pracovní technika. Pokud v oblasti zastavujete, berte si vlastní vodu a nespoléhejte na běžnou dostupnost služeb v menších obcích. Ubytování, výlety a tranzit přes hlavní turistická letoviska na pobřeží tato zpráva přímo neomezuje. Aktualita je proto spíš varováním pro ty, kdo Bulharskem projíždějí po vlastní ose nebo plánují kombinovat pobyt v Sofii s výletem do hor a na jihozápad země.</p>\n<p><em>Zdroj: Novinite / Sofia News Agency.</em></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240436",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026090302,
       "type": "post",
       "slug": "pozar-restaurace-kavatsite-sozopol-zari-2026",
