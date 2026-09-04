@@ -113,7 +113,18 @@ const loaderId = 'adsense-lazy-loader';
         document.head.appendChild(script);
       };
 
-      const scheduleAfterFirstPaint = () => window.setTimeout(loadAds, 6000);
+      const scheduleAfterFirstPaint = () => {
+        if ('requestIdleCallback' in window) {
+          window.requestIdleCallback(loadAds, { timeout: 1800 });
+          return;
+        }
+        window.setTimeout(loadAds, 1200);
+      };
+
+      ['pointerdown', 'scroll', 'keydown'].forEach((eventName) => {
+        window.addEventListener(eventName, loadAds, { once: true, passive: true });
+      });
+
       if (document.readyState === 'complete') {
         scheduleAfterFirstPaint();
       } else {
