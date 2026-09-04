@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026090402,
+      "type": "post",
+      "slug": "bulharsko-patek-ochlazeni-bourky-zari-2026",
+      "path": "/bulharsko-patek-ochlazeni-bourky-zari-2026/",
+      "title": "Bulharsko čeká chladnější pátek a místy bouřky: co sledovat při cestě k moři",
+      "excerpt": "V pátek 4. září má v Bulharsku zesílit vítr a odpoledne se mohou objevit lokální bouřky. Pro české cestovatele je důležité sledovat hlavně odpolední přesuny, horské výlety a aktuální předpověď u pobřeží.",
+      "date": "2026-09-04T00:00:00",
+      "modified": "2026-09-04T13:02:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Bulharsko: chladnější pátek a možné bouřky",
+        "description": "V Bulharsku se v pátek 4. září čeká ochlazení, vítr a místy bouřky. Praktický kontext pro turisty u moře i na cestách."
+      },
+      "content": "<p>Bulharsko čeká v pátek 4. září podle agentury Novinite a tamního Národního institutu meteorologie a hydrologie chladnější počasí se silnějším větrem. Dopoledne má být na většině území převážně slunečno, během odpoledne se ale mohou tvořit oblaka a místy i bouřky. Pro české cestovatele nejde o důvod k rušení dovolené, spíš o praktické upozornění: plánujte delší přesuny, výlety a pobyt mimo hotel s rezervou.</p>\n<h2>Co se má změnit</h2>\n<p>Podle zveřejněné předpovědi se denní teploty budou pohybovat přibližně mezi 27 a 32 °C. V Sofii se očekává asi 27 °C, tedy citelně příjemnější hodnoty než během vrcholného léta. Chladnější vzduch ale doprovodí vítr a odpolední vývoj oblačnosti, který může na některých místech přinést přeháňky nebo bouřky.</p>\n<p>Takový scénář je na začátku září v Bulharsku poměrně typický: u moře může být stále teplo a vhodně ke koupání, zatímco ve vnitrozemí nebo v horách se počasí umí měnit rychleji. Pokud jedete autem mezi pobřežím, Sofií, Plovdivem nebo horskými oblastmi, sledujte průběžně aktuální radar a místní výstrahy.</p>\n<h2>Co to znamená pro cestovatele</h2>\n<p>Na pobřeží Černého moře může být páteční ochlazení pro mnoho turistů spíš příjemné, protože teploty kolem třicítky bývají pro procházky i výlety snesitelnější. Opatrnost je ale na místě při odpoledních aktivitách: bouřky mohou krátkodobě zhoršit viditelnost na silnici, zvednout vítr u moře a přerušit program na pláži nebo lodní výlety.</p>\n<p>Prakticky doporučujeme nechat si delší přesuny na dopoledne, na horské túry vyrazit brzy a u pronajatého auta počítat s možností prudšího deště. Pokud odlétáte z Burgasu, Varny nebo Sofie, sledujte také informace letecké společnosti a letiště; samotná předpověď neznamená automaticky zpoždění, ale bouřkové počasí může provoz krátkodobě ovlivnit.</p>\n<p>Pro rodiny s dětmi a seniory je dobré mít v plánu i vnitřní alternativu programu. V září už navíc některé sezonní služby upravují provozní dobu, proto se vyplatí ověřit otevírací časy restaurací, aquaparků nebo půjčoven přímo v letovisku.</p>\n<p><em>Zdroj: Novinite / Sofia News Agency.</em></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240452",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026090401,
       "type": "post",
       "slug": "strumjani-povodne-obnova-zeleznice-sofia-kulata-2026",

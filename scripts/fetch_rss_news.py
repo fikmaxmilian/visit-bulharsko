@@ -28,7 +28,7 @@ TRAVEL_KEYWORDS = {
     'holiday': 5, 'vacation': 5,
 
     # dopad na cestování / bezpečnost / počasí
-    'weather': 5, 'storm': 5, 'snow': 4, 'heatwave': 5, 'rain': 4, 'flood': 6,
+    'weather': 5, 'storm': 5, 'storms': 5, 'snow': 4, 'heatwave': 5, 'rain': 4, 'flood': 6,
     'fire': 5, 'wildfire': 6, 'earthquake': 6, 'warning': 5, 'alert': 5,
     'strike': 5, 'protest': 3, 'accident': 4, 'closure': 5, 'delay': 5, 'delays': 5,
     'cancelled': 5, 'cancelled flights': 7, 'water shortage': 6, 'power outage': 5,
@@ -135,7 +135,7 @@ def editorial_angle(matches):
     m = set(matches)
     if {'airport', 'flight', 'flights', 'airline', 'ryanair', 'wizz air'} & m:
         return 'doprava / lety'
-    if {'weather', 'storm', 'snow', 'heatwave', 'rain', 'flood', 'fire', 'wildfire', 'earthquake'} & m:
+    if {'weather', 'storm', 'storms', 'snow', 'heatwave', 'rain', 'flood', 'fire', 'wildfire', 'earthquake'} & m:
         return 'počasí / bezpečnost'
     if {'border', 'schengen', 'passport', 'visa', 'customs'} & m:
         return 'hranice / pravidla cestování'

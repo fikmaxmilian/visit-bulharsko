@@ -62,11 +62,11 @@ const preloadImageSizes = '(min-width: 1024px) 60vw, 100vw';
     <meta property="og:url" content={canonicalHref} />
     <meta property="og:type" content={type} />
     <meta property="og:site_name" content="Visit Bulharsko" />
-    <meta property="og:image" content={absoluteImage} />
-    <meta name="twitter:card" content="summary_large_image" />
+    {absoluteImage && <meta property="og:image" content={absoluteImage} />}
+    <meta name="twitter:card" content={absoluteImage ? 'summary_large_image' : 'summary'} />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
-    <meta name="twitter:image" content={absoluteImage} />
+    {absoluteImage && <meta name="twitter:image" content={absoluteImage} />}
     <link rel="icon" href={withBase('/uploads/2023/07/cropped-Visit-Bulharsko-1-157x64.webp')} />
     {preloadImageHref && <link rel="preload" as="image" href={preloadImageHref} imagesrcset={preloadImageSrcSet} imagesizes={preloadImageSrcSet ? preloadImageSizes : undefined} fetchpriority="high" />}
     {schemaItems.map((item) => <script is:inline type="application/ld+json" set:html={JSON.stringify(item)} />)}

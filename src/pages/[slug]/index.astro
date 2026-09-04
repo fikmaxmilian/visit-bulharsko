@@ -120,7 +120,7 @@ const articleBodyParts = articleContentParts.slice(0, 3);
 const hasFaqSection = item.type === 'post' && faqPairs.length > 0;
 const isPropertyPage = item.slug === 'nemovitosti-bulharsko';
 ---
-<BaseLayout title={title} description={description} image={visibleFeaturedImage || undefined} canonical={item.path} type={item.type === 'post' ? 'article' : 'website'} schema={[articleSchema, pageSchema, faqSchema, breadcrumbs]} noindex={item.noindex === true}>
+<BaseLayout title={title} description={description} image={isCurrentQuickNews ? '' : (visibleFeaturedImage || undefined)} canonical={item.path} type={item.type === 'post' ? 'article' : 'website'} schema={[articleSchema, pageSchema, faqSchema, breadcrumbs]} noindex={item.noindex === true}>
   <article class:list={['mx-auto px-5 pt-12', isPropertyPage ? 'max-w-7xl' : 'max-w-4xl']}>
     <div class="text-center">
       {item.categories?.[0] && <a href={`/category/${item.categories[0].slug}/`} class="meta-chip">{item.categories[0].name}</a>}
