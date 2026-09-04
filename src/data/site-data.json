@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026090403,
+      "type": "post",
+      "slug": "bulharsko-potraviny-rozpocty-domacnosti-2026",
+      "path": "/bulharsko-potraviny-rozpocty-domacnosti-2026/",
+      "title": "Potraviny tvoří téměř třetinu výdajů bulharských domácností: co to říká o cenách",
+      "excerpt": "Nová data z Bulharska ukazují, že potraviny a nealkoholické nápoje tvořily téměř 30 % výdajů domácností. Pro české cestovatele je to připomínka, že nízké ceny v EU žebříčcích nemusí automaticky znamenat levno ve všech službách.",
+      "date": "2026-09-04T00:00:00",
+      "modified": "2026-09-04T17:02:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Bulharsko: potraviny tvoří téměř třetinu výdajů",
+        "description": "Potraviny tvoří v Bulharsku téměř 30 % výdajů domácností. Co z ekonomických dat plyne pro cestovatele a rozpočet dovolené."
+      },
+      "content": "<p>Bulharsko sice podle evropských statistik zůstává zemí s nejnižší celkovou cenovou hladinou v Evropské unii, nová data ale ukazují důležitý detail: potraviny a nealkoholické nápoje tvořily na konci roku 2025 téměř třetinu výdajů bulharských domácností. Agentura Novinite s odkazem na údaje Eurostatu a bulharského Národního statistického institutu uvádí podíl 29,6 % na výdajích na osobu.</p>\n<h2>Co se stalo</h2>\n<p>Podle zveřejněných údajů šly v EU v lednu 2026 téměř polovina spotřebních výdajů domácností do tří velkých skupin: potraviny a nealkoholické nápoje, bydlení včetně vody a energií a doprava. V Bulharsku je koncentrace podobných nezbytných výdajů ještě viditelnější. Vedle potravin připadalo v posledním čtvrtletí roku 2025 přibližně 15 % výdajů na bydlení a dalších 11,3 % na dopravu a komunikace.</p>\n<p>Samotné výdaje na potraviny podle Novinite meziročně rostly. Průměrně šlo o 948 leva na osobu za čtvrtletí, zatímco o rok dříve to bylo 888 leva. To znamená růst o 6,8 %. Současně ale rostly i příjmy: průměrný příjem na osobu dosáhl 3 687 leva a meziročně stoupl o 9,4 %, zatímco celkové výdaje rostly pomaleji.</p>\n<h2>Proč je to důležité pro cestovatele / Čechy mířící do Bulharska</h2>\n<p>Pro turistu z Česka z toho neplyne, že by Bulharsko přestalo být cenově zajímavou destinací. Důležité je spíš rozlišovat mezi statistikou cenové hladiny a reálnými náklady na místě. Základní potraviny, restaurace, doprava nebo služby v letoviscích mohou růst jiným tempem než celkový průměr a ceny v turistických oblastech u moře bývají citlivé na sezonu.</p>\n<p>Při plánování dovolené proto dává smysl počítat s rezervou na jídlo, místní dopravu a běžné nákupy, zvlášť pokud jedete bez all inclusive nebo plánujete delší pobyt v apartmánu. Bulharsko může zůstat levnější než mnoho západoevropských destinací, ale aktuální čísla připomínají, že „nízká cenová hladina“ neznamená automaticky neměnné ceny u pokladny.</p>\n<p><em>Zdroj: Novinite / Sofia News Agency</em></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240429",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026090402,
       "type": "post",
       "slug": "bulharsko-patek-ochlazeni-bourky-zari-2026",
