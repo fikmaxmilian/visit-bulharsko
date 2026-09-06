@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026090601,
+      "type": "post",
+      "slug": "slunecne-pobrezi-infrastruktura-stat-obec-2026",
+      "path": "/slunecne-pobrezi-infrastruktura-stat-obec-2026/",
+      "title": "Slunečné pobřeží čekají změny: stát chce převést infrastrukturu na obec a vodárny",
+      "excerpt": "Bulharská vláda chce vyřešit dlouholetý spor kolem infrastruktury ve Slunečném pobřeží. Pro české turisty zatím nejde o omezení provozu, ale o signál možných změn v řízení služeb, poplatků a rozvoje letoviska.",
+      "date": "2026-09-06T00:00:00",
+      "modified": "2026-09-06T17:05:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Slunečné pobřeží: stát chce změnit infrastrukturu",
+        "description": "Bulharsko chce převést infrastrukturu ve Slunečném pobřeží na obec a vodárny. Co to může znamenat pro turisty a služby v letovisku."
+      },
+      "content": "<p>Bulharská vláda chce podle agentury Novinite posunout dlouholetý spor kolem správy letoviska <strong>Slunečné pobřeží</strong>. Regionální ministr Ivan Šiškov uvedl, že cílem je převést infrastrukturu areálu na obec a vodárenskou společnost, tedy na instituce, které za podobné služby běžně odpovídají. Pro turisty to neznamená okamžité uzavření letoviska ani důvod rušit pobyt, ale jde o důležitou zprávu pro jedno z nejnavštěvovanějších míst bulharského pobřeží.</p>\n<h2>Co se stalo</h2>\n<p>Podle Novinite vláda nechce ukončit činnost společnosti Sunny Beach AD. Ministerstvo ale tvrdí, že současný model správy infrastruktury je dlouhodobě neudržitelný a měl by být narovnán právní cestou. Zmíněná infrastruktura se týká především zázemí, které umožňuje každodenní fungování velkého resortu: místní komunikace, technické sítě, návaznost na vodárenské služby a celková správa veřejného prostoru.</p>\n<p>Do debaty vstoupil také ministr cestovního ruchu Ilin Dimitrov. Upozornil mimo jiné na potřebu průhlednější regulace služeb, krátkodobých pronájmů a obchodních aktivit v letovisku. Podle něj ve Slunečném pobřeží působí tisíce zprostředkovatelů a stát chce sektor lépe evidovat. Vláda zároveň zvažuje, že část výnosu z turistických poplatků by se mohla cíleně vracet do letecké dostupnosti nebo marketingu cestovního ruchu.</p>\n<h2>Co to znamená pro cestovatele</h2>\n<p>Pro české dovolenkáře je nejdůležitější praktický závěr: zpráva zatím nepopisuje žádné bezprostřední omezení hotelů, pláží, dopravy ani vstupu do letoviska. Slunečné pobřeží funguje jako běžná turistická destinace. Pokud se ale plánované změny opravdu posunou dál, mohou v příštích sezonách ovlivnit kvalitu veřejného prostoru, pravidla pro stánky a pavilony, pořádek v nabídce služeb i investice do infrastruktury.</p>\n<p>Čechům, kteří do oblasti míří přes cestovní kancelář, se vyplatí sledovat hlavně informace od hotelu a delegáta. Individuální cestovatelé by měli při výběru ubytování kontrolovat, zda jde o oficiálně nabízené služby s jasnými podmínkami. U větších systémových změn v letovisku bývá dopad na návštěvníky spíše postupný, ale může se promítnout do kvality okolí hotelu, dopravy v sezonní špičce nebo nabídky doplňkových služeb.</p>\n<p>Novinite ve stejné zprávě zmiňuje i přípravu černomořské dálnice směrem k Turecku a Rumunsku. Ta je zatím ve fázi výběru trasy a projektových příprav, pro letošní cestování tedy nepředstavuje hotovou novinku. Dlouhodobě by však lepší dopravní napojení mohlo být pro pobřeží významné.</p>\n<p><em>Zdroj: <a href=\"https://www.novinite.com/view_news.php?id=240465\" target=\"_blank\" rel=\"noopener noreferrer\">Novinite / Sofia News Agency</a>.</em></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240465",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026090403,
       "type": "post",
       "slug": "bulharsko-potraviny-rozpocty-domacnosti-2026",
