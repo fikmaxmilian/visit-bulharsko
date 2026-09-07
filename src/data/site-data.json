@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026090701,
+      "type": "post",
+      "slug": "bulharsko-eurozona-firmy-platby-ceny-2026",
+      "path": "/bulharsko-eurozona-firmy-platby-ceny-2026/",
+      "title": "Bulharské firmy po vstupu do eurozóny hlásí vyšší platby od partnerů z EU",
+      "excerpt": "Podle Novinite někteří západoevropští partneři platí bulharským dodavatelům více po vstupu země do eurozóny. Pro cestovatele je to signál stabilnějších plateb i možného tlaku na ceny služeb.",
+      "date": "2026-09-07T00:00:00",
+      "modified": "2026-09-07T13:02:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Bulharsko v eurozóně: firmy hlásí vyšší platby",
+        "description": "Bulharské firmy po vstupu do eurozóny hlásí lepší platby od partnerů z EU. Co to může znamenat pro ceny a služby pro cestovatele."
+      },
+      "content": "<p>Bulharský vstup do eurozóny se podle agentury Novinite začíná promítat i do každodenního fungování části firem. Transportní a logistický podnikatel Valentin Krachunov uvedl, že někteří němečtí a italští partneři po přijetí eura platí bulharským dodavatelům zhruba o 30 % více než dříve. Jde o ekonomickou zprávu, ale pro české cestovatele je důležitá kvůli cenám služeb, stabilitě plateb a postupnému sbližování Bulharska se zbytkem eurozóny.</p>\n<h2>Co se stalo</h2>\n<p>Novinite popisuje zkušenost menší bulharské firmy působící v dopravě a logistice. Podle Krachunova se změnila důvěra zahraničních partnerů: platby v eurech jsou pro firmy ze západní Evropy čitelnější, odpadá část kurzového rizika a jednodušší je i vyjednávání zakázek. Podnikatel to spojuje hlavně s tím, že Bulharsko je nově vnímáno jako plnohodnotná součást stejného měnového prostoru.</p>\n<p>Neznamená to, že by se podobný nárůst automaticky týkal všech bulharských firem nebo že by o desítky procent okamžitě zdražily služby pro turisty. Zpráva ale ukazuje praktický efekt eura mimo politické proklamace: některým podnikům se mohou zlepšit podmínky při obchodování s partnery z EU, zejména tam, kde se platí za dopravu, logistiku, zásobování nebo služby navázané na cestovní ruch.</p>\n<h2>Proč je to důležité pro cestovatele a Čechy mířící do Bulharska</h2>\n<p>Pro českého návštěvníka je nejviditelnější změnou jednodušší srovnávání cen. Ubytování, transfery, půjčovny aut, výlety a část restauračních služeb se budou stále častěji uvádět a účtovat v měně, kterou Češi znají z jiných zemí EU. To snižuje prostor pro chyby při přepočtech a usnadňuje plánování rozpočtu dovolené.</p>\n<p>Současně je dobré počítat s tím, že přechod na euro může zvýšit tlak na náklady firem, které nakupují služby v evropských dodavatelských řetězcích. Pokud se lepší platební podmínky promítnou do vyšších mezd nebo investic, může to zlepšit kvalitu služeb; pokud se promítnou do cen, turista to pozná hlavně u dopravy, organizovaných výletů nebo prémiovějšího ubytování. Praktická rada zůstává jednoduchá: při rezervaci si hlídejte konečnou cenu, měnu platby a storno podmínky.</p>\n<p>Bulharsko tak pro Čechy neztrácí výhodu dostupné destinace, ale stále více se bude podobat ostatním zemím eurozóny: méně kurzových překvapení, více přehledných plateb a větší tlak na profesionální služby.</p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240467",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026090601,
       "type": "post",
       "slug": "slunecne-pobrezi-infrastruktura-stat-obec-2026",
