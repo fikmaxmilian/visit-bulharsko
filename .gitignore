@@ -10,3 +10,8 @@ data/source/
 data/live-news-raw.json
 
 data/content/
+
+# Local working artifacts created by Hermes/content jobs.
+# Keep them on disk, but don't offer them for normal commits/pushes.
+data/backups/
+data/output/drafts/
