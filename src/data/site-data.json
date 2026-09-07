@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026090702,
+      "type": "post",
+      "slug": "dunaj-nizka-hladina-ruse-lodni-doprava-2026",
+      "path": "/dunaj-nizka-hladina-ruse-lodni-doprava-2026/",
+      "title": "Nízká hladina Dunaje komplikuje lodní dopravu: u Ruse uvázla nákladní loď",
+      "excerpt": "Na bulharském úseku Dunaje dál platí omezení kvůli nízké hladině. U Ruse uvázla naložená loď, úřady ale nehlásí znečištění ani přímé riziko pro turisty.",
+      "date": "2026-09-07T00:00:00",
+      "modified": "2026-09-07T17:02:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Dunaj u Ruse: nízká hladina omezuje lodní dopravu",
+        "description": "Nízká hladina Dunaje komplikuje lodní dopravu u Ruse. Co zpráva znamená pro cestování do severního Bulharska a podél řeky."
+      },
+      "content": "<p>Nízká hladina Dunaje znovu komplikuje lodní dopravu na bulharském úseku řeky. Podle agentury Novinite uvázla u Ruse naložená samohybná loď poté, co se nacházela mimo vyznačený plavební kanál. Úřady zároveň uvedly, že incident zatím nepředstavuje riziko znečištění. Pro české cestovatele nejde o přímé omezení běžných letů k moři, ale je to důležitá dopravní a bezpečnostní zpráva pro každého, kdo plánuje cestu do severního Bulharska, podél Dunaje nebo sleduje říční přepravu v regionu.</p>\n<h2>Co se stalo</h2>\n<p>Bulharské úřady podle Novinite hlásí, že vodní stav na Dunaji se za posledních 24 hodin změnil jen minimálně. U Silistry řeka stoupla o dva centimetry, u Novo Sela zůstala hladina beze změny a na dalších měřicích stanicích mírně klesla, většinou o jeden až dva centimetry. Celkově tak podle dostupných dat nepřišlo výrazné zlepšení hydrologické situace.</p>\n<p>Právě v těchto podmínkách se u kotviště v oblasti Ruse zasekla naložená loď. Podle Ředitelství říčního dozoru nebyla v okamžiku incidentu v hlavním vyznačeném plavebním kanálu. Úřady nehlásí únik látek ani jiné bezprostřední ekologické škody. Nadále však platí omezení ponoru plavidel na celém bulharském úseku Dunaje, protože nízká hladina ztěžuje bezpečnou navigaci nákladních lodí.</p>\n<h2>Proč je to důležité pro cestovatele / Čechy mířící do Bulharska</h2>\n<p>Ruse leží na hranici s Rumunskem a patří k důležitým dopravním bodům severního Bulharska. Turisté ho mohou řešit při cestě autem přes Rumunsko, při návštěvě města a okolí nebo při plavbách a výletech podél Dunaje. Současná zpráva neznamená, že by se město stalo nedostupným, ale ukazuje, že nízký stav vody může ovlivňovat říční provoz, logistiku i některé návazné služby.</p>\n<p>Pokud plánujete cestu do Podunají, vyplatí se předem ověřit program výletních lodí, místních převozů nebo nákladní dopravy, pokud na ní závisí vaše trasa. Pro klasickou dovolenou v Burgasu, Varně, Nesebaru nebo Primorsku je dopad spíše nepřímý. Nízká hladina Dunaje je ale signálem suchého období v regionu, které se může promítat do vodního režimu, zemědělství a v krajním případě i do cen některých služeb.</p>\n<p><em>Zdroj: <a href=\"https://www.novinite.com/view_news.php?id=240482\" rel=\"nofollow noopener\" target=\"_blank\">Novinite / Sofia News Agency</a>.</em></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240482",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 1
+    },
+    {
       "id": 2026090701,
       "type": "post",
       "slug": "bulharsko-eurozona-firmy-platby-ceny-2026",
