@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026090803,
+      "type": "post",
+      "slug": "sofia-vrana-park-uzavreni-2026",
+      "path": "/sofia-vrana-park-uzavreni-2026/",
+      "title": "Sofijský park Vrana je uzavřen: město se stáhlo ze správy a zrušilo autobus",
+      "excerpt": "Sofijský park Vrana zůstává podle The Sofia Globe uzavřen návštěvníkům do odvolání. Pro turisty mířící do bulharské metropole je důležité hlavně to, že odpadá i městská autobusová linka k areálu.",
+      "date": "2026-09-08T00:00:00",
+      "modified": "2026-09-08T17:02:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Park Vrana v Sofii je uzavřen návštěvníkům",
+        "description": "Sofijský park Vrana je do odvolání uzavřen a město ruší autobus k areálu. Praktický kontext pro návštěvníky Sofie."
+      },
+      "content": "<p>Sofijský park Vrana, jeden z výletních cílů na okraji bulharské metropole, je od 10. července uzavřen návštěvníkům do odvolání. The Sofia Globe uvádí, že sofijská radnice se stáhla z údržby areálu po vleklém sporu se státem o správu parku. Pro české cestovatele nejde o bezpečnostní poplach ani o omezení celé Sofie, ale o praktickou změnu: pokud jste měli Vranu v plánu jako zelený výlet mimo centrum, je potřeba počítat s uzavřením a hledat náhradní program.</p>\n<h2>Co se stalo</h2>\n<p>Podle The Sofia Globe vydal starosta Sofie Vasil Terziev státu ultimátum, aby reagoval na návrhy města ohledně další správy parku. Protože se spor neposunul, magistrát oznámil, že od 10. července končí s údržbou a předává klíče i dokumentaci oblastnímu guvernérovi. Současně město zastavuje autobusovou linku k parku, kterou zavedlo v roce 2013 krátce po otevření areálu veřejnosti.</p>\n<p>Vrana není jen obyčejný městský park. Jde o kulturní, historický a přírodní areál spojený s bývalou královskou rezidencí. Město v posledních letech upozorňovalo, že údržba stojí zhruba 500 až 600 tisíc leva ročně, zatímco příjmy od návštěvníků jsou výrazně nižší. Podle magistrátu je část zeleně a infrastruktury ve špatném stavu a vyžaduje nákladnější péči. Státní správa naopak uvedla, že bude hledat model, aby park mohl být opět efektivně spravován a přístupný veřejnosti.</p>\n<h2>Co to znamená pro cestovatele</h2>\n<p>Pokud plánujete Sofii na víkend nebo jako zastávku při cestě po Bulharsku, ověřte si předem aktuální stav parku a nespoléhejte na starší průvodce. Uzavření se týká samotné Vrany a autobusového spojení k areálu; ostatní hlavní památky Sofie, parky v centru a městská doprava fungují běžně podle svých jízdních řádů. Jako alternativu lze zvolit například Borisovu zahradu, okolí katedrály Alexandra Něvského nebo výlet k hoře Vitoša, podle počasí a času.</p>\n<p>Prakticky jde hlavně o plánování: park může být na mapách a v itinerářích stále vedený jako atrakce, ale do vyjasnění správy nemusí být dostupný. Cestovatelům doporučujeme zkontrolovat oficiální kanály města Sofie nebo aktuální místní zprávy krátce před návštěvou.</p>\n<p><strong>Zdroj:</strong> <a href=\"https://sofiaglobe.com/2025/07/10/dispute-leaves-sofias-vrana-park-indefinitely-closed-to-visitors/\" target=\"_blank\" rel=\"noopener noreferrer\">The Sofia Globe</a></p>",
+      "sourceUrl": "https://sofiaglobe.com/2025/07/10/dispute-leaves-sofias-vrana-park-indefinitely-closed-to-visitors/",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026090802,
       "type": "post",
       "slug": "bulharsko-prezidentske-volby-rijen-2026",
