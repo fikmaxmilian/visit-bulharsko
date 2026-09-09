@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026090903,
+      "type": "post",
+      "slug": "plovdiv-cinska-tovarna-autodily-2026",
+      "path": "/plovdiv-cinska-tovarna-autodily-2026/",
+      "title": "U Plovdivu otevřela čínská továrna na autodíly za více než 32 milionů eur",
+      "excerpt": "V průmyslové zóně Trakija u Plovdivu zahájil provoz nový čínský závod na hliníkové díly pro automobilový průmysl. Investice přesáhla 32 milionů eur a do konce roku má vzniknout 100 pracovních míst.",
+      "date": "2026-09-09T00:00:00",
+      "modified": "2026-09-09T17:05:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "U Plovdivu otevřela čínská továrna na autodíly",
+        "description": "Nový závod v zóně Trakija představuje investici přes 32 milionů eur a 100 pracovních míst. Ekonomický kontext pro české čtenáře."
+      },
+      "content": "<p>V průmyslové zóně Trakija nedaleko Plovdivu byl otevřen nový čínský závod na výrobu hliníkových součástí pro automobilový průmysl. Podle agentury Novinite už hodnota investice přesáhla 32 milionů eur a podnik má do konce roku vytvořit 100 pracovních míst. Jde o druhou čínskou investici tohoto typu v jedné z nejvýznamnějších průmyslových oblastí Bulharska.</p>\n<h2>Co se stalo</h2>\n<p>Nový provoz oficiálně otevřel bulharský premiér Rumen Radev. Ve svém vystoupení označil projekt za známku rostoucí důvěry zahraničních investorů v Bulharsko a zdůraznil, že výrobky z podniku mohou z místní základny směřovat na širší evropský trh. Investice navazuje na rozvoj ekonomických vztahů Bulharska s Čínou po uzavření deklarace o strategickém partnerství v roce 2019.</p>\n<p>Bulharská vláda podle Radeva usiluje o postupný přechod od ekonomiky založené hlavně na spotřebě a levné práci k výrobě s vyšší přidanou hodnotou. Ve stejné zóně se současně rozbíhá další projekt: výstavba závodu na fyziologické roztoky a zdravotnické potřeby za přibližně sedm milionů eur. Premiér při návštěvě regionu kontroloval také práce na významném silničním projektu, Novinite však ve zprávě neuvádí omezení, která by nyní měnila cestovní plány.</p>\n<h2>Proč je to důležité pro Čechy mířící do Bulharska</h2>\n<p>Otevření továrny nemá bezprostřední dopad na vstup do země, ceny letenek ani provoz turistických míst. Pro české čtenáře je ale důležitým signálem o tom, jak se mění ekonomika v okolí Plovdivu. Druhé největší bulharské město není jen historickou a kulturní destinací, ale také rychle rostoucím průmyslovým centrem napojeným na evropský automobilový dodavatelský řetězec.</p>\n<p>V delším horizontu mohou nové podniky a pracovní místa zvyšovat poptávku po bydlení, dopravě, restauracích a dalších službách v plovdivském regionu. To může být relevantní pro české firmy, investory i lidi uvažující o delším pobytu. Turista žádnou okamžitou změnu řešit nemusí; při cestě do okolí průmyslové zóny je pouze rozumné sledovat aktuální dopravní situaci, nikoli však kvůli konkrétnímu omezení oznámenému v této zprávě.</p>\n<p><em>Zdroj: <a href=\"https://www.novinite.com/view_news.php?id=240505\" rel=\"nofollow noopener\" target=\"_blank\">Novinite / Sofia News Agency</a>.</em></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240505",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 2
+    },
+    {
       "id": 2026090902,
       "type": "post",
       "slug": "varna-jerevan-nova-linka-wizz-air-2027",

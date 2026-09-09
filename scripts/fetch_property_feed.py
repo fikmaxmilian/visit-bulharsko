@@ -116,7 +116,17 @@ def main():
     records = []
     seen = set()
 
-    for item in find_items(root):
+    # Export není řazený od nejnovějších nabídek. Upřednostníme nejvyšší
+    # číselná ID, aby běžný deploy nevrátil carousel ke starým inzerátům.
+    items = find_items(root)
+    items.sort(
+        key=lambda item: int(first_text(item, ['id', 'g:id']))
+        if first_text(item, ['id', 'g:id']).isdigit()
+        else 0,
+        reverse=True,
+    )
+
+    for item in items:
         title = clean(first_text(item, ['title', 'g:title', 'name']))
         description = clean(first_text(item, ['description', 'g:description']))
         href = first_text(item, ['link', 'g:link', 'url'])
