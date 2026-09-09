@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026090902,
+      "type": "post",
+      "slug": "varna-jerevan-nova-linka-wizz-air-2027",
+      "path": "/varna-jerevan-nova-linka-wizz-air-2027/",
+      "title": "Z Varny začne létat přímá linka do Jerevanu, Wizz Air ji spustí v roce 2027",
+      "excerpt": "Wizz Air oznámil přímé lety mezi Varnou a arménským Jerevanem od 6. června 2027. Linka má létat dvakrát týdně a může se hodit i Čechům, kteří chtějí spojit pobyt u Černého moře s cestou na Kavkaz.",
+      "date": "2026-09-09T00:00:00",
+      "modified": "2026-09-09T13:03:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Varna získá přímé lety do Jerevanu v roce 2027",
+        "description": "Wizz Air spustí 6. června 2027 přímou linku Varna–Jerevan. Létat má ve čtvrtek a v neděli, ceny začínají na 29,99 eura."
+      },
+      "content": "<p>Letiště ve Varně získá v letním letovém řádu 2027 nové přímé spojení s Arménií. Wizz Air oznámil, že od 6. června 2027 začne létat mezi Varnou a Jerevanem dvakrát týdně, vždy ve čtvrtek a v neděli. Pro české návštěvníky bulharského pobřeží nejde o novou cestu do Bulharska, ale o zajímavou možnost, jak spojit delší pobyt u Černého moře s další cestou na Kavkaz.</p>\n<h2>Co dopravce oznámil</h2>\n<p>Podle agentury Novinite jsou letenky už v prodeji na webu a v aplikaci Wizz Air. Inzerovaná jednosměrná cena začíná na 29,99 eura a zahrnuje administrativní poplatek a malé kabinové zavazadlo do rozměrů 40 × 30 × 20 centimetrů. Kolečkový kufr, odbavené zavazadlo a další služby se platí zvlášť. Nejnižší tarif je navíc dostupný jen pro omezený počet míst.</p>\n<p>Nová linka má posílit spojení mezi bulharským černomořským regionem a Arménií. Jerevan může sloužit jako výchozí bod pro návštěvu arménské metropole, jezera Sevan nebo klášterů Geghard a Chor Virap. Zpráva zároveň ukazuje, že Varna se mimo hlavní evropské trhy postupně profiluje také jako regionální letiště pro další cesty z pobřeží.</p>\n<h2>Co to znamená pro české cestovatele</h2>\n<p>Praktický význam má spoj zejména pro lidi, kteří v Bulharsku tráví několik týdnů, pracují od moře nebo plánují delší cestu přes více zemí. Čtvrteční a nedělní rotace umožní sestavit krátký pobyt v Arménii bez návratu přes Sofii. Linka ale není návazným spojením z Česka a dopravce negarantuje přestup z jiného letu. Pokud si cestující spojí dvě samostatné rezervace, měl by ve Varně ponechat dostatečnou časovou rezervu a počítat s rizikem změny letového řádu.</p>\n<p>Začátek provozu je ohlášen s velkým předstihem, proto je rozumné před nákupem ubytování znovu ověřit dny a časy letů přímo u dopravce. U nejlevnějšího tarifu je také vhodné porovnat konečnou cenu až po přidání potřebných zavazadel. Pro běžnou dovolenou ve Varně se nic nemění; novinka pouze rozšiřuje možnosti dalších cest z bulharského pobřeží.</p>\n<p><strong>Zdroj:</strong> <a href=\"https://www.novinite.com/view_news.php?id=240509\" target=\"_blank\" rel=\"noopener noreferrer\">Novinite / Sofia News Agency</a></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240509",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026090901,
       "type": "post",
       "slug": "bulharsko-pocasi-9-zari-2026",
