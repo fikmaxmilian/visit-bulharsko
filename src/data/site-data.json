@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026090901,
+      "type": "post",
+      "slug": "bulharsko-pocasi-9-zari-2026",
+      "path": "/bulharsko-pocasi-9-zari-2026/",
+      "title": "Bulharsko čeká slunečná středa: u moře bude až 28 °C",
+      "excerpt": "Ve středu 9. září má být v Bulharsku převážně slunečno, u Černého moře se čeká 25 až 28 °C a voda kolem 24 až 25 °C. Cestovatelé mají počítat s mírným až čerstvějším větrem na východě.",
+      "date": "2026-09-09T00:00:00",
+      "modified": "2026-09-09T08:05:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Počasí v Bulharsku 9. září: u moře až 28 °C",
+        "description": "Bulharsko čeká 9. září slunečné počasí. U Černého moře bude 25 až 28 °C, voda má 24 až 25 °C. Praktický přehled pro cestovatele."
+      },
+      "content": "<p>Středa 9. září přinese do Bulharska převážně slunečné počasí a mírný růst teplot. Podle předpovědi bulharského Národního institutu meteorologie a hydrologie, kterou zveřejnila agentura Novinite, vystoupí odpolední maxima na většině území na 28 až 33 °C. V Sofii se očekává přibližně 30 °C. Pro cestovatele u Černého moře je důležitá zejména příjemnější pobřežní teplota 25 až 28 °C a moře vyhřáté na 24 až 25 °C.</p>\n<h2>Co čekat během dne</h2>\n<p>Ve východním Bulharsku se mohou před polednem objevit nízká oblaka, celkově ale má u pobřeží převládat slunečno. Foukat bude východní vítr, který může být na východě země mírný až čerstvější. Novinite uvádí také vlnění kolem třetího stupně. Nejde o zveřejněnou výstrahu před nebezpečným počasím, podmínky ke koupání se však mohou lišit podle konkrétní pláže a místních vlajek plavčíků.</p>\n<p>V horách zůstane většinou jasno až polojasno. Po poledni se má zejména nad západními horskými pásmy tvořit kupovitá oblačnost, významnější srážky se však neočekávají. Teplota má dosahovat přibližně 24 °C ve výšce 1 200 metrů a kolem 18 °C ve 2 000 metrech. Večer začne od západu přibývat vysoká oblačnost.</p>\n<h2>Co to znamená pro cestovatele</h2>\n<p>Pro pobyt ve Varně, Burgasu a černomořských letoviscích jsou vyhlídky příznivé: teplota vzduchu i vody umožní plážový program také mimo hlavní prázdniny. Kvůli východnímu větru a vlnám ale sledujte značení na pláži a pokyny plavčíků; vstup do moře vždy přizpůsobte aktuálním podmínkám, nikoli jen celostátní předpovědi. Rodiny s dětmi by měly dát přednost hlídaným úsekům a nevstupovat do vody při zákazu koupání.</p>\n<p>Při výletech po vnitrozemí počítejte s teplotami nad 30 °C, vezměte si dostatek vody a náročnější přesuny plánujte spíše na ráno. Do hor se hodí lehká vrstva navíc, protože ve vyšších polohách bude výrazně chladněji než ve městech. Před delším výletem nebo koupáním doporučujeme ověřit místní krátkodobou předpověď; situace na pobřeží i v horách se může během dne měnit.</p>\n<p><strong>Zdroj:</strong> <a href=\"https://www.novinite.com/view_news.php?id=240508\" target=\"_blank\" rel=\"noopener noreferrer\">Novinite / Sofia News Agency</a></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240508",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026090803,
       "type": "post",
       "slug": "sofia-vrana-park-uzavreni-2026",
