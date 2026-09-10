@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026091003,
+      "type": "post",
+      "slug": "bulharsko-nehody-mladi-ridici-prejezdy-2026",
+      "path": "/bulharsko-nehody-mladi-ridici-prejezdy-2026/",
+      "title": "Dvě nehody mladých řidičů v Bulharsku připomínají rizika na silnicích a přejezdech",
+      "excerpt": "Dvě nehody mladých řidičů v Bulharsku si vyžádaly dva mrtvé a znovu otevřely otázku bezpečnosti. Pro cestovatele je důležité hlavně dodržování signalizace na železničních přejezdech.",
+      "date": "2026-09-10T00:00:00",
+      "modified": "2026-09-10T17:04:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Nehody v Bulharsku: pozor na silnice a přejezdy",
+        "description": "Dvě nehody mladých řidičů v Bulharsku si vyžádaly dva mrtvé. Praktické připomenutí pravidel pro jízdu a železniční přejezdy."
+      },
+      "content": "<p>Dvě vážné dopravní nehody s mladými řidiči v Bulharsku znovu upozornily na rizika na silnicích i železničních přejezdech. Při noční srážce ve Smoljanské oblasti zemřeli dva cestující. Při odděleném incidentu poblíž obce Todorovo na severovýchodě země narazilo auto do projíždějícího vlaku; čtyři lidé z vozu skončili na vyšetření, ale podle zveřejněných informací neutrpěli vážná zranění. Pro české motoristy nejde o oznámení plošného dopravního omezení, ale o aktuální bezpečnostní připomínku před jízdou po Bulharsku.</p>\n<h2>Co se stalo</h2>\n<p>Agentura Novinite s odkazem na regionální ředitelství ministerstva vnitra uvedla, že osmnáctiletý řidič ve Smoljanské oblasti jel podle prvotních informací nepřiměřenou rychlostí, ztratil kontrolu nad vozem a po smyku se střetl s jiným automobilem. Dva cestující ve věku 17 a 18 let zemřeli. Řidič byl zadržen na 24 hodin; zkoušky na alkohol a drogy byly negativní. Vyšetřování má určit přesný průběh i odpovědnost.</p>\n<p>Druhá nehoda se odehrála na železničním přejezdu u Todorova v oblasti Isperih. Osmnáctiletá řidička s přibližně čtyřměsíční praxí narazila do zadní části vlaku jedoucího ze Silistry směrem na Isperih a Samuil. V autě cestovali další tři mladí lidé ve věku 15 až 19 let. Nikdo ve vlaku nebyl zraněn a testy řidičky i strojvedoucího na alkohol a drogy byly negativní.</p>\n<h2>Jak funguje signalizace na přejezdu</h2>\n<p>Podle zástupce bulharského správce železniční infrastruktury je přejezd vybaven automatickou světelnou a zvukovou signalizací. Bílé přerušované světlo potvrzuje, že zařízení funguje. Červená světla a zvukový signál upozorňují na přijíždějící vlak. Pokud světla nesvítí, musí řidič zastavit u značky STOP. Absence závor tedy neznamená, že lze přejezd projet bez kontroly tratě.</p>\n<h2>Co to znamená pro české cestovatele</h2>\n<p>Při cestě autem je rozumné počítat s tím, že na vedlejších trasách mohou být přejezdy zabezpečené jen světly, zvukem a značkou STOP. Před kolejemi zpomalte, vypněte hlasitou hudbu, sledujte signalizaci a nikdy neobjíždějte spuštěné závory. Stejně důležité je přizpůsobit rychlost stavu silnice, viditelnosti a vlastní zkušenosti. Obě události jsou jednotlivé nehody, nikoli důvod vyhýbat se konkrétnímu regionu; připomínají však, že dlouhé přejezdy Bulharskem vyžadují odpočinek a soustředění.</p>\n<p><a href=\"https://www.novinite.com/view_news.php?id=240511\" rel=\"nofollow noopener\" target=\"_blank\">Zdroj: Novinite / Sofia News Agency</a></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240511",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026091002,
       "type": "post",
       "slug": "bulharsko-jednotne-centrum-bezpecnost-silnic-2026",
