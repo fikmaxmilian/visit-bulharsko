@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026091001,
+      "type": "post",
+      "slug": "bulharsko-pocasi-10-zari-2026",
+      "path": "/bulharsko-pocasi-10-zari-2026/",
+      "title": "Bulharsko čeká ve čtvrtek až 35 °C, na západě se mohou objevit bouřky",
+      "excerpt": "Ve čtvrtek 10. září bude v Bulharsku převážně slunečno, na jihozápadě až 35 °C. Odpoledne se hlavně nad západními horami mohou objevit krátké přeháňky a bouřky.",
+      "date": "2026-09-10T00:00:00",
+      "modified": "2026-09-10T08:05:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Počasí v Bulharsku 10. září: vedro a bouřky",
+        "description": "Ve čtvrtek bude v Bulharsku 28 až 33 °C, na jihozápadě až 35 °C. U moře se čeká 26 až 28 °C, na západě místy bouřky."
+      },
+      "content": "<p>Čtvrtek 10. září přinese do Bulharska další oteplení a na většině území převážně slunečné počasí. Podle předpovědi Národního institutu meteorologie a hydrologie, kterou zveřejnila agentura Novinite, dosáhnou denní teploty zpravidla 28 až 33 °C. Na krajním jihozápadě může být až 35 °C, zatímco v Sofii se očekává přibližně 32 °C. Pro cestovatele je důležité počítat nejen s horkem, ale odpoledne také s možností krátkých přeháněk a bouřek hlavně v západních horách.</p>\n<h2>Jaké počasí se čeká</h2>\n<p>Ve východním Bulharsku se mohou ráno a dopoledne místy vytvořit nízká oblaka. Během odpoledne má přibývat kupovitá a bouřková oblačnost zejména nad horskými oblastmi západní části země. Srážky mají být lokální a krátkodobé; zveřejněná předpověď nepopisuje plošné zhoršení počasí v celé zemi.</p>\n<p>V horách bude přes den většinou slunečno, později ale právě nad západními masivy vzroste riziko přeháněk a bouřek. Teploty mají dosahovat asi 27 °C ve výšce 1 200 metrů a přibližně 20 °C ve 2 000 metrech. Vítr bude převážně slabý a severní.</p>\n<h2>Podmínky u Černého moře</h2>\n<p>Na pobřeží má převládat slunečno, jen ráno se někde může držet nízká oblačnost. Odpolední maxima se budou pohybovat mezi 26 a 28 °C, voda má mít 24 až 25 °C. Od východu bude foukat mírný vítr a očekává se vlnění kolem třetího stupně. Při koupání se proto řiďte vlajkami a pokyny plavčíků na konkrétní pláži, protože místní podmínky se mohou lišit.</p>\n<h2>Co to znamená pro české cestovatele</h2>\n<p>Na pobřeží není podle této předpovědi důvod měnit běžný dovolenkový program, je ale vhodné chránit se před sluncem, průběžně pít a největší fyzickou zátěž plánovat mimo nejteplejší část dne. Při výletu do Rily, Pirinu nebo dalších západních hor vyrazte raději dříve, sledujte vývoj oblačnosti a mějte možnost rychlého návratu. Bouřka v horách může přinést prudkou změnu teploty, vítr a nebezpečí blesků i tehdy, když ráno začíná slunečně.</p>\n<p><strong>Zdroj:</strong> <a href=\"https://www.novinite.com/view_news.php?id=240530\" rel=\"nofollow noopener\" target=\"_blank\">Novinite / Sofia News Agency</a></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240530",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026090903,
       "type": "post",
       "slug": "plovdiv-cinska-tovarna-autodily-2026",

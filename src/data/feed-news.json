@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T15:01:24.709385+00:00",
+  "generatedAt": "2026-09-10T06:01:20.184658+00:00",
   "mode": "fast-news-drafts",
   "policy": "External RSS is used only as source material. Publish short Czech own-words fast news with clear travel impact. No FAQ or mandatory image for fast updates.",
   "items": [
@@ -10,17 +10,18 @@
       "language": "en",
       "status": "draft",
       "copyPolicy": "own-words-summary-only",
-      "title": "Bulgaria to See Sunny Skies and Rising Temperatures on Wednesday",
-      "excerpt": "Weather across Bulgaria will remain mostly sunny on Wednesday, September 9, with temperatures expected to edge higher, according to the National Institute of Meteorology and Hydrology (NIMH). Afternoon highs will range f",
-      "originalTitle": "Bulgaria to See Sunny Skies and Rising Temperatures on Wednesday",
-      "originalExcerpt": "Weather across Bulgaria will remain mostly sunny on Wednesday, September 9, with temperatures expected to edge higher, according to the National Institute of Meteorology and Hydrology (NIMH). Afternoon highs will range from 28°C to 33°C, while Sofia will reach around 30°C. Some low clouds will develop before noon in parts of eastern Bulgaria....",
-      "link": "https://www.novinite.com/view_news.php?id=240508",
-      "published": "2026-09-08T17:00:00+02:00",
-      "guid": "240508",
-      "relevanceScore": 8,
+      "title": "Thursday Brings 35°C Heat and Local Thunderstorms in Bulgaria",
+      "excerpt": "Sunny weather will prevail across Bulgaria on Thursday, September 10, although some areas can expect brief rain and thunderstorms later in the day, according to the National Institute of Meteorology and Hydrology. Temper",
+      "originalTitle": "Thursday Brings 35°C Heat and Local Thunderstorms in Bulgaria",
+      "originalExcerpt": "Sunny weather will prevail across Bulgaria on Thursday, September 10, although some areas can expect brief rain and thunderstorms later in the day, according to the National Institute of Meteorology and Hydrology. Temperatures will continue to rise, with daytime highs ranging between 28°C and 33°C. In the far southwestern parts of the country, temperatures could reach as high as 35°C, while Sofia is expected to see around 32°C. ...",
+      "link": "https://www.novinite.com/view_news.php?id=240530",
+      "published": "2026-09-09T17:02:00+02:00",
+      "guid": "240530",
+      "relevanceScore": 9,
       "relevanceKeywords": [
         "sofia",
-        "weather"
+        "weather",
+        "rain"
       ],
       "excludedSignals": [],
       "editorialAngle": "počasí / bezpečnost",
@@ -33,9 +34,9 @@
         "excerpt": "",
         "articleHtml": "",
         "sourceCredit": "Zdroj: Novinite / Sofia News Agency",
-        "sourceUrl": "https://www.novinite.com/view_news.php?id=240508"
+        "sourceUrl": "https://www.novinite.com/view_news.php?id=240530"
       },
-      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Bulgaria to See Sunny Skies and Rising Temperatures on Wednesday\nPodklad: Weather across Bulgaria will remain mostly sunny on Wednesday, September 9, with temperatures expected to edge higher, according to the National Institute of Meteorology and Hydrology (NIMH). Afternoon highs will range from 28°C to 33°C, while Sofia will reach around 30°C. Some low clouds will develop before noon in parts of eastern Bulgaria....\nOdkaz: https://www.novinite.com/view_news.php?id=240508"
+      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Thursday Brings 35°C Heat and Local Thunderstorms in Bulgaria\nPodklad: Sunny weather will prevail across Bulgaria on Thursday, September 10, although some areas can expect brief rain and thunderstorms later in the day, according to the National Institute of Meteorology and Hydrology. Temperatures will continue to rise, with daytime highs ranging between 28°C and 33°C. In the far southwestern parts of the country, temperatures could reach as high as 35°C, while Sofia is expected to see around 32°C. ...\nOdkaz: https://www.novinite.com/view_news.php?id=240530"
     },
     {
       "source": "Novinite / Sofia News Agency",
@@ -44,24 +45,21 @@
       "language": "en",
       "status": "draft",
       "copyPolicy": "own-words-summary-only",
-      "title": "Direct Flights to Armenia Coming From Varna in 2027",
-      "excerpt": "Wizz Air will launch a new direct route between Varna and Yerevan in summer 2027, giving travelers from Bulgaria’s Black Sea coast a new connection to Armenia. The airline, which has the largest market share in Bulgaria,",
-      "originalTitle": "Direct Flights to Armenia Coming From Varna in 2027",
-      "originalExcerpt": "Wizz Air will launch a new direct route between Varna and Yerevan in summer 2027, giving travelers from Bulgaria’s Black Sea coast a new connection to Armenia. The airline, which has the largest market share in Bulgaria, announced the route on September 8, with flights scheduled twice a week on Thursdays and Sundays. The service will begin on June 6, 2027....",
-      "link": "https://www.novinite.com/view_news.php?id=240509",
-      "published": "2026-09-08T16:20:49+02:00",
-      "guid": "240509",
-      "relevanceScore": 31,
+      "title": "Two Crashes Involving Young Drivers Leave Two Dead in Bulgaria",
+      "excerpt": "Two teenagers, aged 17 and 18, were killed in a serious traffic accident in the Smolyan region overnight, after a speeding driver lost control of his car and collided with another vehicle. The crash occurred after an 18-",
+      "originalTitle": "Two Crashes Involving Young Drivers Leave Two Dead in Bulgaria",
+      "originalExcerpt": "Two teenagers, aged 17 and 18, were killed in a serious traffic accident in the Smolyan region overnight, after a speeding driver lost control of his car and collided with another vehicle. The crash occurred after an 18-year-old driver was reportedly traveling at excessive speed. According to preliminary information from the regional Interior Ministry directorate, he lost control of the vehicle, which spun on the road before hitting another car. ...",
+      "link": "https://www.novinite.com/view_news.php?id=240511",
+      "published": "2026-09-09T09:14:55+02:00",
+      "guid": "240511",
+      "relevanceScore": 9,
       "relevanceKeywords": [
-        "varna",
-        "black sea",
-        "coast",
-        "flights",
-        "airline",
-        "wizz air"
+        "traffic",
+        "road",
+        "accident"
       ],
       "excludedSignals": [],
-      "editorialAngle": "doprava / lety",
+      "editorialAngle": "praktická aktualita",
       "fastNewsDraft": {
         "decision": "draft",
         "slug": "",
@@ -71,9 +69,9 @@
         "excerpt": "",
         "articleHtml": "",
         "sourceCredit": "Zdroj: Novinite / Sofia News Agency",
-        "sourceUrl": "https://www.novinite.com/view_news.php?id=240509"
+        "sourceUrl": "https://www.novinite.com/view_news.php?id=240511"
       },
-      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Direct Flights to Armenia Coming From Varna in 2027\nPodklad: Wizz Air will launch a new direct route between Varna and Yerevan in summer 2027, giving travelers from Bulgaria’s Black Sea coast a new connection to Armenia. The airline, which has the largest market share in Bulgaria, announced the route on September 8, with flights scheduled twice a week on Thursdays and Sundays. The service will begin on June 6, 2027....\nOdkaz: https://www.novinite.com/view_news.php?id=240509"
+      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Two Crashes Involving Young Drivers Leave Two Dead in Bulgaria\nPodklad: Two teenagers, aged 17 and 18, were killed in a serious traffic accident in the Smolyan region overnight, after a speeding driver lost control of his car and collided with another vehicle. The crash occurred after an 18-year-old driver was reportedly traveling at excessive speed. According to preliminary information from the regional Interior Ministry directorate, he lost control of the vehicle, which spun on the road before hitting another car. ...\nOdkaz: https://www.novinite.com/view_news.php?id=240511"
     },
     {
       "source": "The Sofia Globe",
