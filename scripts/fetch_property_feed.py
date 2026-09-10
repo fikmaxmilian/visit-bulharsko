@@ -21,7 +21,7 @@ HOUSE_RE = re.compile(r'\b(vila|villa|house)\b', re.I)
 PROPERTY_RE = re.compile(r'\b(\d\+kk|apartm[aá]n|byt|studio|apartment|garsonka)\b', re.I)
 
 BG_LOCATIONS = [
-    'Sluneční pobřeží', 'Sveti Vlas', 'Sozopol', 'Nesebar', 'Nessebar', 'Ravda', 'Pomorie',
+    'Slunečné pobřeží', 'Sluneční pobřeží', 'Sveti Vlas', 'Sozopol', 'Nesebar', 'Nessebar', 'Ravda', 'Pomorie',
     'Burgas', 'Varna', 'Kavarna', 'Balčik', 'Balchik', 'Carevo', 'Tsarevo', 'Černomorec',
     'Chernomorets', 'Primorsko', 'Lozenec', 'Aheloy', 'Byala', 'Obzor', 'Elenite', 'Pamporovo',
     'Bansko', 'Kosharitsa', 'Sunny Beach'

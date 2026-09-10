@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026091002,
+      "type": "post",
+      "slug": "bulharsko-jednotne-centrum-bezpecnost-silnic-2026",
+      "path": "/bulharsko-jednotne-centrum-bezpecnost-silnic-2026/",
+      "title": "Bulharsko chystá jednotné centrum pro bezpečnost silnic a nepřetržitý dohled",
+      "excerpt": "Bulharská vláda oznámila plán sjednotit dopravní data a kontrolní funkce do jedné celostátní struktury. Centrum má v reálném čase využívat údaje z mýtného systému, kamer a dalších senzorů.",
+      "date": "2026-09-10T00:00:00",
+      "modified": "2026-09-10T13:03:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Bulharsko sjednotí dohled nad bezpečností silnic",
+        "description": "Bulharsko chystá jednotné centrum pro dopravní data a kontroly. Má nepřetržitě využívat mýtné údaje, kamery i další senzory."
+      },
+      "content": "<p>Bulharská vláda oznámila plán rozsáhle změnit správu informací o bezpečnosti silničního provozu. Podle premiéra Rumena Radeva mají být data a kontrolní funkce, které jsou nyní rozdělené mezi několik institucí, soustředěny do jedné celostátní struktury. Nové centrum má sledovat provoz nepřetržitě a pracovat s údaji v reálném čase. Pro české řidiče je podstatné, že reforma míří na lepší dohled a rychlejší sdílení informací, nikoli na okamžitou změnu dopravních předpisů.</p>\n<h2>Co vláda plánuje</h2>\n<p>Stávající pracoviště mají být podle informací agentury Novinite spojena v nové výkonné agentuře s pracovním názvem „Automobile Transport Operator“. Její národní centrum má shromažďovat data z mýtného systému, obecních kamer, policejních tělesných kamer a dalších dostupných senzorů. Počítá se také se zahrnutím informací z vedlejších silnic, které mohou být pro cestovatele důležité při objížďkách nebo cestách mimo hlavní tahy.</p>\n<p>K datům nemají mít přístup jen orgány odpovědné za silniční bezpečnost. Vláda počítá také s jejich využitím celní správou, daňovou správou, mýtnými orgány, silniční agenturou, záchrannými složkami, posádkami zdravotnických vrtulníků a lesní správou. Cílem je zlepšit bezpečnost provozu, koordinaci zásahů i kontrolu plateb a přepravy.</p>\n<h2>Součást širší modernizace silnic</h2>\n<p>Premiér zároveň připustil, že bulharská silniční infrastruktura stále zaostává za evropskými standardy. Vláda proto připravila registr strategických dopravních projektů a chce určit, které stavby mají pokračovat z veřejných peněz, pro které lze využít evropské fondy a kde by přicházelo v úvahu partnerství státu a soukromého sektoru. Za zásadní problém označila nedostatečnou projektovou připravenost nových staveb.</p>\n<p>Podrobnější akční plán mají představit ministerstva dopravy a vnitra. Dokud nebudou zveřejněny termíny, technické podmínky a schválené kompetence nové struktury, je vhodné chápat oznámení jako vládní záměr, nikoli jako již plně fungující systém.</p>\n<h2>Co to znamená pro české cestovatele</h2>\n<p>Krátkodobě se pro cestu autem do Bulharska nic nemění: řidiči musí dál hlídat platnou elektronickou dálniční známku, rychlostní limity, aktuální uzavírky a místní značení. Pokud se plán podaří zavést, může přinést rychlejší vyhodnocování nehod a kolon, lepší koordinaci složek a širší pokrytí i mimo dálnice. Před cestou je přesto rozumné ověřit trasu v aktuální dopravní službě a nespoléhat na to, že oznámená reforma už je v provozu.</p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240521",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026091001,
       "type": "post",
       "slug": "bulharsko-pocasi-10-zari-2026",
