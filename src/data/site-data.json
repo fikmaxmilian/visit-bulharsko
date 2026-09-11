@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026091101,
+      "type": "post",
+      "slug": "bulharsko-pocasi-11-zari-2026",
+      "path": "/bulharsko-pocasi-11-zari-2026/",
+      "title": "Bulharsko čeká v pátek slunečno a až 36 °C",
+      "excerpt": "V pátek 11. září má v Bulharsku převládat slunečné počasí s maximy 31 až 36 °C. Cestovatelé by měli počítat s výrazným odpoledním horkem.",
+      "date": "2026-09-11T00:00:00",
+      "modified": "2026-09-11T09:33:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Počasí v Bulharsku 11. září: až 36 °C",
+        "description": "V pátek 11. září bude v Bulharsku převážně slunečno a 31 až 36 °C. V Sofii se čeká kolem 31 °C, srážky se neočekávají."
+      },
+      "content": "<p>Bulharsko čeká v pátek 11. září další převážně slunečný a velmi teplý den. Denní maxima se mají podle předpovědi pohybovat mezi 31 a 36 °C, v Sofii kolem 31 °C. Pro české návštěvníky to znamená především nutnost přizpůsobit program odpolednímu horku, ať už tráví den u moře, ve městě, nebo cestují autem napříč zemí.</p>\n<h2>Jaké počasí se čeká</h2>\n<p>Agentura Novinite s odkazem na bulharský Národní institut meteorologie a hydrologie uvádí, že teploty mají po poledni ještě stoupat. Nad západní polovinou země se odpoledne vytvoří kupovitá oblačnost, zveřejněná předpověď však pro pátek srážky neočekává. Foukat má slabý až mírný vítr od jihu až jihovýchodu.</p>\n<p>Ráno se mohou v některých částech východního Bulharska objevit nízká oblaka. Ta se ale mají rychle protrhat a ustoupit. Celkově tedy předpověď počítá se stabilním letním počasím bez plošného zhoršení, přestože v západní části může během dne přibývat oblačnosti.</p>\n<h2>Co to znamená pro cestovatele</h2>\n<p>Při teplotách nad 30 °C je vhodné přesunout delší prohlídky měst, pěší výlety a sportovní aktivity na ráno nebo podvečer. Přes den pomůže pravidelné doplňování tekutin, pokrývka hlavy a ochrana proti slunci. Zvýšenou pozornost věnujte dětem, seniorům a lidem se zdravotními potížemi; zaparkované auto se na přímém slunci zahřívá velmi rychle.</p>\n<p>Řidiči na delších trasách by měli dělat častější přestávky a nenechávat v autě bez dozoru děti ani zvířata. U Černého moře se řiďte aktuálními vlajkami a pokyny plavčíků, protože místní stav moře nelze odvodit jen z celostátní předpovědi. Při cestě do západních hor sledujte také krátkodobou místní předpověď: přibývající kupovitá oblačnost může znamenat rychlé změny podmínek, i když hlavní prognóza déšť neuvádí.</p>\n<h2>Výhled stručně</h2>\n<p>Pátek má být v Bulharsku převážně jasný až slunečný, s nejsilnějším horkem odpoledne. Nejde o výstrahu ani oznámení dopravních omezení. Cestovní plán proto není nutné měnit, je však rozumné počítat s vedrem, mít po ruce dostatek vody a před venkovní aktivitou ověřit místní podmínky.</p>\n<p><strong>Zdroj:</strong> <a href=\"https://www.novinite.com/view_news.php?id=240553\" rel=\"nofollow noopener\" target=\"_blank\">Novinite / Sofia News Agency</a></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240553",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 2
+    },
+    {
       "id": 2026091003,
       "type": "post",
       "slug": "bulharsko-nehody-mladi-ridici-prejezdy-2026",

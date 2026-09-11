@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T15:00:57.485986+00:00",
+  "generatedAt": "2026-09-11T07:32:15.418650+00:00",
   "mode": "fast-news-drafts",
   "policy": "External RSS is used only as source material. Publish short Czech own-words fast news with clear travel impact. No FAQ or mandatory image for fast updates.",
   "items": [
@@ -10,18 +10,17 @@
       "language": "en",
       "status": "draft",
       "copyPolicy": "own-words-summary-only",
-      "title": "Thursday Brings 35°C Heat and Local Thunderstorms in Bulgaria",
-      "excerpt": "Sunny weather will prevail across Bulgaria on Thursday, September 10, although some areas can expect brief rain and thunderstorms later in the day, according to the National Institute of Meteorology and Hydrology. Temper",
-      "originalTitle": "Thursday Brings 35°C Heat and Local Thunderstorms in Bulgaria",
-      "originalExcerpt": "Sunny weather will prevail across Bulgaria on Thursday, September 10, although some areas can expect brief rain and thunderstorms later in the day, according to the National Institute of Meteorology and Hydrology. Temperatures will continue to rise, with daytime highs ranging between 28°C and 33°C. In the far southwestern parts of the country, temperatures could reach as high as 35°C, while Sofia is expected to see around 32°C. ...",
-      "link": "https://www.novinite.com/view_news.php?id=240530",
-      "published": "2026-09-09T17:02:00+02:00",
-      "guid": "240530",
-      "relevanceScore": 9,
+      "title": "Bulgaria to See Another Hot and Sunny Friday",
+      "excerpt": "Bulgaria will continue to enjoy mostly sunny and warm weather, with temperatures reaching up to 36 degrees Celsius on Friday, September 11. Today will remain mostly sunny across the country, with maximum temperatures bet",
+      "originalTitle": "Bulgaria to See Another Hot and Sunny Friday",
+      "originalExcerpt": "Bulgaria will continue to enjoy mostly sunny and warm weather, with temperatures reaching up to 36 degrees Celsius on Friday, September 11. Today will remain mostly sunny across the country, with maximum temperatures between 30 and 35 degrees. In Sofia, temperatures will reach around 32 degrees. ...",
+      "link": "https://www.novinite.com/view_news.php?id=240553",
+      "published": "2026-09-10T17:04:11+02:00",
+      "guid": "240553",
+      "relevanceScore": 8,
       "relevanceKeywords": [
         "sofia",
-        "weather",
-        "rain"
+        "weather"
       ],
       "excludedSignals": [],
       "editorialAngle": "počasí / bezpečnost",
@@ -34,9 +33,9 @@
         "excerpt": "",
         "articleHtml": "",
         "sourceCredit": "Zdroj: Novinite / Sofia News Agency",
-        "sourceUrl": "https://www.novinite.com/view_news.php?id=240530"
+        "sourceUrl": "https://www.novinite.com/view_news.php?id=240553"
       },
-      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Thursday Brings 35°C Heat and Local Thunderstorms in Bulgaria\nPodklad: Sunny weather will prevail across Bulgaria on Thursday, September 10, although some areas can expect brief rain and thunderstorms later in the day, according to the National Institute of Meteorology and Hydrology. Temperatures will continue to rise, with daytime highs ranging between 28°C and 33°C. In the far southwestern parts of the country, temperatures could reach as high as 35°C, while Sofia is expected to see around 32°C. ...\nOdkaz: https://www.novinite.com/view_news.php?id=240530"
+      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Bulgaria to See Another Hot and Sunny Friday\nPodklad: Bulgaria will continue to enjoy mostly sunny and warm weather, with temperatures reaching up to 36 degrees Celsius on Friday, September 11. Today will remain mostly sunny across the country, with maximum temperatures between 30 and 35 degrees. In Sofia, temperatures will reach around 32 degrees. ...\nOdkaz: https://www.novinite.com/view_news.php?id=240553"
     },
     {
       "source": "Novinite / Sofia News Agency",
@@ -45,21 +44,20 @@
       "language": "en",
       "status": "draft",
       "copyPolicy": "own-words-summary-only",
-      "title": "Two Crashes Involving Young Drivers Leave Two Dead in Bulgaria",
-      "excerpt": "Two teenagers, aged 17 and 18, were killed in a serious traffic accident in the Smolyan region overnight, after a speeding driver lost control of his car and collided with another vehicle. The crash occurred after an 18-",
-      "originalTitle": "Two Crashes Involving Young Drivers Leave Two Dead in Bulgaria",
-      "originalExcerpt": "Two teenagers, aged 17 and 18, were killed in a serious traffic accident in the Smolyan region overnight, after a speeding driver lost control of his car and collided with another vehicle. The crash occurred after an 18-year-old driver was reportedly traveling at excessive speed. According to preliminary information from the regional Interior Ministry directorate, he lost control of the vehicle, which spun on the road before hitting another car. ...",
-      "link": "https://www.novinite.com/view_news.php?id=240511",
-      "published": "2026-09-09T09:14:55+02:00",
-      "guid": "240511",
-      "relevanceScore": 9,
+      "title": "Senior Cyclists from Austria Ride Former Iron Curtain Route Through Bulgaria",
+      "excerpt": "An Austrian senior cycling team is taking on a 10,000-kilometer journey along Europe’s former Iron Curtain, with the Crataegutt Seniors Racing Team set to pass through Bulgaria between September 8 and 11, 2026. The extra",
+      "originalTitle": "Senior Cyclists from Austria Ride Former Iron Curtain Route Through Bulgaria",
+      "originalExcerpt": "An Austrian senior cycling team is taking on a 10,000-kilometer journey along Europe’s former Iron Curtain, with the Crataegutt Seniors Racing Team set to pass through Bulgaria between September 8 and 11, 2026. The extraordinary ride began on August 15, with the team following the Iron Curtain Route, EuroVelo Route EV13. Over four weeks, the cyclists will travel through 19 European countries, tracing the border that divided the continent for decades. ...",
+      "link": "https://www.novinite.com/view_news.php?id=240550",
+      "published": "2026-09-10T15:36:02+02:00",
+      "guid": "240550",
+      "relevanceScore": 11,
       "relevanceKeywords": [
-        "traffic",
-        "road",
-        "accident"
+        "border",
+        "travel"
       ],
       "excludedSignals": [],
-      "editorialAngle": "praktická aktualita",
+      "editorialAngle": "hranice / pravidla cestování",
       "fastNewsDraft": {
         "decision": "draft",
         "slug": "",
@@ -69,9 +67,9 @@
         "excerpt": "",
         "articleHtml": "",
         "sourceCredit": "Zdroj: Novinite / Sofia News Agency",
-        "sourceUrl": "https://www.novinite.com/view_news.php?id=240511"
+        "sourceUrl": "https://www.novinite.com/view_news.php?id=240550"
       },
-      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Two Crashes Involving Young Drivers Leave Two Dead in Bulgaria\nPodklad: Two teenagers, aged 17 and 18, were killed in a serious traffic accident in the Smolyan region overnight, after a speeding driver lost control of his car and collided with another vehicle. The crash occurred after an 18-year-old driver was reportedly traveling at excessive speed. According to preliminary information from the regional Interior Ministry directorate, he lost control of the vehicle, which spun on the road before hitting another car. ...\nOdkaz: https://www.novinite.com/view_news.php?id=240511"
+      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Senior Cyclists from Austria Ride Former Iron Curtain Route Through Bulgaria\nPodklad: An Austrian senior cycling team is taking on a 10,000-kilometer journey along Europe’s former Iron Curtain, with the Crataegutt Seniors Racing Team set to pass through Bulgaria between September 8 and 11, 2026. The extraordinary ride began on August 15, with the team following the Iron Curtain Route, EuroVelo Route EV13. Over four weeks, the cyclists will travel through 19 European countries, tracing the border that divided the continent for decades. ...\nOdkaz: https://www.novinite.com/view_news.php?id=240550"
     },
     {
       "source": "The Sofia Globe",
