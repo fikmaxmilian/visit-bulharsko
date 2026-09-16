@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026091601,
+      "type": "post",
+      "slug": "severni-bulharsko-problemy-dodavky-nafty-2026",
+      "path": "/severni-bulharsko-problemy-dodavky-nafty-2026/",
+      "title": "Na severu Bulharska váznou dodávky nafty, celostátní nedostatek ale nehrozí",
+      "excerpt": "Některé sklady v severním Bulharsku mají kvůli omezené železniční kapacitě dočasné potíže s dodávkami nafty. Paliva je v zemi podle oborového sdružení dostatek, řidičům se ale vyplatí netankovat až na poslední chvíli.",
+      "date": "2026-09-16T00:00:00",
+      "modified": "2026-09-16T18:10:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Sever Bulharska hlásí potíže s dodávkami nafty",
+        "description": "Na severu Bulharska se objevují dočasné problémy s distribucí nafty. Celostátní nedostatek nehrozí, řidiči by ale měli tankování plánovat."
+      },
+      "content": "<p>V severním Bulharsku se objevily lokální potíže s dodávkami nafty do některých skladů. Podle zástupce bulharského sdružení obchodníků, dovozců, výrobců a dopravců paliv ale nejde o nedostatek pohonných hmot v celé zemi. Pro české řidiče je zpráva praktická hlavně při cestách přes sever země: není důvod k panickému předzásobování, rozumné je však nenechávat tankování až na téměř prázdnou nádrž.</p>\n<h2>Co způsobuje problémy</h2>\n<p>Agentura Novinite s odkazem na vyjádření Georgiho Manuškina pro Radio Varna uvádí, že zásoby paliv jsou dostatečné. Přibližně 95 až 96 procent paliva na bulharském trhu podle něj vyrábí rafinerie v Burgasu. Současná komplikace nespočívá ve výrobě nebo celkové dostupnosti, ale v dopravě nafty do vybraných skladů na severu Bulharska.</p>\n<p>Tyto provozy jsou výrazně závislé na železnici. Omezená přepravní kapacita a nedostatek cisternových vozů proto vedou k dočasným výpadkům v distribuci. Jižní část země je v příznivější situaci, protože palivo lze do tamních skladů přepravovat také potrubím, a dodávky tak nejsou tolik závislé na jediném způsobu dopravy.</p>\n<h2>Co to znamená pro cestovatele</h2>\n<p>Zveřejněné informace nepopisují plošné uzavírání čerpacích stanic ani celostátní palivovou krizi. Kdo projíždí severním Bulharskem, například při cestě od rumunské hranice směrem k Varně nebo do vnitrozemí, může přesto počítat s tím, že konkrétní stanice nemusí mít naftu vždy dostupnou. Praktickou rezervou je dotankovat na větší stanici na hlavním tahu a nespoléhat pouze na jednu malou čerpací stanici v odlehlejší oblasti.</p>\n<p>Řidiči benzínových aut by měli zprávu číst přesně: Novinite zmiňuje potíže především u nafty. Situace se navíc může lišit podle místa a rychle měnit, proto je před delší trasou vhodné zkontrolovat dojezd a aktuální možnosti tankování v navigaci nebo aplikaci provozovatele čerpacích stanic.</p>\n<h2>Ceny zůstávají nejisté</h2>\n<p>Manuškin zároveň upozornil, že vývoj cen paliv je obtížné předvídat. Bulharské ceny se odvíjejí od mezinárodních cen ropy a hotových paliv a mohou na geopolitické události reagovat během několika dnů. Nejde však o potvrzení konkrétního zdražení. Pro cestovatele je proto užitečnější sledovat cenu při plánování cesty než vycházet z dlouhodobého odhadu.</p>\n<p><strong>Zdroj:</strong> <a href=\"https://www.novinite.com/view_news.php?id=240606\" rel=\"nofollow noopener\" target=\"_blank\">Novinite / Sofia News Agency</a></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240606",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026091103,
       "type": "post",
       "slug": "dalnice-struma-upraveny-plan-dokonceni-2026",
