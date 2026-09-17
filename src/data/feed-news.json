@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T16:09:43.460257+00:00",
+  "generatedAt": "2026-09-17T06:01:17.273548+00:00",
   "mode": "fast-news-drafts",
   "policy": "External RSS is used only as source material. Publish short Czech own-words fast news with clear travel impact. No FAQ or mandatory image for fast updates.",
   "items": [
@@ -10,20 +10,22 @@
       "language": "en",
       "status": "draft",
       "copyPolicy": "own-words-summary-only",
-      "title": "No Fuel Shortage, but Northern Bulgaria Faces Diesel Delivery Problems",
-      "excerpt": "There is no risk of a fuel shortage in Bulgaria, but localized difficulties with diesel deliveries are being reported in the northern part of the country due to transportation problems, according to Georgi Manushkin of t",
-      "originalTitle": "No Fuel Shortage, but Northern Bulgaria Faces Diesel Delivery Problems",
-      "originalExcerpt": "There is no risk of a fuel shortage in Bulgaria, but localized difficulties with diesel deliveries are being reported in the northern part of the country due to transportation problems, according to Georgi Manushkin of the Association of Bulgarian Fuel Traders, Importers, Producers, and Transporters. Speaking on Radio Varna, Manushkin said current fuel supplies are sufficient, with around 95–96% of the fuel on the Bulgarian market produced by the Burgas refinery. The main difficulties are not related to fuel availability but to getting supplies to some depots in Northern Bulgaria....",
-      "link": "https://www.novinite.com/view_news.php?id=240606",
-      "published": "2026-09-15T13:04:00+02:00",
-      "guid": "240606",
-      "relevanceScore": 8,
+      "title": "Bulgaria to See Sunny, Warm Thursday With Temperatures Up to 31°C",
+      "excerpt": "Bulgaria will see mostly sunny and warm weather on Thursday, September 17, with temperatures reaching up to 31°C in some parts of the country. Light rain is expected along the southern Black Sea coast, while conditions e",
+      "originalTitle": "Bulgaria to See Sunny, Warm Thursday With Temperatures Up to 31°C",
+      "originalExcerpt": "Bulgaria will see mostly sunny and warm weather on Thursday, September 17, with temperatures reaching up to 31°C in some parts of the country. Light rain is expected along the southern Black Sea coast, while conditions elsewhere will remain largely dry and pleasant. A light easterly wind will blow across the country, temporarily becoming moderate in eastern areas....",
+      "link": "https://www.novinite.com/view_news.php?id=240632",
+      "published": "2026-09-16T18:01:39+02:00",
+      "guid": "240632",
+      "relevanceScore": 15,
       "relevanceKeywords": [
-        "varna",
-        "burgas"
+        "black sea",
+        "coast",
+        "weather",
+        "rain"
       ],
       "excludedSignals": [],
-      "editorialAngle": "praktická aktualita",
+      "editorialAngle": "počasí / bezpečnost",
       "fastNewsDraft": {
         "decision": "draft",
         "slug": "",
@@ -33,9 +35,9 @@
         "excerpt": "",
         "articleHtml": "",
         "sourceCredit": "Zdroj: Novinite / Sofia News Agency",
-        "sourceUrl": "https://www.novinite.com/view_news.php?id=240606"
+        "sourceUrl": "https://www.novinite.com/view_news.php?id=240632"
       },
-      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: No Fuel Shortage, but Northern Bulgaria Faces Diesel Delivery Problems\nPodklad: There is no risk of a fuel shortage in Bulgaria, but localized difficulties with diesel deliveries are being reported in the northern part of the country due to transportation problems, according to Georgi Manushkin of the Association of Bulgarian Fuel Traders, Importers, Producers, and Transporters. Speaking on Radio Varna, Manushkin said current fuel supplies are sufficient, with around 95–96% of the fuel on the Bulgarian market produced by the Burgas refinery. The main difficulties are not related to fuel availability but to getting supplies to some depots in Northern Bulgaria....\nOdkaz: https://www.novinite.com/view_news.php?id=240606"
+      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Bulgaria to See Sunny, Warm Thursday With Temperatures Up to 31°C\nPodklad: Bulgaria will see mostly sunny and warm weather on Thursday, September 17, with temperatures reaching up to 31°C in some parts of the country. Light rain is expected along the southern Black Sea coast, while conditions elsewhere will remain largely dry and pleasant. A light easterly wind will blow across the country, temporarily becoming moderate in eastern areas....\nOdkaz: https://www.novinite.com/view_news.php?id=240632"
     },
     {
       "source": "The Sofia Globe",

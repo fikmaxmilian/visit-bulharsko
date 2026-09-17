@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026091701,
+      "type": "post",
+      "slug": "bulharsko-pocasi-17-zari-2026",
+      "path": "/bulharsko-pocasi-17-zari-2026/",
+      "title": "Bulharsko čeká slunečný čtvrtek, na jihu pobřeží může slabě pršet",
+      "excerpt": "Ve čtvrtek 17. září bude v Bulharsku většinou slunečno s maximy 26 až 31 °C. Na jižním pobřeží Černého moře se může objevit slabý déšť a ráno místy nízká oblačnost.",
+      "date": "2026-09-17T00:00:00",
+      "modified": "2026-09-17T08:02:23+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Počasí v Bulharsku 17. září: až 31 °C",
+        "description": "Bulharsko čeká 17. září slunečno a 26 až 31 °C. Na jižním pobřeží může slabě pršet, moře má 23 až 24 °C."
+      },
+      "content": "<p>Bulharsko čeká ve čtvrtek 17. září převážně slunečný a teplý den. Odpolední teploty mají ve vnitrozemí vystoupat na 26 až 31 °C, v Sofii přibližně na 27 °C. Odlišná situace může být na jižní části černomořského pobřeží, kde se místy očekává slabý déšť. Pro české návštěvníky u moře to neznamená celodenní zhoršení, ale vyplatí se mít připravený náhradní program pro krátkou přeháňku.</p>\n<h2>Co přinese počasí během dne</h2>\n<p>Podle předpovědi zveřejněné agenturou Novinite se ranní teploty budou ve většině země pohybovat mezi 10 a 15 °C, v Sofii kolem 10 °C. Přes den má převládat slunečno a foukat slabý východní vítr, který může ve východních oblastech přechodně zesílit na mírný. Ve většině Bulharska se srážky neočekávají.</p>\n<p>Na pobřeží Černého moře může ranní nízká oblačnost místy dočasně zhoršit dohlednost. Během dne se čekají teploty vzduchu mezi 23 a 26 °C. Voda má mít 23 až 24 °C a stav moře dosáhnout stupně 2 až 3 na Douglasově stupnici, tedy od mírně zvlněné po zvlněnou hladinu. Na jižním pobřeží se může objevit slabý déšť, jinak má zůstat většinou slunečno.</p>\n<h2>Podmínky v horách</h2>\n<p>Také horské oblasti mají mít převážně jasné počasí. V nadmořské výšce 1 200 metrů se očekává kolem 19 °C, ve 2 000 metrech přibližně 12 °C. Turisté by proto neměli vycházet jen z teplot v nížinách: na hřebenech bude citelně chladněji a východní vítr může pocitovou teplotu ještě snížit.</p>\n<h2>Co to znamená pro cestovatele</h2>\n<p>Na výlety ve městech i ve vnitrozemí jsou podmínky příznivé, rozdíl mezi chladným ránem a teplým odpolednem ale bude výrazný. Hodí se proto vrstvené oblečení, ochrana proti slunci a dostatek vody. Návštěvníci jižních letovisek od Burgasu směrem k Sozopolu, Primorsku a Carevu by měli před odchodem na pláž zkontrolovat místní radar nebo krátkodobou předpověď. Ranní nízká oblačnost může ovlivnit dohlednost při jízdě podél pobřeží, proto je na místě přizpůsobit rychlost aktuálním podmínkám.</p>\n<p><strong>Zdroj:</strong> <a href=\"https://www.novinite.com/view_news.php?id=240632\" rel=\"nofollow noopener\" target=\"_blank\">Novinite / Sofia News Agency</a></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240632",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026091601,
       "type": "post",
       "slug": "severni-bulharsko-problemy-dodavky-nafty-2026",
