@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026091702,
+      "type": "post",
+      "slug": "karnobat-nadrazi-evakuace-unik-plynu-2026",
+      "path": "/karnobat-nadrazi-evakuace-unik-plynu-2026/",
+      "title": "Nádraží v Karnobatu ve středu evakuovali kvůli úniku plynu z cisterny",
+      "excerpt": "Železniční stanici Karnobat ve středu preventivně evakuovali po menším úniku propan-butanu z nákladní cisterny. Zdroj neuvádí délku omezení, cestující by si proto měli před cestou ověřit aktuální spojení.",
+      "date": "2026-09-17T00:00:00",
+      "modified": "2026-09-17T13:05:00+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Karnobat: nádraží evakuovali po úniku plynu",
+        "description": "Stanici Karnobat preventivně evakuovali kvůli úniku propan-butanu z nákladní cisterny. Před cestou si ověřte aktuální vlakové spojení."
+      },
+      "content": "<p>Železniční stanici v bulharském Karnobatu ve středu 16. září preventivně evakuovali poté, co byl zjištěn únik propan-butanu z cisterny nákladního vlaku. Podle zprávy agentury Novinite šlo podle prvních informací o menší únik z jednoho z ventilů. Policie a hasiči okolí soupravy zabezpečili a v době vydání zprávy nebyly hlášeny nebezpečné koncentrace ani škodlivé emise v ovzduší.</p>\n<h2>Co se na místě stalo</h2>\n<p>Cisterna byla součástí nákladního vlaku odstaveného přibližně 700 metrů od nádraží. Nejbližší obytné budovy se podle zveřejněných informací nacházely v bezpečné vzdálenosti. Evakuace stanice proto byla popsána jako preventivní opatření, nikoli jako reakce na potvrzené ohrožení obyvatel.</p>\n<p>Na místo vyjeli hasiči a policisté, kteří zajistili prostor kolem nákladní soupravy. Z Varny byl vyslán specializovaný tým, jenž měl únik odstranit. Zdroj však v okamžiku publikace neupřesnil, jak dlouho evakuace potrvá, zda byly odřeknuty osobní vlaky ani kdy bude provoz stanice zcela obnoven.</p>\n<h2>Co to znamená pro cestovatele</h2>\n<p>Čeští cestující, jejichž vlakový itinerář vede přes Karnobat, by si měli před odjezdem ověřit aktuální stav konkrétního spoje u bulharských železnic BDŽ nebo přímo na nádraží. Samotná původní zpráva není potvrzením, že omezení pokračuje i ve čtvrtek; stejně tak z ní ale nelze spolehlivě určit, kdy preventivní zásah skončil. Při cestě je proto rozumné počítat s časovou rezervou a nespoléhat pouze na původní jízdní řád.</p>\n<p>Při kontrole spojení je vhodné sledovat především číslo vlaku, výchozí a cílovou stanici a případnou změnu nástupiště. Obecná informace o otevření budovy totiž nemusí automaticky znamenat, že všechny návazné spoje jedou bez zpoždění. Pokud dopravce oznámí mimořádnost, pomůže uložit si aktuální trasu a před přestupem znovu zkontrolovat odjezdovou tabuli.</p>\n<p>Událost se týkala nákladní cisterny, nikoli osobního vlaku, a zveřejněné údaje nepopisují širší ohrožení města nebo regionu. Není tedy důvod měnit plán cesty po východním Bulharsku jen na základě této zprávy. Pokud by na místě zůstalo uzavřené nebo zabezpečené pásmo, cestující by měli respektovat pokyny policie, hasičů a pracovníků železnice a k cisterně se nepřibližovat.</p>\n<p><strong>Zdroj:</strong> <a href=\"https://www.novinite.com/view_news.php?id=240627\" rel=\"nofollow noopener\" target=\"_blank\">Novinite / Sofia News Agency</a></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240627",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 2
+    },
+    {
       "id": 2026091701,
       "type": "post",
       "slug": "bulharsko-pocasi-17-zari-2026",
