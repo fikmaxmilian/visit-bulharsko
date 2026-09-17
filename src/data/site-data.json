@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026091703,
+      "type": "post",
+      "slug": "azerbajdzan-zeleny-energeticky-kabel-bulharsko-2026",
+      "path": "/azerbajdzan-zeleny-energeticky-kabel-bulharsko-2026/",
+      "title": "Ázerbájdžán plánuje zelený energetický kabel do Bulharska",
+      "excerpt": "Ázerbájdžán připravuje elektrické propojení přes Gruzii a Turecko do Bulharska. Projekt má otevřít novou cestu pro obnovitelnou energii na evropský trh, jeho termín ani náklady ale zatím zveřejněny nebyly.",
+      "date": "2026-09-17T00:00:00",
+      "modified": "2026-09-17T17:02:16+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Zelený energetický kabel má vést do Bulharska",
+        "description": "Ázerbájdžán plánuje elektrický kabel přes Gruzii a Turecko do Bulharska. Má přivést obnovitelnou energii na evropský trh."
+      },
+      "content": "<p>Ázerbájdžán připravuje nové energetické propojení, které má vést přes Gruzii a Turecko do Bulharska. Záměr oznámil ázerbájdžánský ministr zahraničí Džejhun Bajramov po jednání se svým tureckým protějškem Hakanem Fidanem. Plánovaný kabel má vytvořit další cestu pro přenos elektřiny z obnovitelných zdrojů směrem na evropské trhy.</p>\n<h2>Co se plánuje</h2>\n<p>Podle agentury Novinite má být Bulharsko koncovým bodem trasy spojující čtyři země: Ázerbájdžán, Gruzii, Turecko a Bulharsko. Součástí širší energetické spolupráce je také samostatné spojení mezi ázerbájdžánskou Nachičevanskou autonomní republikou a Tureckem. Hlavní koridor by měl posílit přeshraniční energetickou infrastrukturu a umožnit, aby se zelená elektřina vyrobená v Ázerbájdžánu dostávala přes Turecko dál do Evropské unie.</p>\n<p>Oznámení zatím představuje plán, nikoli hotovou stavbu. Zveřejněné informace neobsahují předpokládané investiční náklady, kapacitu kabelu, přesnou trasu ani termín zahájení provozu. Není proto možné určit, kdy by projekt mohl ovlivnit bulharský energetický trh. Ministři jej popsali jako dlouhodobou a perspektivní iniciativu zaměřenou na rozvoj obnovitelných zdrojů a jejich propojení s evropskými odběrateli.</p>\n<h2>Ekonomický význam pro Bulharsko</h2>\n<p>Pokud projekt projde technickou a finanční přípravou, Bulharsko by mohlo posílit roli vstupní země pro energii směřující z oblasti Kavkazu do EU. Nové přeshraniční vedení by současně rozšířilo možnosti dovozu elektřiny a doplnilo další projekty, které mají propojit energetické soustavy v černomořském regionu. Skutečný dopad na ceny nebo bezpečnost dodávek však bude možné hodnotit teprve po zveřejnění parametrů projektu a závazného harmonogramu.</p>\n<h2>Proč je to důležité pro cestovatele a Čechy mířící do Bulharska</h2>\n<p>Pro návštěvníky Bulharska se nyní nic bezprostředně nemění: zpráva neznamená nové poplatky, omezení dopravy ani úpravu cen elektřiny. V delším horizontu ale stabilnější a rozmanitější zdroje energie mohou ovlivnit provozní náklady hotelů, restaurací, nabíjecích stanic i dopravních služeb. Případný vliv na účty podniků a konečné ceny služeb ovšem zatím nelze spolehlivě vyčíslit. Čeští turisté a investoři by proto měli projekt vnímat především jako signál dalšího propojování Bulharska s evropskou energetickou sítí, ne jako příslib okamžitého zlevnění pobytu.</p>\n<p><strong>Zdroj:</strong> <a href=\"https://www.novinite.com/view_news.php?id=240626\" rel=\"nofollow noopener\" target=\"_blank\">Novinite / Sofia News Agency</a></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240626",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 2
+    },
+    {
       "id": 2026091702,
       "type": "post",
       "slug": "karnobat-nadrazi-evakuace-unik-plynu-2026",
