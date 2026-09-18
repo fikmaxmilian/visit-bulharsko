@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026091801,
+      "type": "post",
+      "slug": "bulharsko-pocasi-18-zari-2026",
+      "path": "/bulharsko-pocasi-18-zari-2026/",
+      "title": "Pátek v Bulharsku bude slunečný a teplý, déšť se neočekává",
+      "excerpt": "V pátek 18. září čeká Bulharsko převážně slunečné počasí bez srážek a maxima 26 až 31 °C. U Černého moře může ráno vzniknout mlha, přes den bude 24 až 26 °C.",
+      "date": "2026-09-18T00:00:00",
+      "modified": "2026-09-18T08:02:38+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Počasí v Bulharsku 18. září: až 31 °C",
+        "description": "Bulharsko čeká 18. září slunečno, bez deště a 26 až 31 °C. U Černého moře může být ráno mlha, voda má 23 až 24 °C."
+      },
+      "content": "<p>Bulharsko čeká v pátek 18. září převážně slunečné, suché a na druhou polovinu září teplé počasí. Odpolední maxima mají ve většině země dosáhnout 26 až 31 °C, v Sofii přibližně 27 °C. Pro české návštěvníky je příznivá také předpověď pro černomořské pobřeží: po případné ranní nízké oblačnosti nebo mlze se má vyjasnit a teplota vzduchu vystoupí na 24 až 26 °C.</p>\n<h2>Jaké počasí se čeká během dne</h2>\n<p>Podle předpovědi zveřejněné agenturou Novinite bude páteční ráno citelně chladnější než odpoledne. Nejnižší teploty se mají pohybovat většinou mezi 9 a 14 °C, v Sofii kolem 10 °C. Přes den bude převládat jasná až slunečná obloha, pouze odpoledne může přechodně přibýt oblačnosti. Srážky se ve většině Bulharska neočekávají. Foukat má slabý až mírný vítr od východu.</p>\n<p>Velký rozdíl mezi ranními a odpoledními teplotami pocítí zejména lidé, kteří vyrážejí brzy na letiště, autobus nebo výlet do vnitrozemí. Zatímco ráno se hodí lehká vrstva navíc, během odpoledne budou podmínky připomínat vrcholné léto. Předpověď platí pro pátek; při delších cestách je proto vhodné ověřit vývoj počasí znovu.</p>\n<h2>Pobřeží a hory</h2>\n<p>U Černého moře se může ráno místy vytvořit nízká vrstevnatá oblačnost nebo mlha. V další části dne má být převážně slunečno se slabým až mírným východním větrem. Mořská voda má mít 23 až 24 °C a stav moře dosáhnout stupně 2 až 3 Douglasovy stupnice, tedy mírně zvlněné až zvlněné hladiny. Ani u pobřeží se déšť neočekává.</p>\n<p>Také horské oblasti mají zůstat většinou slunečné a bez srážek, odpoledne však může dočasně přibýt oblačnosti. Ve výšce kolem 1 200 metrů se čeká přibližně 21 °C, ve 2 000 metrech asi 14 °C. Na hřebenech bude foukat severní vítr, níže převážně severovýchodní.</p>\n<h2>Co to znamená pro cestovatele</h2>\n<p>Páteční podmínky přejí výletům, prohlídkám měst i pobytu u moře. Řidiči by měli ráno u pobřeží počítat s možností horší dohlednosti a přizpůsobit rychlost mlze. Přes den zůstává praktické chránit se před sluncem, mít dostatek vody a nenechávat děti ani zvířata v zaparkovaném autě. Do hor je vhodná větrovka a teplejší vrstva, protože s nadmořskou výškou teplota výrazně klesá.</p>\n<p><strong>Zdroj:</strong> <a href=\"https://www.novinite.com/view_news.php?id=240660\" rel=\"nofollow noopener\" target=\"_blank\">Novinite / Sofia News Agency</a></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240660",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026091703,
       "type": "post",
       "slug": "azerbajdzan-zeleny-energeticky-kabel-bulharsko-2026",
