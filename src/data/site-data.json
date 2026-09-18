@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026091803,
+      "type": "post",
+      "slug": "bulharsko-inflace-srpen-2026",
+      "path": "/bulharsko-inflace-srpen-2026/",
+      "title": "Bulharská inflace v srpnu zrychlila na 5,1 procenta",
+      "excerpt": "Meziroční inflace v Bulharsku v srpnu vzrostla na 5,1 %, zatímco v Česku činila 1,5 %. Cestovatelé by měli dál počítat s proměnlivými cenami, zejména u dopravy.",
+      "date": "2026-09-18T00:00:00",
+      "modified": "2026-09-18T17:02:47+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Inflace v Bulharsku zrychlila na 5,1 procenta",
+        "description": "Inflace v Bulharsku v srpnu vzrostla na 5,1 %. Co nové údaje Eurostatu znamenají pro české turisty a plánování rozpočtu na cestu."
+      },
+      "content": "<p>Meziroční inflace v Bulharsku v srpnu zrychlila na 5,1 procenta z červencových 4,4 procenta. Vyplývá to z konečného odhadu Eurostatu založeného na harmonizovaném indexu spotřebitelských cen. Bulharsko tak zůstalo mezi zeměmi Evropské unie s nejrychlejším růstem cen. Pro české návštěvníky nejde o signál, že by všechny turistické služby zdražily stejným tempem, nové údaje ale potvrzují, že při plánování výdajů je namístě cenová rezerva.</p>\n<h2>Bulharsko patří k zemím s vyšší inflací</h2>\n<p>Vyšší meziroční inflaci než Bulharsko vykázaly v srpnu pouze tři státy: Rumunsko se 6,3 procenta, Litva s 5,6 procenta a Kypr s 5,2 procenta. Česká republika byla podle stejných dat na 1,5 procenta. Průměr eurozóny i celé Evropské unie dosáhl 3,2 procenta.</p>\n<p>Také meziměsíční změna byla v Bulharsku výraznější než evropský průměr. Spotřebitelské ceny v zemi se proti červenci zvýšily o 0,8 procenta, zatímco v eurozóně a celé EU shodně o 0,4 procenta. Zdroj uvádí, že evropské zrychlení inflace souviselo především s vyššími cenami energií. Ty byly v srpnu meziročně dražší o 14,3 procenta.</p>\n<h2>Proč je to důležité pro Čechy mířící do Bulharska</h2>\n<p>Vyšší inflace se může postupně promítat do cen dopravy, zásobování, restaurací nebo dalších služeb, které turisté využívají. Samotný celostátní index však neříká, o kolik se změnily ceny konkrétního hotelu, jídla či jízdenky. Rozdíly mezi Sofií, pobřežními letovisky a menšími městy mohou být značné a výsledná cena závisí také na sezoně.</p>\n<p>Cestovatelé proto mohou před odjezdem znovu zkontrolovat ceny rezervovaného ubytování a místní dopravy a nespoléhat na starší rozpočty z předchozích let. Při cestě autem je vhodné sledovat aktuální ceny paliv a ponechat si rezervu na jejich případné změny. U plateb kartou pomůže zkontrolovat kurz a podmínky banky; při nabídce přepočtu na české koruny u terminálu bývá zpravidla rozumné porovnat kurz s platbou v místní měně.</p>\n<p>Údaj 5,1 procenta popisuje meziroční vývoj cenové hladiny za srpen, nikoli předpověď na další měsíce. Pro konkrétní cestovní rozpočet jsou proto důležitější aktuální ceny u vybraných poskytovatelů než samotná národní statistika.</p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240652",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 2
+    },
+    {
       "id": 2026091802,
       "type": "post",
       "slug": "nafta-bulharsko-cena-zari-2026",
