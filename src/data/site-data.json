@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026091902,
+      "type": "post",
+      "slug": "dunaj-bulharsko-hladina-stoupla-zari-2026",
+      "path": "/dunaj-bulharsko-hladina-stoupla-zari-2026/",
+      "title": "Hladina Dunaje v Bulharsku místy stoupla až o 9 centimetrů",
+      "excerpt": "Dunaj na většině bulharského úseku za 24 hodin mírně stoupl. Největší nárůst naměřili u Lomu, cestující by přesto měli ověřovat podmínky přímo u dopravců.",
+      "date": "2026-09-19T00:00:00",
+      "modified": "2026-09-19T13:02:49+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Dunaj v Bulharsku místy stoupl až o 9 cm",
+        "description": "Hladina Dunaje na většině bulharského úseku mírně vzrostla. Největší nárůst naměřili u Lomu, u Ruse naopak klesla o centimetr."
+      },
+      "content": "<p>Hladina Dunaje na většině bulharského úseku během posledních 24 hodin mírně vzrostla. Největší změnu zaznamenala měřicí místa u Lomu, kde řeka stoupla o 9 centimetrů. Vyplývá to z údajů bulharské Výkonné agentury pro průzkum a údržbu Dunaje zveřejněných 19. září. Pro cestovatele jde o příznivý krátkodobý posun, jednotlivé úseky se však vyvíjejí rozdílně.</p>\n<h2>Co ukázala měření</h2>\n<p>U obcí Novo Selo a Orjachovo hladina za den vzrostla shodně o 8 centimetrů. Ve Svištově přibyl jeden centimetr. Opačným směrem se vydalo Ruse, kde měření ukázalo pokles o jeden centimetr, zatímco v Silistře se stav nezměnil. Pro Nikopol nebyla denní změna k dispozici.</p>\n<p>Agentura současně uvedla stavy vůči místním vodočtům: minus 60 centimetrů v Novém Sele, minus 20 centimetrů v Lomu, minus 107 centimetrů v Orjachovu, minus 75 centimetrů ve Svištově, minus 129 centimetrů v Ruse a minus 119 centimetrů v Silistře. V Nikopolu byla hodnota minus 27 centimetrů. Záporné číslo je údaj vůči nule konkrétního vodočtu, nikoli údaj o skutečné hloubce řeky.</p>\n<h2>Co to znamená pro cestovatele</h2>\n<p>Jednodenní vzestup o několik centimetrů sám o sobě nepotvrzuje návrat k běžným plavebním podmínkám na celé řece. Zveřejněná zpráva neuvádí nové uzavírky, zrušené plavby ani omezení přívozů. Turisté proto nemusejí měnit plán jen na základě těchto měření, měli by ale rozlišovat mezi vývojem hladiny a aktuálním provozním stavem konkrétní linky.</p>\n<p>Češi cestující na říční plavbu, k dunajským přístavům nebo využívající místní přepravu by si měli před odjezdem ověřit informace u svého dopravce či provozovatele. Totéž platí pro cyklisty a řidiče, jejichž trasa počítá s přívozem: rozhodující je aktuální jízdní řád a místní oznámení, nikoli pouze celkový směr pohybu hladiny. Data představují stav k 19. září a mohou se rychle změnit podle srážek i přítoku z horní části povodí. Další denní měření ukážou, zda mírný růst pokračuje a zda se projeví také v okolí Ruse a Silistry.</p>\n<p><strong>Zdroj:</strong> <a href=\"https://www.novinite.com/view_news.php?id=240692\" target=\"_blank\" rel=\"noopener noreferrer\">Novinite / Sofia News Agency</a></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240692",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 2
+    },
+    {
       "id": 2026091901,
       "type": "post",
       "slug": "bulharsko-pocasi-vikend-ochlazeni-zari-2026",
