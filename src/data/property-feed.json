@@ -1,7 +1,27 @@
 {
   "source": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/publicExportFacebook/index/1002/",
-  "fetchedAt": "2026-09-18T11:05:34.837889+00:00",
+  "fetchedAt": "2026-09-19T15:06:45.779015+00:00",
   "items": [
+    {
+      "id": "34405",
+      "title": "Kompletně vybavený apartmán 1+kk po rekonstrukci s výhledem na moře | Sveti Vlas",
+      "price": "56 500 EUR",
+      "priceNum": 56500,
+      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/344050_1789739999.jpg",
+      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/kompletne-vybaveny-apartman-1-kk-po-rekonstrukci-s-vyhledem-na-more-sveti-vlas/34405?aff=l4todz91fb",
+      "location": "Sveti Vlas",
+      "available": true
+    },
+    {
+      "id": "34400",
+      "title": "Útulný apartmán 1+kk s balkonem v přírodě - Kosharitsa, Bulharsko",
+      "price": "36 000 EUR",
+      "priceNum": 36000,
+      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/34400_7335345137.jpg",
+      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/utulny-apartman-1-kk-s-balkonem-v-prirode-kosharitsa-bulharsko/34400?aff=l4todz91fb",
+      "location": "Kosharitsa",
+      "available": true
+    },
     {
       "id": "34394",
       "title": "2+kk s terasou, možnost koupě na splátky! komplex Garden of Eden, Sveti Vlas",
@@ -30,6 +50,76 @@
       "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/343924_1789727714.jpg",
       "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-do-zelene-komplex-garden-of-eden-sveti-vlas/34392?aff=l4todz91fb",
       "location": "Sveti Vlas",
+      "available": true
+    },
+    {
+      "id": "34309",
+      "title": "Slunné studio v Nessebar Residence s výhledem na bazén - Nesebar, Bulharsko",
+      "price": "61 500 EUR",
+      "priceNum": 61500,
+      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/34309_6478220605.jpg",
+      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/slunne-studio-v-nessebar-residence-s-vyhledem-na-bazen-nesebar-bulharsko/34309?aff=l4todz91fb",
+      "location": "Nessebar",
+      "available": true
+    },
+    {
+      "id": "34306",
+      "title": "Apartmán 2+kk v Rutland Bay s výhledem na moře - Ravda, Bulharsko",
+      "price": "65 500 EUR",
+      "priceNum": 65500,
+      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/34306_6442986761.jpg",
+      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-2-kk-v-rutland-bay-s-vyhledem-na-more-ravda-bulharsko/34306?aff=l4todz91fb",
+      "location": "Ravda",
+      "available": true
+    },
+    {
+      "id": "34304",
+      "title": "Prostorný apartmán 3+kk v komplexu Phoenix s terasou - Sveti Vlas, Bulharsko",
+      "price": "175 000 EUR",
+      "priceNum": 175000,
+      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/34304_6416976984.jpg",
+      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-3-kk-v-komplexu-phoenix-s-terasou-sveti-vlas-bulharsko/34304?aff=l4todz91fb",
+      "location": "Sveti Vlas",
+      "available": true
+    },
+    {
+      "id": "34302",
+      "title": "Apartmán 3+kk v Kentavar s výhledem na moře - Sveti Vlas, Bulharsko",
+      "price": "160 000 EUR",
+      "priceNum": 160000,
+      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/34302_6402544014.jpg",
+      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-3-kk-v-kentavar-s-vyhledem-na-more-sveti-vlas-bulharsko/34302?aff=l4todz91fb",
+      "location": "Sveti Vlas",
+      "available": true
+    },
+    {
+      "id": "34300",
+      "title": "Útulné studio v Abelia Residence se zázemím u bazénu - Slunečné pobřeží, Bulharsko",
+      "price": "58 500 EUR",
+      "priceNum": 58500,
+      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/34300_17896398332.jpg",
+      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/utulne-studio-v-abelia-residence-se-zazemim-u-bazenu-slunecne-pobrezi-bulharsko/34300?aff=l4todz91fb",
+      "location": "Slunečné pobřeží",
+      "available": true
+    },
+    {
+      "id": "34296",
+      "title": "Nový apartmán 2+kk s parkovacím místem a sklepem v moderní budově - Primorsko, Bulharsko",
+      "price": "125 000 EUR",
+      "priceNum": 125000,
+      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/34296_6275609077.jpg",
+      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/novy-apartman-2-kk-s-parkovacim-mistem-a-sklepem-v-moderni-budove-primorsko-bulharsko/34296?aff=l4todz91fb",
+      "location": "Primorsko",
+      "available": true
+    },
+    {
+      "id": "34272",
+      "title": "Slunečný apartmán 2+kk v Apolon 7 s výhledem na bazén - Ravda, Bulharsko",
+      "price": "110 000 EUR",
+      "priceNum": 110000,
+      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/34272_17895819221.jpg",
+      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/slunecny-apartman-2-kk-v-apolon-7-s-vyhledem-na-bazen-ravda-bulharsko/34272?aff=l4todz91fb",
+      "location": "Ravda",
       "available": true
     },
     {
@@ -269,96 +359,6 @@
       "priceNum": 90600,
       "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/339840_1789135982.jpg",
       "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-s-vyhledem-na-more-v-top-lokalite-komplex-grand-hotel-sveti-vlas/33984?aff=l4todz91fb",
-      "location": "Sveti Vlas",
-      "available": true
-    },
-    {
-      "id": "33983",
-      "title": "Vzdušný 3+kk ve skvělém komplexu Mesembria Resort, Sluneční pobřeží",
-      "price": "135 000 EUR",
-      "priceNum": 135000,
-      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/3398321_1789135791.jpg",
-      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vzdusny-3-kk-ve-skvelem-komplexu-mesembria-resort-slunecni-pobrezi/33983?aff=l4todz91fb",
-      "location": "Sluneční pobřeží",
-      "available": true
-    },
-    {
-      "id": "33979",
-      "title": "Prostorný 3+kk s terasou a výhledem na moře - Sveti Vlas, Bulharsko",
-      "price": "120 000 EUR",
-      "priceNum": 120000,
-      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/33979_1325590524.jpg",
-      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-3-kk-s-terasou-a-vyhledem-na-more-sveti-vlas-bulharsko/33979?aff=l4todz91fb",
-      "location": "Sveti Vlas",
-      "available": true
-    },
-    {
-      "id": "33975",
-      "title": "Prostorný 2+kk v Olimp u Marina Dinevi - Sveti Vlas, Bulharsko",
-      "price": "105 000 EUR",
-      "priceNum": 105000,
-      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/33975_1314836522.jpg",
-      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-v-olimp-u-marina-dinevi-sveti-vlas-bulharsko/33975?aff=l4todz91fb",
-      "location": "Sveti Vlas",
-      "available": true
-    },
-    {
-      "id": "33973",
-      "title": "Klidný 2+kk v rezidenčním komplexu South Bay jen 200 metrů od moře - Sveti Vlas, Bulharsko",
-      "price": "93 500 EUR",
-      "priceNum": 93500,
-      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/33973_1302749845.jpg",
-      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/klidny-2-kk-v-rezidencnim-komplexu-south-bay-jen-200-metru-od-more-sveti-vlas-bulharsko/33973?aff=l4todz91fb",
-      "location": "Sveti Vlas",
-      "available": true
-    },
-    {
-      "id": "33971",
-      "title": "Prostorný 3+kk v Royal Sun s resortním zázemím - Slunečné pobřeží, Bulharsko",
-      "price": "130 000 EUR",
-      "priceNum": 130000,
-      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/33971_1281172525.jpg",
-      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-3-kk-v-royal-sun-s-resortnim-zazemim-slunecne-pobrezi-bulharsko/33971?aff=l4todz91fb",
-      "location": "Slunečné pobřeží",
-      "available": true
-    },
-    {
-      "id": "33970",
-      "title": "Exkluzivní apartmán v Nesebaru s výhledem na moře, dvěma terasami a pláží pár kroků od domu",
-      "price": "157 000 EUR",
-      "priceNum": 157000,
-      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/33970_17891265442.jpg",
-      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-apartman-v-nesebaru-s-vyhledem-na-more-dvema-terasami-a-plazi-par-kroku-od-domu/33970?aff=l4todz91fb",
-      "location": "Nesebar",
-      "available": true
-    },
-    {
-      "id": "33968",
-      "title": "Prostorný 3+kk v Diamond Bay s velkým balkonem - Slunečné pobřeží, Bulharsko",
-      "price": "114 900 EUR",
-      "priceNum": 114900,
-      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/33968_1252360408.jpg",
-      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-3-kk-v-diamond-bay-s-velkym-balkonem-slunecne-pobrezi-bulharsko/33968?aff=l4todz91fb",
-      "location": "Slunečné pobřeží",
-      "available": true
-    },
-    {
-      "id": "33967",
-      "title": "Útulný 3+kk ve VIP Park s výhledem na bazén - Slunečné pobřeží, Bulharsko",
-      "price": "103 900 EUR",
-      "priceNum": 103900,
-      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/33967_1240850239.jpg",
-      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/utulny-3-kk-ve-vip-park-s-vyhledem-na-bazen-slunecne-pobrezi-bulharsko/33967?aff=l4todz91fb",
-      "location": "Slunečné pobřeží",
-      "available": true
-    },
-    {
-      "id": "33966",
-      "title": "1+kk v oblíbeném komplexu Panorama Bay – Sveti Vlas",
-      "price": "60 500 EUR",
-      "priceNum": 60500,
-      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/33966_17891217309.jpg",
-      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-v-oblibenem-komplexu-panorama-bay-sveti-vlas/33966?aff=l4todz91fb",
       "location": "Sveti Vlas",
       "available": true
     }
