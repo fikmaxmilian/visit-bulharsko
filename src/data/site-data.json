@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026091901,
+      "type": "post",
+      "slug": "bulharsko-pocasi-vikend-ochlazeni-zari-2026",
+      "path": "/bulharsko-pocasi-vikend-ochlazeni-zari-2026/",
+      "title": "Bulharsko čeká teplý víkend, poté déšť a prudké ochlazení",
+      "excerpt": "O víkendu bude v Bulharsku až 32 °C, v neděli ale na západě přibudou přeháňky a bouřky. Začátkem týdne se ochladí a v úterý mají maxima klesnout na 15 až 20 °C.",
+      "date": "2026-09-19T00:00:00",
+      "modified": "2026-09-19T08:02:13+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Bulharsko: po teplém víkendu déšť a ochlazení",
+        "description": "Víkend v Bulharsku přinese až 32 °C, poté déšť, bouřky a ochlazení. V úterý mají maxima klesnout na 15 až 20 °C."
+      },
+      "content": "<p>Bulharsko čeká teplý víkend s teplotami připomínajícími léto, poté se ale počasí výrazně změní. V sobotu 19. září mají maxima dosáhnout 27 až 32 °C. V neděli přibude hlavně na západě oblačnost, přeháňky a bouřky a na začátku nového týdne začne do země proudit chladnější vzduch. Čeští návštěvníci by proto neměli plánovat další dny pouze podle víkendových podmínek.</p>\n<h2>Co přinese víkend</h2>\n<p>Sobota má začít slunečně. Kolem poledne a odpoledne se bude přechodně tvořit více oblačnosti, především nad horami západního Bulharska, kde se mohou objevit krátké ojedinělé přeháňky. Noční teploty se budou pohybovat mezi 12 a 17 °C, přes den se očekává 27 až 32 °C.</p>\n<p>V neděli má na většině území dál převládat slunečno, v západní části země však bude oblačnosti postupně více. Odpoledne se tam mohou na více místech vyskytnout krátké přeháňky a bouřky. Denní teploty už mírně klesnou. Zveřejněná předpověď nepopisuje nedělní déšť jako celodenní jev pro celé Bulharsko, proto je důležité sledovat konkrétní oblast a aktuální radar.</p>\n<h2>Výrazná změna na začátku týdne</h2>\n<p>Na počátku nového týdne má zesílit severozápadní vítr, přibude oblačnost a srážky se rozšíří. Intenzivnější déšť a bouřky se očekávají zejména v západním a středním severním Bulharsku. Národní institut meteorologie a hydrologie podle zdroje upozorňuje, že místy mohou být srážky vydatné.</p>\n<p>V úterý 22. září, kdy Bulharsko slaví Den nezávislosti a platí státní svátek, má být zataženo a déšť se očekává na velké části území. Nejvyšší denní teploty mají klesnout přibližně na 15 až 20 °C. Ve středu má zůstat větrno a oblačno, srážek však bude postupně ubývat; riziko silnějšího deště může přetrvat na severovýchodě země.</p>\n<h2>Co to znamená pro cestovatele</h2>\n<p>Pro sobotní výlety se hodí ochrana proti slunci a dostatek vody, při nedělní cestě do západních hor už také lehká nepromokavá vrstva. V úterý bude rozdíl proti sobotním maximům výrazný, takže se vyplatí přibalit teplejší oblečení a při delších přesunech počítat s rezervou.</p>\n<p>Déšť a bouřky mohou dočasně zhoršit dohlednost a podmínky na silnicích. Cestující by měli před odjezdem ověřit místní předpověď a případné výstrahy, zvlášť při cestě přes horské oblasti nebo sever země. Předpověď se může zpřesňovat podle dalšího vývoje, a proto není důvod rušit cestu automaticky; důležitější je přizpůsobit program aktuálním podmínkám.</p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240666",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026091803,
       "type": "post",
       "slug": "bulharsko-inflace-srpen-2026",
