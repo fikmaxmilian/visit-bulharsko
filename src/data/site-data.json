@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026091903,
+      "type": "post",
+      "slug": "bulharsko-velvyslanec-sae-kontrola-zari-2026",
+      "path": "/bulharsko-velvyslanec-sae-kontrola-zari-2026/",
+      "title": "Bulharsko povolalo velvyslance v SAE zpět do Sofie a nařídilo kontrolu ambasády",
+      "excerpt": "Bulharský velvyslanec ve Spojených arabských emirátech byl povolán do Sofie kvůli prověření závažných tvrzení. Ministerstvo zahraničí současně nařídilo kontrolu chodu ambasády.",
+      "date": "2026-09-19T00:00:00",
+      "modified": "2026-09-19T17:02:10+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Bulharsko povolalo velvyslance v SAE do Sofie",
+        "description": "Bulharsko povolalo velvyslance v SAE zpět do Sofie a nařídilo kontrolu ambasády. Co politická kauza znamená pro české čtenáře."
+      },
+      "content": "<p>Bulharské ministerstvo zahraničí povolalo velvyslance ve Spojených arabských emirátech Ivana Jordanova zpět do Sofie. Současně nařídilo kontrolu fungování bulharského velvyslanectví v SAE. Krok následoval po zveřejnění tvrzení, která spojují firmu vlastněnou velvyslancovým otcem s financováním soukromých letů bulharského poslance a stranického lídra Deljana Peevského.</p>\n<h2>Co oznámilo ministerstvo</h2>\n<p>Podle agentury Novinite ministryně zahraničí Velislava Petrova velvyslance předvolala do bulharské metropole a požádala o prověření práce diplomatické mise. Samotné povolání do Sofie ještě není totéž jako formální odvolání z funkce. K tomu je podle popsaného postupu potřeba dekret prezidenta vydaný na návrh vlády. Ministerstvo uvedlo, že podnikne kroky k předložení věci kabinetu.</p>\n<p>Případ navazuje na informace prezentované bulharským ministerstvem vnitra v rámci protikorupčního vyšetřování. Ministr vnitra Ivan Demerdžiev podle zdroje hovořil o firmách, které získaly převážnou část veřejných zakázek na dálniční svodidla, a o podezření, že část peněz následně směřovala přes další společnost na úhradu desítek Peevského letů. Jde o tvrzení vyšetřovatelů a politických představitelů; zveřejněná zpráva neznamená pravomocný závěr o vině velvyslance ani dalších jmenovaných osob.</p>\n<h2>Co bude následovat</h2>\n<p>Další postup bude záviset na výsledku kontroly ambasády a na rozhodnutí bulharské vlády. Pokud kabinet navrhne ukončení velvyslancova mandátu, konečný institucionální krok přísluší prezidentovi. V tuto chvíli tedy jde o otevřenou politickou a diplomatickou kauzu, nikoli o uzavřený případ.</p>\n<h2>Proč je to důležité pro cestovatele a Čechy mířící do Bulharska</h2>\n<p>Zpráva se netýká letového provozu mezi Českem a Bulharskem ani běžných cestovních pravidel. Zmíněné soukromé lety nesouvisejí s pravidelnými linkami a nejsou hlášena žádná omezení pro turisty. Pro české čtenáře je významná především jako informace o fungování bulharských veřejných institucí, protikorupční kontrole a nakládání s penězi u silničních zakázek.</p>\n<p>Na praktické plánování dovolené v Bulharsku nemá oznámení bezprostřední dopad. Cestující nemusí kvůli této zprávě měnit rezervace ani trasu. Pokud by pozdější rozhodnutí bulharských institucí přinesla konkrétní změnu v dopravě, konzulárních službách nebo na silnicích, bylo by nutné posuzovat až takové samostatné oznámení.</p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240690",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026091902,
       "type": "post",
       "slug": "dunaj-bulharsko-hladina-stoupla-zari-2026",
