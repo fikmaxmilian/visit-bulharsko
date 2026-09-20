@@ -1,6 +1,6 @@
 {
   "source": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/publicExportFacebook/index/1002/",
-  "fetchedAt": "2026-09-19T15:06:45.779015+00:00",
+  "fetchedAt": "2026-09-20T06:05:37.201049+00:00",
   "items": [
     {
       "id": "34405",
@@ -20,6 +20,16 @@
       "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/34400_7335345137.jpg",
       "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/utulny-apartman-1-kk-s-balkonem-v-prirode-kosharitsa-bulharsko/34400?aff=l4todz91fb",
       "location": "Kosharitsa",
+      "available": true
+    },
+    {
+      "id": "34396",
+      "title": "Apartmán 2+kk v Admiral Plaza, Slunečné pobřeží – 60 m², 2 balkony a jen 2 minuty od moře",
+      "price": "102 000 EUR",
+      "priceNum": 102000,
+      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/343963_1789728947.jpg",
+      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-2-kk-v-admiral-plaza-slunecne-pobrezi-60-m-2-2-balkony-a-jen-2-minuty-od-more/34396?aff=l4todz91fb",
+      "location": "Slunečné pobřeží",
       "available": true
     },
     {
@@ -50,6 +60,46 @@
       "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/343924_1789727714.jpg",
       "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-do-zelene-komplex-garden-of-eden-sveti-vlas/34392?aff=l4todz91fb",
       "location": "Sveti Vlas",
+      "available": true
+    },
+    {
+      "id": "34390",
+      "title": "Zrekonstruované studio v Makon Residence s panoramatickým výhledem na moře - Sveti Vlas, Bulharsko",
+      "price": "60 500 EUR",
+      "priceNum": 60500,
+      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/343900_1789727359.jpg",
+      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/zrekonstruovane-studio-v-makon-residence-s-panoramatickym-vyhledem-na-more-sveti-vlas-bulharsko/34390?aff=l4todz91fb",
+      "location": "Sveti Vlas",
+      "available": true
+    },
+    {
+      "id": "34331",
+      "title": "Prostorný apartmán 2+kk v Emilia Romana City 2 - Slunečné pobřeží, Bulharsko",
+      "price": "109 000 EUR",
+      "priceNum": 109000,
+      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/34331_17896581271.jpg",
+      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-2-kk-v-emilia-romana-city-2-slunecne-pobrezi-bulharsko/34331?aff=l4todz91fb",
+      "location": "Slunečné pobřeží",
+      "available": true
+    },
+    {
+      "id": "34319",
+      "title": "Prostorný apartmán 2+kk v Dream Holiday jen 200 metrů od pláže - Ravda, Bulharsko",
+      "price": "106 000 EUR",
+      "priceNum": 106000,
+      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/34319_178965276320.jpg",
+      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-2-kk-v-dream-holiday-jen-200-metru-od-plaze-ravda-bulharsko/34319?aff=l4todz91fb",
+      "location": "Ravda",
+      "available": true
+    },
+    {
+      "id": "34314",
+      "title": "Prostorný apartmán 3+kk v Marina Cape s výhledem na moře - Aheloy, Bulharsko",
+      "price": "140 000 EUR",
+      "priceNum": 140000,
+      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/34314_6487497016.jpg",
+      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-3-kk-v-marina-cape-s-vyhledem-na-more-aheloy-bulharsko/34314?aff=l4todz91fb",
+      "location": "Aheloy",
       "available": true
     },
     {
@@ -310,56 +360,6 @@
       "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/34104_3699761067.jpg",
       "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/utulne-studio-ve-fortuna-cape-5-s-panoramatem-more-byala-bulharsko/34104?aff=l4todz91fb",
       "location": "Byala",
-      "available": true
-    },
-    {
-      "id": "34086",
-      "title": "Studio s výhledem na moře – Byala",
-      "price": "58 900 EUR",
-      "priceNum": 58900,
-      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/3408621_1789301348.jpg",
-      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/studio-s-vyhledem-na-more-byala/34086?aff=l4todz91fb",
-      "location": "Byala",
-      "available": true
-    },
-    {
-      "id": "34085",
-      "title": "krásný mezonet 2+kk s obrovskou panoramatickou terasou, v klidné části města Byala",
-      "price": "75 000 EUR",
-      "priceNum": 75000,
-      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/340851_1789301208.jpg",
-      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/krasny-mezonet-2-kk-s-obrovskou-panoramatickou-terasou-v-klidne-casti-mesta-byala/34085?aff=l4todz91fb",
-      "location": "Byala",
-      "available": true
-    },
-    {
-      "id": "34008",
-      "title": "Prostorný a elegantně zařízený 2+kk se třemi terasami v komplexu Sunny Garden, Slunečné pobřeží",
-      "price": "82 000 EUR",
-      "priceNum": 82000,
-      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/340081_1789202224.jpg",
-      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-a-elegantne-zarizeny-2-kk-se-tremi-terasami-v-komplexu-sunny-garden-slunecne-pobrezi/34008?aff=l4todz91fb",
-      "location": "Slunečné pobřeží",
-      "available": true
-    },
-    {
-      "id": "33985",
-      "title": "2+kk mezonet s prostornou terasou, 150m od pláže, komplex Antonia, Sveti Vlas",
-      "price": "108 500 EUR",
-      "priceNum": 108500,
-      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/3398510_1789136146.jpg",
-      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-mezonet-s-prostornou-terasou-150m-od-plaze-komplex-antonia-sveti-vlas/33985?aff=l4todz91fb",
-      "location": "Sveti Vlas",
-      "available": true
-    },
-    {
-      "id": "33984",
-      "title": "1+kk s výhledem na moře, v top lokalitě, komplex Grand hotel Sveti Vlas",
-      "price": "90 600 EUR",
-      "priceNum": 90600,
-      "img": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/339840_1789135982.jpg",
-      "href": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-s-vyhledem-na-more-v-top-lokalite-komplex-grand-hotel-sveti-vlas/33984?aff=l4todz91fb",
-      "location": "Sveti Vlas",
       "available": true
     }
   ]

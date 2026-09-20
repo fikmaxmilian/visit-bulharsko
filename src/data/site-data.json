@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026092001,
+      "type": "post",
+      "slug": "bulharsko-pomoc-paliva-lpg-zari-2026",
+      "path": "/bulharsko-pomoc-paliva-lpg-zari-2026/",
+      "title": "Bulharsko chystá pomoc kvůli drahým palivům, snížit chce i cenu LPG",
+      "excerpt": "Bulharská vláda představila balík pomoci za více než 300 milionů eur. Počítá s jednorázovou podporou, dotacemi pro dopravu a plánovaným zrušením spotřební daně z LPG.",
+      "date": "2026-09-20T00:00:00",
+      "modified": "2026-09-20T08:03:13+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Bulharsko chystá pomoc kvůli drahým palivům",
+        "description": "Bulharsko představilo pomoc za více než 300 milionů eur. Plánuje podporu dopravy, jednorázový příspěvek a zrušení spotřební daně z LPG."
+      },
+      "content": "<p>Bulharská vláda představila balík opatření za více než 300 milionů eur, kterým chce zmírnit dopady rostoucích cen pohonných hmot na domácnosti, zemědělce a dopravce. Součástí je jednorázová podpora 50 eur pro více než 550 tisíc lidí, plánované zrušení spotřební daně z LPG a dotace pro veřejnou, školní i zdravotnickou dopravu. Pro české návštěvníky je důležité, že balík neobsahuje srovnatelné snížení daně z benzinu nebo nafty.</p>\n<h2>Co vláda oznámila</h2>\n<p>Jednorázových 50 eur mají v říjnu automaticky dostat vybrané skupiny obyvatel s příjmy pod hranicí chudoby, které už pobírají sociální podporu. Nebude nutná nová žádost a peníze mají přijít stejným způsobem jako současné dávky. Na toto opatření vláda vyčlenila 30 milionů eur. Nejde tedy o plošný příspěvek pro všechny řidiče ani o podporu určenou zahraničním turistům.</p>\n<p>Další částí plánu je zrušení spotřební daně z LPG do konce roku. Tento krok má snížit cenu autoplynu na čerpacích stanicích, nejprve ale vyžaduje změnu zákona a spolupráci parlamentu. Vláda odhaduje dopad na rozpočet asi na 15 milionů eur. U benzinu a motorové nafty podobnou úlevu zatím nechystá, a proto nelze očekávat, že oznámený balík automaticky zlevní tankování všech vozidel.</p>\n<h2>Podpora dopravy a zemědělství</h2>\n<p>Dotace pro veřejnou, školní a zdravotnickou dopravu se mají zaměřit zejména na menší a odlehlá sídla. Cílem je omezit promítání dražších paliv do cen jízdenek a snížit riziko ekonomických problémů dopravců. Těžká nákladní doprava už podle vlády získala přímou pomoc 55 milionů eur.</p>\n<p>Zemědělcům je určeno celkem 170 milionů eur, z toho 100 milionů má kompenzovat rozdíl v nákladech na paliva mezi roky 2025 a 2026. Podpora má dosahovat téměř 44 eurocentů na litr. Vláda tvrdí, že tím chce bránit přenosu vyšších nákladů do cen potravin, skutečný dopad na maloobchodní ceny ale bude možné posoudit až později.</p>\n<h2>Proč je to důležité pro Čechy mířící do Bulharska</h2>\n<p>Cestující s autem na LPG mohou vývoj sledovat, protože po schválení zákonné změny by se úleva mohla projevit přímo u stojanů. Řidiči benzinových a naftových aut by naopak měli dál počítat se současnými vyššími cenami a porovnávat nabídku jednotlivých čerpacích stanic. U autobusů a místní veřejné dopravy má pomoc bránit zdražování jízdenek, není však zárukou, že se ceny nezmění. Opatření jsou vládním plánem v různých fázích zavádění, nikoli okamžitým plošným zlevněním pro turisty.</p>\n<p><a href=\"https://www.novinite.com/view_news.php?id=240685\" rel=\"noopener noreferrer\" target=\"_blank\">Zdroj: Novinite / Sofia News Agency</a></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240685",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026091903,
       "type": "post",
       "slug": "bulharsko-velvyslanec-sae-kontrola-zari-2026",
