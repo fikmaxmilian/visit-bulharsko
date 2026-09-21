@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026092103,
+      "type": "post",
+      "slug": "usa-prodlouzily-lhutu-pro-prodej-aktiv-lukoilu-2026",
+      "path": "/usa-prodlouzily-lhutu-pro-prodej-aktiv-lukoilu-2026/",
+      "title": "USA prodloužily lhůtu pro jednání o prodeji zahraničních aktiv Lukoilu",
+      "excerpt": "Americké úřady umožnily pokračovat v jednáních o prodeji zahraničních aktiv Lukoilu do 22. října. Zvláštní povolení pro bulharská aktiva platí do 29. října.",
+      "date": "2026-09-21T00:00:00",
+      "modified": "2026-09-21T17:02:57+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "USA prodloužily lhůtu pro prodej aktiv Lukoilu",
+        "description": "Jednání o prodeji zahraničních aktiv Lukoilu mohou pokračovat do 22. října. Povolení pro bulharská aktiva platí do 29. října."
+      },
+      "content": "<p>Americké ministerstvo financí prodloužilo možnost jednat o prodeji zahraničních aktiv ruské ropné společnosti Lukoil. Nová lhůta pro vyjednávání a podpis podmíněných dohod platí do 22. října 2026. Samotné dokončení případné transakce však nadále vyžaduje zvláštní souhlas amerického Úřadu pro kontrolu zahraničních aktiv (OFAC).</p>\n<h2>Co se změnilo</h2>\n<p>Předchozí povolení mělo skončit 19. září. Prodloužení se vztahuje na společnost Lukoil International GmbH, která drží aktiva skupiny mimo Rusko, a na subjekty, které ovládá. Lukoil začal hledat kupce po zavedení amerických sankcí proti firmě a části jejích dceřiných společností.</p>\n<p>První dohoda s obchodníkem s komoditami Gunvor neprošla schválením amerického ministerstva financí a byla ukončena. Lukoil následně v lednu 2026 oznámil dohodu s americkou investiční společností Carlyle, ta ale na souhlas OFAC stále čeká. Prodloužené povolení tedy neznamená, že je prodej hotový nebo že už byla potvrzena změna vlastníka.</p>\n<h2>Bulharská aktiva mají samostatnou lhůtu</h2>\n<p>Podle agentury Novinite zůstává zvláštní americké povolení pro čerpací stanice Lukoilu mimo Rusko a pro bulharská aktiva společnosti v platnosti do 29. října 2026. Skupina v Bulharsku vlastní významná energetická aktiva včetně rafinérie v Burgasu. Ta patří k důležitým částem palivové infrastruktury země a její další vlastnické uspořádání proto sledují bulharské instituce i trh.</p>\n<p>Americký krok poskytuje více času pro právní a obchodní jednání, ale sám o sobě nemění provoz rafinérie ani maloobchodní sítě. Z dostupné zprávy také nevyplývá, že by bylo oznámeno omezení prodeje pohonných hmot v Bulharsku.</p>\n<h2>Proč je to důležité pro cestovatele a Čechy mířící do Bulharska</h2>\n<p>Vývoj kolem Lukoilu je relevantní hlavně kvůli stabilitě dodávek a cenám paliv. Rafinérie v Burgasu zásobuje významnou část bulharského trhu, takže dlouhodobé změny jejího vlastnictví nebo sankčního režimu mohou ovlivňovat energetickou bezpečnost země. Pro české řidiče ale aktuální prodloužení lhůty nepředstavuje nové pravidlo ani důvod měnit trasu.</p>\n<p>Kdo jede do Bulharska autem, měl by dál porovnávat ceny na čerpacích stanicích a počítat s běžným kolísáním trhu. Dnešní zpráva je především ekonomickou a regulatorní aktualitou; žádný výpadek zásobování ani plošné omezení pro motoristy zdroj neuvádí.</p>\n<p><strong>Zdroj:</strong> <a href=\"https://www.novinite.com/view_news.php?id=240691\" rel=\"nofollow noopener\" target=\"_blank\">Novinite / Sofia News Agency</a></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240691",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026092102,
       "type": "post",
       "slug": "bulharsko-summit-stredni-koridor-2027",
