@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026092102,
+      "type": "post",
+      "slug": "bulharsko-summit-stredni-koridor-2027",
+      "path": "/bulharsko-summit-stredni-koridor-2027/",
+      "title": "Bulharsko uspořádá první summit ke Střednímu koridoru",
+      "excerpt": "Bulharsko má na začátku roku 2027 hostit první summit lídrů ke Střednímu koridoru. Trasa má zrychlit a posílit přepravu mezi Střední Asií a Evropou.",
+      "date": "2026-09-21T00:00:00",
+      "modified": "2026-09-21T13:02:11+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Bulharsko uspořádá summit ke Střednímu koridoru",
+        "description": "Bulharsko bude hostit první summit lídrů ke Střednímu koridoru. EU chce posílit dopravu a obchod mezi Střední Asií a Evropou."
+      },
+      "content": "<p>Bulharsko má na začátku roku 2027 hostit první setkání lídrů zaměřené na rozvoj Středního koridoru. Jde o přepravní trasu, která spojuje Střední Asii s Evropou přes Kaspické moře, jižní Kavkaz, Turecko a oblast Černého moře. Evropská komise podle agentury Novinite vybrala Bulharsko kvůli jeho strategické poloze.</p>\n<h2>Co se chystá</h2>\n<p>Plánovaný summit má u jednoho stolu spojit klíčové státy a další partnery zapojené do projektu. Předsedkyně Evropské komise Ursula von der Leyenová záměr oznámila ve svém projevu o stavu Unie 16. září. Bulharská vláda a Evropská unie mají společně připravit regionální jednání o dopravním a digitálním propojení.</p>\n<p>Cílem je získat politickou podporu pro rychlejší, spolehlivější a konkurenceschopnější spojení mezi Střední Asií a Evropou. Evropská unie chce do roku 2030 ztrojnásobit obchodní toky po této trase a výrazně zkrátit dobu přepravy nákladu. Projekt má současně rozšířit možnosti evropského zásobování, aby obchod nebyl závislý pouze na několika dopravních směrech.</p>\n<p>Investice se mají týkat dopravní infrastruktury, sladění pravidel i digitálního propojení. Prostřednictvím iniciativy Global Gateway chce EU pro projekt mobilizovat až 12 miliard eur z veřejných a soukromých zdrojů. Konkrétní seznam staveb, termíny jejich dokončení ani přesné místo summitu ale zveřejněná zpráva neuvádí.</p>\n<h2>Proč je to důležité pro cestovatele a Čechy mířící do Bulharska</h2>\n<p>Oznámení zatím nemění jízdní řády, silniční pravidla ani podmínky vstupu do Bulharska. Čeští turisté proto nemají kvůli summitu upravovat své současné plány. Význam zprávy je dlouhodobý: lepší železniční, přístavní a silniční napojení může posílit roli Bulharska jako dopravní brány mezi Černým mořem a zbytkem Evropské unie.</p>\n<p>Pokud se plánované investice uskuteční, mohou v budoucnu přispět k modernizaci infrastruktury a spolehlivější logistice. To se může nepřímo projevit také v dostupnosti zboží a kvalitě dopravních uzlů, které využívají místní obyvatelé i návštěvníci. V této fázi však jde o přípravu politického jednání, nikoli o potvrzení konkrétního nového osobního spojení pro cestující.</p>\n<p><strong>Zdroj:</strong> <a href=\"https://www.novinite.com/view_news.php?id=240677\" rel=\"nofollow noopener\" target=\"_blank\">Novinite / Sofia News Agency</a></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240677",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026092101,
       "type": "post",
       "slug": "bulharsko-domaci-dluhopisy-150-milionu-eur-zari-2026",
