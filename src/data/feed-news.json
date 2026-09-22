@@ -1,8 +1,81 @@
 {
-  "generatedAt": "2026-09-21T15:01:10.552450+00:00",
+  "generatedAt": "2026-09-22T06:00:52.677990+00:00",
   "mode": "fast-news-drafts",
   "policy": "External RSS is used only as source material. Publish short Czech own-words fast news with clear travel impact. No FAQ or mandatory image for fast updates.",
   "items": [
+    {
+      "source": "Novinite / Sofia News Agency",
+      "sourceUrl": "https://www.novinite.com/services/news_rdf.php",
+      "category": "zpravy-bulharsko",
+      "language": "en",
+      "status": "draft",
+      "copyPolicy": "own-words-summary-only",
+      "title": "Sofia Gains New Direct Connection to Berlin",
+      "excerpt": "Wizz Air launched its new direct Sofia-Berlin route on September 20, the airline said, with flights operating year-round four times a week. The new service runs on Mondays, Wednesdays, Fridays and Sundays, with fares sta",
+      "originalTitle": "Sofia Gains New Direct Connection to Berlin",
+      "originalExcerpt": "Wizz Air launched its new direct Sofia-Berlin route on September 20, the airline said, with flights operating year-round four times a week. The new service runs on Mondays, Wednesdays, Fridays and Sundays, with fares starting at €31.99....",
+      "link": "https://www.novinite.com/view_news.php?id=240705",
+      "published": "2026-09-21T14:00:00+02:00",
+      "guid": "240705",
+      "relevanceScore": 21,
+      "relevanceKeywords": [
+        "sofia",
+        "flights",
+        "airline",
+        "wizz air"
+      ],
+      "excludedSignals": [],
+      "editorialAngle": "doprava / lety",
+      "fastNewsDraft": {
+        "decision": "draft",
+        "slug": "",
+        "seoTitle": "",
+        "metaDescription": "",
+        "h1": "",
+        "excerpt": "",
+        "articleHtml": "",
+        "sourceCredit": "Zdroj: Novinite / Sofia News Agency",
+        "sourceUrl": "https://www.novinite.com/view_news.php?id=240705"
+      },
+      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Sofia Gains New Direct Connection to Berlin\nPodklad: Wizz Air launched its new direct Sofia-Berlin route on September 20, the airline said, with flights operating year-round four times a week. The new service runs on Mondays, Wednesdays, Fridays and Sundays, with fares starting at €31.99....\nOdkaz: https://www.novinite.com/view_news.php?id=240705"
+    },
+    {
+      "source": "Novinite / Sofia News Agency",
+      "sourceUrl": "https://www.novinite.com/services/news_rdf.php",
+      "category": "zpravy-bulharsko",
+      "language": "en",
+      "status": "draft",
+      "copyPolicy": "own-words-summary-only",
+      "title": "Strong Winds to Hit 13 Bulgarian Regions Today",
+      "excerpt": "A yellow weather alert has been issued for strong northwesterly winds on Monday in 13 of Bulgaria’s 28 administrative regions, the National Institute of Meteorology and Hydrology said. The warning covers Vratsa, Vidin, M",
+      "originalTitle": "Strong Winds to Hit 13 Bulgarian Regions Today",
+      "originalExcerpt": "A yellow weather alert has been issued for strong northwesterly winds on Monday in 13 of Bulgaria’s 28 administrative regions, the National Institute of Meteorology and Hydrology said. The warning covers Vratsa, Vidin, Montana, Pleven, Veliko Tarnovo, Ruse, Sliven, Stara Zagora, Plovdiv, Gabrovo, Lovech, Pazardzhik and Sofia Region. The yellow alert is the lowest of Bulgaria’s three warning levels....",
+      "link": "https://www.novinite.com/view_news.php?id=240694",
+      "published": "2026-09-21T09:16:28+02:00",
+      "guid": "240694",
+      "relevanceScore": 21,
+      "relevanceKeywords": [
+        "sofia",
+        "plovdiv",
+        "weather",
+        "warning",
+        "alert"
+      ],
+      "excludedSignals": [],
+      "editorialAngle": "počasí / bezpečnost",
+      "fastNewsDraft": {
+        "decision": "draft",
+        "slug": "",
+        "seoTitle": "",
+        "metaDescription": "",
+        "h1": "",
+        "excerpt": "",
+        "articleHtml": "",
+        "sourceCredit": "Zdroj: Novinite / Sofia News Agency",
+        "sourceUrl": "https://www.novinite.com/view_news.php?id=240694"
+      },
+      "rewritePrompt": "Vytvoř z podkladu vlastní českou rychlou zprávu pro Visit Bulharsko. Nekopíruj formulace ze zdroje a nepřekládej větu po větě. Piš vlastními slovy, věcně a stručně. Zaměř se jen na dopad pro české cestovatele, turistické lokality, dopravu, počasí, bezpečnost, pobřeží nebo pravidla cestování. Pokud zpráva nemá jasný cestovatelský dopad, označ ji jako NEPUBLIKOVAT. FAQ ani obrázek nevytvářej — jde o rychlou aktuální zprávu.\n\nPovinný výstup ve struktuře JSON:\n{\n  \"decision\": \"publish|skip\",\n  \"slug\": \"kratky-url-slug\",\n  \"seoTitle\": \"max 60 znaků\",\n  \"metaDescription\": \"max 155 znaků\",\n  \"h1\": \"český titulek\",\n  \"excerpt\": \"1–2 věty pro homepage\",\n  \"articleHtml\": \"rychlá zpráva 180–350 slov: úvod + Co se stalo + Co to znamená pro cestovatele\",\n  \"sourceCredit\": \"Zdroj: název média\",\n  \"sourceUrl\": \"původní URL\"\n}\n\nObsahová pravidla: žádné FAQ, žádný povinný obrázek, žádná výplň. Musí být jasné, proč je zpráva relevantní pro cestování.\n\nZdroj: Novinite / Sofia News Agency\nPůvodní titulek: Strong Winds to Hit 13 Bulgarian Regions Today\nPodklad: A yellow weather alert has been issued for strong northwesterly winds on Monday in 13 of Bulgaria’s 28 administrative regions, the National Institute of Meteorology and Hydrology said. The warning covers Vratsa, Vidin, Montana, Pleven, Veliko Tarnovo, Ruse, Sliven, Stara Zagora, Plovdiv, Gabrovo, Lovech, Pazardzhik and Sofia Region. The yellow alert is the lowest of Bulgaria’s three warning levels....\nOdkaz: https://www.novinite.com/view_news.php?id=240694"
+    },
     {
       "source": "The Sofia Globe",
       "sourceUrl": "https://sofiaglobe.com/feed/",

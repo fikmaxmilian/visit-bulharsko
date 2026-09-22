@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026092201,
+      "type": "post",
+      "slug": "nova-linka-sofie-berlin-wizz-air-2026",
+      "path": "/nova-linka-sofie-berlin-wizz-air-2026/",
+      "title": "Wizz Air spustil novou celoroční linku mezi Sofií a Berlínem",
+      "excerpt": "Wizz Air začal létat mezi Sofií a Berlínem čtyřikrát týdně. Nová celoroční linka může usnadnit kombinované cesty i využití berlínského letiště.",
+      "date": "2026-09-22T00:00:00",
+      "modified": "2026-09-22T08:02:41+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Nová linka Wizz Air spojila Sofii s Berlínem",
+        "description": "Wizz Air otevřel celoroční linku Sofie–Berlín se čtyřmi lety týdně. Praktické informace o termínech, ceně a zavazadlech."
+      },
+      "content": "<p>Wizz Air otevřel novou přímou linku mezi Sofií a Berlínem. První let se uskutečnil 20. září 2026 a spojení má fungovat celoročně čtyřikrát týdně: v pondělí, ve středu, v pátek a v neděli. Pro návštěvníky Bulharska tak přibyla další možnost, jak spojit pobyt v Sofii s cestou do německé metropole nebo si sestavit cestu s příletem a odletem z různých letišť.</p>\n<h2>Co dopravce oznámil</h2>\n<p>Podle agentury Novinite začínají jednosměrné ceny na 31,99 eura. Nejnižší tarif je však dostupný jen pro omezený počet míst a zahrnuje administrativní poplatek a jedno malé příruční zavazadlo o maximálních rozměrech 40 × 30 × 20 centimetrů. Kufr na kolečkách a odbavené zavazadlo jsou za příplatek. Letenky se prodávají na webu a v mobilní aplikaci dopravce.</p>\n<p>Wizz Air uvádí, že v Bulharsku působí 21 let a za tuto dobu přepravil do země a z ní více než 34 milionů cestujících. Nová linka navazuje na rozšiřování sítě ze Sofie a je určená jak turistům, tak cestujícím za prací. Čtyři lety týdně dávají prostor pro kratší pobyt i delší cestu bez nutnosti přestupu.</p>\n<h2>Co to znamená pro české cestovatele</h2>\n<p>Pro cestu z Česka přímo do Bulharska nejde o novou linku z Prahy, Brna ani Ostravy. Může se ale hodit lidem ze západních a severních Čech, kteří běžně využívají berlínské letiště, nebo cestovatelům plánujícím kombinovanou trasu Berlín–Sofie. Nové spojení lze využít také pro navazující samostatně koupené lety, vždy je však potřeba ponechat dostatečnou časovou rezervu: aerolinka při oddělených rezervacích obvykle negarantuje návaznost.</p>\n<p>Před nákupem je vhodné porovnat konečnou cenu včetně zavazadel, výběru sedadla a dopravy na letiště. U nejnižší zveřejněné ceny také nelze počítat s dostupností na každý termín. Jízdní řád a cenu je proto nutné ověřit přímo u dopravce. Samotná zpráva nemění pravidla vstupu do Bulharska; jde především o rozšíření celoroční letecké nabídky Sofie.</p>\n<p><strong>Zdroj:</strong> <a href=\"https://www.novinite.com/view_news.php?id=240705\" rel=\"nofollow noopener\" target=\"_blank\">Novinite / Sofia News Agency</a></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240705",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 2
+    },
+    {
       "id": 2026092103,
       "type": "post",
       "slug": "usa-prodlouzily-lhutu-pro-prodej-aktiv-lukoilu-2026",
