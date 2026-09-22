@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026092202,
+      "type": "post",
+      "slug": "sesuv-uzavrel-silnici-varna-asparuhovo-2026",
+      "path": "/sesuv-uzavrel-silnici-varna-asparuhovo-2026/",
+      "title": "Sesuv půdy uzavřel silnici ve varenské čtvrti Asparuhovo",
+      "excerpt": "Sesuv půdy poškodil a zcela uzavřel místní silnici ve varenské čtvrti Asparuhovo. Místo je zabezpečené, doprava vede objížďkou a nikdo nebyl zraněn.",
+      "date": "2026-09-22T00:00:00",
+      "modified": "2026-09-22T13:02:12+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Sesuv uzavřel silnici ve Varně-Asparuhovu",
+        "description": "Sesuv půdy zcela uzavřel místní silnici ve varenské čtvrti Asparuhovo. Místo je zabezpečené a doprava vede objížďkou."
+      },
+      "content": "<p>Sesuv půdy poškodil silnici ve varenské čtvrti Asparuhovo natolik, že je úsek zcela neprůjezdný. Místo se nachází u staveniště a velkého obchodu. Městské složky prostor zabezpečily, omezily přístup aut i pěších a dopravu odklonily na objízdnou trasu. Při události nebyl nikdo zraněn.</p>\n<h2>Co se ve Varně stalo</h2>\n<p>Podle agentury Novinite se v asfaltu otevřely propadliny a narušenou část komunikace hlídá městská policie. Radnice nechala oblast oplotit také proto, že se zde po poškozeném povrchu pokusil projít jeden z místních obyvatel a uklouzl. Úřady proto upozorňují, že zákaz vstupu neplatí jen pro řidiče, ale i pro chodce.</p>\n<p>Odborníci mají pomocí sond zjistit stav podloží a navrhnout stabilizaci místa. V bezprostřední blízkosti sesuvu je rozestavěný obytný komplex, město ale zatím neurčilo, zda stavební práce s poškozením souvisejí. Ředitel místní vodárenské společnosti uvedl, že podzemní voda přispěla ke zřícení opěrné stěny stavební jámy a následně došlo také k porušení vodovodního potrubí pod silnicí.</p>\n<p>Dodávku vody se podařilo obnovit. Podle zástupců města nejsou okolní obydlí v tuto chvíli ohrožena, místní však mají obavy z dalšího pohybu svahu. Příčina a rozsah potřebných oprav budou jasnější až po geotechnickém posouzení. Nebyl oznámen termín znovuotevření komunikace.</p>\n<h2>Co to znamená pro cestovatele</h2>\n<p>Asparuhovo leží jižně od centra Varny za Asparuhovým mostem. Zpráva se týká místní komunikace v této čtvrti, nikoli uzavření celého mostu ani hlavních příjezdových tras do Varny. Cestující, kteří mají ubytování nebo jiný cíl přímo v dotčené části Asparuhova, by však měli počítat s objížďkou a řídit se dočasným značením.</p>\n<p>Při cestě autem není bezpečné zkoušet uzavřený úsek objet přes bezprostřední okolí staveniště nebo překonat pěšky. Navigace nemusí mimořádnou uzávěru zobrazit okamžitě, proto je vhodné před odjezdem zkontrolovat aktuální dopravní situaci a pokyny města Varna. Pro cestující mířící na letiště nebo do přímořských letovisek severně od Varny tato lokální uzávěra podle dostupných informací nepředstavuje plošné omezení.</p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240699",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026092201,
       "type": "post",
       "slug": "nova-linka-sofie-berlin-wizz-air-2026",
