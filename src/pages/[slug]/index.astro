@@ -119,6 +119,15 @@ const articleContentParts = splitArticleContent(item.content || '');
 const articleBodyParts = articleContentParts.slice(0, 3);
 const hasFaqSection = item.type === 'post' && faqPairs.length > 0;
 const isPropertyPage = item.slug === 'nemovitosti-bulharsko';
+const sourceLabel = item.sourceUrl
+  ? (() => {
+      try {
+        return new URL(item.sourceUrl).hostname.replace(/^www\./, '');
+      } catch {
+        return 'Původní zpráva';
+      }
+    })()
+  : '';
 ---
 <BaseLayout title={title} description={description} image={isCurrentQuickNews ? '' : (visibleFeaturedImage || undefined)} canonical={item.path} type={item.type === 'post' ? 'article' : 'website'} schema={[articleSchema, pageSchema, faqSchema, breadcrumbs]} noindex={item.noindex === true}>
   <article class:list={['mx-auto px-5 pt-12', isPropertyPage ? 'max-w-7xl' : 'max-w-4xl']}>
@@ -136,6 +145,14 @@ const isPropertyPage = item.slug === 'nemovitosti-bulharsko';
     {articleBodyParts[1] && <div class="article-content" set:html={articleBodyParts[1]}></div>}
     {item.type === 'post' && articleBodyParts[2] && !isCurrentQuickNews && <div class="my-10"><PromoBanner /></div>}
     {articleBodyParts[2] && <div class="article-content" set:html={articleBodyParts[2]}></div>}
+    {item.type === 'post' && item.sourceUrl && (
+      <p class="mt-8 text-sm text-plum/70">
+        <strong>Zdroj:</strong>{' '}
+        <a href={item.sourceUrl} target="_blank" rel="noopener noreferrer" class="font-semibold underline decoration-coral/50 underline-offset-4 hover:text-coral">
+          {sourceLabel}
+        </a>
+      </p>
+    )}
     {hasFaqSection && (
       <section class="article-faq" aria-labelledby="article-faq-title">
         <h2 id="article-faq-title">FAQ: {item.title}</h2>

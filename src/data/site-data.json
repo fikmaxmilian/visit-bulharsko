@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026092203,
+      "type": "post",
+      "slug": "prvni-snih-nejvyssi-vrcholy-bulharska-zari-2026",
+      "path": "/prvni-snih-nejvyssi-vrcholy-bulharska-zari-2026/",
+      "title": "Na nejvyšších vrcholech Bulharska se očekává první sníh sezony",
+      "excerpt": "Ochladí se hlavně v bulharských horách. Nad 2 100 metrů může déšť přecházet ve sníh a v nejvyšších polohách Rily, Pirinu a Staré planiny se může dočasně vytvořit sněhová pokrývka.",
+      "date": "2026-09-22T00:00:00",
+      "modified": "2026-09-22T17:03:37+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Na vrcholech Bulharska se očekává první sníh",
+        "description": "Nad 2 100 metrů může v Bulharsku déšť přecházet ve sníh. Změna se týká hlavně nejvyšších poloh Rily, Pirinu a Staré planiny."
+      },
+      "content": "<p>Nejvyšší bulharské hory může při nastupujícím ochlazení zasáhnout první sněžení blížící se podzimní sezony. Podle předpovědi citované agenturou Novinite se změna počasí projeví nejsilněji ve vysokých polohách. Pro cestovatele mířící na horské túry je podstatné, že podmínky na vrcholech mohou být výrazně chladnější než v údolích a turistických městech.</p>\n<h2>Co ukazuje předpověď</h2>\n<p>Nad hranicí přibližně 2 100 metrů má déšť přecházet ve sníh. Na některých místech se může přechodně vytvořit také první sněhová pokrývka této sezony. Největší pravděpodobnost zimních srážek meteorologové očekávají na nejvyšších vrcholech pohoří Rila, Pirin a Stará planina.</p>\n<p>Množství sněhu nebude všude stejné. Záležet má na nadmořské výšce, intenzitě srážek a místní teplotě. Zpráva proto neznamená plošný příchod zimy do celého Bulharska ani souvislé zasněžení všech horských středisek. V níže položených oblastech mají srážky zůstat převážně dešťové a sněhová hranice má sestoupit pouze do vysokých hor.</p>\n<h2>Co to znamená pro české cestovatele</h2>\n<p>Aktualita je důležitá hlavně pro turisty, kteří plánují výstup na Musalu, Vichren nebo jiné vysoko položené trasy. I krátkodobý sníh může spolu s ochlazením zhoršit přilnavost na kamenech, zakrýt značení a prodloužit čas potřebný k bezpečnému sestupu. Před odchodem je vhodné zkontrolovat aktuální horskou předpověď, zvolit obuv s pevnou podrážkou a přibalit nepromokavou a teplou vrstvu.</p>\n<p>Při plánování túry je dobré posuzovat podmínky pro konkrétní nadmořskou výšku, nikoli jen předpověď pro výchozí obec. Časovou rezervu je vhodné nastavit tak, aby návrat proběhl ještě za světla. Pokud už na trase prší nebo teplota rychle klesá, může být bezpečnější zůstat pod hranicí 2 100 metrů, kde předpověď očekává převážně déšť.</p>\n<p>Cestovatelé by měli počítat také s tím, že počasí na hřebenech se může lišit od podmínek v Sofii, Bansku nebo Borovci. Pokud se předpověď zhorší, je rozumné trasu zkrátit nebo zvolit cíl v nižší nadmořské výšce. Pro běžné cesty po bulharských městech a nížinách tato zpráva sama o sobě neznamená zimní dopravní režim; jde o místní změnu soustředěnou především na nejvyšší horské partie.</p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240715",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 2
+    },
+    {
       "id": 2026092202,
       "type": "post",
       "slug": "sesuv-uzavrel-silnici-varna-asparuhovo-2026",
