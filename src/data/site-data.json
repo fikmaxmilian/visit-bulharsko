@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026092302,
+      "type": "post",
+      "slug": "bulharsko-procedura-nadmerny-deficit-eu-2026",
+      "path": "/bulharsko-procedura-nadmerny-deficit-eu-2026/",
+      "title": "Bulharsko jako jediné v EU čelí nové proceduře kvůli nadměrnému deficitu",
+      "excerpt": "Bulharsko je podle Evropské fiskální rady jedinou zemí EU, vůči níž byla v novém fiskálním rámci zahájena nová procedura kvůli nadměrnému deficitu.",
+      "date": "2026-09-23T00:00:00",
+      "modified": "2026-09-23T17:02:48+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Bulharsko čelí proceduře kvůli deficitu",
+        "description": "Bulharsko je podle Evropské fiskální rady jedinou zemí EU s novou procedurou kvůli nadměrnému deficitu. Co to znamená pro Čechy."
+      },
+      "content": "<p>Bulharsko je podle nové zprávy Evropské fiskální rady jediným členským státem, vůči němuž byla v rámci nových rozpočtových pravidel Evropské unie zahájena nová procedura při nadměrném schodku. Nezávislý poradní orgán zároveň kritizuje, že evropské instituce uplatňují fiskální pravidla příliš volně a opakované výjimky mohou oslabit jejich důvěryhodnost.</p>\n<h2>Co fiskální rada uvedla</h2>\n<p>Nový rámec platí od dubna 2024. Každý stát si s Evropskou komisí sjednává vlastní cestu ke snižování dluhu a deficitu, obvykle na období čtyř až sedmi let. Unijní referenční hranice činí tři procenta hrubého domácího produktu pro schodek veřejných financí a 60 procent HDP pro veřejný dluh.</p>\n<p>Pokud země nedodrží doporučený výdajový plán, musí odchylku vysvětlit, případně může čelit formálním krokům. Evropská fiskální rada ve své zprávě konstatovala, že procedurální důsledky v podobě nové procedury při nadměrném schodku se týkaly pouze Bulharska. Zdrojová zpráva neuvádí, že by tato skutečnost sama o sobě znamenala okamžité sankce nebo konkrétní nové škrty.</p>\n<p>Rada současně upozornila na širší problém v celé Unii. Komise a členské státy podle ní využívají značnou míru flexibility, přestože rozpočtové výsledky a výhledy v řadě případů zaostávají za doporučenými trajektoriemi. Výjimky umožnily dočasně navýšit například výdaje na obranu či opatření spojená s energetickou odolností.</p>\n<p>Evropské veřejné finance přitom zůstávají pod tlakem. Dluh vlád zemí EU podle údajů citovaných ve zprávě dosáhl v roce 2025 celkem 82 procent HDP, o procentní bod více než o rok dříve. Evropská komise očekává v roce 2026 další růst nad 84 procent HDP.</p>\n<h2>Proč je to důležité pro Čechy mířící do Bulharska</h2>\n<p>Pro české cestovatele se nyní nic bezprostředně nemění. Procedura neznamená změnu vstupních pravidel, omezení dopravy ani automatické zdražení dovolené. Je však důležitým signálem o stavu bulharských veřejných financí. Případná rozpočtová opatření mohou v delším období ovlivnit veřejné investice, dopravu, místní služby nebo podobu některých daní a poplatků.</p>\n<p>Při plánování letošní cesty proto není důvod měnit rezervaci pouze kvůli této zprávě. Praktický dopad bude možné hodnotit až podle konkrétních kroků bulharské vlády a rozhodnutí evropských institucí. Ubytování, dálniční známky, místní poplatky i ceny dopravy je nadále vhodné ověřovat z aktuálních oficiálních zdrojů, nikoli je odvozovat ze samotného zahájení procedury.</p>\n<p><strong>Zdroj:</strong> <a href=\"https://www.novinite.com/view_news.php?id=240716\" target=\"_blank\" rel=\"noopener noreferrer\">Novinite / Sofia News Agency</a></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240716",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026092301,
       "type": "post",
       "slug": "bulharsko-vice-komercnich-letu-srpen-2026",
