@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026092301,
+      "type": "post",
+      "slug": "bulharsko-vice-komercnich-letu-srpen-2026",
+      "path": "/bulharsko-vice-komercnich-letu-srpen-2026/",
+      "title": "Počet komerčních letů v Bulharsku v srpnu meziročně vzrostl",
+      "excerpt": "Bulharsko patřilo v srpnu mezi 19 zemí EU s meziročním růstem komerční letecké dopravy. Evropské aerolinky během měsíce uskutečnily téměř 709 tisíc letů.",
+      "date": "2026-09-23T00:00:00",
+      "modified": "2026-09-23T08:01:54+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "V Bulharsku v srpnu přibylo komerčních letů",
+        "description": "Bulharsko bylo mezi 19 státy EU, kde v srpnu meziročně vzrostl počet komerčních letů. Unijní provoz se zvýšil o 2,3 %."
+      },
+      "content": "<p>Komerční letecká doprava v Bulharsku v srpnu 2026 meziročně posílila. Země se podle údajů Eurostatu zařadila mezi 19 členských států Evropské unie, ve kterých počet komerčních letů proti srpnu předchozího roku vzrostl. Statistiky ukazují pokračující zájem o leteckou dopravu během hlavní letní sezony, samy o sobě ale neříkají, kolik cestujících přiletělo přímo do bulharských letovisek.</p>\n<h2>Co ukazují evropská data</h2>\n<p>V celé Evropské unii uskutečnily aerolinky během srpna 708 980 komerčních letů. Oproti srpnu 2025 to představuje růst o 2,3 procenta a ve srovnání se srpnem 2024 o 5,7 procenta. Za tři letní měsíce od června do srpna počet letů v EU překročil dva miliony.</p>\n<p>Nejvytíženějším měsícem byl červenec se 709 931 lety. V červnu Eurostat evidoval 662 480 letů. Srpnový meziroční růst zaznamenalo 19 členských zemí, zatímco v osmi státech provoz klesl. Zdrojová zpráva neuvádí konkrétní procentní změnu pouze pro Bulharsko, proto z dat nelze vyvozovat přesný rozsah tamního růstu.</p>\n<p>Do statistiky se počítají pravidelné i nepravidelné komerční lety přepravující cestující, náklad nebo poštu a provozované podle přístrojových pravidel. Nejde tedy výhradně o dovolenkové linky ani jen o spoje do Sofie, Varny a Burgasu. Eurostat údaje přebírá od evropské organizace pro bezpečnost letového provozu Eurocontrol.</p>\n<h2>Co to znamená pro české cestovatele</h2>\n<p>Růst počtu letů je pozitivním signálem pro dostupnost Bulharska a ukazuje, že letecký provoz v zemi během vrcholu sezony neklesal. Nelze jej však automaticky zaměnit za nárůst počtu linek z Česka, levnější letenky nebo více volných míst. Souhrn zahrnuje také charterové a nákladní lety a nevypovídá o obsazenosti jednotlivých spojů.</p>\n<p>Při plánování cesty je proto stále vhodné ověřovat konkrétní letový řád dopravce a podmínky tarifu. U sezonních spojů na černomořská letiště se nabídka po létě obvykle mění, zatímco Sofie mívá více celoročních možností. Cestující by měli porovnat také cenu zavazadel a případnou dopravu z letiště; celková statistika provozu tyto praktické náklady nezohledňuje.</p>\n<p><strong>Zdroj:</strong> <a href=\"https://www.novinite.com/view_news.php?id=240710\" target=\"_blank\" rel=\"noopener noreferrer\">Novinite / Sofia News Agency</a></p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240710",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026092203,
       "type": "post",
       "slug": "prvni-snih-nejvyssi-vrcholy-bulharska-zari-2026",
