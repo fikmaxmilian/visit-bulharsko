@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026092401,
+      "type": "post",
+      "slug": "bulharsko-rust-cen-paliv-srpen-2026",
+      "path": "/bulharsko-rust-cen-paliv-srpen-2026/",
+      "title": "Ceny paliv v Bulharsku v srpnu rostly nejrychleji v EU",
+      "excerpt": "Ceny pohonných hmot a maziv v Bulharsku byly v srpnu meziročně vyšší o 34,5 procenta, nejvíce v celé EU. Meziměsíčně nafta zdražila o 13,5 procenta.",
+      "date": "2026-09-24T00:00:00",
+      "modified": "2026-09-24T08:03:21+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Ceny paliv v Bulharsku rostly nejrychleji v EU",
+        "description": "Paliva a maziva v Bulharsku v srpnu meziročně zdražila o 34,5 %. Co údaje Eurostatu znamenají pro české řidiče mířící do země."
+      },
+      "content": "<p>Bulharsko zaznamenalo v srpnu 2026 nejvyšší meziroční růst cen pohonných hmot a maziv v celé Evropské unii. Podle údajů Eurostatu, které zveřejnila agentura Novinite, byly ceny v této skupině o 34,5 procenta vyšší než ve stejném měsíci minulého roku. Unijní průměr činil 23,8 procenta.</p>\n<h2>Co ukazují údaje za srpen</h2>\n<p>Ceny paliv a maziv meziročně vzrostly ve 26 z 27 členských zemí. Za Bulharskem následovala Litva s růstem o 28,8 procenta, Finsko s 27,6 procenta, Německo s 27,5 procenta a Francie s 27,4 procenta. V Bulharsku šlo zároveň o nejvyšší meziroční tempo od začátku konfliktu mezi USA a Íránem na konci února. Předchozí maximum dosáhlo 33,9 procenta v květnu.</p>\n<p>Výrazný byl také vývoj proti předchozímu měsíci. Cena nafty v Bulharsku se mezi červencem a srpnem zvýšila o 13,5 procenta. Vyšší meziměsíční růst zaznamenalo už jen Česko, kde činil 14,3 procenta. V celé EU nafta meziměsíčně zdražila v průměru o 8,3 procenta a benzin o 3,3 procenta.</p>\n<p>Statistika vyjadřuje procentní změnu cenové hladiny, nikoli aktuální jednotnou cenu za litr na všech bulharských čerpacích stanicích. Konečná částka se liší podle regionu, provozovatele i konkrétního druhu paliva. Řidiči by proto neměli z meziročního údaje automaticky odvozovat dnešní cenu u stojanu.</p>\n<h2>Proč je to důležité pro Čechy mířící do Bulharska</h2>\n<p>Pro cestující autem znamená rychlý růst cen především potřebu počítat s vyšší rezervou na dopravu. Rozpočet může ovlivnit nejen tankování v cíli, ale také místní přejezdy mezi pobřežím, vnitrozemím a horskými oblastmi. Před cestou se vyplatí porovnat aktuální ceny na plánované trase a nespoléhat na starší zkušenost, že tankování v Bulharsku bude vždy výrazně levnější.</p>\n<p>Růst cen může nepřímo zasáhnout také autobusovou dopravu, transfery nebo půjčovny aut, nelze z něj však bez dalších údajů určit konkrétní zdražení těchto služeb. Bulharská vláda v reakci na drahá paliva oznámila balík opatření za více než 300 milionů eur. Zahrnuje plánované odstranění spotřební daně z LPG a podporu vybraných odvětví včetně veřejné, školní a zdravotnické dopravy.</p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240724",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026092302,
       "type": "post",
       "slug": "bulharsko-procedura-nadmerny-deficit-eu-2026",
