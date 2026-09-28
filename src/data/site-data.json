@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026092801,
+      "type": "post",
+      "slug": "bulgaria-air-sofie-lisabon-zimni-linka-2026",
+      "path": "/bulgaria-air-sofie-lisabon-zimni-linka-2026/",
+      "title": "Bulgaria Air bude v zimě létat přímo mezi Sofií a Lisabonem",
+      "excerpt": "Bulgaria Air od 17. prosince rozšíří linku Sofie–Lisabon také na zimní sezonu. Přímé lety budou létat dvakrát týdně, vždy v pondělí a ve čtvrtek.",
+      "date": "2026-09-28T00:00:00",
+      "modified": "2026-09-28T13:03:03+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Bulgaria Air prodlouží linku Sofie–Lisabon na zimu",
+        "description": "Bulgaria Air bude od 17. prosince létat mezi Sofií a Lisabonem i v zimě. Přímé spoje poletí dvakrát týdně, v pondělí a ve čtvrtek."
+      },
+      "content": "<p>Bulgaria Air zařadí přímé spojení mezi Sofií a Lisabonem poprvé také do zimního letového řádu. Provoz začne 17. prosince 2026 a národní dopravce plánuje dva lety týdně, vždy v pondělí a ve čtvrtek. Podle oznámení aerolinky půjde v zimě o jediné přímé spojení bulharského a portugalského hlavního města.</p>\n<h2>Jak bude zimní linka létat</h2>\n<p>Pondělní let má ze Sofie odlétat v 18:55, zpáteční spoj z Lisabonu ve 22:20. Ve čtvrtek je odlet z bulharské metropole naplánován na 12:25 a z Portugalska na 15:50. Všechny uvedené časy jsou místní. Cestující by si je proto měli před odjezdem na letiště znovu ověřit v rezervaci, protože letový řád se může změnit.</p>\n<p>Na trase má Bulgaria Air nasazovat Airbus A220. Základní jednosměrné tarify podle zveřejněných informací začínají na 169 eurech. V ceně má být příruční zavazadlo do 10 kilogramů, menší kabelka nebo brašna na notebook, odbavení a občerstvení na palubě. Konkrétní podmínky je nutné zkontrolovat u vybraného tarifu při nákupu.</p>\n<h2>Co to znamená pro české cestovatele</h2>\n<p>Novinka nepřináší nové přímé spojení mezi Českem a Bulharskem. Může však být užitečná pro cestující, kteří chtějí spojit návštěvu Sofie s pokračováním do Portugalska bez dalšího přestupu, případně plánují delší cestu po Evropě s různými místy příletu a odletu. Dva týdenní spoje umožňují například několikadenní pobyt v jednom z měst, ale vyžadují pečlivější sladění termínů.</p>\n<p>Při cestě z Česka přes Sofii je důležité ověřit, zda jsou jednotlivé úseky na jedné rezervaci. U odděleně koupených letenek dopravce zpravidla neručí za navazující let při zpoždění a zavazadlo může být nutné vyzvednout a znovu odbavit. Vyplatí se proto ponechat dostatečnou časovou rezervu nebo v Sofii naplánovat přenocování.</p>\n<h2>Praktické informace</h2>\n<p>Linka Sofie–Lisabon byla obnovena v roce 2024, dosud však měla sezonní charakter. Zimní letenky se prodávají přes web a mobilní aplikaci Bulgaria Air, v kancelářích dopravce a u jeho partnerů. Před nákupem je vhodné porovnat celkovou cenu včetně případného odbaveného zavazadla a zkontrolovat aktuální pravidla pro změnu rezervace.</p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240786",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026092401,
       "type": "post",
       "slug": "bulharsko-rust-cen-paliv-srpen-2026",
