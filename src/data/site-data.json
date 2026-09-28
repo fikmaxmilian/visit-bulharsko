@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "id": 2026092802,
+      "type": "post",
+      "slug": "sofie-zdrazeni-taxi-2027",
+      "path": "/sofie-zdrazeni-taxi-2027/",
+      "title": "Taxi v Sofii od ledna 2027 zdraží o 5,3 procenta",
+      "excerpt": "Sofie od 1. ledna 2027 zvýší povolené sazby taxislužeb o 5,3 procenta. Minimální denní tarif vzroste na 0,77 eura za kilometr a noční na 0,89 eura.",
+      "date": "2026-09-28T00:00:00",
+      "modified": "2026-09-28T17:01:54+02:00",
+      "status": "publish",
+      "categories": [
+        {
+          "id": 22,
+          "name": "Zpravodajství",
+          "slug": "zpravy-bulharsko",
+          "link": "https://visitbulharsko.cz/category/zpravy-bulharsko/"
+        }
+      ],
+      "seo": {
+        "title": "Taxi v Sofii od ledna 2027 zdraží o 5,3 %",
+        "description": "Sofie od ledna 2027 zvýší povolené sazby taxi. Minimální denní tarif bude 0,77 eura a noční 0,89 eura za kilometr."
+      },
+      "content": "<p>Cestování taxíkem po Sofii od začátku příštího roku mírně zdraží. Městská rada schválila zvýšení minimálních i maximálních sazeb za kilometr o 5,3 procenta s účinností od 1. ledna 2027. Nové cenové rozpětí bude závazné pro taxislužby na území bulharského hlavního města.</p>\n<h2>Jak se změní sazby za kilometr</h2>\n<p>Minimální denní sazba vzroste z 0,73 na 0,77 eura za kilometr. V noci se minimum zvýší z 0,84 na 0,89 eura. Současně se posunou také horní limity: maximální denní sazba bude 1,31 eura za kilometr namísto dosavadních 1,24 eura a maximální noční sazba dosáhne 1,60 eura místo 1,52 eura.</p>\n<p>Jde o povolené sazby za ujetý kilometr, nikoli o konečnou cenu každé jízdy. Účet může ovlivnit také nástupní poplatek, čekání, délka zvolené trasy a denní či noční režim. Cestující by proto měli před nástupem zkontrolovat ceník na vozidle a po jízdě si vzít účtenku.</p>\n<h2>Proč ceny rostou</h2>\n<p>Zvýšení vychází z jednotné metodiky automatické indexace. Ve výpočtu má inflace váhu 75 procent, minimální mzda 15 procent a ceny paliv 10 procent. Mezi zářím 2025 a srpnem 2026 dosáhla souhrnná inflace 5,9 procenta a minimální mzda vzrostla o 12,63 procenta. Průměrná cena hlavních druhů paliv naopak klesla o 10,42 procenta. Výsledkem těchto údajů je úprava tarifů o 5,3 procenta.</p>\n<p>Do 31. prosince 2026 běží přechodné období, během něhož mohou provozovatelé naprogramovat nové sazby do elektronických taxametrů. Od Nového roku už budou na území Sofie povoleny pouze tarify v nově stanoveném rozmezí.</p>\n<h2>Co to znamená pro české cestovatele</h2>\n<p>Změna se dotkne například jízd mezi sofijským letištěm, centrem a ubytováním. U běžné kratší cesty půjde při stejné trase spíše o mírné navýšení, rozdíl ale poroste s počtem kilometrů a v nočních hodinách. Pro přesun z letiště zůstává alternativou metro, které obsluhuje Terminál 2; mezi terminály je vhodné ověřit aktuální způsob přepravy.</p>\n<p>Nejbezpečnější je využít oficiální stanoviště, objednávku přes ověřenou aplikaci nebo taxislužbu doporučenou ubytováním. Nabídky neoznačených řidičů v příletové hale mohou mít jiné podmínky. Zveřejněné sazby navíc platí až od 1. ledna 2027, takže do té doby se cestující mají řídit aktuálním ceníkem konkrétního vozu.</p>",
+      "sourceUrl": "https://www.novinite.com/view_news.php?id=240767",
+      "noImage": true,
+      "postFormat": "quick-news",
+      "reading_minutes": 3
+    },
+    {
       "id": 2026092801,
       "type": "post",
       "slug": "bulgaria-air-sofie-lisabon-zimni-linka-2026",
